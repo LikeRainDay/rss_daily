@@ -35,8 +35,8 @@ jobs:
           GH_REPO=${{ github.repository }}
           LATEST_TAG=$(gh release list --repo $GH_REPO --limit 1 --exclude-drafts --exclude-pre-releases --json tagName --jq '.[0].tagName')
           echo "Latest tag: $LATEST_TAG"
-          gh release download $LATEST_TAG --repo $GH_REPO --pattern "rss-daily-cursor" --output rss-daily-cursor
-          chmod +x rss-daily-cursor
+          gh release download $LATEST_TAG --repo $GH_REPO --pattern "rss-daily" --output rss-daily
+          chmod +x rss-daily
 
       - name: Run RSS generator
         env:
@@ -46,7 +46,7 @@ jobs:
           CSDN_PASSWORD: ${{ secrets.CSDN_PASSWORD }}
           RUST_BACKTRACE: 1
         run: |
-          ./rss-daily-cursor
+          ./rss-daily
 
       - name: Commit and push changes
         run: |
