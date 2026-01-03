@@ -31,11 +31,14 @@ impl TrendingFetcher {
         );
 
         // 拉取最新数据
-        let repos = self
+        let mut repos = self
             .client
             .fetch_trending_repos(languages, min_stars)
             .await?;
         info!("Fetched {} repositories", repos.len());
+
+        // 数据脱敏：移除可能的敏感信息（如 Discord Token）
+        self.sanitize_repos(&mut repos);
 
         // 保存到数据存储
         let date = chrono::Utc::now().format("%Y-%m-%d").to_string();
@@ -46,6 +49,42 @@ impl TrendingFetcher {
         self.history.update_history(&repos)?;
 
         Ok(repos)
+    }
+
+    /// 脱敏处理：移除描述和 Readme 中的敏感信息（如 Token）
+    fn sanitize_repos(&self, repos: &mut [Repository]) {
+        use regex::Regex;
+        // 匹配 Discord Token 的常见模式
+        // regex crate 默认支持
+        let token_regex = Regex::new(
+            r"([a-zA-Z0-9]{24}\.[a-zA-Z0-9]{6}\.[a-zA-Z0-9_-]{27}|mfa\.[a-zA-Z0-9_-]{84})",
+        )
+        .unwrap();
+
+        for repo in repos.iter_mut() {
+            if let Some(desc) = &mut repo.description {
+                if token_regex.is_match(desc) {
+                    log::warn!(
+                        "Found potential secret in description of {}, redaction applied.",
+                        repo.name
+                    );
+                    *desc = token_regex
+                        .replace_all(desc, "[REDACTED_SECRET]")
+                        .to_string();
+                }
+            }
+            if let Some(readme) = &mut repo.readme {
+                if token_regex.is_match(readme) {
+                    log::warn!(
+                        "Found potential secret in README of {}, redaction applied.",
+                        repo.name
+                    );
+                    *readme = token_regex
+                        .replace_all(readme, "[REDACTED_SECRET]")
+                        .to_string();
+                }
+            }
+        }
     }
 
     /// 获取历史数据用于排序和去重
