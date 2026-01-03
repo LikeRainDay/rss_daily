@@ -171,7 +171,7 @@ impl CardGenerator {
             .replace("{{open_issues}}", &repo.open_issues.to_string())
             .replace("{{view_repo_label}}", view_repo_label)
             .replace("{{qrcode}}", &qr_svg)
-            .replace("{{source_repo}}", "houshuai/rss-daily-cursor")
+            .replace("{{source_repo}}", "LikeRainDay/rss_daily")
     }
 }
 
