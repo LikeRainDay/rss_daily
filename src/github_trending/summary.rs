@@ -48,38 +48,19 @@ impl SummaryGenerator {
         repo: &Repository,
         description: &str,
     ) -> (String, Vec<String>) {
-        let content = format!(
-            r#"
-## {name}
+        // 生成简短的推荐理由（不包含详细信息，避免重复）
+        let highlights = self.extract_highlight_list(repo, "zh");
+        let highlight_text = if !highlights.is_empty() {
+            highlights.join("，")
+        } else {
+            "新兴项目，值得关注".to_string()
+        };
 
-**项目描述：** {description}
-
-**核心信息：**
-- ⭐ Stars: {stars}
-- 🍴 Forks: {forks}
-- 💻 主要语言: {language}
-- 📅 更新时间: {updated_at}
-- 🔗 [访问仓库]({url})
-
-**项目亮点：**
-{highlights}
-
-**技术栈：** {topics}
-"#,
-            name = repo.name,
-            description = description,
-            stars = repo.stars,
-            forks = repo.forks,
-            language = repo.language.as_deref().unwrap_or("未知"),
-            updated_at = repo.updated_at.format("%Y-%m-%d"),
-            url = repo.html_url,
-            highlights = self.extract_highlights(repo, "zh"),
-            topics = if repo.topics.is_empty() {
-                "未标注".to_string()
-            } else {
-                repo.topics.join(", ")
-            }
-        );
+        let content = if description.len() > 100 {
+            format!("{}。{}", &description[..100], highlight_text)
+        } else {
+            format!("{}。{}", description, highlight_text)
+        };
 
         let key_points = vec![
             format!("⭐ {} stars", repo.stars),
@@ -96,38 +77,19 @@ impl SummaryGenerator {
         repo: &Repository,
         description: &str,
     ) -> (String, Vec<String>) {
-        let content = format!(
-            r#"
-## {name}
+        // Generate brief recommendation reason (without detailed info to avoid duplication)
+        let highlights = self.extract_highlight_list(repo, "en");
+        let highlight_text = if !highlights.is_empty() {
+            highlights.join(", ")
+        } else {
+            "emerging project worth watching".to_string()
+        };
 
-**Description:** {description}
-
-**Key Metrics:**
-- ⭐ Stars: {stars}
-- 🍴 Forks: {forks}
-- 💻 Language: {language}
-- 📅 Updated: {updated_at}
-- 🔗 [View Repository]({url})
-
-**Highlights:**
-{highlights}
-
-**Topics:** {topics}
-"#,
-            name = repo.name,
-            description = description,
-            stars = repo.stars,
-            forks = repo.forks,
-            language = repo.language.as_deref().unwrap_or("Unknown"),
-            updated_at = repo.updated_at.format("%Y-%m-%d"),
-            url = repo.html_url,
-            highlights = self.extract_highlights(repo, "en"),
-            topics = if repo.topics.is_empty() {
-                "Not tagged".to_string()
-            } else {
-                repo.topics.join(", ")
-            }
-        );
+        let content = if description.len() > 150 {
+            format!("{}. {}", &description[..150], highlight_text)
+        } else {
+            format!("{}. {}", description, highlight_text)
+        };
 
         let key_points = vec![
             format!("⭐ {} stars", repo.stars),
@@ -140,32 +102,7 @@ impl SummaryGenerator {
     }
 
     fn extract_highlights(&self, repo: &Repository, language: &str) -> String {
-        let mut highlights = Vec::new();
-
-        if repo.stars > 1000 {
-            highlights.push(if language == "zh" {
-                "🔥 热门项目（超过 1000 stars）".to_string()
-            } else {
-                "🔥 Popular project (1000+ stars)".to_string()
-            });
-        }
-
-        if repo.forks > 100 {
-            highlights.push(if language == "zh" {
-                "📦 活跃维护（超过 100 forks）".to_string()
-            } else {
-                "📦 Actively maintained (100+ forks)".to_string()
-            });
-        }
-
-        let days_since_update = (chrono::Utc::now() - repo.updated_at).num_days();
-        if days_since_update <= 7 {
-            highlights.push(if language == "zh" {
-                "✨ 最近更新（7天内）".to_string()
-            } else {
-                "✨ Recently updated (within 7 days)".to_string()
-            });
-        }
+        let highlights = self.extract_highlight_list(repo, language);
 
         if highlights.is_empty() {
             if language == "zh" {
@@ -176,6 +113,37 @@ impl SummaryGenerator {
         } else {
             highlights.join("\n")
         }
+    }
+
+    fn extract_highlight_list(&self, repo: &Repository, language: &str) -> Vec<String> {
+        let mut highlights = Vec::new();
+
+        if repo.stars > 1000 {
+            highlights.push(if language == "zh" {
+                "热门项目".to_string()
+            } else {
+                "popular project".to_string()
+            });
+        }
+
+        if repo.forks > 100 {
+            highlights.push(if language == "zh" {
+                "活跃维护".to_string()
+            } else {
+                "actively maintained".to_string()
+            });
+        }
+
+        let days_since_update = (chrono::Utc::now() - repo.updated_at).num_days();
+        if days_since_update <= 7 {
+            highlights.push(if language == "zh" {
+                "最近更新".to_string()
+            } else {
+                "recently updated".to_string()
+            });
+        }
+
+        highlights
     }
 
     /// 使用 OpenAI 生成总结

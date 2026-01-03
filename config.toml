@@ -7,7 +7,7 @@ languages = ["java", "rust", "go", "cpp", "c", "swift", "kotlin", "r", "typescri
 # RSS 分类配置 - 只保留每日最有价值的 Top 15
 [[categories]]
 name = "daily-top"
-language = "zh"  # "zh" 或 "en"
+language = "en"  # "zh" or "en" - determines the language for card generation and summaries
 keywords = []  # 不限制关键词，包含所有类型
 topics = []    # 不限制主题
 max_items = 10  # 只推荐前 10 个最有价值的项目
