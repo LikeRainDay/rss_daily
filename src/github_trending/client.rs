@@ -282,3 +282,28 @@ impl GitHubClient {
         }
     }
 }
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[tokio::test]
+    async fn test_scrape_trending_list() {
+        // Initialize simple client without token
+        let client = GitHubClient::new("").unwrap();
+
+        // Test scraping Rust trending
+        let result = client.scrape_trending_list("rust").await;
+
+        match result {
+            Ok(repos) => {
+                println!("Successfully scraped {} rust repos", repos.len());
+                for (owner, name, stars) in &repos {
+                    println!("- {}/{} (Stars today: {:?})", owner, name, stars);
+                }
+                assert!(!repos.is_empty(), "Should yield at least one repo");
+            }
+            Err(e) => panic!("Scraping failed: {}", e),
+        }
+    }
+}

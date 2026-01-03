@@ -53,6 +53,37 @@ async fn main() -> Result<()> {
         .await?;
     info!("Fetched {} repositories", repos.len());
 
+    // 如果开启了 mock_mode，或者抓取结果为空（可能是限流），注入 Mock 数据
+    if config.debug.mock_mode || repos.is_empty() {
+        if config.debug.mock_mode {
+            log::warn!("🚧 Mock Mode ENABLED: Injecting mock data for testing.");
+        } else {
+            log::warn!("⚠️  Fetched 0 repositories (Rate Limit likely occurred). Injecting MOCK DATA for verification.");
+        }
+
+        repos.push(models::Repository {
+            id: 12345678,
+            name: "mock-repo-preview".to_string(),
+            full_name: "test/mock-repo-preview".to_string(),
+            description: Some("This is a mock repository generated because 'mock_mode' is enabled or API rate limit was reached.".to_string()),
+            html_url: "https://github.com/test/mock-repo".to_string(),
+            stars: 12345,
+            forks: 678,
+            language: Some("Rust".to_string()),
+            topics: vec!["rust".to_string(), "trending".to_string(), "mock".to_string()],
+            created_at: chrono::Utc::now(),
+            updated_at: chrono::Utc::now(),
+            pushed_at: chrono::Utc::now(),
+            open_issues: 42,
+            owner: models::Owner {
+                login: "mock-user".to_string(),
+                avatar_url: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png".to_string(),
+            },
+            readme: None,
+            stars_today: Some(888),
+        });
+    }
+
     // 过滤已推荐过的仓库（除非算法允许重新推送）
     repos = fetcher.filter_recommended(&repos, config.allow_recommend_again);
     info!("After filtering: {} repositories", repos.len());

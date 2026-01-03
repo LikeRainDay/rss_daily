@@ -22,7 +22,7 @@ model = "gpt-3.5-turbo"  # OpenAI model name
 # 图片生成配置
 [image]
 enabled = true
-height = 400
+height = 500
 width = 1000
 background_color = "#1a1a1a"
 text_color = "#ffffff"
@@ -58,3 +58,8 @@ name = "csdn"
 # username 和 password 可以通过环境变量 CSDN_USERNAME 和 CSDN_PASSWORD 设置
 username = ""
 password = ""
+
+
+# 调试配置
+[debug]
+mock_mode = true  # 开启 Mock 模式，不请求 GitHub API，直接生成测试数据

@@ -1,0 +1,317 @@
+warning: unused import: `header`
+ --> src/github_trending/client.rs:3:15
+  |
+3 | use reqwest::{header, Client};
+  |               ^^^^^^
+  |
+  = note: `#[warn(unused_imports)]` on by default
+
+warning: unused import: `crate::config::Config`
+ --> src/github_trending/readme_gen.rs:2:5
+  |
+2 | use crate::config::Config;
+  |     ^^^^^^^^^^^^^^^^^^^^^
+
+warning: unused variable: `highlights_label`
+  --> src/github_trending/card.rs:77:40
+   |
+77 |         let (stars_label, forks_label, highlights_label, view_repo_label) = if language == "zh" {
+   |                                        ^^^^^^^^^^^^^^^^ help: if this is intentional, prefix it with an underscore: `_highlights_label`
+   |
+   = note: `#[warn(unused_variables)]` on by default
+
+warning: unused variable: `highlights_html`
+   --> src/github_trending/card.rs:105:13
+    |
+105 |         let highlights_html = summary
+    |             ^^^^^^^^^^^^^^^ help: if this is intentional, prefix it with an underscore: `_highlights_html`
+
+warning: method `get_history_data` is never used
+  --> src/github_trending/fetcher.rs:52:12
+   |
+13 | impl TrendingFetcher {
+   | -------------------- method in this implementation
+...
+52 |     pub fn get_history_data(&self) -> Result<Vec<Repository>> {
+   |            ^^^^^^^^^^^^^^^^
+   |
+   = note: `#[warn(dead_code)]` on by default
+
+warning: methods `is_recommended` and `get_recommend_count` are never used
+  --> src/github_trending/history.rs:91:12
+   |
+19 | impl HistoryManager {
+   | ------------------- methods in this implementation
+...
+91 |     pub fn is_recommended(&self, repo_id: u64) -> bool {
+   |            ^^^^^^^^^^^^^^
+...
+96 |     pub fn get_recommend_count(&self, repo_id: u64) -> u32 {
+   |            ^^^^^^^^^^^^^^^^^^^
+
+warning: field `summary` is never read
+   --> src/github_trending/card.rs:182:9
+    |
+179 | pub struct Card {
+    |            ---- field in this struct
+...
+182 |     pub summary: crate::models::Summary,
+    |         ^^^^^^^
+    |
+    = note: `Card` has derived impls for the traits `Clone` and `Debug`, but these are intentionally ignored during dead code analysis
+
+warning: struct `GitHubSearchResponse` is never constructed
+  --> src/models.rs:48:12
+   |
+48 | pub struct GitHubSearchResponse {
+   |            ^^^^^^^^^^^^^^^^^^^^
+
+warning: field `data` is never read
+  --> src/push_post/csdn.rs:25:5
+   |
+22 | struct LoginResponse {
+   |        ------------- field in this struct
+...
+25 |     data: Option<LoginData>,
+   |     ^^^^
+   |
+   = note: `LoginResponse` has a derived impl for the trait `Debug`, but this is intentionally ignored during dead code analysis
+
+warning: field `token` is never read
+  --> src/push_post/csdn.rs:30:5
+   |
+29 | struct LoginData {
+   |        --------- field in this struct
+30 |     token: Option<String>,
+   |     ^^^^^
+   |
+   = note: `LoginData` has a derived impl for the trait `Debug`, but this is intentionally ignored during dead code analysis
+
+warning: methods `load_daily_data`, `list_dates`, and `load_all_history` are never used
+  --> src/storage/data_storage.rs:61:12
+   |
+19 | impl DataStorage {
+   | ---------------- methods in this implementation
+...
+61 |     pub fn load_daily_data(&self, date: &str, name: &str) -> Result<DailyData> {
+   |            ^^^^^^^^^^^^^^^
+...
+72 |     pub fn list_dates(&self) -> Result<Vec<String>> {
+   |            ^^^^^^^^^^
+...
+96 |     pub fn load_all_history(&self) -> Result<Vec<Repository>> {
+   |            ^^^^^^^^^^^^^^^^
+
+warning: `rss-daily-cursor` (bin "rss-daily-cursor") generated 11 warnings (run `cargo fix --bin "rss-daily-cursor"` to apply 2 suggestions)
+    Finished `release` profile [optimized] target(s) in 0.45s
+     Running `target/release/rss-daily-cursor`
+[2026-01-03T01:22:20Z INFO  rss_daily_cursor] Starting RSS Daily Cursor service...
+[2026-01-03T01:22:20Z INFO  rss_daily_cursor] Configuration loaded
+[2026-01-03T01:22:20Z WARN  rss_daily_cursor::github_trending::client] ⚠️  GitHub Token 未配置，将使用匿名访问（速率限制：60次/小时）
+[2026-01-03T01:22:20Z WARN  rss_daily_cursor::github_trending::client]    抓取 Trending 需要调用 API 获取详情，强烈建议配置 GITHUB_TOKEN
+[2026-01-03T01:22:20Z INFO  rss_daily_cursor] Output directory set to: "docs/rss/2026/01-03"
+[2026-01-03T01:22:20Z INFO  rss_daily_cursor] Fetching daily GitHub trending repositories (min_stars: 10)...
+[2026-01-03T01:22:20Z INFO  rss_daily_cursor::github_trending::fetcher] Fetching daily GitHub trending repositories (min_stars: 10)...
+[2026-01-03T01:22:20Z INFO  rss_daily_cursor::github_trending::client] 🔍 Scraping trending page for language: java
+[2026-01-03T01:22:22Z INFO  rss_daily_cursor::github_trending::client]    Found 24 repos in trending list for java
+[2026-01-03T01:22:23Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for apache/fineract: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:23Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for PojavLauncherTeam/PojavLauncher: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:23Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for LaurieWired/GhidraMCP: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:23Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for Card-Forge/forge: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:24Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for termux/termux-app: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:24Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for testcontainers/testcontainers-java: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:24Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for apache/flink: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:24Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for MeteorDevelopment/meteor-client: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:24Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for yuliskov/SmartTube: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:24Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for ashishps1/awesome-leetcode-resources: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:24Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for Anuken/Mindustry: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:25Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for ashishps1/awesome-low-level-design: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:25Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for googlesamples/mlkit: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:25Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for zaproxy/zaproxy: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:25Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for mamiiblt/instafel: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:25Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for elastic/elasticsearch: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:25Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for awsdocs/aws-doc-sdk-examples: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:26Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for kunal-kushwaha/DSA-Bootcamp-Java: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:26Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for FCL-Team/FoldCraftLauncher: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:26Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for google/gson: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:26Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for ZalithLauncher/ZalithLauncher: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:26Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for gsantner/markor: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:26Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for openhab/openhab-addons: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:26Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for 19MisterX98/SeedcrackerX: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:26Z INFO  rss_daily_cursor::github_trending::client] 🔍 Scraping trending page for language: rust
+[2026-01-03T01:22:28Z INFO  rss_daily_cursor::github_trending::client]    Found 20 repos in trending list for rust
+[2026-01-03T01:22:28Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for bevyengine/bevy: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:28Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for BloopAI/vibe-kanban: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:28Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for nautechsystems/nautilus_trader: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:28Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for paritytech/polkadot-sdk: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:29Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for rust-lang/rust-analyzer: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:29Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for rust-lang/rust: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:29Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for sxyazi/yazi: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:29Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for glzr-io/glazewm: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:29Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for raphamorim/rio: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:29Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for uutils/coreutils: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:29Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for HelixDB/helix-db: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:30Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for Fredolx/open-tv: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:30Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for wezterm/wezterm: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:30Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for topjohnwu/Magisk: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:30Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for nushell/nushell: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:30Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for aome510/spotify-player: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:30Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for EasyTier/EasyTier: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:31Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for eythaann/Seelen-UI: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:31Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for block/goose: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:31Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for modrinth/code: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:31Z INFO  rss_daily_cursor::github_trending::client] 🔍 Scraping trending page for language: go
+[2026-01-03T01:22:32Z INFO  rss_daily_cursor::github_trending::client]    Found 21 repos in trending list for go
+[2026-01-03T01:22:33Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for usememos/memos: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:33Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for glanceapp/glance: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:33Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for autobrr/qui: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:33Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for plandex-ai/plandex: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:33Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for danielpaulus/go-ios: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:33Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for kubernetes-sigs/gateway-api: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:34Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for labstack/echo: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:34Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for evcc-io/evcc: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:34Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for go-vikunja/vikunja: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:34Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for hashicorp/terraform: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:34Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for v2fly/v2ray-core: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:34Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for fish2018/pansou: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:34Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for getfider/fider: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:35Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for projectcalico/calico: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:35Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for gohugoio/hugo: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:35Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for ayn2op/discordo: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:35Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for trufflesecurity/trufflehog: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:35Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for simulot/immich-go: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:35Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for v2fly/domain-list-community: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:35Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for open-telemetry/opentelemetry-collector: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:36Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for projectdiscovery/katana: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:36Z INFO  rss_daily_cursor::github_trending::client] 🔍 Scraping trending page for language: cpp
+[2026-01-03T01:22:37Z INFO  rss_daily_cursor::github_trending::client]    Found 22 repos in trending list for cpp
+[2026-01-03T01:22:38Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for moonlight-stream/moonlight-qt: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:38Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for owasp-modsecurity/ModSecurity: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:38Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for SteamClientHomebrew/Millennium: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:38Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for hyprwm/Hyprland: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:38Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for OpenTTD/OpenTTD: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:38Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for typesense/typesense: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:38Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for organicmaps/organicmaps: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:39Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for mamedev/mame: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:39Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for hrydgard/ppsspp: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:39Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for shadps4-emu/shadPS4: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:39Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for simdjson/simdjson: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:39Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for cloudflare/workerd: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:39Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for telegramdesktop/tdesktop: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:40Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for SerenityOS/serenity: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:40Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for TrinityCore/TrinityCore: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:40Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for notepad-plus-plus/notepad-plus-plus: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:40Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for lballabio/QuantLib: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:40Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for azahar-emu/azahar: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:40Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for official-stockfish/Stockfish: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:40Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for 78/xiaozhi-esp32: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:41Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for PrismLauncher/PrismLauncher: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:41Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for justcallmekoko/ESP32Marauder: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:41Z INFO  rss_daily_cursor::github_trending::client] 🔍 Scraping trending page for language: c
+[2026-01-03T01:22:42Z INFO  rss_daily_cursor::github_trending::client]    Found 22 repos in trending list for c
+[2026-01-03T01:22:42Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for dsp56300/gearmulator: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:42Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for erincatto/box2d: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:43Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for stackia/rtp2httpd: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:43Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for openwrt/openwrt: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:43Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for PufferAI/PufferLib: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:43Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for netdata/netdata: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:43Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for libgit2/libgit2: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:43Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for Genymobile/scrcpy: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:44Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for qmk/qmk_firmware: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:44Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for obsproject/obs-studio: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:44Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for libretro/RetroArch: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:44Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for brunodev85/winlator: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:44Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for coolsnowwolf/lede: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:44Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for espressif/esp-idf: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:44Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for johnfanv2/LenovoLegionLinux: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:45Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for curl/curl: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:45Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for fw876/helloworld: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:45Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for screetsec/TheFatRat: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:45Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for coop-deluxe/sm64coopdx: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:45Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for valkey-io/valkey: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:45Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for veracrypt/VeraCrypt: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:45Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for xiaojieonly/Ehviewer_CN_SXJ: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:45Z INFO  rss_daily_cursor::github_trending::client] 🔍 Scraping trending page for language: swift
+[2026-01-03T01:22:47Z INFO  rss_daily_cursor::github_trending::client]    Found 13 repos in trending list for swift
+[2026-01-03T01:22:47Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for nikitabobko/AeroSpace: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:47Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for exelban/stats: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:47Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for open-meteo/open-meteo: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:47Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for gonzalezreal/swift-markdown-ui: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:47Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for facebook/facebook-ios-sdk: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:48Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for supabase/supabase-swift: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:48Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for Alamofire/Alamofire: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:48Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for Beingpax/VoiceInk: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:48Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for apple/container: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:48Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for apple/swift-nio: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:48Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for iina/iina: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:49Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for pointfreeco/swift-composable-architecture: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:49Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for apple/containerization: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:49Z INFO  rss_daily_cursor::github_trending::client] 🔍 Scraping trending page for language: kotlin
+[2026-01-03T01:22:50Z INFO  rss_daily_cursor::github_trending::client]    Found 17 repos in trending list for kotlin
+[2026-01-03T01:22:50Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for nightscout/AndroidAPS: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:51Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for mihonapp/mihon: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:51Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for RikkaApps/Shizuku: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:51Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for aistra0528/Hail: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:51Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for MatsuriDayo/NekoBoxForAndroid: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:51Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for theovilardo/PixelPlayer: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:51Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for wxxsfxyzm/InstallerX-Revived: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:52Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for JunkFood02/Seal: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:52Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for google-ai-edge/gallery: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:52Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for libre-tube/LibreTube: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:52Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for t895/DNSNet: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:52Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for SagerNet/sing-box-for-android: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:52Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for anddea/revanced-patches: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:52Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for tiann/KernelSU: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:53Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for 2dust/v2rayNG: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:53Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for open-ani/animeko: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:53Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for TeamAmaze/AmazeFileManager: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:53Z INFO  rss_daily_cursor::github_trending::client] 🔍 Scraping trending page for language: r
+[2026-01-03T01:22:54Z INFO  rss_daily_cursor::github_trending::client]    Found 5 repos in trending list for r
+[2026-01-03T01:22:54Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for nflverse/nflverse-data: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:54Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for johnmyleswhite/ML_for_Hackers: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:54Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for swirldev/swirl_courses: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:54Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for briatte/awesome-network-analysis: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:54Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for JGCRI/gcam-core: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:54Z INFO  rss_daily_cursor::github_trending::client] 🔍 Scraping trending page for language: typescript
+[2026-01-03T01:22:56Z INFO  rss_daily_cursor::github_trending::client]    Found 12 repos in trending list for typescript
+[2026-01-03T01:22:56Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for nocodb/nocodb: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:56Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for ourongxing/newsnow: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:56Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for Koenkk/zigbee2mqtt: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:56Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for github/docs: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:57Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for continuedev/continue: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:57Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for afkarxyz/SpotiFLAC: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:57Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for actualbudget/actual: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:57Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for autobrr/netronome: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:57Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for badlogic/pi-mono: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:58Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for antvis/mcp-server-chart: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:58Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for Polymarket/clob-client: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:58Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for RealKai42/qwerty-learner: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:22:58Z INFO  rss_daily_cursor::github_trending::client] 🔍 Scraping trending page for language: javascript
+[2026-01-03T01:22:59Z INFO  rss_daily_cursor::github_trending::client]    Found 15 repos in trending list for javascript
+[2026-01-03T01:23:00Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for mrrfv/cloudflare-gateway-pihole-scripts: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:23:00Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for badges/shields: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:23:00Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for harvard-edge/cs249r_book: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:23:00Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for cameroncooke/XcodeBuildMCP: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:23:00Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for gorhill/uBlock: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:23:00Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for academind/react-complete-guide-course-resources: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:23:00Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for facebook/react: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:23:01Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for qist/tvbox: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:23:01Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for gaotianliuyun/gao: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:23:01Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for airbnb/javascript: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:23:01Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for typicode/json-server: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:23:01Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for FortAwesome/Font-Awesome: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:23:01Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for mediacms-io/mediacms: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:23:02Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for meshery/meshery: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:23:02Z WARN  rss_daily_cursor::github_trending::client]    Failed to fetch details for expressjs/express: GitHub API Rate Limit Exceeded!
+[2026-01-03T01:23:02Z INFO  rss_daily_cursor::github_trending::fetcher] Fetched 0 repositories
+[2026-01-03T01:23:02Z INFO  rss_daily_cursor::github_trending::fetcher] Saved daily trending data for 2026-01-03
+[2026-01-03T01:23:02Z INFO  rss_daily_cursor] Fetched 0 repositories
+[2026-01-03T01:23:02Z INFO  rss_daily_cursor::github_trending::fetcher] 允许重新推荐模式：不过滤历史记录，由排序算法决定
+[2026-01-03T01:23:02Z INFO  rss_daily_cursor] After filtering: 0 repositories
+[2026-01-03T01:23:02Z INFO  rss_daily_cursor] Processing category: daily-top
+[2026-01-03T01:23:02Z INFO  rss_daily_cursor] No repositories found for category: daily-top
+[2026-01-03T01:23:02Z INFO  rss_daily_cursor] Generating daily README for 2026-01-03...
+[2026-01-03T01:23:02Z INFO  rss_daily_cursor::github_trending::readme_gen] Generated README: "docs/rss/2026/01-03/README.md"
+[2026-01-03T01:23:02Z INFO  rss_daily_cursor::github_trending::readme_gen] Generated GITHUB_TODAY.md: "docs/rss/2026/01-03/GITHUB_TODAY.md"
+[2026-01-03T01:23:02Z INFO  rss_daily_cursor] Generated README_2026-01-03.md
+[2026-01-03T01:23:02Z INFO  rss_daily_cursor] RSS generation completed successfully!

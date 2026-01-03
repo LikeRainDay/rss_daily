@@ -1,5 +1,5 @@
+use anyhow::{Context, Result};
 use serde::{Deserialize, Serialize};
-use anyhow::{Result, Context};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Config {
@@ -12,7 +12,15 @@ pub struct Config {
     #[serde(default = "default_allow_recommend_again")]
     pub allow_recommend_again: bool,
     #[serde(default = "default_min_stars")]
-    pub min_stars: u32,  // 最小 stars 数量过滤
+    pub min_stars: u32, // 最小 stars 数量过滤
+    #[serde(default)]
+    pub debug: DebugConfig,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, Default)]
+pub struct DebugConfig {
+    #[serde(default)]
+    pub mock_mode: bool,
 }
 
 fn default_allow_recommend_again() -> bool {
@@ -71,11 +79,11 @@ impl Config {
         dotenv::dotenv().ok();
 
         // 从 config.toml 加载
-        let config_str = std::fs::read_to_string("config.toml")
-            .context("Failed to read config.toml")?;
+        let config_str =
+            std::fs::read_to_string("config.toml").context("Failed to read config.toml")?;
 
-        let mut config: Config = toml::from_str(&config_str)
-            .context("Failed to parse config.toml")?;
+        let mut config: Config =
+            toml::from_str(&config_str).context("Failed to parse config.toml")?;
 
         // 环境变量覆盖
         if let Ok(token) = std::env::var("GITHUB_TOKEN") {
@@ -109,19 +117,31 @@ impl Default for Config {
     fn default() -> Self {
         Self {
             github_token: std::env::var("GITHUB_TOKEN").unwrap_or_default(),
-            languages: vec!["rust".to_string(), "python".to_string(), "javascript".to_string()],
+            languages: vec![
+                "rust".to_string(),
+                "python".to_string(),
+                "javascript".to_string(),
+            ],
             categories: vec![
                 Category {
                     name: "backend".to_string(),
                     language: "zh".to_string(),
-                    keywords: vec!["backend".to_string(), "server".to_string(), "api".to_string()],
+                    keywords: vec![
+                        "backend".to_string(),
+                        "server".to_string(),
+                        "api".to_string(),
+                    ],
                     topics: vec!["backend".to_string(), "api".to_string()],
                     max_items: 20,
                 },
                 Category {
                     name: "frontend".to_string(),
                     language: "zh".to_string(),
-                    keywords: vec!["frontend".to_string(), "ui".to_string(), "react".to_string()],
+                    keywords: vec![
+                        "frontend".to_string(),
+                        "ui".to_string(),
+                        "react".to_string(),
+                    ],
                     topics: vec!["frontend".to_string(), "ui".to_string()],
                     max_items: 20,
                 },
@@ -146,6 +166,7 @@ impl Default for Config {
             },
             allow_recommend_again: true,
             min_stars: 10,
+            debug: DebugConfig::default(),
         }
     }
 }
