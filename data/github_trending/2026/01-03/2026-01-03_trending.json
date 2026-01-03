@@ -8,8 +8,8 @@
       "full_name": "usememos/memos",
       "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
       "html_url": "https://github.com/usememos/memos",
-      "stars": 49441,
-      "forks": 3567,
+      "stars": 49547,
+      "forks": 3574,
       "language": "Go",
       "topics": [
         "docker",
@@ -26,9 +26,9 @@
         "sqlite"
       ],
       "created_at": "2021-12-08T15:30:18Z",
-      "updated_at": "2026-01-03T14:01:42Z",
+      "updated_at": "2026-01-03T15:05:15Z",
       "pushed_at": "2026-01-03T12:43:21Z",
-      "open_issues": 40,
+      "open_issues": 39,
       "owner": {
         "login": "usememos",
         "avatar_url": "https://avatars.githubusercontent.com/u/95764151?v=4"
@@ -42,8 +42,8 @@
       "full_name": "BloopAI/vibe-kanban",
       "description": "Get 10X more out of Claude Code, Codex or any coding agent",
       "html_url": "https://github.com/BloopAI/vibe-kanban",
-      "stars": 11689,
-      "forks": 1055,
+      "stars": 11739,
+      "forks": 1063,
       "language": "Rust",
       "topics": [
         "agent",
@@ -53,9 +53,9 @@
         "task-manager"
       ],
       "created_at": "2025-06-14T19:10:21Z",
-      "updated_at": "2026-01-03T13:58:38Z",
-      "pushed_at": "2026-01-03T05:57:02Z",
-      "open_issues": 184,
+      "updated_at": "2026-01-03T15:05:53Z",
+      "pushed_at": "2026-01-03T14:39:58Z",
+      "open_issues": 187,
       "owner": {
         "login": "BloopAI",
         "avatar_url": "https://avatars.githubusercontent.com/u/75376775?v=4"
@@ -69,15 +69,15 @@
       "full_name": "ourongxing/newsnow",
       "description": "Elegant reading of real-time and hottest news",
       "html_url": "https://github.com/ourongxing/newsnow",
-      "stars": 16193,
-      "forks": 4742,
+      "stars": 16207,
+      "forks": 4745,
       "language": "TypeScript",
       "topics": [
         "elegant",
         "news"
       ],
       "created_at": "2024-09-23T14:16:12Z",
-      "updated_at": "2026-01-03T14:02:36Z",
+      "updated_at": "2026-01-03T15:06:32Z",
       "pushed_at": "2025-12-27T15:23:56Z",
       "open_issues": 107,
       "owner": {
@@ -93,8 +93,8 @@
       "full_name": "nocodb/nocodb",
       "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
       "html_url": "https://github.com/nocodb/nocodb",
-      "stars": 60109,
-      "forks": 4469,
+      "stars": 60137,
+      "forks": 4470,
       "language": "TypeScript",
       "topics": [
         "airtable",
@@ -113,7 +113,7 @@
         "swagger"
       ],
       "created_at": "2017-10-29T18:51:48Z",
-      "updated_at": "2026-01-03T14:02:35Z",
+      "updated_at": "2026-01-03T15:07:03Z",
       "pushed_at": "2026-01-03T08:38:43Z",
       "open_issues": 549,
       "owner": {
@@ -129,8 +129,8 @@
       "full_name": "farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "html_url": "https://github.com/farion1231/cc-switch",
-      "stars": 8736,
-      "forks": 590,
+      "stars": 8748,
+      "forks": 591,
       "language": "Rust",
       "topics": [
         "ai-tools",
@@ -150,9 +150,9 @@
         "wsl-support"
       ],
       "created_at": "2025-08-04T14:16:16Z",
-      "updated_at": "2026-01-03T14:01:34Z",
+      "updated_at": "2026-01-03T14:56:49Z",
       "pushed_at": "2026-01-03T09:30:52Z",
-      "open_issues": 89,
+      "open_issues": 91,
       "owner": {
         "login": "farion1231",
         "avatar_url": "https://avatars.githubusercontent.com/u/44939412?v=4"
@@ -208,7 +208,7 @@
       "full_name": "autobrr/qui",
       "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.",
       "html_url": "https://github.com/autobrr/qui",
-      "stars": 1716,
+      "stars": 1717,
       "forks": 47,
       "language": "Go",
       "topics": [
@@ -222,9 +222,9 @@
         "workflows"
       ],
       "created_at": "2025-08-04T12:28:27Z",
-      "updated_at": "2026-01-03T13:46:38Z",
-      "pushed_at": "2026-01-03T13:23:06Z",
-      "open_issues": 63,
+      "updated_at": "2026-01-03T14:16:30Z",
+      "pushed_at": "2026-01-03T14:38:37Z",
+      "open_issues": 64,
       "owner": {
         "login": "autobrr",
         "avatar_url": "https://avatars.githubusercontent.com/u/88781313?v=4"
@@ -238,7 +238,7 @@
       "full_name": "thingsboard/thingsboard",
       "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
       "html_url": "https://github.com/thingsboard/thingsboard",
-      "stars": 20855,
+      "stars": 20858,
       "forks": 6012,
       "language": "Java",
       "topics": [
@@ -264,7 +264,7 @@
         "widgets"
       ],
       "created_at": "2016-12-01T09:33:30Z",
-      "updated_at": "2026-01-03T13:57:39Z",
+      "updated_at": "2026-01-03T14:54:26Z",
       "pushed_at": "2026-01-02T12:14:46Z",
       "open_issues": 153,
       "owner": {
@@ -280,12 +280,12 @@
       "full_name": "agentsmd/agents.md",
       "description": "AGENTS.md — a simple, open format for guiding coding agents",
       "html_url": "https://github.com/agentsmd/agents.md",
-      "stars": 13949,
+      "stars": 13961,
       "forks": 985,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2025-08-19T17:22:54Z",
-      "updated_at": "2026-01-03T13:45:53Z",
+      "updated_at": "2026-01-03T15:02:58Z",
       "pushed_at": "2025-12-19T20:06:52Z",
       "open_issues": 97,
       "owner": {
@@ -310,7 +310,7 @@
       "created_at": "2018-04-08T12:01:34Z",
       "updated_at": "2026-01-03T10:26:39Z",
       "pushed_at": "2026-01-01T14:03:59Z",
-      "open_issues": 820,
+      "open_issues": 821,
       "owner": {
         "login": "Koenkk",
         "avatar_url": "https://avatars.githubusercontent.com/u/2892853?v=4"
@@ -324,7 +324,7 @@
       "full_name": "nukeop/nuclear",
       "description": "Streaming music player that finds free music for you",
       "html_url": "https://github.com/nukeop/nuclear",
-      "stars": 16669,
+      "stars": 16682,
       "forks": 1249,
       "language": "TypeScript",
       "topics": [
@@ -339,7 +339,7 @@
         "youtube"
       ],
       "created_at": "2016-09-22T22:58:21Z",
-      "updated_at": "2026-01-03T14:01:53Z",
+      "updated_at": "2026-01-03T14:55:37Z",
       "pushed_at": "2025-12-27T08:45:37Z",
       "open_issues": 168,
       "owner": {
@@ -355,12 +355,12 @@
       "full_name": "heyitsnoah/claudesidian",
       "description": null,
       "html_url": "https://github.com/heyitsnoah/claudesidian",
-      "stars": 952,
-      "forks": 74,
+      "stars": 960,
+      "forks": 75,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2025-09-12T00:40:48Z",
-      "updated_at": "2026-01-03T13:58:18Z",
+      "updated_at": "2026-01-03T15:06:53Z",
       "pushed_at": "2025-10-24T16:13:36Z",
       "open_issues": 8,
       "owner": {
@@ -376,14 +376,14 @@
       "full_name": "block/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "html_url": "https://github.com/block/goose",
-      "stars": 25410,
-      "forks": 2286,
+      "stars": 25412,
+      "forks": 2285,
       "language": "Rust",
       "topics": [
         "mcp"
       ],
       "created_at": "2024-08-23T19:03:36Z",
-      "updated_at": "2026-01-03T13:39:03Z",
+      "updated_at": "2026-01-03T14:48:20Z",
       "pushed_at": "2026-01-02T23:32:31Z",
       "open_issues": 263,
       "owner": {
@@ -399,8 +399,8 @@
       "full_name": "Genymobile/scrcpy",
       "description": "Display and control your Android device",
       "html_url": "https://github.com/Genymobile/scrcpy",
-      "stars": 133483,
-      "forks": 12465,
+      "stars": 133484,
+      "forks": 12466,
       "language": "C",
       "topics": [
         "android",
@@ -413,7 +413,7 @@
         "sdl2"
       ],
       "created_at": "2017-11-21T18:00:27Z",
-      "updated_at": "2026-01-03T13:26:05Z",
+      "updated_at": "2026-01-03T14:46:34Z",
       "pushed_at": "2026-01-02T14:01:42Z",
       "open_issues": 2666,
       "owner": {
@@ -429,7 +429,7 @@
       "full_name": "dsp56300/gearmulator",
       "description": "Low Level Emulation of classic VA synths & effects of the late 90s/2000s by emulating the used ICs",
       "html_url": "https://github.com/dsp56300/gearmulator",
-      "stars": 781,
+      "stars": 785,
       "forks": 67,
       "language": "C",
       "topics": [
@@ -441,7 +441,7 @@
         "waldorf"
       ],
       "created_at": "2021-07-13T22:17:38Z",
-      "updated_at": "2026-01-03T13:59:12Z",
+      "updated_at": "2026-01-03T14:56:24Z",
       "pushed_at": "2025-12-28T02:07:06Z",
       "open_issues": 12,
       "owner": {
@@ -457,7 +457,7 @@
       "full_name": "dinoki-ai/osaurus",
       "description": "The missing macOS LLM server. Run local or cloud models with OpenAI & Anthropic compatible APIs. MCP server for Cursor & Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.",
       "html_url": "https://github.com/dinoki-ai/osaurus",
-      "stars": 2884,
+      "stars": 2885,
       "forks": 114,
       "language": "Swift",
       "topics": [
@@ -473,7 +473,7 @@
         "swift"
       ],
       "created_at": "2025-08-17T15:05:39Z",
-      "updated_at": "2026-01-03T13:46:58Z",
+      "updated_at": "2026-01-03T14:05:48Z",
       "pushed_at": "2026-01-03T13:24:37Z",
       "open_issues": 18,
       "owner": {
@@ -489,14 +489,14 @@
       "full_name": "openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "html_url": "https://github.com/openai/codex",
-      "stars": 55140,
+      "stars": 55142,
       "forks": 7050,
       "language": "Rust",
       "topics": [],
       "created_at": "2025-04-13T05:37:54Z",
-      "updated_at": "2026-01-03T13:57:16Z",
+      "updated_at": "2026-01-03T14:43:49Z",
       "pushed_at": "2026-01-03T10:19:53Z",
-      "open_issues": 931,
+      "open_issues": 932,
       "owner": {
         "login": "openai",
         "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
@@ -510,7 +510,7 @@
       "full_name": "googleapis/genai-toolbox",
       "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "html_url": "https://github.com/googleapis/genai-toolbox",
-      "stars": 12089,
+      "stars": 12094,
       "forks": 1092,
       "language": "Go",
       "topics": [
@@ -535,7 +535,7 @@
         "tidb"
       ],
       "created_at": "2024-06-07T20:52:54Z",
-      "updated_at": "2026-01-03T13:50:50Z",
+      "updated_at": "2026-01-03T14:36:58Z",
       "pushed_at": "2026-01-02T15:28:11Z",
       "open_issues": 151,
       "owner": {
@@ -572,7 +572,7 @@
       "full_name": "sxyazi/yazi",
       "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
       "html_url": "https://github.com/sxyazi/yazi",
-      "stars": 31117,
+      "stars": 31121,
       "forks": 675,
       "language": "Rust",
       "topics": [
@@ -597,7 +597,7 @@
         "windows"
       ],
       "created_at": "2023-07-08T11:45:55Z",
-      "updated_at": "2026-01-03T13:12:09Z",
+      "updated_at": "2026-01-03T14:23:29Z",
       "pushed_at": "2026-01-03T11:16:57Z",
       "open_issues": 64,
       "owner": {
@@ -613,7 +613,7 @@
       "full_name": "reacherhq/check-if-email-exists",
       "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
       "html_url": "https://github.com/reacherhq/check-if-email-exists",
-      "stars": 7200,
+      "stars": 7203,
       "forks": 512,
       "language": "Rust",
       "topics": [
@@ -626,7 +626,7 @@
         "hacktoberfest"
       ],
       "created_at": "2017-04-25T12:47:51Z",
-      "updated_at": "2026-01-03T13:41:25Z",
+      "updated_at": "2026-01-03T15:05:54Z",
       "pushed_at": "2025-10-27T01:06:33Z",
       "open_issues": 86,
       "owner": {
@@ -675,8 +675,8 @@
       "full_name": "godotengine/godot",
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "html_url": "https://github.com/godotengine/godot",
-      "stars": 104722,
-      "forks": 23937,
+      "stars": 104725,
+      "forks": 23940,
       "language": "C++",
       "topics": [
         "game-development",
@@ -688,9 +688,9 @@
         "open-source"
       ],
       "created_at": "2014-01-04T16:05:36Z",
-      "updated_at": "2026-01-03T13:55:37Z",
+      "updated_at": "2026-01-03T15:01:19Z",
       "pushed_at": "2026-01-02T23:26:33Z",
-      "open_issues": 17117,
+      "open_issues": 17119,
       "owner": {
         "login": "godotengine",
         "avatar_url": "https://avatars.githubusercontent.com/u/6318500?v=4"
@@ -704,12 +704,12 @@
       "full_name": "RikkaApps/Shizuku",
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "html_url": "https://github.com/RikkaApps/Shizuku",
-      "stars": 20257,
+      "stars": 20262,
       "forks": 1802,
       "language": "Kotlin",
       "topics": [],
       "created_at": "2017-05-24T13:53:49Z",
-      "updated_at": "2026-01-03T13:45:03Z",
+      "updated_at": "2026-01-03T15:02:18Z",
       "pushed_at": "2025-06-18T04:21:02Z",
       "open_issues": 167,
       "owner": {
@@ -725,8 +725,8 @@
       "full_name": "termux/termux-app",
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "html_url": "https://github.com/termux/termux-app",
-      "stars": 48397,
-      "forks": 5787,
+      "stars": 48399,
+      "forks": 5786,
       "language": "Java",
       "topics": [
         "android",
@@ -736,7 +736,7 @@
         "termux"
       ],
       "created_at": "2015-10-23T09:42:46Z",
-      "updated_at": "2026-01-03T13:26:59Z",
+      "updated_at": "2026-01-03T14:46:58Z",
       "pushed_at": "2025-12-12T19:04:26Z",
       "open_issues": 489,
       "owner": {
@@ -752,7 +752,7 @@
       "full_name": "nikitabobko/AeroSpace",
       "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "html_url": "https://github.com/nikitabobko/AeroSpace",
-      "stars": 17899,
+      "stars": 17902,
       "forks": 377,
       "language": "Swift",
       "topics": [
@@ -767,7 +767,7 @@
         "window-manager"
       ],
       "created_at": "2023-05-21T20:20:17Z",
-      "updated_at": "2026-01-03T13:45:55Z",
+      "updated_at": "2026-01-03T15:06:45Z",
       "pushed_at": "2026-01-02T13:19:30Z",
       "open_issues": 178,
       "owner": {
@@ -809,7 +809,7 @@
       "full_name": "YaLTeR/niri",
       "description": "A scrollable-tiling Wayland compositor.",
       "html_url": "https://github.com/YaLTeR/niri",
-      "stars": 16927,
+      "stars": 16930,
       "forks": 622,
       "language": "Rust",
       "topics": [
@@ -820,7 +820,7 @@
         "wayland-compositor"
       ],
       "created_at": "2023-08-10T10:53:14Z",
-      "updated_at": "2026-01-03T13:40:24Z",
+      "updated_at": "2026-01-03T14:55:48Z",
       "pushed_at": "2026-01-01T08:07:16Z",
       "open_issues": 446,
       "owner": {
@@ -836,7 +836,7 @@
       "full_name": "eythaann/Seelen-UI",
       "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
       "html_url": "https://github.com/eythaann/Seelen-UI",
-      "stars": 15340,
+      "stars": 15343,
       "forks": 468,
       "language": "Rust",
       "topics": [
@@ -861,7 +861,7 @@
         "windows-11"
       ],
       "created_at": "2024-02-16T18:03:35Z",
-      "updated_at": "2026-01-03T13:34:43Z",
+      "updated_at": "2026-01-03T15:01:54Z",
       "pushed_at": "2025-12-27T18:02:49Z",
       "open_issues": 123,
       "owner": {
@@ -877,7 +877,7 @@
       "full_name": "spacedriveapp/spacedrive",
       "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
       "html_url": "https://github.com/spacedriveapp/spacedrive",
-      "stars": 36437,
+      "stars": 36440,
       "forks": 1166,
       "language": "Rust",
       "topics": [
@@ -891,7 +891,7 @@
         "typescript"
       ],
       "created_at": "2021-09-27T05:09:04Z",
-      "updated_at": "2026-01-03T13:26:55Z",
+      "updated_at": "2026-01-03T14:53:15Z",
       "pushed_at": "2026-01-01T00:47:02Z",
       "open_issues": 10,
       "owner": {
@@ -907,8 +907,8 @@
       "full_name": "KaijuEngine/kaiju",
       "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
       "html_url": "https://github.com/KaijuEngine/kaiju",
-      "stars": 4024,
-      "forks": 147,
+      "stars": 4026,
+      "forks": 148,
       "language": "Go",
       "topics": [
         "game-engine",
@@ -921,7 +921,7 @@
         "golang"
       ],
       "created_at": "2023-11-17T19:13:22Z",
-      "updated_at": "2026-01-03T12:35:08Z",
+      "updated_at": "2026-01-03T14:56:49Z",
       "pushed_at": "2026-01-03T05:21:54Z",
       "open_issues": 74,
       "owner": {
@@ -937,7 +937,7 @@
       "full_name": "fastfetch-cli/fastfetch",
       "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
       "html_url": "https://github.com/fastfetch-cli/fastfetch",
-      "stars": 19077,
+      "stars": 19078,
       "forks": 648,
       "language": "C",
       "topics": [
@@ -950,7 +950,7 @@
         "terminal"
       ],
       "created_at": "2021-02-18T21:25:19Z",
-      "updated_at": "2026-01-03T13:39:53Z",
+      "updated_at": "2026-01-03T14:27:11Z",
       "pushed_at": "2026-01-01T15:35:31Z",
       "open_issues": 39,
       "owner": {
@@ -966,12 +966,12 @@
       "full_name": "t895/DNSNet",
       "description": "DNS filter for Android",
       "html_url": "https://github.com/t895/DNSNet",
-      "stars": 638,
+      "stars": 639,
       "forks": 27,
       "language": "Kotlin",
       "topics": [],
       "created_at": "2024-04-19T16:36:07Z",
-      "updated_at": "2026-01-03T12:55:37Z",
+      "updated_at": "2026-01-03T14:30:18Z",
       "pushed_at": "2026-01-01T23:47:37Z",
       "open_issues": 29,
       "owner": {
@@ -987,7 +987,7 @@
       "full_name": "valkey-io/valkey",
       "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
       "html_url": "https://github.com/valkey-io/valkey",
-      "stars": 24258,
+      "stars": 24260,
       "forks": 978,
       "language": "C",
       "topics": [
@@ -1001,7 +1001,7 @@
         "valkey-client"
       ],
       "created_at": "2024-03-22T00:42:17Z",
-      "updated_at": "2026-01-03T12:15:41Z",
+      "updated_at": "2026-01-03T14:23:02Z",
       "pushed_at": "2026-01-03T02:41:48Z",
       "open_issues": 575,
       "owner": {
@@ -1017,7 +1017,7 @@
       "full_name": "HelixDB/helix-db",
       "description": "HelixDB is an open-source graph-vector database built from scratch in Rust.",
       "html_url": "https://github.com/HelixDB/helix-db",
-      "stars": 3593,
+      "stars": 3595,
       "forks": 184,
       "language": "Rust",
       "topics": [
@@ -1038,7 +1038,7 @@
         "vectorsearch"
       ],
       "created_at": "2024-11-23T11:02:14Z",
-      "updated_at": "2026-01-03T11:00:13Z",
+      "updated_at": "2026-01-03T14:45:01Z",
       "pushed_at": "2025-12-30T07:50:00Z",
       "open_issues": 25,
       "owner": {
@@ -1054,7 +1054,7 @@
       "full_name": "AAswordman/Operit",
       "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent",
       "html_url": "https://github.com/AAswordman/Operit",
-      "stars": 2895,
+      "stars": 2898,
       "forks": 221,
       "language": "Kotlin",
       "topics": [
@@ -1067,8 +1067,8 @@
         "terminal"
       ],
       "created_at": "2025-03-15T04:24:12Z",
-      "updated_at": "2026-01-03T13:59:29Z",
-      "pushed_at": "2026-01-03T08:05:01Z",
+      "updated_at": "2026-01-03T14:53:35Z",
+      "pushed_at": "2026-01-03T14:08:55Z",
       "open_issues": 42,
       "owner": {
         "login": "AAswordman",
@@ -1097,7 +1097,7 @@
       "created_at": "2020-01-18T21:13:55Z",
       "updated_at": "2026-01-03T13:11:09Z",
       "pushed_at": "2026-01-02T20:34:17Z",
-      "open_issues": 3178,
+      "open_issues": 3181,
       "owner": {
         "login": "bevyengine",
         "avatar_url": "https://avatars.githubusercontent.com/u/60047606?v=4"
@@ -1111,8 +1111,8 @@
       "full_name": "ashishps1/awesome-system-design-resources",
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "html_url": "https://github.com/ashishps1/awesome-system-design-resources",
-      "stars": 28779,
-      "forks": 6613,
+      "stars": 28782,
+      "forks": 6615,
       "language": "Java",
       "topics": [
         "awesome",
@@ -1127,7 +1127,7 @@
         "system-design"
       ],
       "created_at": "2023-10-25T01:50:42Z",
-      "updated_at": "2026-01-03T13:59:46Z",
+      "updated_at": "2026-01-03T15:05:41Z",
       "pushed_at": "2025-12-26T09:47:09Z",
       "open_issues": 7,
       "owner": {
@@ -1167,12 +1167,47 @@
       "stars_today": 30
     },
     {
+      "id": 138552196,
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "html_url": "https://github.com/nautechsystems/nautilus_trader",
+      "stars": 16942,
+      "forks": 2010,
+      "language": "Rust",
+      "topics": [
+        "algorithmic-trading-engine",
+        "artificial-intelligence",
+        "crypto-trading",
+        "equity-trading",
+        "forex",
+        "futures-trading",
+        "machine-learning",
+        "options-trading",
+        "python",
+        "rust",
+        "sports-betting",
+        "trading",
+        "trading-platform"
+      ],
+      "created_at": "2018-06-25T06:26:16Z",
+      "updated_at": "2026-01-03T14:50:11Z",
+      "pushed_at": "2026-01-03T14:29:34Z",
+      "open_issues": 71,
+      "owner": {
+        "login": "nautechsystems",
+        "avatar_url": "https://avatars.githubusercontent.com/u/33360632?v=4"
+      },
+      "readme": "# <img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader-logo.png\" width=\"500\">\n\n[![codecov](https://codecov.io/gh/nautechsystems/nautilus_trader/branch/master/graph/badge.svg?token=DXO9QQI40H)](https://codecov.io/gh/nautechsystems/nautilus_trader)\n[![codspeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/nautechsystems/nautilus_trader)\n![pythons](https://img.shields.io/pypi/pyversions/nautilus_trader)\n![pypi-version](https://img.shields.io/pypi/v/nautilus_trader)\n![pypi-format](https://img.shields.io/pypi/format/nautilus_trader?color=blue)\n[![Downloads](https://pepy.tech/badge/nautilus-trader)](https://pepy.tech/project/nautilus-trader)\n[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/NautilusTrader)\n\n| Branch    | Version                                                                                                                                                                                                                     | Status                                                                                                                                                                                            |\n| :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |\n| `master`  | [![version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnautechsystems%2Fnautilus_trader%2Fmaster%2Fversion.json)](https://packages.nautechsystems.io/simple/nautilus-trader/index.html)  | [![build](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml)  |\n| `nightly` | [![version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnautechsystems%2Fnautilus_trader%2Fnightly%2Fversion.json)](https://packages.nautechsystems.io/simple/nautilus-trader/index.html) | [![build](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml/badge.svg?branch=nightly)](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml) |\n| `develop` | [![version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnautechsystems%2Fnautilus_trader%2Fdevelop%2Fversion.json)](https://packages.nautechsystems.io/simple/nautilus-trader/index.html) | [![build](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml/badge.svg?branch=develop)](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml) |\n\n| Platform           | Rust   | Python    |\n| :----------------- | :----- | :-------- |\n| `Linux (x86_64)`   | 1.92.0 | 3.12-3.14 |\n| `Linux (ARM64)`    | 1.92.0 | 3.12-3.14 |\n| `macOS (ARM64)`    | 1.92.0 | 3.12-3.14 |\n| `Windows (x86_64)` | 1.92.0 | 3.12-3.14 |\n\n- **Docs**: <https://nautilustrader.io/docs/>\n- **Website**: <https://nautilustrader.io>\n- **Support**: [support@nautilustrader.io](mailto:support@nautilustrader.io)\n\n## Introduction\n\nNautilusTrader is an open-source, high-performance, production-grade algorithmic trading platform,\nproviding quantitative traders with the ability to backtest portfolios of automated trading strategies\non historical data with an event-driven engine, and also deploy those same strategies live, with no code changes.\n\nThe platform is *AI-first*, designed to develop and deploy algorithmic trading strategies within a highly performant\nand robust Python-native environment. This helps to address the parity challenge of keeping the Python research/backtest\nenvironment consistent with the production live trading environment.\n\nNautilusTrader's design, architecture, and implementation philosophy prioritizes software correctness and safety at the\nhighest level, with the aim of supporting Python-native, mission-critical, trading system backtesting\nand live deployment workloads.\n\nThe platform is also universal, and asset-class-agnostic — with any REST API or WebSocket feed able to be integrated via modular\nadapters. It supports high-frequency trading across a wide range of asset classes and instrument types\nincluding FX, Equities, Futures, Options, Crypto, DeFi, and Betting — enabling seamless operations across multiple venues simultaneously.\n\n![nautilus-trader](https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader.png \"nautilus-trader\")\n\n## Features\n\n- **Fast**: Core is written in Rust with asynchronous networking using [tokio](https://crates.io/crates/tokio).\n- **Reliable**: Rust-powered type- and thread-safety, with optional Redis-backed state persistence.\n- **Portable**: OS independent, runs on Linux, macOS, and Windows. Deploy using Docker.\n- **Flexible**: Modular adapters mean any REST API or WebSocket feed can be integrated.\n- **Advanced**: Time in force `IOC`, `FOK`, `GTC`, `GTD`, `DAY`, `AT_THE_OPEN`, `AT_THE_CLOSE`, advanced order types and conditional triggers. Execution instructions `post-only`, `reduce-only`, and icebergs. Contingency orders including `OCO`, `OUO`, `OTO`.\n- **Customizable**: Add user-defined custom components, or assemble entire systems from scratch leveraging the [cache](https://nautilustrader.io/docs/latest/concepts/cache) and [message bus](https://nautilustrader.io/docs/latest/concepts/message_bus).\n- **Backtesting**: Run with multiple venues, instruments and strategies simultaneously using historical quote tick, trade tick, bar, order book and custom data with nanosecond resolution.\n- **Live**: Use identical strategy implementations between backtesting and live deployments.\n- **Multi-venue**: Multiple venue capabilities facilitate market-making and statistical arbitrage strategies.\n- **AI Training**: Backtest engine fast enough to be used to train AI trading agents (RL/ES).\n\n![Alt text](https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-art.png \"nautilus\")\n\n> *nautilus - from ancient Greek 'sailor' and naus 'ship'.*\n>\n> *The nautilus shell consists of modular chambers with a growth factor which approximates a logarithmic spiral.\n> The idea is that this can be translated to the aesthetics of design and architecture.*\n\n## Why NautilusTrader?\n\n- **Highly performant event-driven Python**: Native binary core components.\n- **Parity between backtesting and live trading**: Identical strategy code.\n- **Reduced operational risk**: Enhanced risk management functionality, logical accuracy, and type safety.\n- **Highly extendable**: Message bus, custom components and actors, custom data, custom adapters.\n\nTraditionally, trading strategy research and backtesting might be conducted in Python\nusing vectorized methods, with the strategy then needing to be reimplemented in a more event-driven way\nusing C++, C#, Java or other statically typed language(s). The reasoning here is that vectorized backtesting code cannot\nexpress the granular time and event dependent complexity of real-time trading, where compiled languages have\nproven to be more suitable due to their inherently higher performance, and type safety.\n\nOne of the key advantages of NautilusTrader here, is that this reimplementation step is now circumvented - as the critical core components of the platform\nhave all been written entirely in [Rust](https://www.rust-lang.org/) or [Cython](https://cython.org/).\nThis means we're using the right tools for the job, where systems programming languages compile performant binaries,\nwith CPython C extension modules then able to offer a Python-native environment, suitable for professional quantitative traders and trading firms.\n\n## Why Python?\n\nPython was originally created decades ago as a simple scripting language with a clean straightforward syntax.\nIt has since evolved into a fully fledged general purpose object-oriented programming language.\nBased on the TIOBE index, Python is currently the most popular programming language in the world.\nNot only that, Python has become the *de facto lingua franca* of data science, machine learning, and artificial intelligence.\n\n## Why Rust?\n\n[Rust](https://www.rust-lang.org/) is a multi-paradigm programming language designed for performance and safety, especially safe\nconcurrency. Rust is \"blazingly fast\" and memory-efficient (comparable to C and C++) with no garbage collector.\nIt can power mission-critical systems, run on embedded devices, and easily integrates with other languages.\n\nRust's rich type system and ownership model guarantee memory-safety and thread-safety in safe code,\neliminating many classes of bugs at compile-time. Overall safety in this project also depends on\ncorrectly upheld invariants in unsafe blocks and FFI boundaries.\n\nThe project increasingly utilizes Rust for core performance-critical components. Python bindings are implemented via Cython and [PyO3](https://pyo3.rs)—no Rust toolchain is required at install time.\n\nThis project makes the [Soundness Pledge](https://raphlinus.github.io/rust/2020/01/18/soundness-pledge.html):\n\n> “The intent of this project is to be free of soundness bugs.\n> The developers will do their best to avoid them, and welcome help in analyzing and fixing them.”\n\n> [!NOTE]\n>\n> **MSRV:** NautilusTrader relies heavily on improvements in the Rust language and compiler.\n> As a result, the Minimum Supported Rust Version (MSRV) is generally equal to the latest stable release of Rust.\n\n## Integrations\n\nNautilusTrader is modularly designed to work with *adapters*, enabling connectivity to trading venues\nand data providers by translating their raw APIs into a unified interface and normalized domain model.\n\nThe following integrations are currently supported; see [docs/integrations/](https://nautilustrader.io/docs/latest/integrations/) for details:\n\n| Name                                                                         | ID                    | Type                    | Status                                                  | Docs                                        |\n| :--------------------------------------------------------------------------- | :-------------------- | :---------------------- | :------------------------------------------------------ | :------------------------------------------ |\n| [AX Exchange](https://architect.exchange)                                    | `AX`                  | Perpetuals Exchange     | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/architect.md)     |\n| [Architect](https://architect.co)                                            | `ARCHITECT`           | Brokerage (multi-venue) | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/architect.md)     |\n| [Betfair](https://betfair.com)                                               | `BETFAIR`             | Sports Betting Exchange | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/betfair.md)       |\n| [Binance](https://binance.com)                                               | `BINANCE`             | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/binance.md)       |\n| [BitMEX](https://www.bitmex.com)                                             | `BITMEX`              | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/bitmex.md)        |\n| [Bybit](https://www.bybit.com)                                               | `BYBIT`               | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/bybit.md)         |\n| [Coinbase International](https://www.coinbase.com/en/international-exchange) | `COINBASE_INTX`       | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/coinbase_intx.md) |\n| [Databento](https://databento.com)                                           | `DATABENTO`           | Data Provider           | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/databento.md)     |\n| [Deribit](https://www.deribit.com)                                           | `DERIBIT`             | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/deribit.md)       |\n| [dYdX v3](https://dydx.exchange/)                                            | `DYDX`                | Crypto Exchange (DEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/dydx.md)          |\n| [dYdX v4](https://dydx.exchange/)                                            | `DYDX`                | Crypto Exchange (DEX)   | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/dydx.md)          |\n| [Hyperliquid](https://hyperliquid.xyz)                                       | `HYPERLIQUID`         | Crypto Exchange (DEX)   | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/hyperliquid.md)   |\n| [Interactive Brokers](https://www.interactivebrokers.com)                    | `INTERACTIVE_BROKERS` | Brokerage (multi-venue) | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/ib.md)            |\n| [Kraken](https://kraken.com)                                                 | `KRAKEN`              | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/beta-yellow)     | [Guide](docs/integrations/kraken.md)        |\n| [OKX](https://okx.com)                                                       | `OKX`                 | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/okx.md)           |\n| [Polymarket](https://polymarket.com)                                         | `POLYMARKET`          | Prediction Market (DEX) | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/polymarket.md)    |\n| [Tardis](https://tardis.dev)                                                 | `TARDIS`              | Crypto Data Provider    | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/tardis.md)        |\n\n- **ID**: The default client ID for the integrations adapter clients.\n- **Type**: The type of integration (often the venue type).\n\n### Status\n\n- `building`: Under construction and likely not in a usable state.\n- `beta`: Completed to a minimally working state and in a beta testing phase.\n- `stable`: Stabilized feature set and API, the integration has been tested by both developers and users to a reasonable level (some bugs may still remain).\n\nSee the [Integrations](https://nautilustrader.io/docs/latest/integrations/) documentation for further details.\n\n## Versioning and releases\n\n> [!WARNING]\n>\n> **NautilusTrader is still under active development**. Some features may be incomplete, and while\n> the API is becoming more stable, breaking changes can occur between releases.\n> We strive to document these changes in the release notes on a **best-effort basis**.\n\nWe aim to follow a **bi-weekly release schedule**, though experimental or larger features may cause delays.\n\n### Branches\n\nWe aim to maintain a stable, passing build across all branches.\n\n- `master`: Reflects the source code for the latest released version; recommended for production use.\n- `nightly`: Daily snapshots of the `develop` branch for early testing; merged at **14:00 UTC** and as required.\n- `develop`: Active development branch for contributors and feature work.\n\n> [!NOTE]\n>\n> Our [roadmap](/ROADMAP.md) aims to achieve a **stable API for version 2.x** (likely after the Rust port).\n> Once this milestone is reached, we plan to implement a formal deprecation process for any API changes.\n> This approach allows us to maintain a rapid development pace for now.\n\n## Precision mode\n\nNautilusTrader supports two precision modes for its core value types (`Price`, `Quantity`, `Money`),\nwhich differ in their internal bit-width and maximum decimal precision.\n\n- **High-precision**: 128-bit integers with up to 16 decimals of precision, and a larger value range.\n- **Standard-precision**: 64-bit integers with up to 9 decimals of precision, and a smaller value range.\n\n> [!NOTE]\n>\n> By default, the official Python wheels ship in high-precision (128-bit) mode on Linux and macOS.\n> On Windows, only standard-precision (64-bit) is available due to the lack of native 128-bit integer support.\n> For the Rust crates, the default is standard-precision unless you explicitly enable the `high-precision` feature flag.\n\nSee the [Installation Guide](https://nautilustrader.io/docs/latest/getting_started/installation) for further details.\n\n**Rust feature flag**: To enable high-precision mode in Rust, add the `high-precision` feature to your Cargo.toml:\n\n```toml\n[dependencies]\nnautilus_model = { version = \"*\", features = [\"high-precision\"] }\n```\n\n## Installation\n\nWe recommend using the latest supported version of Python and installing [nautilus_trader](https://pypi.org/project/nautilus_trader/) inside a virtual environment to isolate dependencies.\n\n**There are two supported ways to install**:\n\n1. Pre-built binary wheel from PyPI *or* the Nautech Systems package index.\n2. Build from source.\n\n> [!TIP]\n>\n> We highly recommend installing using the [uv](https://docs.astral.sh/uv) package manager with a \"vanilla\" CPython.\n>\n> Conda and other Python distributions *may* work but aren’t officially supported.\n\n### From PyPI\n\nTo install the latest binary wheel (or sdist package) from PyPI using Python's pip package manager:\n\n```bash\npip install -U nautilus_trader\n```\n\nInstall optional dependencies as 'extras' for specific integrations (e.g., `betfair`, `docker`, `dydx`, `ib`, `polymarket`, `visualization`):\n\n```bash\npip install -U \"nautilus_trader[docker,ib]\"\n```\n\nSee the [Installation Guide](https://nautilustrader.io/docs/latest/getting_started/installation#extras) for the full list of available extras.\n\n### From the Nautech Systems package index\n\nThe Nautech Systems package index (`packages.nautechsystems.io`) complies with [PEP-503](https://peps.python.org/pep-0503/) and hosts both stable and development binary wheels for `nautilus_trader`.\nThis enables users to install either the latest stable release or pre-release versions for testing.\n\n#### Stable wheels\n\nStable wheels correspond to official releases of `nautilus_trader` on PyPI, and use standard versioning.\n\nTo install the latest stable release:\n\n```bash\npip install -U nautilus_trader --index-url=https://packages.nautechsystems.io/simple\n```\n\n> [!TIP]\n>\n> Use `--extra-index-url` instead of `--index-url` if you want pip to fall back to PyPI automatically:\n\n#### Development wheels\n\nDevelopment wheels are published from both the `nightly` and `develop` branches,\nallowing users to test features and fixes ahead of stable releases.\n\nThis process also helps preserve compute resources and provides easy access to the exact binaries tested in CI pipelines,\nwhile adhering to [PEP-440](https://peps.python.org/pep-0440/) versioning standards:\n\n- `develop` wheels use the version format `dev{date}+{build_number}` (e.g., `1.208.0.dev20241212+7001`).\n- `nightly` wheels use the version format `a{date}` (alpha) (e.g., `1.208.0a20241212`).\n\n| Platform           | Nightly | Develop |\n| :----------------- | :------ | :------ |\n| `Linux (x86_64)`   | ✓       | ✓       |\n| `Linux (ARM64)`    | ✓       | -       |\n| `macOS (ARM64)`    | ✓       | ✓       |\n| `Windows (x86_64)` | ✓       | ✓       |\n\n**Note**: Development wheels from the `develop` branch publish for every supported platform except Linux ARM64.\nSkipping that target keeps CI feedback fast while avoiding unnecessary build resource usage.\n\n> [!WARNING]\n>\n> We do not recommend using development wheels in production environments, such as live trading controlling real capital.\n\n#### Installation commands\n\nBy default, pip will install the latest stable release. Adding the `--pre` flag ensures that pre-release versions, including development wheels, are considered.\n\nTo install the latest available pre-release (including development wheels):\n\n```bash\npip install -U nautilus_trader --pre --index-url=https://packages.nautechsystems.io/simple\n```\n\nTo install a specific development wheel (e.g., `1.221.0a20251026` for October 26, 2025):\n\n```bash\npip install nautilus_trader==1.221.0a20251026 --index-url=https://packages.nautechsystems.io/simple\n```\n\n#### Available versions\n\nYou can view all available versions of `nautilus_trader` on the [package index](https://packages.nautechsystems.io/simple/nautilus-trader/index.html).\n\nTo programmatically fetch and list available versions:\n\n```bash\ncurl -s https://packages.nautechsystems.io/simple/nautilus-trader/index.html | grep -oP '(?<=<a href=\")[^\"]+(?=\")' | awk -F'#' '{print $1}' | sort\n```\n\n> [!NOTE]\n>\n> On Linux, confirm your glibc version with `ldd --version` and ensure it reports **2.35** or newer before installing binary wheels.\n\n#### Branch updates\n\n- `develop` branch wheels (`.dev`): Build and publish continuously with every merged commit.\n- `nightly` branch wheels (`a`): Build and publish daily when we automatically merge the `develop` branch at **14:00 UTC** (if there are changes).\n\n#### Retention policies\n\n- `develop` branch wheels (`.dev`): We retain only the most recent wheel build.\n- `nightly` branch wheels (`a`): We retain only the 30 most recent wheel builds.\n\n#### Verifying build provenance\n\nAll release artifacts (wheels and source distributions) published to PyPI, GitHub Releases,\nand the Nautech Systems package index include cryptographic attestations that prove their authenticity and build provenance.\n\nThese attestations are generated automatically during the CI/CD pipeline using [SLSA](https://slsa.dev/) build provenance, and can be verified to ensure:\n\n- The artifact was built by the official NautilusTrader GitHub Actions workflow.\n- The artifact corresponds to a specific commit SHA in the repository.\n- The artifact hasn't been tampered with since it was built.\n\nTo verify a wheel file using the GitHub CLI:\n\n```bash\ngh attestation verify nautilus_trader-1.220.0-*.whl --owner nautechsystems\n```\n\nThis provides supply chain security by allowing you to cryptographically verify that the installed package came from the official NautilusTrader build process.\n\n> [!NOTE]\n>\n> Attestation verification requires the [GitHub CLI](https://cli.github.com/) (`gh`) to be installed.\n> Development wheels from `develop` and `nightly` branches are also attested and can be verified the same way.\n\n### From source\n\nIt's possible to install from source using pip if you first install the build dependencies as specified in the `pyproject.toml`.\n\n1. Install [rustup](https://rustup.rs/) (the Rust toolchain installer):\n   - Linux and macOS:\n\n       ```bash\n       curl https://sh.rustup.rs -sSf | sh\n       ```\n\n   - Windows:\n       - Download and install [`rustup-init.exe`](https://win.rustup.rs/x86_64)\n       - Install \"Desktop development with C++\" using [Build Tools for Visual Studio 2022](https://visualstudio.microsoft.com/visual-cpp-build-tools/)\n   - Verify (any system):\n       from a terminal session run: `rustc --version`\n\n2. Enable `cargo` in the current shell:\n   - Linux and macOS:\n\n       ```bash\n       source $HOME/.cargo/env\n       ```\n\n   - Windows:\n     - Start a new PowerShell\n\n3. Install [clang](https://clang.llvm.org/) (a C language frontend for LLVM):\n   - Linux:\n\n       ```bash\n       sudo apt-get install clang\n       ```\n\n   - Windows:\n       1. Add Clang to your [Build Tools for Visual Studio 2022](https://visualstudio.microsoft.com/visual-cpp-build-tools/):\n          - Start | Visual Studio Installer | Modify | C++ Clang tools for Windows (latest) = checked | Modify\n       2. Enable `clang` in the current shell:\n\n          ```powershell\n          [System.Environment]::SetEnvironmentVariable('path', \"C:\\Program Files\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\Llvm\\x64\\bin\\;\" + $env:Path,\"User\")\n          ```\n\n   - Verify (any system):\n       from a terminal session run: `clang --version`\n\n4. Install uv (see the [uv installation guide](https://docs.astral.sh/uv/getting-started/installation) for more details):\n\n    - Linux and macOS:\n\n        ```bash\n        curl -LsSf https://astral.sh/uv/install.sh | sh\n        ```\n\n    - Windows (PowerShell):\n\n        ```powershell\n        irm https://astral.sh/uv/install.ps1 | iex\n        ```\n\n5. Clone the source with `git`, and install from the project's root directory:\n\n    ```bash\n    git clone --branch develop --depth 1 https://github.com/nautechsystems/nautilus_trader\n    cd nautilus_trader\n    uv sync --all-extras\n    ```\n\n> [!NOTE]\n>\n> The `--depth 1` flag fetches just the latest commit for a faster, lightweight clone.\n\n6. Set environment variables for PyO3 compilation (Linux and macOS only):\n\n    ```bash\n    # Linux only: Set the library path for the Python interpreter\n    export LD_LIBRARY_PATH=\"$(python -c 'import sys; print(sys.base_prefix)')/lib:$LD_LIBRARY_PATH\"\n\n    # Set the Python executable path for PyO3\n    export PYO3_PYTHON=$(pwd)/.venv/bin/python\n\n    # Required for Rust tests when using uv-installed Python\n    export PYTHONHOME=$(python -c \"import sys; print(sys.base_prefix)\")\n    ```\n\n> [!NOTE]\n>\n> The `LD_LIBRARY_PATH` export is Linux-specific and not needed on macOS.\n>\n> The `PYTHONHOME` variable is required when running `make cargo-test` with a `uv`-installed Python.\n> Without it, tests that depend on PyO3 may fail to locate the Python runtime.\n\nSee the [Installation Guide](https://nautilustrader.io/docs/latest/getting_started/installation) for other options and further details.\n\n## Redis\n\nUsing [Redis](https://redis.io) with NautilusTrader is **optional** and only required if configured as the backend for a\n[cache](https://nautilustrader.io/docs/latest/concepts/cache) database or [message bus](https://nautilustrader.io/docs/latest/concepts/message_bus).\nSee the **Redis** section of the [Installation Guide](https://nautilustrader.io/docs/latest/getting_started/installation#redis) for further details.\n\n## Makefile\n\nA `Makefile` is provided to automate most installation and build tasks for development. Some of the targets include:\n\n- `make install`: Installs in `release` build mode with all dependency groups and extras.\n- `make install-debug`: Same as `make install` but with `debug` build mode.\n- `make install-just-deps`: Installs just the `main`, `dev` and `test` dependencies (does not install package).\n- `make build`: Runs the build script in `release` build mode (default).\n- `make build-debug`: Runs the build script in `debug` build mode.\n- `make build-wheel`: Runs uv build with a wheel format in `release` mode.\n- `make build-wheel-debug`: Runs uv build with a wheel format in `debug` mode.\n- `make cargo-test`: Runs all Rust crate tests using `cargo-nextest`.\n- `make clean`: Deletes all build results, such as `.so` or `.dll` files.\n- `make distclean`: **CAUTION** Removes all artifacts not in the git index from the repository. This includes source files which have not been `git add`ed.\n- `make docs`: Builds the documentation HTML using Sphinx.\n- `make pre-commit`: Runs the pre-commit checks over all files.\n- `make ruff`: Runs ruff over all files using the `pyproject.toml` config (with autofix).\n- `make pytest`: Runs all tests with `pytest`.\n- `make test-performance`: Runs performance tests with [codspeed](https://codspeed.io).\n\n> [!TIP]\n>\n> Run `make help` for documentation on all available make targets.\n\n> [!TIP]\n>\n> See the [crates/infrastructure/TESTS.md](https://github.com/nautechsystems/nautilus_trader/blob/develop/crates/infrastructure/TESTS.md) file for running the infrastructure integration tests.\n\n## Examples\n\nIndicators and strategies can be developed in both Python and Cython. For performance and\nlatency-sensitive applications, we recommend using Cython. Below are some examples:\n\n- [indicator](/nautilus_trader/examples/indicators/ema_python.py) example written in Python.\n- [indicator](/nautilus_trader/indicators/) implementations written in Cython.\n- [strategy](/nautilus_trader/examples/strategies/) examples written in Python.\n- [backtest](/examples/backtest/) examples using a `BacktestEngine` directly.\n\n## Docker\n\nDocker containers are built using the base image `python:3.12-slim` with the following variant tags:\n\n- `nautilus_trader:latest` has the latest release version installed.\n- `nautilus_trader:nightly` has the head of the `nightly` branch installed.\n- `jupyterlab:latest` has the latest release version installed along with `jupyterlab` and an\n  example backtest notebook with accompanying data.\n- `jupyterlab:nightly` has the head of the `nightly` branch installed along with `jupyterlab` and an\n  example backtest notebook with accompanying data.\n\nYou can pull the container images as follows:\n\n```bash\ndocker pull ghcr.io/nautechsystems/<image_variant_tag> --platform linux/amd64\n```\n\nYou can launch the backtest example container by running:\n\n```bash\ndocker pull ghcr.io/nautechsystems/jupyterlab:nightly --platform linux/amd64\ndocker run -p 8888:8888 ghcr.io/nautechsystems/jupyterlab:nightly\n```\n\nThen open your browser at the following address:\n\n```bash\nhttp://127.0.0.1:8888/lab\n```\n\n> [!WARNING]\n>\n> NautilusTrader currently exceeds the rate limit for Jupyter notebook logging (stdout output).\n> Therefore, we set the `log_level` to `ERROR` in the examples. Lowering this level to see more\n> logging will cause the notebook to hang during cell execution. We are investigating a fix that\n> may involve either raising the configured rate limits for Jupyter or throttling the log flushing\n> from Nautilus.\n>\n> - <https://github.com/jupyterlab/jupyterlab/issues/12845>\n> - <https://github.com/deshaw/jupyterlab-limit-output>\n\n## Development\n\nWe aim to provide the most pleasant developer experience possible for this hybrid codebase of Python, Cython and Rust.\nSee the [Developer Guide](https://nautilustrader.io/docs/latest/developer_guide/) for helpful information.\n\n> [!TIP]\n>\n> Run `make build-debug` to compile after changes to Rust or Cython code for the most efficient development workflow.\n\n### Testing with Rust\n\n[cargo-nextest](https://nexte.st) is the standard Rust test runner for NautilusTrader.\nIts key benefit is isolating each test in its own process, ensuring test reliability\nby avoiding interference.\n\nYou can install cargo-nextest by running:\n\n```bash\ncargo install cargo-nextest\n```\n\n> [!TIP]\n>\n> Run Rust tests with `make cargo-test`, which uses **cargo-nextest** with an efficient profile.\n\n## Contributing\n\nThank you for considering contributing to NautilusTrader! We welcome any and all help to improve\nthe project. If you have an idea for an enhancement or a bug fix, the first step is to open an [issue](https://github.com/nautechsystems/nautilus_trader/issues)\non GitHub to discuss it with the team. This helps to ensure that your contribution will be\nwell-aligned with the goals of the project and avoids duplication of effort.\n\nBefore getting started, be sure to review the [open-source scope](/ROADMAP.md#open-source-scope) outlined in the project’s roadmap to understand what’s in and out of scope.\n\nOnce you're ready to start working on your contribution, make sure to follow the guidelines\noutlined in the [CONTRIBUTING.md](https://github.com/nautechsystems/nautilus_trader/blob/develop/CONTRIBUTING.md) file. This includes signing a Contributor License Agreement (CLA)\nto ensure that your contributions can be included in the project.\n\n> [!NOTE]\n>\n> Pull requests should target the `develop` branch (the default branch). This is where new features and improvements are integrated before release.\n\nThank you again for your interest in NautilusTrader! We look forward to reviewing your contributions and working with you to improve the project.\n\n## Community\n\nJoin our community of users and contributors on [Discord](https://discord.gg/NautilusTrader) to chat\nand stay up-to-date with the latest announcements and features of NautilusTrader. Whether you're a\ndeveloper looking to contribute or just want to learn more about the platform, all are welcome on our Discord server.\n\n> [!WARNING]\n>\n> NautilusTrader does not issue, promote, or endorse any cryptocurrency tokens. Any claims or communications suggesting otherwise are unauthorized and false.\n>\n> All official updates and communications from NautilusTrader will be shared exclusively through <https://nautilustrader.io>, our [Discord server](https://discord.gg/NautilusTrader),\n> or our X (Twitter) account: [@NautilusTrader](https://x.com/NautilusTrader).\n>\n> If you encounter any suspicious activity, please report it to the appropriate platform and contact us at <info@nautechsystems.io>.\n\n## License\n\nThe source code for NautilusTrader is available on GitHub under the [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html).\nContributions to the project are welcome and require the completion of a standard [Contributor License Agreement (CLA)](https://github.com/nautechsystems/nautilus_trader/blob/develop/CLA.md).\n\n---\n\nNautilusTrader™ is developed and maintained by Nautech Systems, a technology\ncompany specializing in the development of high-performance trading systems.\nFor more information, visit <https://nautilustrader.io>.\n\n© 2015-2026 Nautech Systems Pty Ltd. All rights reserved.\n\n![nautechsystems](https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/ns-logo.png \"nautechsystems\")\n<img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/ferris.png\" width=\"128\">\n",
+      "stars_today": 29
+    },
+    {
       "id": 319779344,
       "name": "maplibre-gl-js",
       "full_name": "maplibre/maplibre-gl-js",
       "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
       "html_url": "https://github.com/maplibre/maplibre-gl-js",
-      "stars": 8944,
+      "stars": 8958,
       "forks": 954,
       "language": "TypeScript",
       "topics": [
@@ -1184,7 +1219,7 @@
         "webgl2"
       ],
       "created_at": "2020-12-08T22:42:56Z",
-      "updated_at": "2026-01-03T14:01:26Z",
+      "updated_at": "2026-01-03T15:03:41Z",
       "pushed_at": "2026-01-02T08:23:58Z",
       "open_issues": 403,
       "owner": {
@@ -1200,12 +1235,12 @@
       "full_name": "touchHLE/touchHLE",
       "description": "High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE",
       "html_url": "https://github.com/touchHLE/touchHLE",
-      "stars": 3348,
+      "stars": 3349,
       "forks": 185,
       "language": "Rust",
       "topics": [],
       "created_at": "2022-12-01T18:03:56Z",
-      "updated_at": "2026-01-03T13:36:55Z",
+      "updated_at": "2026-01-03T14:50:32Z",
       "pushed_at": "2026-01-02T21:33:13Z",
       "open_issues": 81,
       "owner": {
@@ -1222,7 +1257,7 @@
       "description": ":zap: Dynamically generated stats for your github readmes",
       "html_url": "https://github.com/anuraghazra/github-readme-stats",
       "stars": 77766,
-      "forks": 28837,
+      "forks": 28839,
       "language": "JavaScript",
       "topics": [
         "dynamic",
@@ -1248,12 +1283,12 @@
       "full_name": "apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
       "html_url": "https://github.com/apple/container",
-      "stars": 23057,
+      "stars": 23059,
       "forks": 574,
       "language": "Swift",
       "topics": [],
       "created_at": "2025-05-30T21:26:05Z",
-      "updated_at": "2026-01-03T14:02:10Z",
+      "updated_at": "2026-01-03T14:30:45Z",
       "pushed_at": "2026-01-02T22:10:48Z",
       "open_issues": 250,
       "owner": {
@@ -1269,12 +1304,12 @@
       "full_name": "brunodev85/winlator",
       "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "html_url": "https://github.com/brunodev85/winlator",
-      "stars": 16008,
+      "stars": 16011,
       "forks": 1132,
       "language": "C",
       "topics": [],
       "created_at": "2023-07-26T13:02:11Z",
-      "updated_at": "2026-01-03T13:43:18Z",
+      "updated_at": "2026-01-03T14:59:14Z",
       "pushed_at": "2025-09-26T20:20:22Z",
       "open_issues": 389,
       "owner": {
@@ -1324,7 +1359,7 @@
       "full_name": "stackia/rtp2httpd",
       "description": "Multicast RTP/RTSP to Unicast HTTP stream converter, optimized for China IPTV",
       "html_url": "https://github.com/stackia/rtp2httpd",
-      "stars": 952,
+      "stars": 953,
       "forks": 161,
       "language": "C",
       "topics": [
@@ -1341,7 +1376,7 @@
         "udpxy"
       ],
       "created_at": "2023-09-09T16:00:41Z",
-      "updated_at": "2026-01-03T14:01:55Z",
+      "updated_at": "2026-01-03T15:00:07Z",
       "pushed_at": "2026-01-01T07:59:50Z",
       "open_issues": 25,
       "owner": {
@@ -1382,7 +1417,7 @@
       "full_name": "obsproject/obs-studio",
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "html_url": "https://github.com/obsproject/obs-studio",
-      "stars": 69440,
+      "stars": 69442,
       "forks": 8941,
       "language": "C",
       "topics": [
@@ -1399,7 +1434,7 @@
         "youtube-live"
       ],
       "created_at": "2013-10-01T02:40:31Z",
-      "updated_at": "2026-01-03T13:35:50Z",
+      "updated_at": "2026-01-03T14:34:21Z",
       "pushed_at": "2025-12-28T00:52:53Z",
       "open_issues": 1081,
       "owner": {
@@ -1415,7 +1450,7 @@
       "full_name": "uber/h3",
       "description": "Hexagonal hierarchical geospatial indexing system",
       "html_url": "https://github.com/uber/h3",
-      "stars": 5804,
+      "stars": 5805,
       "forks": 541,
       "language": "C",
       "topics": [
@@ -1426,7 +1461,7 @@
         "uber"
       ],
       "created_at": "2017-12-21T01:38:35Z",
-      "updated_at": "2026-01-03T13:56:50Z",
+      "updated_at": "2026-01-03T14:56:34Z",
       "pushed_at": "2025-12-22T00:27:48Z",
       "open_issues": 144,
       "owner": {
@@ -1442,7 +1477,7 @@
       "full_name": "vsouza/awesome-ios",
       "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects ",
       "html_url": "https://github.com/vsouza/awesome-ios",
-      "stars": 50898,
+      "stars": 50899,
       "forks": 6940,
       "language": "Swift",
       "topics": [
@@ -1461,7 +1496,7 @@
         "swift-programming"
       ],
       "created_at": "2014-07-10T16:03:45Z",
-      "updated_at": "2026-01-03T13:20:05Z",
+      "updated_at": "2026-01-03T14:07:39Z",
       "pushed_at": "2025-09-29T17:35:43Z",
       "open_issues": 7,
       "owner": {
@@ -1477,7 +1512,7 @@
       "full_name": "mpv-player/mpv",
       "description": "🎥 Command line media player",
       "html_url": "https://github.com/mpv-player/mpv",
-      "stars": 33248,
+      "stars": 33249,
       "forks": 3185,
       "language": "C",
       "topics": [
@@ -1490,7 +1525,7 @@
         "video"
       ],
       "created_at": "2012-10-13T08:08:44Z",
-      "updated_at": "2026-01-03T13:26:28Z",
+      "updated_at": "2026-01-03T14:08:48Z",
       "pushed_at": "2026-01-02T19:04:32Z",
       "open_issues": 1076,
       "owner": {
@@ -1548,8 +1583,8 @@
       "full_name": "kunal-kushwaha/DSA-Bootcamp-Java",
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "html_url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
-      "stars": 21491,
-      "forks": 12894,
+      "stars": 21494,
+      "forks": 12893,
       "language": "Java",
       "topics": [
         "algorithms",
@@ -1567,7 +1602,7 @@
         "math"
       ],
       "created_at": "2021-07-30T12:23:25Z",
-      "updated_at": "2026-01-03T12:47:08Z",
+      "updated_at": "2026-01-03T14:39:35Z",
       "pushed_at": "2024-08-18T08:21:57Z",
       "open_issues": 624,
       "owner": {
@@ -1578,47 +1613,12 @@
       "stars_today": 17
     },
     {
-      "id": 138552196,
-      "name": "nautilus_trader",
-      "full_name": "nautechsystems/nautilus_trader",
-      "description": "A high-performance algorithmic trading platform and event-driven backtester",
-      "html_url": "https://github.com/nautechsystems/nautilus_trader",
-      "stars": 16938,
-      "forks": 2010,
-      "language": "Rust",
-      "topics": [
-        "algorithmic-trading-engine",
-        "artificial-intelligence",
-        "crypto-trading",
-        "equity-trading",
-        "forex",
-        "futures-trading",
-        "machine-learning",
-        "options-trading",
-        "python",
-        "rust",
-        "sports-betting",
-        "trading",
-        "trading-platform"
-      ],
-      "created_at": "2018-06-25T06:26:16Z",
-      "updated_at": "2026-01-03T13:17:44Z",
-      "pushed_at": "2026-01-03T08:40:15Z",
-      "open_issues": 70,
-      "owner": {
-        "login": "nautechsystems",
-        "avatar_url": "https://avatars.githubusercontent.com/u/33360632?v=4"
-      },
-      "readme": "# <img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader-logo.png\" width=\"500\">\n\n[![codecov](https://codecov.io/gh/nautechsystems/nautilus_trader/branch/master/graph/badge.svg?token=DXO9QQI40H)](https://codecov.io/gh/nautechsystems/nautilus_trader)\n[![codspeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/nautechsystems/nautilus_trader)\n![pythons](https://img.shields.io/pypi/pyversions/nautilus_trader)\n![pypi-version](https://img.shields.io/pypi/v/nautilus_trader)\n![pypi-format](https://img.shields.io/pypi/format/nautilus_trader?color=blue)\n[![Downloads](https://pepy.tech/badge/nautilus-trader)](https://pepy.tech/project/nautilus-trader)\n[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/NautilusTrader)\n\n| Branch    | Version                                                                                                                                                                                                                     | Status                                                                                                                                                                                            |\n| :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |\n| `master`  | [![version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnautechsystems%2Fnautilus_trader%2Fmaster%2Fversion.json)](https://packages.nautechsystems.io/simple/nautilus-trader/index.html)  | [![build](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml)  |\n| `nightly` | [![version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnautechsystems%2Fnautilus_trader%2Fnightly%2Fversion.json)](https://packages.nautechsystems.io/simple/nautilus-trader/index.html) | [![build](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml/badge.svg?branch=nightly)](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml) |\n| `develop` | [![version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnautechsystems%2Fnautilus_trader%2Fdevelop%2Fversion.json)](https://packages.nautechsystems.io/simple/nautilus-trader/index.html) | [![build](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml/badge.svg?branch=develop)](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml) |\n\n| Platform           | Rust   | Python    |\n| :----------------- | :----- | :-------- |\n| `Linux (x86_64)`   | 1.92.0 | 3.12-3.14 |\n| `Linux (ARM64)`    | 1.92.0 | 3.12-3.14 |\n| `macOS (ARM64)`    | 1.92.0 | 3.12-3.14 |\n| `Windows (x86_64)` | 1.92.0 | 3.12-3.14 |\n\n- **Docs**: <https://nautilustrader.io/docs/>\n- **Website**: <https://nautilustrader.io>\n- **Support**: [support@nautilustrader.io](mailto:support@nautilustrader.io)\n\n## Introduction\n\nNautilusTrader is an open-source, high-performance, production-grade algorithmic trading platform,\nproviding quantitative traders with the ability to backtest portfolios of automated trading strategies\non historical data with an event-driven engine, and also deploy those same strategies live, with no code changes.\n\nThe platform is *AI-first*, designed to develop and deploy algorithmic trading strategies within a highly performant\nand robust Python-native environment. This helps to address the parity challenge of keeping the Python research/backtest\nenvironment consistent with the production live trading environment.\n\nNautilusTrader's design, architecture, and implementation philosophy prioritizes software correctness and safety at the\nhighest level, with the aim of supporting Python-native, mission-critical, trading system backtesting\nand live deployment workloads.\n\nThe platform is also universal, and asset-class-agnostic — with any REST API or WebSocket feed able to be integrated via modular\nadapters. It supports high-frequency trading across a wide range of asset classes and instrument types\nincluding FX, Equities, Futures, Options, Crypto, DeFi, and Betting — enabling seamless operations across multiple venues simultaneously.\n\n![nautilus-trader](https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader.png \"nautilus-trader\")\n\n## Features\n\n- **Fast**: Core is written in Rust with asynchronous networking using [tokio](https://crates.io/crates/tokio).\n- **Reliable**: Rust-powered type- and thread-safety, with optional Redis-backed state persistence.\n- **Portable**: OS independent, runs on Linux, macOS, and Windows. Deploy using Docker.\n- **Flexible**: Modular adapters mean any REST API or WebSocket feed can be integrated.\n- **Advanced**: Time in force `IOC`, `FOK`, `GTC`, `GTD`, `DAY`, `AT_THE_OPEN`, `AT_THE_CLOSE`, advanced order types and conditional triggers. Execution instructions `post-only`, `reduce-only`, and icebergs. Contingency orders including `OCO`, `OUO`, `OTO`.\n- **Customizable**: Add user-defined custom components, or assemble entire systems from scratch leveraging the [cache](https://nautilustrader.io/docs/latest/concepts/cache) and [message bus](https://nautilustrader.io/docs/latest/concepts/message_bus).\n- **Backtesting**: Run with multiple venues, instruments and strategies simultaneously using historical quote tick, trade tick, bar, order book and custom data with nanosecond resolution.\n- **Live**: Use identical strategy implementations between backtesting and live deployments.\n- **Multi-venue**: Multiple venue capabilities facilitate market-making and statistical arbitrage strategies.\n- **AI Training**: Backtest engine fast enough to be used to train AI trading agents (RL/ES).\n\n![Alt text](https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-art.png \"nautilus\")\n\n> *nautilus - from ancient Greek 'sailor' and naus 'ship'.*\n>\n> *The nautilus shell consists of modular chambers with a growth factor which approximates a logarithmic spiral.\n> The idea is that this can be translated to the aesthetics of design and architecture.*\n\n## Why NautilusTrader?\n\n- **Highly performant event-driven Python**: Native binary core components.\n- **Parity between backtesting and live trading**: Identical strategy code.\n- **Reduced operational risk**: Enhanced risk management functionality, logical accuracy, and type safety.\n- **Highly extendable**: Message bus, custom components and actors, custom data, custom adapters.\n\nTraditionally, trading strategy research and backtesting might be conducted in Python\nusing vectorized methods, with the strategy then needing to be reimplemented in a more event-driven way\nusing C++, C#, Java or other statically typed language(s). The reasoning here is that vectorized backtesting code cannot\nexpress the granular time and event dependent complexity of real-time trading, where compiled languages have\nproven to be more suitable due to their inherently higher performance, and type safety.\n\nOne of the key advantages of NautilusTrader here, is that this reimplementation step is now circumvented - as the critical core components of the platform\nhave all been written entirely in [Rust](https://www.rust-lang.org/) or [Cython](https://cython.org/).\nThis means we're using the right tools for the job, where systems programming languages compile performant binaries,\nwith CPython C extension modules then able to offer a Python-native environment, suitable for professional quantitative traders and trading firms.\n\n## Why Python?\n\nPython was originally created decades ago as a simple scripting language with a clean straightforward syntax.\nIt has since evolved into a fully fledged general purpose object-oriented programming language.\nBased on the TIOBE index, Python is currently the most popular programming language in the world.\nNot only that, Python has become the *de facto lingua franca* of data science, machine learning, and artificial intelligence.\n\n## Why Rust?\n\n[Rust](https://www.rust-lang.org/) is a multi-paradigm programming language designed for performance and safety, especially safe\nconcurrency. Rust is \"blazingly fast\" and memory-efficient (comparable to C and C++) with no garbage collector.\nIt can power mission-critical systems, run on embedded devices, and easily integrates with other languages.\n\nRust's rich type system and ownership model guarantee memory-safety and thread-safety in safe code,\neliminating many classes of bugs at compile-time. Overall safety in this project also depends on\ncorrectly upheld invariants in unsafe blocks and FFI boundaries.\n\nThe project increasingly utilizes Rust for core performance-critical components. Python bindings are implemented via Cython and [PyO3](https://pyo3.rs)—no Rust toolchain is required at install time.\n\nThis project makes the [Soundness Pledge](https://raphlinus.github.io/rust/2020/01/18/soundness-pledge.html):\n\n> “The intent of this project is to be free of soundness bugs.\n> The developers will do their best to avoid them, and welcome help in analyzing and fixing them.”\n\n> [!NOTE]\n>\n> **MSRV:** NautilusTrader relies heavily on improvements in the Rust language and compiler.\n> As a result, the Minimum Supported Rust Version (MSRV) is generally equal to the latest stable release of Rust.\n\n## Integrations\n\nNautilusTrader is modularly designed to work with *adapters*, enabling connectivity to trading venues\nand data providers by translating their raw APIs into a unified interface and normalized domain model.\n\nThe following integrations are currently supported; see [docs/integrations/](https://nautilustrader.io/docs/latest/integrations/) for details:\n\n| Name                                                                         | ID                    | Type                    | Status                                                  | Docs                                        |\n| :--------------------------------------------------------------------------- | :-------------------- | :---------------------- | :------------------------------------------------------ | :------------------------------------------ |\n| [AX Exchange](https://architect.exchange)                                    | `AX`                  | Perpetuals Exchange     | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/architect.md)     |\n| [Architect](https://architect.co)                                            | `ARCHITECT`           | Brokerage (multi-venue) | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/architect.md)     |\n| [Betfair](https://betfair.com)                                               | `BETFAIR`             | Sports Betting Exchange | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/betfair.md)       |\n| [Binance](https://binance.com)                                               | `BINANCE`             | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/binance.md)       |\n| [BitMEX](https://www.bitmex.com)                                             | `BITMEX`              | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/bitmex.md)        |\n| [Bybit](https://www.bybit.com)                                               | `BYBIT`               | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/bybit.md)         |\n| [Coinbase International](https://www.coinbase.com/en/international-exchange) | `COINBASE_INTX`       | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/coinbase_intx.md) |\n| [Databento](https://databento.com)                                           | `DATABENTO`           | Data Provider           | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/databento.md)     |\n| [Deribit](https://www.deribit.com)                                           | `DERIBIT`             | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/deribit.md)       |\n| [dYdX v3](https://dydx.exchange/)                                            | `DYDX`                | Crypto Exchange (DEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/dydx.md)          |\n| [dYdX v4](https://dydx.exchange/)                                            | `DYDX`                | Crypto Exchange (DEX)   | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/dydx.md)          |\n| [Hyperliquid](https://hyperliquid.xyz)                                       | `HYPERLIQUID`         | Crypto Exchange (DEX)   | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/hyperliquid.md)   |\n| [Interactive Brokers](https://www.interactivebrokers.com)                    | `INTERACTIVE_BROKERS` | Brokerage (multi-venue) | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/ib.md)            |\n| [Kraken](https://kraken.com)                                                 | `KRAKEN`              | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/beta-yellow)     | [Guide](docs/integrations/kraken.md)        |\n| [OKX](https://okx.com)                                                       | `OKX`                 | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/okx.md)           |\n| [Polymarket](https://polymarket.com)                                         | `POLYMARKET`          | Prediction Market (DEX) | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/polymarket.md)    |\n| [Tardis](https://tardis.dev)                                                 | `TARDIS`              | Crypto Data Provider    | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/tardis.md)        |\n\n- **ID**: The default client ID for the integrations adapter clients.\n- **Type**: The type of integration (often the venue type).\n\n### Status\n\n- `building`: Under construction and likely not in a usable state.\n- `beta`: Completed to a minimally working state and in a beta testing phase.\n- `stable`: Stabilized feature set and API, the integration has been tested by both developers and users to a reasonable level (some bugs may still remain).\n\nSee the [Integrations](https://nautilustrader.io/docs/latest/integrations/) documentation for further details.\n\n## Versioning and releases\n\n> [!WARNING]\n>\n> **NautilusTrader is still under active development**. Some features may be incomplete, and while\n> the API is becoming more stable, breaking changes can occur between releases.\n> We strive to document these changes in the release notes on a **best-effort basis**.\n\nWe aim to follow a **bi-weekly release schedule**, though experimental or larger features may cause delays.\n\n### Branches\n\nWe aim to maintain a stable, passing build across all branches.\n\n- `master`: Reflects the source code for the latest released version; recommended for production use.\n- `nightly`: Daily snapshots of the `develop` branch for early testing; merged at **14:00 UTC** and as required.\n- `develop`: Active development branch for contributors and feature work.\n\n> [!NOTE]\n>\n> Our [roadmap](/ROADMAP.md) aims to achieve a **stable API for version 2.x** (likely after the Rust port).\n> Once this milestone is reached, we plan to implement a formal deprecation process for any API changes.\n> This approach allows us to maintain a rapid development pace for now.\n\n## Precision mode\n\nNautilusTrader supports two precision modes for its core value types (`Price`, `Quantity`, `Money`),\nwhich differ in their internal bit-width and maximum decimal precision.\n\n- **High-precision**: 128-bit integers with up to 16 decimals of precision, and a larger value range.\n- **Standard-precision**: 64-bit integers with up to 9 decimals of precision, and a smaller value range.\n\n> [!NOTE]\n>\n> By default, the official Python wheels ship in high-precision (128-bit) mode on Linux and macOS.\n> On Windows, only standard-precision (64-bit) is available due to the lack of native 128-bit integer support.\n> For the Rust crates, the default is standard-precision unless you explicitly enable the `high-precision` feature flag.\n\nSee the [Installation Guide](https://nautilustrader.io/docs/latest/getting_started/installation) for further details.\n\n**Rust feature flag**: To enable high-precision mode in Rust, add the `high-precision` feature to your Cargo.toml:\n\n```toml\n[dependencies]\nnautilus_model = { version = \"*\", features = [\"high-precision\"] }\n```\n\n## Installation\n\nWe recommend using the latest supported version of Python and installing [nautilus_trader](https://pypi.org/project/nautilus_trader/) inside a virtual environment to isolate dependencies.\n\n**There are two supported ways to install**:\n\n1. Pre-built binary wheel from PyPI *or* the Nautech Systems package index.\n2. Build from source.\n\n> [!TIP]\n>\n> We highly recommend installing using the [uv](https://docs.astral.sh/uv) package manager with a \"vanilla\" CPython.\n>\n> Conda and other Python distributions *may* work but aren’t officially supported.\n\n### From PyPI\n\nTo install the latest binary wheel (or sdist package) from PyPI using Python's pip package manager:\n\n```bash\npip install -U nautilus_trader\n```\n\nInstall optional dependencies as 'extras' for specific integrations (e.g., `betfair`, `docker`, `dydx`, `ib`, `polymarket`, `visualization`):\n\n```bash\npip install -U \"nautilus_trader[docker,ib]\"\n```\n\nSee the [Installation Guide](https://nautilustrader.io/docs/latest/getting_started/installation#extras) for the full list of available extras.\n\n### From the Nautech Systems package index\n\nThe Nautech Systems package index (`packages.nautechsystems.io`) complies with [PEP-503](https://peps.python.org/pep-0503/) and hosts both stable and development binary wheels for `nautilus_trader`.\nThis enables users to install either the latest stable release or pre-release versions for testing.\n\n#### Stable wheels\n\nStable wheels correspond to official releases of `nautilus_trader` on PyPI, and use standard versioning.\n\nTo install the latest stable release:\n\n```bash\npip install -U nautilus_trader --index-url=https://packages.nautechsystems.io/simple\n```\n\n> [!TIP]\n>\n> Use `--extra-index-url` instead of `--index-url` if you want pip to fall back to PyPI automatically:\n\n#### Development wheels\n\nDevelopment wheels are published from both the `nightly` and `develop` branches,\nallowing users to test features and fixes ahead of stable releases.\n\nThis process also helps preserve compute resources and provides easy access to the exact binaries tested in CI pipelines,\nwhile adhering to [PEP-440](https://peps.python.org/pep-0440/) versioning standards:\n\n- `develop` wheels use the version format `dev{date}+{build_number}` (e.g., `1.208.0.dev20241212+7001`).\n- `nightly` wheels use the version format `a{date}` (alpha) (e.g., `1.208.0a20241212`).\n\n| Platform           | Nightly | Develop |\n| :----------------- | :------ | :------ |\n| `Linux (x86_64)`   | ✓       | ✓       |\n| `Linux (ARM64)`    | ✓       | -       |\n| `macOS (ARM64)`    | ✓       | ✓       |\n| `Windows (x86_64)` | ✓       | ✓       |\n\n**Note**: Development wheels from the `develop` branch publish for every supported platform except Linux ARM64.\nSkipping that target keeps CI feedback fast while avoiding unnecessary build resource usage.\n\n> [!WARNING]\n>\n> We do not recommend using development wheels in production environments, such as live trading controlling real capital.\n\n#### Installation commands\n\nBy default, pip will install the latest stable release. Adding the `--pre` flag ensures that pre-release versions, including development wheels, are considered.\n\nTo install the latest available pre-release (including development wheels):\n\n```bash\npip install -U nautilus_trader --pre --index-url=https://packages.nautechsystems.io/simple\n```\n\nTo install a specific development wheel (e.g., `1.221.0a20251026` for October 26, 2025):\n\n```bash\npip install nautilus_trader==1.221.0a20251026 --index-url=https://packages.nautechsystems.io/simple\n```\n\n#### Available versions\n\nYou can view all available versions of `nautilus_trader` on the [package index](https://packages.nautechsystems.io/simple/nautilus-trader/index.html).\n\nTo programmatically fetch and list available versions:\n\n```bash\ncurl -s https://packages.nautechsystems.io/simple/nautilus-trader/index.html | grep -oP '(?<=<a href=\")[^\"]+(?=\")' | awk -F'#' '{print $1}' | sort\n```\n\n> [!NOTE]\n>\n> On Linux, confirm your glibc version with `ldd --version` and ensure it reports **2.35** or newer before installing binary wheels.\n\n#### Branch updates\n\n- `develop` branch wheels (`.dev`): Build and publish continuously with every merged commit.\n- `nightly` branch wheels (`a`): Build and publish daily when we automatically merge the `develop` branch at **14:00 UTC** (if there are changes).\n\n#### Retention policies\n\n- `develop` branch wheels (`.dev`): We retain only the most recent wheel build.\n- `nightly` branch wheels (`a`): We retain only the 30 most recent wheel builds.\n\n#### Verifying build provenance\n\nAll release artifacts (wheels and source distributions) published to PyPI, GitHub Releases,\nand the Nautech Systems package index include cryptographic attestations that prove their authenticity and build provenance.\n\nThese attestations are generated automatically during the CI/CD pipeline using [SLSA](https://slsa.dev/) build provenance, and can be verified to ensure:\n\n- The artifact was built by the official NautilusTrader GitHub Actions workflow.\n- The artifact corresponds to a specific commit SHA in the repository.\n- The artifact hasn't been tampered with since it was built.\n\nTo verify a wheel file using the GitHub CLI:\n\n```bash\ngh attestation verify nautilus_trader-1.220.0-*.whl --owner nautechsystems\n```\n\nThis provides supply chain security by allowing you to cryptographically verify that the installed package came from the official NautilusTrader build process.\n\n> [!NOTE]\n>\n> Attestation verification requires the [GitHub CLI](https://cli.github.com/) (`gh`) to be installed.\n> Development wheels from `develop` and `nightly` branches are also attested and can be verified the same way.\n\n### From source\n\nIt's possible to install from source using pip if you first install the build dependencies as specified in the `pyproject.toml`.\n\n1. Install [rustup](https://rustup.rs/) (the Rust toolchain installer):\n   - Linux and macOS:\n\n       ```bash\n       curl https://sh.rustup.rs -sSf | sh\n       ```\n\n   - Windows:\n       - Download and install [`rustup-init.exe`](https://win.rustup.rs/x86_64)\n       - Install \"Desktop development with C++\" using [Build Tools for Visual Studio 2022](https://visualstudio.microsoft.com/visual-cpp-build-tools/)\n   - Verify (any system):\n       from a terminal session run: `rustc --version`\n\n2. Enable `cargo` in the current shell:\n   - Linux and macOS:\n\n       ```bash\n       source $HOME/.cargo/env\n       ```\n\n   - Windows:\n     - Start a new PowerShell\n\n3. Install [clang](https://clang.llvm.org/) (a C language frontend for LLVM):\n   - Linux:\n\n       ```bash\n       sudo apt-get install clang\n       ```\n\n   - Windows:\n       1. Add Clang to your [Build Tools for Visual Studio 2022](https://visualstudio.microsoft.com/visual-cpp-build-tools/):\n          - Start | Visual Studio Installer | Modify | C++ Clang tools for Windows (latest) = checked | Modify\n       2. Enable `clang` in the current shell:\n\n          ```powershell\n          [System.Environment]::SetEnvironmentVariable('path', \"C:\\Program Files\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\Llvm\\x64\\bin\\;\" + $env:Path,\"User\")\n          ```\n\n   - Verify (any system):\n       from a terminal session run: `clang --version`\n\n4. Install uv (see the [uv installation guide](https://docs.astral.sh/uv/getting-started/installation) for more details):\n\n    - Linux and macOS:\n\n        ```bash\n        curl -LsSf https://astral.sh/uv/install.sh | sh\n        ```\n\n    - Windows (PowerShell):\n\n        ```powershell\n        irm https://astral.sh/uv/install.ps1 | iex\n        ```\n\n5. Clone the source with `git`, and install from the project's root directory:\n\n    ```bash\n    git clone --branch develop --depth 1 https://github.com/nautechsystems/nautilus_trader\n    cd nautilus_trader\n    uv sync --all-extras\n    ```\n\n> [!NOTE]\n>\n> The `--depth 1` flag fetches just the latest commit for a faster, lightweight clone.\n\n6. Set environment variables for PyO3 compilation (Linux and macOS only):\n\n    ```bash\n    # Linux only: Set the library path for the Python interpreter\n    export LD_LIBRARY_PATH=\"$(python -c 'import sys; print(sys.base_prefix)')/lib:$LD_LIBRARY_PATH\"\n\n    # Set the Python executable path for PyO3\n    export PYO3_PYTHON=$(pwd)/.venv/bin/python\n\n    # Required for Rust tests when using uv-installed Python\n    export PYTHONHOME=$(python -c \"import sys; print(sys.base_prefix)\")\n    ```\n\n> [!NOTE]\n>\n> The `LD_LIBRARY_PATH` export is Linux-specific and not needed on macOS.\n>\n> The `PYTHONHOME` variable is required when running `make cargo-test` with a `uv`-installed Python.\n> Without it, tests that depend on PyO3 may fail to locate the Python runtime.\n\nSee the [Installation Guide](https://nautilustrader.io/docs/latest/getting_started/installation) for other options and further details.\n\n## Redis\n\nUsing [Redis](https://redis.io) with NautilusTrader is **optional** and only required if configured as the backend for a\n[cache](https://nautilustrader.io/docs/latest/concepts/cache) database or [message bus](https://nautilustrader.io/docs/latest/concepts/message_bus).\nSee the **Redis** section of the [Installation Guide](https://nautilustrader.io/docs/latest/getting_started/installation#redis) for further details.\n\n## Makefile\n\nA `Makefile` is provided to automate most installation and build tasks for development. Some of the targets include:\n\n- `make install`: Installs in `release` build mode with all dependency groups and extras.\n- `make install-debug`: Same as `make install` but with `debug` build mode.\n- `make install-just-deps`: Installs just the `main`, `dev` and `test` dependencies (does not install package).\n- `make build`: Runs the build script in `release` build mode (default).\n- `make build-debug`: Runs the build script in `debug` build mode.\n- `make build-wheel`: Runs uv build with a wheel format in `release` mode.\n- `make build-wheel-debug`: Runs uv build with a wheel format in `debug` mode.\n- `make cargo-test`: Runs all Rust crate tests using `cargo-nextest`.\n- `make clean`: Deletes all build results, such as `.so` or `.dll` files.\n- `make distclean`: **CAUTION** Removes all artifacts not in the git index from the repository. This includes source files which have not been `git add`ed.\n- `make docs`: Builds the documentation HTML using Sphinx.\n- `make pre-commit`: Runs the pre-commit checks over all files.\n- `make ruff`: Runs ruff over all files using the `pyproject.toml` config (with autofix).\n- `make pytest`: Runs all tests with `pytest`.\n- `make test-performance`: Runs performance tests with [codspeed](https://codspeed.io).\n\n> [!TIP]\n>\n> Run `make help` for documentation on all available make targets.\n\n> [!TIP]\n>\n> See the [crates/infrastructure/TESTS.md](https://github.com/nautechsystems/nautilus_trader/blob/develop/crates/infrastructure/TESTS.md) file for running the infrastructure integration tests.\n\n## Examples\n\nIndicators and strategies can be developed in both Python and Cython. For performance and\nlatency-sensitive applications, we recommend using Cython. Below are some examples:\n\n- [indicator](/nautilus_trader/examples/indicators/ema_python.py) example written in Python.\n- [indicator](/nautilus_trader/indicators/) implementations written in Cython.\n- [strategy](/nautilus_trader/examples/strategies/) examples written in Python.\n- [backtest](/examples/backtest/) examples using a `BacktestEngine` directly.\n\n## Docker\n\nDocker containers are built using the base image `python:3.12-slim` with the following variant tags:\n\n- `nautilus_trader:latest` has the latest release version installed.\n- `nautilus_trader:nightly` has the head of the `nightly` branch installed.\n- `jupyterlab:latest` has the latest release version installed along with `jupyterlab` and an\n  example backtest notebook with accompanying data.\n- `jupyterlab:nightly` has the head of the `nightly` branch installed along with `jupyterlab` and an\n  example backtest notebook with accompanying data.\n\nYou can pull the container images as follows:\n\n```bash\ndocker pull ghcr.io/nautechsystems/<image_variant_tag> --platform linux/amd64\n```\n\nYou can launch the backtest example container by running:\n\n```bash\ndocker pull ghcr.io/nautechsystems/jupyterlab:nightly --platform linux/amd64\ndocker run -p 8888:8888 ghcr.io/nautechsystems/jupyterlab:nightly\n```\n\nThen open your browser at the following address:\n\n```bash\nhttp://127.0.0.1:8888/lab\n```\n\n> [!WARNING]\n>\n> NautilusTrader currently exceeds the rate limit for Jupyter notebook logging (stdout output).\n> Therefore, we set the `log_level` to `ERROR` in the examples. Lowering this level to see more\n> logging will cause the notebook to hang during cell execution. We are investigating a fix that\n> may involve either raising the configured rate limits for Jupyter or throttling the log flushing\n> from Nautilus.\n>\n> - <https://github.com/jupyterlab/jupyterlab/issues/12845>\n> - <https://github.com/deshaw/jupyterlab-limit-output>\n\n## Development\n\nWe aim to provide the most pleasant developer experience possible for this hybrid codebase of Python, Cython and Rust.\nSee the [Developer Guide](https://nautilustrader.io/docs/latest/developer_guide/) for helpful information.\n\n> [!TIP]\n>\n> Run `make build-debug` to compile after changes to Rust or Cython code for the most efficient development workflow.\n\n### Testing with Rust\n\n[cargo-nextest](https://nexte.st) is the standard Rust test runner for NautilusTrader.\nIts key benefit is isolating each test in its own process, ensuring test reliability\nby avoiding interference.\n\nYou can install cargo-nextest by running:\n\n```bash\ncargo install cargo-nextest\n```\n\n> [!TIP]\n>\n> Run Rust tests with `make cargo-test`, which uses **cargo-nextest** with an efficient profile.\n\n## Contributing\n\nThank you for considering contributing to NautilusTrader! We welcome any and all help to improve\nthe project. If you have an idea for an enhancement or a bug fix, the first step is to open an [issue](https://github.com/nautechsystems/nautilus_trader/issues)\non GitHub to discuss it with the team. This helps to ensure that your contribution will be\nwell-aligned with the goals of the project and avoids duplication of effort.\n\nBefore getting started, be sure to review the [open-source scope](/ROADMAP.md#open-source-scope) outlined in the project’s roadmap to understand what’s in and out of scope.\n\nOnce you're ready to start working on your contribution, make sure to follow the guidelines\noutlined in the [CONTRIBUTING.md](https://github.com/nautechsystems/nautilus_trader/blob/develop/CONTRIBUTING.md) file. This includes signing a Contributor License Agreement (CLA)\nto ensure that your contributions can be included in the project.\n\n> [!NOTE]\n>\n> Pull requests should target the `develop` branch (the default branch). This is where new features and improvements are integrated before release.\n\nThank you again for your interest in NautilusTrader! We look forward to reviewing your contributions and working with you to improve the project.\n\n## Community\n\nJoin our community of users and contributors on [Discord](https://discord.gg/NautilusTrader) to chat\nand stay up-to-date with the latest announcements and features of NautilusTrader. Whether you're a\ndeveloper looking to contribute or just want to learn more about the platform, all are welcome on our Discord server.\n\n> [!WARNING]\n>\n> NautilusTrader does not issue, promote, or endorse any cryptocurrency tokens. Any claims or communications suggesting otherwise are unauthorized and false.\n>\n> All official updates and communications from NautilusTrader will be shared exclusively through <https://nautilustrader.io>, our [Discord server](https://discord.gg/NautilusTrader),\n> or our X (Twitter) account: [@NautilusTrader](https://x.com/NautilusTrader).\n>\n> If you encounter any suspicious activity, please report it to the appropriate platform and contact us at <info@nautechsystems.io>.\n\n## License\n\nThe source code for NautilusTrader is available on GitHub under the [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html).\nContributions to the project are welcome and require the completion of a standard [Contributor License Agreement (CLA)](https://github.com/nautechsystems/nautilus_trader/blob/develop/CLA.md).\n\n---\n\nNautilusTrader™ is developed and maintained by Nautech Systems, a technology\ncompany specializing in the development of high-performance trading systems.\nFor more information, visit <https://nautilustrader.io>.\n\n© 2015-2026 Nautech Systems Pty Ltd. All rights reserved.\n\n![nautechsystems](https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/ns-logo.png \"nautechsystems\")\n<img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/ferris.png\" width=\"128\">\n",
-      "stars_today": 17
-    },
-    {
       "id": 215654064,
       "name": "temporal",
       "full_name": "temporalio/temporal",
       "description": "Temporal service",
       "html_url": "https://github.com/temporalio/temporal",
-      "stars": 17351,
+      "stars": 17352,
       "forks": 1259,
       "language": "Go",
       "topics": [
@@ -1639,7 +1639,7 @@
         "workflows"
       ],
       "created_at": "2019-10-16T22:15:35Z",
-      "updated_at": "2026-01-03T12:46:33Z",
+      "updated_at": "2026-01-03T14:07:11Z",
       "pushed_at": "2026-01-03T04:11:45Z",
       "open_issues": 654,
       "owner": {
@@ -1655,7 +1655,7 @@
       "full_name": "Alexays/Waybar",
       "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:",
       "html_url": "https://github.com/Alexays/Waybar",
-      "stars": 10281,
+      "stars": 10282,
       "forks": 959,
       "language": "C++",
       "topics": [
@@ -1668,7 +1668,7 @@
         "wlroots"
       ],
       "created_at": "2018-08-08T21:53:36Z",
-      "updated_at": "2026-01-03T11:55:53Z",
+      "updated_at": "2026-01-03T14:17:18Z",
       "pushed_at": "2026-01-01T00:14:46Z",
       "open_issues": 1313,
       "owner": {
@@ -1748,7 +1748,7 @@
       "full_name": "bkaradzic/bgfx",
       "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
       "html_url": "https://github.com/bkaradzic/bgfx",
-      "stars": 16510,
+      "stars": 16511,
       "forks": 2031,
       "language": "C++",
       "topics": [
@@ -1771,7 +1771,7 @@
         "webgl"
       ],
       "created_at": "2012-04-04T03:39:04Z",
-      "updated_at": "2026-01-03T12:52:48Z",
+      "updated_at": "2026-01-03T14:15:09Z",
       "pushed_at": "2026-01-02T16:40:58Z",
       "open_issues": 314,
       "owner": {
@@ -1788,7 +1788,7 @@
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "html_url": "https://github.com/google-ai-edge/gallery",
       "stars": 14740,
-      "forks": 1253,
+      "forks": 1252,
       "language": "Kotlin",
       "topics": [],
       "created_at": "2025-03-31T17:47:28Z",
@@ -1808,12 +1808,12 @@
       "full_name": "shareAI-lab/Kode-cli",
       "description": "Design for post human.   Kode is one unit agent for every human & computer task",
       "html_url": "https://github.com/shareAI-lab/Kode-cli",
-      "stars": 3949,
+      "stars": 3951,
       "forks": 608,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2025-07-12T14:21:51Z",
-      "updated_at": "2026-01-03T13:46:01Z",
+      "updated_at": "2026-01-03T14:49:45Z",
       "pushed_at": "2025-12-29T21:29:09Z",
       "open_issues": 84,
       "owner": {
@@ -1829,17 +1829,17 @@
       "full_name": "github/docs",
       "description": "The open-source repo for docs.github.com",
       "html_url": "https://github.com/github/docs",
-      "stars": 18644,
-      "forks": 65359,
+      "stars": 18643,
+      "forks": 65362,
       "language": "TypeScript",
       "topics": [
         "docs",
         "works-with-codespaces"
       ],
       "created_at": "2019-05-31T15:57:39Z",
-      "updated_at": "2026-01-03T12:57:28Z",
+      "updated_at": "2026-01-03T14:45:20Z",
       "pushed_at": "2026-01-03T00:47:29Z",
-      "open_issues": 179,
+      "open_issues": 178,
       "owner": {
         "login": "github",
         "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
@@ -1853,7 +1853,7 @@
       "full_name": "tiann/KernelSU",
       "description": "A Kernel based root solution for Android",
       "html_url": "https://github.com/tiann/KernelSU",
-      "stars": 14609,
+      "stars": 14611,
       "forks": 2968,
       "language": "Kotlin",
       "topics": [
@@ -1864,7 +1864,7 @@
         "su"
       ],
       "created_at": "2022-12-09T14:03:54Z",
-      "updated_at": "2026-01-03T11:33:11Z",
+      "updated_at": "2026-01-03T14:38:29Z",
       "pushed_at": "2026-01-03T01:15:59Z",
       "open_issues": 30,
       "owner": {
@@ -1905,7 +1905,7 @@
       "full_name": "Effect-TS/effect",
       "description": "Build production-ready applications in TypeScript",
       "html_url": "https://github.com/Effect-TS/effect",
-      "stars": 12538,
+      "stars": 12540,
       "forks": 484,
       "language": "TypeScript",
       "topics": [
@@ -1924,7 +1924,7 @@
         "workflows"
       ],
       "created_at": "2019-11-13T12:49:21Z",
-      "updated_at": "2026-01-03T12:34:40Z",
+      "updated_at": "2026-01-03T14:30:27Z",
       "pushed_at": "2026-01-02T23:30:29Z",
       "open_issues": 448,
       "owner": {
@@ -1941,7 +1941,7 @@
       "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
       "html_url": "https://github.com/leejet/stable-diffusion.cpp",
       "stars": 5046,
-      "forks": 493,
+      "forks": 494,
       "language": "C++",
       "topics": [
         "ai",
@@ -1967,7 +1967,7 @@
       "created_at": "2023-08-13T07:36:51Z",
       "updated_at": "2026-01-03T13:31:45Z",
       "pushed_at": "2025-12-28T17:23:52Z",
-      "open_issues": 341,
+      "open_issues": 342,
       "owner": {
         "login": "leejet",
         "avatar_url": "https://avatars.githubusercontent.com/u/31925346?v=4"
@@ -2142,7 +2142,7 @@
         "xterm"
       ],
       "created_at": "2019-01-27T16:06:20Z",
-      "updated_at": "2026-01-03T12:10:41Z",
+      "updated_at": "2026-01-03T15:06:11Z",
       "pushed_at": "2025-12-29T10:48:55Z",
       "open_issues": 92,
       "owner": {
@@ -2158,12 +2158,12 @@
       "full_name": "TheBoredTeam/boring.notch",
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "html_url": "https://github.com/TheBoredTeam/boring.notch",
-      "stars": 6250,
+      "stars": 6254,
       "forks": 436,
       "language": "Swift",
       "topics": [],
       "created_at": "2024-08-02T06:48:39Z",
-      "updated_at": "2026-01-03T11:26:44Z",
+      "updated_at": "2026-01-03T14:49:38Z",
       "pushed_at": "2025-12-19T19:14:57Z",
       "open_issues": 154,
       "owner": {
@@ -2179,7 +2179,7 @@
       "full_name": "matan-h/Transfer",
       "description": "A local file server Android app. Upload and download files over Wi-Fi ",
       "html_url": "https://github.com/matan-h/Transfer",
-      "stars": 544,
+      "stars": 546,
       "forks": 41,
       "language": "Kotlin",
       "topics": [
@@ -2192,7 +2192,7 @@
         "no-cloud"
       ],
       "created_at": "2025-06-04T16:40:53Z",
-      "updated_at": "2026-01-03T13:57:07Z",
+      "updated_at": "2026-01-03T14:55:18Z",
       "pushed_at": "2025-12-15T07:11:04Z",
       "open_issues": 14,
       "owner": {
@@ -2247,7 +2247,7 @@
       "full_name": "firecracker-microvm/firecracker",
       "description": "Secure and fast microVMs for serverless computing.",
       "html_url": "https://github.com/firecracker-microvm/firecracker",
-      "stars": 31661,
+      "stars": 31662,
       "forks": 2194,
       "language": "Rust",
       "topics": [
@@ -2262,7 +2262,7 @@
         "virtualization"
       ],
       "created_at": "2017-10-19T06:18:47Z",
-      "updated_at": "2026-01-03T12:20:54Z",
+      "updated_at": "2026-01-03T14:20:02Z",
       "pushed_at": "2025-12-29T16:06:06Z",
       "open_issues": 73,
       "owner": {
@@ -2305,8 +2305,8 @@
       "full_name": "mrdoob/three.js",
       "description": "JavaScript 3D Library.",
       "html_url": "https://github.com/mrdoob/three.js",
-      "stars": 110136,
-      "forks": 36191,
+      "stars": 110138,
+      "forks": 36192,
       "language": "JavaScript",
       "topics": [
         "3d",
@@ -2323,7 +2323,7 @@
         "webxr"
       ],
       "created_at": "2010-03-23T18:58:01Z",
-      "updated_at": "2026-01-03T12:18:18Z",
+      "updated_at": "2026-01-03T14:43:12Z",
       "pushed_at": "2026-01-03T03:38:32Z",
       "open_issues": 620,
       "owner": {
@@ -2334,54 +2334,13 @@
       "stars_today": 12
     },
     {
-      "id": 126412363,
-      "name": "simdjson",
-      "full_name": "simdjson/simdjson",
-      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
-      "html_url": "https://github.com/simdjson/simdjson",
-      "stars": 23051,
-      "forks": 1199,
-      "language": "C++",
-      "topics": [
-        "aarch64",
-        "arm",
-        "arm64",
-        "avx2",
-        "avx512",
-        "c-plus-plus",
-        "clang",
-        "clang-cl",
-        "cpp11",
-        "gcc-compiler",
-        "json",
-        "json-parser",
-        "json-pointer",
-        "loongarch",
-        "neon",
-        "simd",
-        "sse42",
-        "vs2019",
-        "x64"
-      ],
-      "created_at": "2018-03-23T00:49:18Z",
-      "updated_at": "2026-01-03T09:11:15Z",
-      "pushed_at": "2026-01-02T19:28:25Z",
-      "open_issues": 142,
-      "owner": {
-        "login": "simdjson",
-        "avatar_url": "https://avatars.githubusercontent.com/u/62337925?v=4"
-      },
-      "readme": "[![][license img]][license] [![][licensemit img]][licensemit]\n\n\n[![Doxygen Documentation](https://img.shields.io/badge/docs-doxygen-green.svg)](https://simdjson.github.io/simdjson/)\n\nsimdjson : Parsing gigabytes of JSON per second\n===============================================\n\n<img src=\"images/official_logo/logo_noir/SVG/logo_simdjson_noir.svg\" width=\"40%\" style=\"float: right\">\n\nJSON is everywhere on the Internet. Servers spend a *lot* of time parsing it. We need a fresh\napproach. The simdjson library uses commonly available SIMD instructions and microparallel algorithms\nto parse JSON 4x  faster than RapidJSON and 25x faster than JSON for Modern C++.\n\n* **Fast:** Over 4x faster than commonly used production-grade JSON parsers.\n* **Record Breaking Features:** Minify JSON  at 6 GB/s, validate UTF-8  at 13 GB/s,  NDJSON at 3.5 GB/s.\n* **Easy:** First-class, easy to use and carefully documented APIs.\n* **Strict:** Full JSON and UTF-8 validation, lossless parsing. Performance with no compromises.\n* **Automatic:** Selects a CPU-tailored parser at runtime. No configuration needed.\n* **Reliable:** From memory allocation to error handling, simdjson's design avoids surprises.\n* **Peer Reviewed:** Our research appears in venues like VLDB Journal, Software: Practice and Experience.\n\nThis library is part of the [Awesome Modern C++](https://awesomecpp.com) list.\n\nTable of Contents\n-----------------\n\n* [Real-world usage](#real-world-usage)\n* [Quick Start](#quick-start)\n* [Documentation](#documentation)\n* [Godbolt](#godbolt)\n* [Performance results](#performance-results)\n* [Packages](#packages)\n* [Bindings and Ports of simdjson](#bindings-and-ports-of-simdjson)\n* [About simdjson](#about-simdjson)\n* [Funding](#funding)\n* [Contributing to simdjson](#contributing-to-simdjson)\n* [License](#license)\n\n\nReal-world usage\n----------------\n\n- [Node.js](https://nodejs.org/)\n- [ClickHouse](https://github.com/ClickHouse/ClickHouse)\n- [Meta Velox](https://velox-lib.io)\n- [Google Pax](https://github.com/google/paxml)\n- [milvus](https://github.com/milvus-io/milvus)\n- [QuestDB](https://questdb.io/blog/questdb-release-8-0-3/)\n- [Clang Build Analyzer](https://github.com/aras-p/ClangBuildAnalyzer)\n- [Shopify HeapProfiler](https://github.com/Shopify/heap-profiler)\n- [StarRocks](https://github.com/StarRocks/starrocks)\n- [Microsoft FishStore](https://github.com/microsoft/FishStore)\n- [Intel PCM](https://github.com/intel/pcm)\n- [WatermelonDB](https://github.com/Nozbe/WatermelonDB)\n- [Apache Doris](https://github.com/apache/doris)\n- [Dgraph](https://github.com/dgraph-io/dgraph)\n- [UJRPC](https://github.com/unum-cloud/ujrpc)\n- [fastgltf](https://github.com/spnda/fastgltf)\n- [vast](https://github.com/tenzir/vast)\n- [ada-url](https://github.com/ada-url/ada)\n- [fastgron](https://github.com/adamritter/fastgron)\n- [WasmEdge](https://wasmedge.org)\n- [RonDB](https://github.com/logicalclocks/rondb)\n- [GreptimeDB](https://github.com/GreptimeTeam/greptimedb)\n- [mamba](https://github.com/mamba-org/mamba)\n\n\nIf you are planning to use simdjson in a product, please work from one of our releases.\n\n\n\n\nQuick Start\n-----------\n\nThe simdjson library is easily consumable with a single .h and .cpp file.\n\n0. Prerequisites: `g++` (version 7 or better) or `clang++` (version 6 or better), and a 64-bit\n   system with a command-line shell (e.g., Linux, macOS, freeBSD). We also support programming\n   environments like Visual Studio and Xcode, but different steps are needed. Users of clang++ may need to specify the C++ version (e.g., `c++ -std=c++17`) since clang++ tends to default on C++98.\n1. Pull [simdjson.h](singleheader/simdjson.h) and [simdjson.cpp](singleheader/simdjson.cpp) into a\n   directory, along with the sample file [twitter.json](jsonexamples/twitter.json). You can download them with the `wget` utility:\n\n   ```\n   wget https://raw.githubusercontent.com/simdjson/simdjson/master/singleheader/simdjson.h https://raw.githubusercontent.com/simdjson/simdjson/master/singleheader/simdjson.cpp https://raw.githubusercontent.com/simdjson/simdjson/master/jsonexamples/twitter.json\n   ```\n2. Create `quickstart.cpp`:\n\n```cpp\n#include <iostream>\n#include \"simdjson.h\"\nusing namespace simdjson;\nint main(void) {\n    ondemand::parser parser;\n    padded_string json = padded_string::load(\"twitter.json\");\n    ondemand::document tweets = parser.iterate(json);\n    std::cout << uint64_t(tweets[\"search_metadata\"][\"count\"]) << \" results.\" << std::endl;\n}\n```\n3. `c++ -o quickstart quickstart.cpp simdjson.cpp`\n4. `./quickstart`\n\n  ```\n   100 results.\n  ```\n\n\nDocumentation\n-------------\n\nUsage documentation is available:\n\n* [Basics](doc/basics.md) is an overview of how to use simdjson and its APIs.\n* [Builder](doc/builder.md) is an overview of how to efficiently write JSON strings using simdjson.\n* [Performance](doc/performance.md) shows some more advanced scenarios and how to tune for them.\n* [Implementation Selection](doc/implementation-selection.md) describes runtime CPU detection and\n  how you can work with it.\n* [API](https://simdjson.github.io/simdjson/) contains the automatically generated API documentation.\n* [Compile-Time Parsing](doc/compile_time.md) presents our compile-time parsing function (C++26 only).\n\n\nGodbolt\n-------------\n\nSome users may want to browse code along with the compiled assembly. You want to check out the following lists of examples:\n* [C++26 reflection example](https://godbolt.org/z/K3Px64TqK)\n* [simdjson examples with errors handled through exceptions](https://godbolt.org/z/7G5qE4sr9)\n* [simdjson examples with errors without exceptions](https://godbolt.org/z/e9dWb9E4v)\n\nPerformance results\n-------------------\n\nThe simdjson library uses three-quarters less instructions than state-of-the-art parser [RapidJSON](https://rapidjson.org). To our knowledge, simdjson is the first fully-validating JSON parser\nto run at [gigabytes per second](https://en.wikipedia.org/wiki/Gigabyte) (GB/s) on commodity processors. It can parse millions of JSON documents per second on a single core.\n\nThe following figure represents parsing speed in GB/s for parsing various files\non an Intel Skylake processor (3.4 GHz) using the GNU GCC 10 compiler (with the -O3 flag).\nWe compare against the best and fastest C++ libraries on benchmarks that load and process the data.\nThe simdjson library offers full unicode ([UTF-8](https://en.wikipedia.org/wiki/UTF-8)) validation and exact\nnumber parsing.\n\n<img src=\"doc/rome.png\" width=\"60%\">\n\nThe simdjson library offers high speed whether it processes tiny files (e.g., 300 bytes)\nor larger files (e.g., 3MB). The following plot presents parsing\nspeed for [synthetic files over various sizes generated with a script](https://github.com/simdjson/simdjson_experiments_vldb2019/blob/master/experiments/growing/gen.py) on a 3.4 GHz Skylake processor (GNU GCC 9, -O3).\n\n<img src=\"doc/growing.png\" width=\"60%\">\n\n[All our experiments are reproducible](https://github.com/simdjson/simdjson_experiments_vldb2019).\n\n\nFor NDJSON files, we can exceed 3 GB/s with [our  multithreaded parsing functions](https://github.com/simdjson/simdjson/blob/master/doc/parse_many.md).\n\n\nPackages\n------------------------------\n[![Packaging status](https://repology.org/badge/vertical-allrepos/simdjson.svg)](https://repology.org/project/simdjson/versions)\n\n\nBindings and Ports of simdjson\n------------------------------\n\nWe distinguish between \"bindings\" (which just wrap the C++ code) and a port to another programming language (which reimplements everything).\n\n- [ZippyJSON](https://github.com/michaeleisel/zippyjson): Swift bindings for the simdjson project.\n- [libpy_simdjson](https://github.com/gerrymanoim/libpy_simdjson/): high-speed Python bindings for simdjson using [libpy](https://github.com/quantopian/libpy).\n- [pysimdjson](https://github.com/TkTech/pysimdjson): Python bindings for the simdjson project.\n- [cysimdjson](https://github.com/TeskaLabs/cysimdjson): high-speed Python bindings for the simdjson project.\n- [simdjson-rs](https://github.com/simd-lite): Rust port.\n- [simdjson-rust](https://github.com/SunDoge/simdjson-rust): Rust wrapper (bindings).\n- [SimdJsonSharp](https://github.com/EgorBo/SimdJsonSharp): C# version for .NET Core (bindings and full port).\n- [simdjson_nodejs](https://github.com/luizperes/simdjson_nodejs): Node.js bindings for the simdjson project.\n- [simdjson_php](https://github.com/crazyxman/simdjson_php): PHP bindings for the simdjson project.\n- [simdjson_ruby](https://github.com/saka1/simdjson_ruby): Ruby bindings for the simdjson project.\n- [fast_jsonparser](https://github.com/anilmaurya/fast_jsonparser): Ruby bindings for the simdjson project.\n- [simdjson-go](https://github.com/minio/simdjson-go): Go port using Golang assembly.\n- [rcppsimdjson](https://github.com/eddelbuettel/rcppsimdjson): R bindings.\n- [simdjson_erlang](https://github.com/ChomperT/simdjson_erlang): erlang bindings.\n- [simdjsone](https://github.com/saleyn/simdjsone): erlang bindings.\n- [lua-simdjson](https://github.com/FourierTransformer/lua-simdjson): lua bindings.\n- [hermes-json](https://hackage.haskell.org/package/hermes-json): haskell bindings.\n- [zimdjson](https://github.com/EzequielRamis/zimdjson): Zig port.\n- [simdjzon](https://github.com/travisstaloch/simdjzon): Zig port.\n- [JSON-Simd](https://github.com/rawleyfowler/JSON-simd): Raku bindings.\n- [JSON::SIMD](https://metacpan.org/pod/JSON::SIMD): Perl bindings; fully-featured JSON module that uses simdjson for decoding.\n- [gemmaJSON](https://github.com/sainttttt/gemmaJSON): Nim JSON parser based on simdjson bindings.\n- [simdjson-java](https://github.com/simdjson/simdjson-java): Java port.\n\nAbout simdjson\n--------------\n\nThe simdjson library takes advantage of modern microarchitectures, parallelizing with SIMD vector\ninstructions, reducing branch misprediction, and reducing data dependency to take advantage of each\nCPU's multiple execution cores.\n\nOur default front-end is called On-Demand, and we wrote a paper about it:\n\n- John Keiser, Daniel Lemire, [On-Demand JSON: A Better Way to Parse Documents?](http://arxiv.org/abs/2312.17149), Software: Practice and Experience 54 (6), 2024.\n\nSome people [enjoy reading the first (2019) simdjson paper](https://arxiv.org/abs/1902.08318): A description of the design\nand implementation of simdjson is in our research article:\n- Geoff Langdale, Daniel Lemire, [Parsing Gigabytes of JSON per Second](https://arxiv.org/abs/1902.08318), VLDB Journal 28 (6), 2019.\n\nWe have an in-depth paper focused on the UTF-8 validation:\n\n- John Keiser, Daniel Lemire, [Validating UTF-8 In Less Than One Instruction Per Byte](https://arxiv.org/abs/2010.03090), Software: Practice & Experience 51 (5), 2021.\n\nWe also have an informal [blog post providing some background and context](https://branchfree.org/2019/02/25/paper-parsing-gigabytes-of-json-per-second/).\n\nFor the video inclined, <br />\n[![simdjson at QCon San Francisco 2019](http://img.youtube.com/vi/wlvKAT7SZIQ/0.jpg)](http://www.youtube.com/watch?v=wlvKAT7SZIQ)<br />\n(It was the best voted talk, we're kinda proud of it.)\n\nCiting this work\n-----------------\n\nIf you use simdjson in published research, please cite the software library. A suitable BibTeX entry is:\n\n```bibtex\n@misc{simdjson,\n  title={{The simdjson library: Parsing Gigabytes of JSON per Second}},\n  author={Daniel Lemire and Geoff Langdale and John Keiser and Paul Dreik and Francisco Thiesen and others},\n  year={2019},\n  howpublished={Software library},\n  note={https://github.com/simdjson/simdjson}\n}\n```\n\nFunding\n-------\n\nThe work is supported by the Natural Sciences and Engineering Research Council of Canada under grants\nRGPIN-2017-03910 and RGPIN-2024-03787.\n\n[license]: LICENSE\n[license img]: https://img.shields.io/badge/License-Apache%202-blue.svg\n\n\n[licensemit]: LICENSE-MIT\n[licensemit img]: https://img.shields.io/badge/License-MIT-blue.svg\n\n\nContributing to simdjson\n------------------------\n\nHead over to [CONTRIBUTING.md](CONTRIBUTING.md) for information on contributing to simdjson, and\n[HACKING.md](HACKING.md) for information on source, building, and architecture/design.\n\n\nStars\n------\n\n[![Star History Chart](https://api.star-history.com/svg?repos=simdjson/simdjson&type=Date)](https://www.star-history.com/#simdjson/simdjson&Date)\n\n\nLicense\n-------\n\nThis code is made available under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html) as well as under the MIT License. As a user, you can pick the license you prefer.\n\nUnder Windows, we build some tools using the windows/dirent_portable.h file (which is outside our library code): it is under the liberal (business-friendly) MIT license.\n\nFor compilers that do not support [C++17](https://en.wikipedia.org/wiki/C%2B%2B17), we bundle the string-view library which is published under the [Boost license](http://www.boost.org/LICENSE_1_0.txt). Like the Apache license, the Boost license is a permissive license allowing commercial redistribution.\n\nFor efficient number serialization, we bundle Florian Loitsch's implementation of the Grisu2 algorithm for binary to decimal floating-point numbers. The implementation was slightly modified by JSON for Modern C++ library. Both Florian Loitsch's implementation and JSON for Modern C++ are provided under the MIT license.\n\nFor runtime dispatching, we use some code from the PyTorch project licensed under 3-clause BSD.\n",
-      "stars_today": 12
-    },
-    {
       "id": 128430621,
       "name": "OpenTTD",
       "full_name": "OpenTTD/OpenTTD",
       "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
       "html_url": "https://github.com/OpenTTD/OpenTTD",
-      "stars": 7424,
-      "forks": 1075,
+      "stars": 7425,
+      "forks": 1076,
       "language": "C++",
       "topics": [
         "game",
@@ -2391,9 +2350,9 @@
         "simulation"
       ],
       "created_at": "2018-04-06T18:06:22Z",
-      "updated_at": "2026-01-03T12:40:09Z",
-      "pushed_at": "2026-01-03T10:34:12Z",
-      "open_issues": 339,
+      "updated_at": "2026-01-03T15:04:38Z",
+      "pushed_at": "2026-01-03T15:04:33Z",
+      "open_issues": 336,
       "owner": {
         "login": "OpenTTD",
         "avatar_url": "https://avatars.githubusercontent.com/u/5037546?v=4"
@@ -2407,12 +2366,12 @@
       "full_name": "sohzm/cheating-daddy",
       "description": "a free and opensource app that lets you gain an unfair advantage",
       "html_url": "https://github.com/sohzm/cheating-daddy",
-      "stars": 4874,
+      "stars": 4875,
       "forks": 828,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2025-05-28T22:50:20Z",
-      "updated_at": "2026-01-03T13:53:30Z",
+      "updated_at": "2026-01-03T14:44:15Z",
       "pushed_at": "2025-12-12T14:21:35Z",
       "open_issues": 109,
       "owner": {
@@ -2495,7 +2454,7 @@
       "full_name": "LSPosed/LSPosed",
       "description": "LSPosed Framework",
       "html_url": "https://github.com/LSPosed/LSPosed",
-      "stars": 22442,
+      "stars": 22443,
       "forks": 3442,
       "language": "Java",
       "topics": [
@@ -2503,7 +2462,7 @@
         "xposed"
       ],
       "created_at": "2020-12-12T08:39:37Z",
-      "updated_at": "2026-01-03T13:54:08Z",
+      "updated_at": "2026-01-03T14:31:11Z",
       "pushed_at": "2025-03-04T21:28:36Z",
       "open_issues": 5,
       "owner": {
@@ -2514,39 +2473,44 @@
       "stars_today": 11
     },
     {
-      "id": 226368338,
-      "name": "evcc",
-      "full_name": "evcc-io/evcc",
-      "description": "solar charging ☀️🚘",
-      "html_url": "https://github.com/evcc-io/evcc",
-      "stars": 5965,
-      "forks": 1152,
-      "language": "Go",
+      "id": 126412363,
+      "name": "simdjson",
+      "full_name": "simdjson/simdjson",
+      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+      "html_url": "https://github.com/simdjson/simdjson",
+      "stars": 23051,
+      "forks": 1199,
+      "language": "C++",
       "topics": [
-        "battery",
-        "charger",
-        "eebus",
-        "emobility",
-        "golang",
-        "home-automation",
-        "modbus",
-        "mqtt",
-        "ocpp",
-        "pv",
-        "semp",
-        "solar",
-        "sunspec",
-        "wallbox"
+        "aarch64",
+        "arm",
+        "arm64",
+        "avx2",
+        "avx512",
+        "c-plus-plus",
+        "clang",
+        "clang-cl",
+        "cpp11",
+        "gcc-compiler",
+        "json",
+        "json-parser",
+        "json-pointer",
+        "loongarch",
+        "neon",
+        "simd",
+        "sse42",
+        "vs2019",
+        "x64"
       ],
-      "created_at": "2019-12-06T16:27:04Z",
-      "updated_at": "2026-01-03T14:01:17Z",
-      "pushed_at": "2026-01-03T12:31:53Z",
-      "open_issues": 127,
+      "created_at": "2018-03-23T00:49:18Z",
+      "updated_at": "2026-01-03T09:11:15Z",
+      "pushed_at": "2026-01-02T19:28:25Z",
+      "open_issues": 142,
       "owner": {
-        "login": "evcc-io",
-        "avatar_url": "https://avatars.githubusercontent.com/u/81383504?v=4"
+        "login": "simdjson",
+        "avatar_url": "https://avatars.githubusercontent.com/u/62337925?v=4"
       },
-      "readme": "# evcc 🚘☀️\n\n[![Build](https://github.com/evcc-io/evcc/actions/workflows/nightly.yml/badge.svg)](https://github.com/evcc-io/evcc/actions/workflows/nightly.yml)\n[![Translation](https://hosted.weblate.org/widgets/evcc/-/evcc/svg-badge.svg)](https://hosted.weblate.org/engage/evcc/)\n![Docker Pulls](https://img.shields.io/docker/pulls/evcc/evcc)\n[![OSS hosting by cloudsmith](https://img.shields.io/badge/OSS%20hosting%20by-cloudsmith-blue?logo=cloudsmith)](https://cloudsmith.io/~evcc/packages/)\n[![Latest Version](https://img.shields.io/github/release/evcc-io/evcc.svg)](https://github.com/evcc-io/evcc/releases)<br/>\n[![Built with Depot](https://depot.dev/badges/built-with-depot.svg)](https://depot.dev/?utm_source=evcc)\n\nevcc is an extensible EV Charge Controller and home energy management system.\n\n![Screenshot](assets/github/screenshot.webp)\n\nOur goal is to provide local energy management, without relying on cloud services.\nFeatured in [PV Magazine](https://www.pv-magazine.de/2022/01/14/mit-open-source-lademanager-schnittstellen-zu-wallbox-und-photovoltaik-anlage-meistern/) and [c’t Magazin](https://www.youtube.com/watch?v=MoBpEXHMNjI).\n\n## Features\n\n- simple and clean user interface\n- support for many [EV chargers](https://docs.evcc.io/en/docs/devices/chargers):\n  - ABB, ABL, Alfen, Alphatec, Amperfied, Ampure, Audi, AUTEL, Autoaid, Bender, BMW, cFos, Charge Amps, Compleo, CUBOS, Cupra, Dadapower, DaheimLaden, Delta, E.ON Drive, E3/DC, Easee, Ebee, echarge, EcoHarmony, Edgetech, Elecq, eledio, Elli, EM2GO, EN+, enercab, Ensto, EntraTek, ESL, eSystems, Etrel, EVBox, Free2Move, Free2move eSolutions, Fronius, Garo, go-e, Hardy Barth, Heidelberg, Hesotec, Homecharge, Huawei, Innogy, INRO, Juice, Kathrein, KEBA, Kontron Solar, Kostal, KSE, LadeFoxx, LRT, Mennekes, NRGkick, OBO Bettermann, OpenEVSE, openWB, Optec, Orbis, PC Electric, Peblar, Phoenix Contact, Plugchoice, Porsche, Pracht, Pulsares, Pulsatrix, Qcells, Schneider, Schrack, SENEC, Siemens, Skoda, SMA, Smartfox, SolarEdge, Solax, Sonnen, Spelsberg, Stark in Strom, Sungrow, TechniSat, Tesla, Tigo, TinkerForge, Ubitricity, V2C Trydan, Vestel, Victron, Viridian EV, Volkswagen, Volt Time, Wallbe, wallbox, Walther Werke, Webasto, Weidmüller, Zaptec, ZJ Beny. [Read more.](https://docs.evcc.io/en/docs/devices/chargers)\n  - **EEBus** support (Elli, PMCC)\n  - **OCPP** support\n  - **build-your-own:** Phoenix Contact (includes ESL Walli), EVSE DIN\n  - **smart switches:** AVM, FRITZ!, Home Assistant, Homematic IP, HomeWizard, myStrom, Shelly, Tasmota, TP-Link. [Read more.](https://docs.evcc.io/en/docs/devices/smartswitches)\n  - **heat pumps and electric heaters:** alpha innotec, Bosch, Buderus, Bösch, CTA All-In-One, Daikin, Elco, IDM, Junkers, Kermi, Lambda, my-PV, Nibe, Novelan, Roth, Stiebel Eltron, Tecalor, Vaillant, Viessmann, Wolf, Zewotherm. [Read more.](https://docs.evcc.io/en/docs/devices/heating)\n- support for many [energy meters](https://docs.evcc.io/en/docs/devices/meters):\n  - **solar inverters and battery systems:** A-Tronix, Acrel, Ads-tec, Alpha ESS, Ampere, Anker, APsystems, AVM, Axitec, BGEtech, Bosch, Bosswerk, Carlo Gavazzi, Deye, E3/DC, Eastron, Enphase, FENECON, FRITZ!, FoxESS, Fronius, Ginlong, go-e, GoodWe, Growatt, Homematic IP, HomeWizard, Hoymiles, Huawei, IAMMETER, IGEN Tech, Kostal, LG, Loxone, M-TEC, Marstek, myStrom, OpenEMS, Powerfox, Qcells, RCT, SAJ, SAX, SENEC, Senergy, Shelly, Siemens, Sigenergy, SMA, Smartfox, SofarSolar, Solaranzeige, SolarEdge, SolarMax, Solarwatt, Solax, Solinteng, Sonnen, St-ems, Steca, Sungrow, Sunsynk, Sunway, Tasmota, Tesla, TP-Link, VARTA, Victron, Wattsonic, Youless, ZCS Azzurro, Zendure. [Read more.](https://docs.evcc.io/en/docs/devices/meters)\n  - **general energy meters:** A-Tronix, ABB, Acrel, Alpha ESS, Ampere, AVM, Axitec, Bernecker Engineering, BGEtech, Bosch, Carlo Gavazzi, cFos, Deye, DSMR, DZG, E3/DC, Eastron, Enphase, ESPHome, FENECON, FoxESS, FRITZ!, Fronius, Ginlong, go-e, GoodWe, Growatt, Homematic IP, HomeWizard, Huawei, IAMMETER, inepro, IOmeter, Janitza, KEBA, Kostal, LG, Loxone, M-TEC, mhendriks, my-PV, myStrom, OpenEMS, ORNO, P1Monitor, Powerfox, Qcells, RCT, Saia-Burgess Controls (SBC), SAJ, SAX, Schneider Electric, SENEC, Shelly, Siemens, Sigenergy, SMA, Smartfox, SofarSolar, Solaranzeige, SolarEdge, SolarMax, Solarwatt, Solax, Solinteng, Sonnen, St-ems, Sungrow, Sunsynk, Sunway, Tasmota, Tesla, Tibber, TQ, VARTA, Victron, Volkszähler, Wago, Wattsonic, Weidmüller, Youless, ZCS Azzurro, Zuidwijk. [Read more.](https://docs.evcc.io/en/docs/devices/meters)\n  - **integrated systems**: SMA Sunny Home Manager and Energy Meter, KOSTAL Smart Energy Meter (KSEM, EMxx)\n  - **sunspec**-compatible inverter or home battery devices\n  - **mbmd**-compatible devices, see [volkszaehler/mbmd](https://github.com/volkszaehler/mbmd#supported-devices) for a complete list\n- [vehicle](https://docs.evcc.io/en/docs/devices/vehicles) integrations (state of charge, remote charge, battery and preconditioning status):\n  - Aiways, Audi, BMW, Citroën, Dacia, DS, Fiat, Ford, Hyundai, Jeep, Kia, Mercedes-Benz, MG, Mini, Nissan, NIU, Opel, Peugeot, Polestar, Renault, Seat, Skoda, Smart, Subaru, Tesla, Toyota, Volkswagen, Volvo, Zero Motorcycles. [Read more.](https://docs.evcc.io/en/docs/devices/vehicles)\n  - **services:** OVMS, Tronity, evNotify, ioBroker.bmw, mg2mqtt, mz2mqtt, TeslaLogger, TeslaMate, Tessi, volvo2mqtt\n- [plugins](https://docs.evcc.io/en/docs/devices/plugins) for integrating with any charger, smartswitch, heatpump, electric heater, meter, solar- / battery-inverter or vehicle:\n  - Modbus, HTTP, MQTT, JavaScript, WebSocket, Go and shell scripts\n- status [notifications](https://docs.evcc.io/en/docs/reference/configuration/messaging) using [Telegram](https://telegram.org), [PushOver](https://pushover.net) and [many more](https://containrrr.dev/shoutrrr/)\n- logging using [InfluxDB](https://www.influxdata.com) and [Grafana](https://grafana.com/grafana/)\n- [REST](https://docs.evcc.io/en/docs/integrations/rest-api) and [MQTT](https://docs.evcc.io/en/docs/integrations/mqtt-api) APIs for integration with home automation systems\n- Add-ons for [Home Assistant](https://docs.evcc.io/en/docs/integrations/home-assistant) and [openHAB](https://www.openhab.org/addons/bindings/evcc) (not maintained by the evcc core team)\n\n## Getting Started\n\nYou'll find everything you need in our [documentation](https://docs.evcc.io/en/).\n\n## Contributing\n\nTechnical details on how to contribute, how to add translations and how to build evcc from source can be found [here](CONTRIBUTING.md).\n\n[![Weblate Hosted](https://hosted.weblate.org/widgets/evcc/-/evcc/287x66-grey.png)](https://hosted.weblate.org/engage/evcc/)\n\n## Sponsorship\n\n<img src=\"assets/github/evcc-gopher.png\" align=\"right\" width=\"150\" />\n\nevcc believes in open source software. We're committed to provide best in class EV charging experience.\nMaintaining evcc consumes time and effort. With the vast amount of different devices to support, we depend on community and vendor support to keep evcc alive.\n\nWhile evcc is open source, we would also like to encourage vendors to provide open source hardware devices, public documentation and support open source projects like ours that provide additional value to otherwise closed hardware. Where this is not the case, evcc requires \"sponsor token\" to finance ongoing development and support of evcc.\n\nLearn more about our [sponsorship model](https://docs.evcc.io/en/docs/sponsorship).\n\n## License\n\nThis project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.\n\nFor additional license information regarding fonts, icons, and other assets, please see the [LICENSES](LICENSES/) folder.\n\n**Note:** All sponsor-required components are excluded from the MIT License.\nSee file license header for details.\nIf you want to use them in your own project, one evcc sponsorship token is required per evcc instance.\nCustom licensing agreements are available - please [contact us](mailto:info@evcc.io) to discuss your specific requirements.\n",
+      "readme": "[![][license img]][license] [![][licensemit img]][licensemit]\n\n\n[![Doxygen Documentation](https://img.shields.io/badge/docs-doxygen-green.svg)](https://simdjson.github.io/simdjson/)\n\nsimdjson : Parsing gigabytes of JSON per second\n===============================================\n\n<img src=\"images/official_logo/logo_noir/SVG/logo_simdjson_noir.svg\" width=\"40%\" style=\"float: right\">\n\nJSON is everywhere on the Internet. Servers spend a *lot* of time parsing it. We need a fresh\napproach. The simdjson library uses commonly available SIMD instructions and microparallel algorithms\nto parse JSON 4x  faster than RapidJSON and 25x faster than JSON for Modern C++.\n\n* **Fast:** Over 4x faster than commonly used production-grade JSON parsers.\n* **Record Breaking Features:** Minify JSON  at 6 GB/s, validate UTF-8  at 13 GB/s,  NDJSON at 3.5 GB/s.\n* **Easy:** First-class, easy to use and carefully documented APIs.\n* **Strict:** Full JSON and UTF-8 validation, lossless parsing. Performance with no compromises.\n* **Automatic:** Selects a CPU-tailored parser at runtime. No configuration needed.\n* **Reliable:** From memory allocation to error handling, simdjson's design avoids surprises.\n* **Peer Reviewed:** Our research appears in venues like VLDB Journal, Software: Practice and Experience.\n\nThis library is part of the [Awesome Modern C++](https://awesomecpp.com) list.\n\nTable of Contents\n-----------------\n\n* [Real-world usage](#real-world-usage)\n* [Quick Start](#quick-start)\n* [Documentation](#documentation)\n* [Godbolt](#godbolt)\n* [Performance results](#performance-results)\n* [Packages](#packages)\n* [Bindings and Ports of simdjson](#bindings-and-ports-of-simdjson)\n* [About simdjson](#about-simdjson)\n* [Funding](#funding)\n* [Contributing to simdjson](#contributing-to-simdjson)\n* [License](#license)\n\n\nReal-world usage\n----------------\n\n- [Node.js](https://nodejs.org/)\n- [ClickHouse](https://github.com/ClickHouse/ClickHouse)\n- [Meta Velox](https://velox-lib.io)\n- [Google Pax](https://github.com/google/paxml)\n- [milvus](https://github.com/milvus-io/milvus)\n- [QuestDB](https://questdb.io/blog/questdb-release-8-0-3/)\n- [Clang Build Analyzer](https://github.com/aras-p/ClangBuildAnalyzer)\n- [Shopify HeapProfiler](https://github.com/Shopify/heap-profiler)\n- [StarRocks](https://github.com/StarRocks/starrocks)\n- [Microsoft FishStore](https://github.com/microsoft/FishStore)\n- [Intel PCM](https://github.com/intel/pcm)\n- [WatermelonDB](https://github.com/Nozbe/WatermelonDB)\n- [Apache Doris](https://github.com/apache/doris)\n- [Dgraph](https://github.com/dgraph-io/dgraph)\n- [UJRPC](https://github.com/unum-cloud/ujrpc)\n- [fastgltf](https://github.com/spnda/fastgltf)\n- [vast](https://github.com/tenzir/vast)\n- [ada-url](https://github.com/ada-url/ada)\n- [fastgron](https://github.com/adamritter/fastgron)\n- [WasmEdge](https://wasmedge.org)\n- [RonDB](https://github.com/logicalclocks/rondb)\n- [GreptimeDB](https://github.com/GreptimeTeam/greptimedb)\n- [mamba](https://github.com/mamba-org/mamba)\n\n\nIf you are planning to use simdjson in a product, please work from one of our releases.\n\n\n\n\nQuick Start\n-----------\n\nThe simdjson library is easily consumable with a single .h and .cpp file.\n\n0. Prerequisites: `g++` (version 7 or better) or `clang++` (version 6 or better), and a 64-bit\n   system with a command-line shell (e.g., Linux, macOS, freeBSD). We also support programming\n   environments like Visual Studio and Xcode, but different steps are needed. Users of clang++ may need to specify the C++ version (e.g., `c++ -std=c++17`) since clang++ tends to default on C++98.\n1. Pull [simdjson.h](singleheader/simdjson.h) and [simdjson.cpp](singleheader/simdjson.cpp) into a\n   directory, along with the sample file [twitter.json](jsonexamples/twitter.json). You can download them with the `wget` utility:\n\n   ```\n   wget https://raw.githubusercontent.com/simdjson/simdjson/master/singleheader/simdjson.h https://raw.githubusercontent.com/simdjson/simdjson/master/singleheader/simdjson.cpp https://raw.githubusercontent.com/simdjson/simdjson/master/jsonexamples/twitter.json\n   ```\n2. Create `quickstart.cpp`:\n\n```cpp\n#include <iostream>\n#include \"simdjson.h\"\nusing namespace simdjson;\nint main(void) {\n    ondemand::parser parser;\n    padded_string json = padded_string::load(\"twitter.json\");\n    ondemand::document tweets = parser.iterate(json);\n    std::cout << uint64_t(tweets[\"search_metadata\"][\"count\"]) << \" results.\" << std::endl;\n}\n```\n3. `c++ -o quickstart quickstart.cpp simdjson.cpp`\n4. `./quickstart`\n\n  ```\n   100 results.\n  ```\n\n\nDocumentation\n-------------\n\nUsage documentation is available:\n\n* [Basics](doc/basics.md) is an overview of how to use simdjson and its APIs.\n* [Builder](doc/builder.md) is an overview of how to efficiently write JSON strings using simdjson.\n* [Performance](doc/performance.md) shows some more advanced scenarios and how to tune for them.\n* [Implementation Selection](doc/implementation-selection.md) describes runtime CPU detection and\n  how you can work with it.\n* [API](https://simdjson.github.io/simdjson/) contains the automatically generated API documentation.\n* [Compile-Time Parsing](doc/compile_time.md) presents our compile-time parsing function (C++26 only).\n\n\nGodbolt\n-------------\n\nSome users may want to browse code along with the compiled assembly. You want to check out the following lists of examples:\n* [C++26 reflection example](https://godbolt.org/z/K3Px64TqK)\n* [simdjson examples with errors handled through exceptions](https://godbolt.org/z/7G5qE4sr9)\n* [simdjson examples with errors without exceptions](https://godbolt.org/z/e9dWb9E4v)\n\nPerformance results\n-------------------\n\nThe simdjson library uses three-quarters less instructions than state-of-the-art parser [RapidJSON](https://rapidjson.org). To our knowledge, simdjson is the first fully-validating JSON parser\nto run at [gigabytes per second](https://en.wikipedia.org/wiki/Gigabyte) (GB/s) on commodity processors. It can parse millions of JSON documents per second on a single core.\n\nThe following figure represents parsing speed in GB/s for parsing various files\non an Intel Skylake processor (3.4 GHz) using the GNU GCC 10 compiler (with the -O3 flag).\nWe compare against the best and fastest C++ libraries on benchmarks that load and process the data.\nThe simdjson library offers full unicode ([UTF-8](https://en.wikipedia.org/wiki/UTF-8)) validation and exact\nnumber parsing.\n\n<img src=\"doc/rome.png\" width=\"60%\">\n\nThe simdjson library offers high speed whether it processes tiny files (e.g., 300 bytes)\nor larger files (e.g., 3MB). The following plot presents parsing\nspeed for [synthetic files over various sizes generated with a script](https://github.com/simdjson/simdjson_experiments_vldb2019/blob/master/experiments/growing/gen.py) on a 3.4 GHz Skylake processor (GNU GCC 9, -O3).\n\n<img src=\"doc/growing.png\" width=\"60%\">\n\n[All our experiments are reproducible](https://github.com/simdjson/simdjson_experiments_vldb2019).\n\n\nFor NDJSON files, we can exceed 3 GB/s with [our  multithreaded parsing functions](https://github.com/simdjson/simdjson/blob/master/doc/parse_many.md).\n\n\nPackages\n------------------------------\n[![Packaging status](https://repology.org/badge/vertical-allrepos/simdjson.svg)](https://repology.org/project/simdjson/versions)\n\n\nBindings and Ports of simdjson\n------------------------------\n\nWe distinguish between \"bindings\" (which just wrap the C++ code) and a port to another programming language (which reimplements everything).\n\n- [ZippyJSON](https://github.com/michaeleisel/zippyjson): Swift bindings for the simdjson project.\n- [libpy_simdjson](https://github.com/gerrymanoim/libpy_simdjson/): high-speed Python bindings for simdjson using [libpy](https://github.com/quantopian/libpy).\n- [pysimdjson](https://github.com/TkTech/pysimdjson): Python bindings for the simdjson project.\n- [cysimdjson](https://github.com/TeskaLabs/cysimdjson): high-speed Python bindings for the simdjson project.\n- [simdjson-rs](https://github.com/simd-lite): Rust port.\n- [simdjson-rust](https://github.com/SunDoge/simdjson-rust): Rust wrapper (bindings).\n- [SimdJsonSharp](https://github.com/EgorBo/SimdJsonSharp): C# version for .NET Core (bindings and full port).\n- [simdjson_nodejs](https://github.com/luizperes/simdjson_nodejs): Node.js bindings for the simdjson project.\n- [simdjson_php](https://github.com/crazyxman/simdjson_php): PHP bindings for the simdjson project.\n- [simdjson_ruby](https://github.com/saka1/simdjson_ruby): Ruby bindings for the simdjson project.\n- [fast_jsonparser](https://github.com/anilmaurya/fast_jsonparser): Ruby bindings for the simdjson project.\n- [simdjson-go](https://github.com/minio/simdjson-go): Go port using Golang assembly.\n- [rcppsimdjson](https://github.com/eddelbuettel/rcppsimdjson): R bindings.\n- [simdjson_erlang](https://github.com/ChomperT/simdjson_erlang): erlang bindings.\n- [simdjsone](https://github.com/saleyn/simdjsone): erlang bindings.\n- [lua-simdjson](https://github.com/FourierTransformer/lua-simdjson): lua bindings.\n- [hermes-json](https://hackage.haskell.org/package/hermes-json): haskell bindings.\n- [zimdjson](https://github.com/EzequielRamis/zimdjson): Zig port.\n- [simdjzon](https://github.com/travisstaloch/simdjzon): Zig port.\n- [JSON-Simd](https://github.com/rawleyfowler/JSON-simd): Raku bindings.\n- [JSON::SIMD](https://metacpan.org/pod/JSON::SIMD): Perl bindings; fully-featured JSON module that uses simdjson for decoding.\n- [gemmaJSON](https://github.com/sainttttt/gemmaJSON): Nim JSON parser based on simdjson bindings.\n- [simdjson-java](https://github.com/simdjson/simdjson-java): Java port.\n\nAbout simdjson\n--------------\n\nThe simdjson library takes advantage of modern microarchitectures, parallelizing with SIMD vector\ninstructions, reducing branch misprediction, and reducing data dependency to take advantage of each\nCPU's multiple execution cores.\n\nOur default front-end is called On-Demand, and we wrote a paper about it:\n\n- John Keiser, Daniel Lemire, [On-Demand JSON: A Better Way to Parse Documents?](http://arxiv.org/abs/2312.17149), Software: Practice and Experience 54 (6), 2024.\n\nSome people [enjoy reading the first (2019) simdjson paper](https://arxiv.org/abs/1902.08318): A description of the design\nand implementation of simdjson is in our research article:\n- Geoff Langdale, Daniel Lemire, [Parsing Gigabytes of JSON per Second](https://arxiv.org/abs/1902.08318), VLDB Journal 28 (6), 2019.\n\nWe have an in-depth paper focused on the UTF-8 validation:\n\n- John Keiser, Daniel Lemire, [Validating UTF-8 In Less Than One Instruction Per Byte](https://arxiv.org/abs/2010.03090), Software: Practice & Experience 51 (5), 2021.\n\nWe also have an informal [blog post providing some background and context](https://branchfree.org/2019/02/25/paper-parsing-gigabytes-of-json-per-second/).\n\nFor the video inclined, <br />\n[![simdjson at QCon San Francisco 2019](http://img.youtube.com/vi/wlvKAT7SZIQ/0.jpg)](http://www.youtube.com/watch?v=wlvKAT7SZIQ)<br />\n(It was the best voted talk, we're kinda proud of it.)\n\nCiting this work\n-----------------\n\nIf you use simdjson in published research, please cite the software library. A suitable BibTeX entry is:\n\n```bibtex\n@misc{simdjson,\n  title={{The simdjson library: Parsing Gigabytes of JSON per Second}},\n  author={Daniel Lemire and Geoff Langdale and John Keiser and Paul Dreik and Francisco Thiesen and others},\n  year={2019},\n  howpublished={Software library},\n  note={https://github.com/simdjson/simdjson}\n}\n```\n\nFunding\n-------\n\nThe work is supported by the Natural Sciences and Engineering Research Council of Canada under grants\nRGPIN-2017-03910 and RGPIN-2024-03787.\n\n[license]: LICENSE\n[license img]: https://img.shields.io/badge/License-Apache%202-blue.svg\n\n\n[licensemit]: LICENSE-MIT\n[licensemit img]: https://img.shields.io/badge/License-MIT-blue.svg\n\n\nContributing to simdjson\n------------------------\n\nHead over to [CONTRIBUTING.md](CONTRIBUTING.md) for information on contributing to simdjson, and\n[HACKING.md](HACKING.md) for information on source, building, and architecture/design.\n\n\nStars\n------\n\n[![Star History Chart](https://api.star-history.com/svg?repos=simdjson/simdjson&type=Date)](https://www.star-history.com/#simdjson/simdjson&Date)\n\n\nLicense\n-------\n\nThis code is made available under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html) as well as under the MIT License. As a user, you can pick the license you prefer.\n\nUnder Windows, we build some tools using the windows/dirent_portable.h file (which is outside our library code): it is under the liberal (business-friendly) MIT license.\n\nFor compilers that do not support [C++17](https://en.wikipedia.org/wiki/C%2B%2B17), we bundle the string-view library which is published under the [Boost license](http://www.boost.org/LICENSE_1_0.txt). Like the Apache license, the Boost license is a permissive license allowing commercial redistribution.\n\nFor efficient number serialization, we bundle Florian Loitsch's implementation of the Grisu2 algorithm for binary to decimal floating-point numbers. The implementation was slightly modified by JSON for Modern C++ library. Both Florian Loitsch's implementation and JSON for Modern C++ are provided under the MIT license.\n\nFor runtime dispatching, we use some code from the PyTorch project licensed under 3-clause BSD.\n",
       "stars_today": 11
     },
     {
@@ -2609,7 +2573,7 @@
       "full_name": "tree-sitter/tree-sitter",
       "description": "An incremental parsing system for programming tools",
       "html_url": "https://github.com/tree-sitter/tree-sitter",
-      "stars": 23210,
+      "stars": 23212,
       "forks": 2316,
       "language": "Rust",
       "topics": [
@@ -2622,7 +2586,7 @@
         "wasm"
       ],
       "created_at": "2013-11-06T06:16:00Z",
-      "updated_at": "2026-01-03T13:33:43Z",
+      "updated_at": "2026-01-03T14:52:21Z",
       "pushed_at": "2025-12-31T19:37:17Z",
       "open_issues": 120,
       "owner": {
@@ -2638,7 +2602,7 @@
       "full_name": "official-stockfish/Stockfish",
       "description": "A free and strong UCI chess engine",
       "html_url": "https://github.com/official-stockfish/Stockfish",
-      "stars": 14430,
+      "stars": 14431,
       "forks": 2720,
       "language": "C++",
       "topics": [
@@ -2649,7 +2613,7 @@
         "uci"
       ],
       "created_at": "2014-06-18T19:59:53Z",
-      "updated_at": "2026-01-03T13:31:14Z",
+      "updated_at": "2026-01-03T14:08:39Z",
       "pushed_at": "2026-01-02T08:41:20Z",
       "open_issues": 44,
       "owner": {
@@ -2665,7 +2629,7 @@
       "full_name": "getsops/sops",
       "description": "Simple and flexible tool for managing secrets",
       "html_url": "https://github.com/getsops/sops",
-      "stars": 20354,
+      "stars": 20355,
       "forks": 996,
       "language": "Go",
       "topics": [
@@ -2680,7 +2644,7 @@
         "sops"
       ],
       "created_at": "2015-08-13T22:11:00Z",
-      "updated_at": "2026-01-03T13:20:17Z",
+      "updated_at": "2026-01-03T14:18:29Z",
       "pushed_at": "2025-12-29T14:13:29Z",
       "open_issues": 411,
       "owner": {
@@ -2874,7 +2838,7 @@
       "full_name": "mamiiblt/instafel",
       "description": "Instafel provides fast & up-to-date Instagram Alpha experience for everyone!",
       "html_url": "https://github.com/mamiiblt/instafel",
-      "stars": 738,
+      "stars": 740,
       "forks": 23,
       "language": "Java",
       "topics": [
@@ -2882,7 +2846,7 @@
         "source-code"
       ],
       "created_at": "2024-01-16T16:26:27Z",
-      "updated_at": "2026-01-03T12:55:55Z",
+      "updated_at": "2026-01-03T14:25:28Z",
       "pushed_at": "2026-01-03T02:53:40Z",
       "open_issues": 14,
       "owner": {
@@ -2899,7 +2863,7 @@
       "description": "JavaScript Style Guide",
       "html_url": "https://github.com/airbnb/javascript",
       "stars": 148018,
-      "forks": 26784,
+      "forks": 26785,
       "language": "JavaScript",
       "topics": [
         "arrow-functions",
@@ -2960,7 +2924,7 @@
       "full_name": "libuv/libuv",
       "description": "Cross-platform asynchronous I/O",
       "html_url": "https://github.com/libuv/libuv",
-      "stars": 26417,
+      "stars": 26418,
       "forks": 3817,
       "language": "C",
       "topics": [
@@ -2974,7 +2938,7 @@
         "windows"
       ],
       "created_at": "2013-11-30T00:29:56Z",
-      "updated_at": "2026-01-03T09:06:16Z",
+      "updated_at": "2026-01-03T14:16:03Z",
       "pushed_at": "2026-01-01T21:33:44Z",
       "open_issues": 212,
       "owner": {
@@ -3069,7 +3033,7 @@
       "full_name": "HMCL-dev/HMCL",
       "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
       "html_url": "https://github.com/HMCL-dev/HMCL",
-      "stars": 8603,
+      "stars": 8604,
       "forks": 811,
       "language": "Java",
       "topics": [
@@ -3078,7 +3042,7 @@
         "minecraft-launcher"
       ],
       "created_at": "2015-06-22T08:06:03Z",
-      "updated_at": "2026-01-03T13:41:37Z",
+      "updated_at": "2026-01-03T14:58:37Z",
       "pushed_at": "2026-01-03T12:51:46Z",
       "open_issues": 331,
       "owner": {
@@ -3182,7 +3146,7 @@
       "full_name": "khcrysalis/Feather",
       "description": "Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.",
       "html_url": "https://github.com/khcrysalis/Feather",
-      "stars": 3394,
+      "stars": 3395,
       "forks": 299,
       "language": "Swift",
       "topics": [
@@ -3200,7 +3164,7 @@
         "zsign"
       ],
       "created_at": "2024-05-19T17:44:22Z",
-      "updated_at": "2026-01-03T12:10:12Z",
+      "updated_at": "2026-01-03T14:35:30Z",
       "pushed_at": "2026-01-03T13:50:11Z",
       "open_issues": 13,
       "owner": {
@@ -3241,7 +3205,7 @@
         "workflow-engine"
       ],
       "created_at": "2019-06-07T11:03:41Z",
-      "updated_at": "2026-01-03T09:28:57Z",
+      "updated_at": "2026-01-03T14:46:25Z",
       "pushed_at": "2026-01-02T17:21:51Z",
       "open_issues": 307,
       "owner": {
@@ -3294,7 +3258,7 @@
       "full_name": "plankanban/planka",
       "description": "PLANKA is the kanban-style project mastering tool for everyone.",
       "html_url": "https://github.com/plankanban/planka",
-      "stars": 11276,
+      "stars": 11277,
       "forks": 1150,
       "language": "JavaScript",
       "topics": [
@@ -3312,7 +3276,7 @@
         "trello"
       ],
       "created_at": "2019-08-30T20:35:36Z",
-      "updated_at": "2026-01-03T11:54:25Z",
+      "updated_at": "2026-01-03T14:38:49Z",
       "pushed_at": "2026-01-02T06:04:52Z",
       "open_issues": 378,
       "owner": {
@@ -3342,7 +3306,7 @@
       "created_at": "2014-11-08T11:07:12Z",
       "updated_at": "2026-01-03T10:28:03Z",
       "pushed_at": "2025-12-13T15:50:09Z",
-      "open_issues": 45,
+      "open_issues": 46,
       "owner": {
         "login": "iSoron",
         "avatar_url": "https://avatars.githubusercontent.com/u/4699657?v=4"
@@ -3356,7 +3320,7 @@
       "full_name": "bmax121/APatch",
       "description": "The patching of Android kernel and Android system",
       "html_url": "https://github.com/bmax121/APatch",
-      "stars": 6843,
+      "stars": 6844,
       "forks": 631,
       "language": "Kotlin",
       "topics": [
@@ -3369,7 +3333,7 @@
         "root"
       ],
       "created_at": "2023-08-21T14:20:01Z",
-      "updated_at": "2026-01-03T12:41:33Z",
+      "updated_at": "2026-01-03T14:16:20Z",
       "pushed_at": "2025-12-30T14:16:00Z",
       "open_issues": 88,
       "owner": {
@@ -3401,7 +3365,7 @@
       "created_at": "2013-01-14T21:40:56Z",
       "updated_at": "2026-01-03T13:34:11Z",
       "pushed_at": "2026-01-03T13:34:06Z",
-      "open_issues": 246,
+      "open_issues": 245,
       "owner": {
         "login": "SeleniumHQ",
         "avatar_url": "https://avatars.githubusercontent.com/u/983927?v=4"
@@ -3415,7 +3379,7 @@
       "full_name": "openjdk/jdk",
       "description": "JDK main-line development https://openjdk.org/projects/jdk",
       "html_url": "https://github.com/openjdk/jdk",
-      "stars": 22304,
+      "stars": 22306,
       "forks": 6211,
       "language": "Java",
       "topics": [
@@ -3424,7 +3388,7 @@
         "openjdk"
       ],
       "created_at": "2018-09-17T12:29:20Z",
-      "updated_at": "2026-01-03T02:53:00Z",
+      "updated_at": "2026-01-03T14:54:25Z",
       "pushed_at": "2026-01-03T13:33:52Z",
       "open_issues": 381,
       "owner": {
@@ -3501,19 +3465,55 @@
       "stars_today": 6
     },
     {
+      "id": 226368338,
+      "name": "evcc",
+      "full_name": "evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "html_url": "https://github.com/evcc-io/evcc",
+      "stars": 5965,
+      "forks": 1152,
+      "language": "Go",
+      "topics": [
+        "battery",
+        "charger",
+        "eebus",
+        "emobility",
+        "golang",
+        "home-automation",
+        "modbus",
+        "mqtt",
+        "ocpp",
+        "pv",
+        "semp",
+        "solar",
+        "sunspec",
+        "wallbox"
+      ],
+      "created_at": "2019-12-06T16:27:04Z",
+      "updated_at": "2026-01-03T14:01:17Z",
+      "pushed_at": "2026-01-03T14:02:21Z",
+      "open_issues": 127,
+      "owner": {
+        "login": "evcc-io",
+        "avatar_url": "https://avatars.githubusercontent.com/u/81383504?v=4"
+      },
+      "readme": "# evcc 🚘☀️\n\n[![Build](https://github.com/evcc-io/evcc/actions/workflows/nightly.yml/badge.svg)](https://github.com/evcc-io/evcc/actions/workflows/nightly.yml)\n[![Translation](https://hosted.weblate.org/widgets/evcc/-/evcc/svg-badge.svg)](https://hosted.weblate.org/engage/evcc/)\n![Docker Pulls](https://img.shields.io/docker/pulls/evcc/evcc)\n[![OSS hosting by cloudsmith](https://img.shields.io/badge/OSS%20hosting%20by-cloudsmith-blue?logo=cloudsmith)](https://cloudsmith.io/~evcc/packages/)\n[![Latest Version](https://img.shields.io/github/release/evcc-io/evcc.svg)](https://github.com/evcc-io/evcc/releases)<br/>\n[![Built with Depot](https://depot.dev/badges/built-with-depot.svg)](https://depot.dev/?utm_source=evcc)\n\nevcc is an extensible EV Charge Controller and home energy management system.\n\n![Screenshot](assets/github/screenshot.webp)\n\nOur goal is to provide local energy management, without relying on cloud services.\nFeatured in [PV Magazine](https://www.pv-magazine.de/2022/01/14/mit-open-source-lademanager-schnittstellen-zu-wallbox-und-photovoltaik-anlage-meistern/) and [c’t Magazin](https://www.youtube.com/watch?v=MoBpEXHMNjI).\n\n## Features\n\n- simple and clean user interface\n- support for many [EV chargers](https://docs.evcc.io/en/docs/devices/chargers):\n  - ABB, ABL, Alfen, Alphatec, Amperfied, Ampure, Audi, AUTEL, Autoaid, Bender, BMW, cFos, Charge Amps, Compleo, CUBOS, Cupra, Dadapower, DaheimLaden, Delta, E.ON Drive, E3/DC, Easee, Ebee, echarge, EcoHarmony, Edgetech, Elecq, eledio, Elli, EM2GO, EN+, enercab, Ensto, EntraTek, ESL, eSystems, Etrel, EVBox, Free2Move, Free2move eSolutions, Fronius, Garo, go-e, Hardy Barth, Heidelberg, Hesotec, Homecharge, Huawei, Innogy, INRO, Juice, Kathrein, KEBA, Kontron Solar, Kostal, KSE, LadeFoxx, LRT, Mennekes, NRGkick, OBO Bettermann, OpenEVSE, openWB, Optec, Orbis, PC Electric, Peblar, Phoenix Contact, Plugchoice, Porsche, Pracht, Pulsares, Pulsatrix, Qcells, Schneider, Schrack, SENEC, Siemens, Skoda, SMA, Smartfox, SolarEdge, Solax, Sonnen, Spelsberg, Stark in Strom, Sungrow, TechniSat, Tesla, Tigo, TinkerForge, Ubitricity, V2C Trydan, Vestel, Victron, Viridian EV, Volkswagen, Volt Time, Wallbe, wallbox, Walther Werke, Webasto, Weidmüller, Zaptec, ZJ Beny. [Read more.](https://docs.evcc.io/en/docs/devices/chargers)\n  - **EEBus** support (Elli, PMCC)\n  - **OCPP** support\n  - **build-your-own:** Phoenix Contact (includes ESL Walli), EVSE DIN\n  - **smart switches:** AVM, FRITZ!, Home Assistant, Homematic IP, HomeWizard, myStrom, Shelly, Tasmota, TP-Link. [Read more.](https://docs.evcc.io/en/docs/devices/smartswitches)\n  - **heat pumps and electric heaters:** alpha innotec, Bosch, Buderus, Bösch, CTA All-In-One, Daikin, Elco, IDM, Junkers, Kermi, Lambda, my-PV, Nibe, Novelan, Roth, Stiebel Eltron, Tecalor, Vaillant, Viessmann, Wolf, Zewotherm. [Read more.](https://docs.evcc.io/en/docs/devices/heating)\n- support for many [energy meters](https://docs.evcc.io/en/docs/devices/meters):\n  - **solar inverters and battery systems:** A-Tronix, Acrel, Ads-tec, Alpha ESS, Ampere, Anker, APsystems, AVM, Axitec, BGEtech, Bosch, Bosswerk, Carlo Gavazzi, Deye, E3/DC, Eastron, Enphase, FENECON, FRITZ!, FoxESS, Fronius, Ginlong, go-e, GoodWe, Growatt, Homematic IP, HomeWizard, Hoymiles, Huawei, IAMMETER, IGEN Tech, Kostal, LG, Loxone, M-TEC, Marstek, myStrom, OpenEMS, Powerfox, Qcells, RCT, SAJ, SAX, SENEC, Senergy, Shelly, Siemens, Sigenergy, SMA, Smartfox, SofarSolar, Solaranzeige, SolarEdge, SolarMax, Solarwatt, Solax, Solinteng, Sonnen, St-ems, Steca, Sungrow, Sunsynk, Sunway, Tasmota, Tesla, TP-Link, VARTA, Victron, Wattsonic, Youless, ZCS Azzurro, Zendure. [Read more.](https://docs.evcc.io/en/docs/devices/meters)\n  - **general energy meters:** A-Tronix, ABB, Acrel, Alpha ESS, Ampere, AVM, Axitec, Bernecker Engineering, BGEtech, Bosch, Carlo Gavazzi, cFos, Deye, DSMR, DZG, E3/DC, Eastron, Enphase, ESPHome, FENECON, FoxESS, FRITZ!, Fronius, Ginlong, go-e, GoodWe, Growatt, Homematic IP, HomeWizard, Huawei, IAMMETER, inepro, IOmeter, Janitza, KEBA, Kostal, LG, Loxone, M-TEC, mhendriks, my-PV, myStrom, OpenEMS, ORNO, P1Monitor, Powerfox, Qcells, RCT, Saia-Burgess Controls (SBC), SAJ, SAX, Schneider Electric, SENEC, Shelly, Siemens, Sigenergy, SMA, Smartfox, SofarSolar, Solaranzeige, SolarEdge, SolarMax, Solarwatt, Solax, Solinteng, Sonnen, St-ems, Sungrow, Sunsynk, Sunway, Tasmota, Tesla, Tibber, TQ, VARTA, Victron, Volkszähler, Wago, Wattsonic, Weidmüller, Youless, ZCS Azzurro, Zuidwijk. [Read more.](https://docs.evcc.io/en/docs/devices/meters)\n  - **integrated systems**: SMA Sunny Home Manager and Energy Meter, KOSTAL Smart Energy Meter (KSEM, EMxx)\n  - **sunspec**-compatible inverter or home battery devices\n  - **mbmd**-compatible devices, see [volkszaehler/mbmd](https://github.com/volkszaehler/mbmd#supported-devices) for a complete list\n- [vehicle](https://docs.evcc.io/en/docs/devices/vehicles) integrations (state of charge, remote charge, battery and preconditioning status):\n  - Aiways, Audi, BMW, Citroën, Dacia, DS, Fiat, Ford, Hyundai, Jeep, Kia, Mercedes-Benz, MG, Mini, Nissan, NIU, Opel, Peugeot, Polestar, Renault, Seat, Skoda, Smart, Subaru, Tesla, Toyota, Volkswagen, Volvo, Zero Motorcycles. [Read more.](https://docs.evcc.io/en/docs/devices/vehicles)\n  - **services:** OVMS, Tronity, evNotify, ioBroker.bmw, mg2mqtt, mz2mqtt, TeslaLogger, TeslaMate, Tessi, volvo2mqtt\n- [plugins](https://docs.evcc.io/en/docs/devices/plugins) for integrating with any charger, smartswitch, heatpump, electric heater, meter, solar- / battery-inverter or vehicle:\n  - Modbus, HTTP, MQTT, JavaScript, WebSocket, Go and shell scripts\n- status [notifications](https://docs.evcc.io/en/docs/reference/configuration/messaging) using [Telegram](https://telegram.org), [PushOver](https://pushover.net) and [many more](https://containrrr.dev/shoutrrr/)\n- logging using [InfluxDB](https://www.influxdata.com) and [Grafana](https://grafana.com/grafana/)\n- [REST](https://docs.evcc.io/en/docs/integrations/rest-api) and [MQTT](https://docs.evcc.io/en/docs/integrations/mqtt-api) APIs for integration with home automation systems\n- Add-ons for [Home Assistant](https://docs.evcc.io/en/docs/integrations/home-assistant) and [openHAB](https://www.openhab.org/addons/bindings/evcc) (not maintained by the evcc core team)\n\n## Getting Started\n\nYou'll find everything you need in our [documentation](https://docs.evcc.io/en/).\n\n## Contributing\n\nTechnical details on how to contribute, how to add translations and how to build evcc from source can be found [here](CONTRIBUTING.md).\n\n[![Weblate Hosted](https://hosted.weblate.org/widgets/evcc/-/evcc/287x66-grey.png)](https://hosted.weblate.org/engage/evcc/)\n\n## Sponsorship\n\n<img src=\"assets/github/evcc-gopher.png\" align=\"right\" width=\"150\" />\n\nevcc believes in open source software. We're committed to provide best in class EV charging experience.\nMaintaining evcc consumes time and effort. With the vast amount of different devices to support, we depend on community and vendor support to keep evcc alive.\n\nWhile evcc is open source, we would also like to encourage vendors to provide open source hardware devices, public documentation and support open source projects like ours that provide additional value to otherwise closed hardware. Where this is not the case, evcc requires \"sponsor token\" to finance ongoing development and support of evcc.\n\nLearn more about our [sponsorship model](https://docs.evcc.io/en/docs/sponsorship).\n\n## License\n\nThis project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.\n\nFor additional license information regarding fonts, icons, and other assets, please see the [LICENSES](LICENSES/) folder.\n\n**Note:** All sponsor-required components are excluded from the MIT License.\nSee file license header for details.\nIf you want to use them in your own project, one evcc sponsorship token is required per evcc instance.\nCustom licensing agreements are available - please [contact us](mailto:info@evcc.io) to discuss your specific requirements.\n",
+      "stars_today": 6
+    },
+    {
       "id": 1016267036,
       "name": "bitchat-android",
       "full_name": "permissionlesstech/bitchat-android",
       "description": "bluetooth mesh chat, IRC vibes",
       "html_url": "https://github.com/permissionlesstech/bitchat-android",
-      "stars": 4246,
-      "forks": 587,
+      "stars": 4247,
+      "forks": 588,
       "language": "Kotlin",
       "topics": [],
       "created_at": "2025-07-08T18:36:23Z",
-      "updated_at": "2026-01-03T10:12:26Z",
+      "updated_at": "2026-01-03T14:44:59Z",
       "pushed_at": "2026-01-02T09:52:09Z",
-      "open_issues": 200,
+      "open_issues": 201,
       "owner": {
         "login": "permissionlesstech",
         "avatar_url": "https://avatars.githubusercontent.com/u/220183803?v=4"
@@ -3551,7 +3551,7 @@
       "full_name": "kaspanet/rusty-kaspa",
       "description": "Kaspa full-node reference implementation and related libraries in the Rust programming language",
       "html_url": "https://github.com/kaspanet/rusty-kaspa",
-      "stars": 750,
+      "stars": 751,
       "forks": 259,
       "language": "Rust",
       "topics": [
@@ -3561,7 +3561,7 @@
         "wasm"
       ],
       "created_at": "2022-07-17T23:32:26Z",
-      "updated_at": "2026-01-02T22:29:53Z",
+      "updated_at": "2026-01-03T14:46:21Z",
       "pushed_at": "2026-01-02T14:06:17Z",
       "open_issues": 128,
       "owner": {
@@ -3660,7 +3660,7 @@
       "full_name": "catchorg/Catch2",
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
       "html_url": "https://github.com/catchorg/Catch2",
-      "stars": 20075,
+      "stars": 20076,
       "forks": 3182,
       "language": "C++",
       "topics": [
@@ -3674,9 +3674,9 @@
         "testing"
       ],
       "created_at": "2010-11-08T18:22:56Z",
-      "updated_at": "2026-01-03T13:58:34Z",
-      "pushed_at": "2026-01-03T13:58:38Z",
-      "open_issues": 419,
+      "updated_at": "2026-01-03T15:05:22Z",
+      "pushed_at": "2026-01-03T15:05:18Z",
+      "open_issues": 418,
       "owner": {
         "login": "catchorg",
         "avatar_url": "https://avatars.githubusercontent.com/u/33321405?v=4"
@@ -3713,9 +3713,9 @@
         "wow"
       ],
       "created_at": "2016-06-26T08:40:05Z",
-      "updated_at": "2026-01-03T09:44:08Z",
-      "pushed_at": "2026-01-03T09:44:04Z",
-      "open_issues": 2356,
+      "updated_at": "2026-01-03T15:00:41Z",
+      "pushed_at": "2026-01-03T15:00:33Z",
+      "open_issues": 2355,
       "owner": {
         "login": "azerothcore",
         "avatar_url": "https://avatars.githubusercontent.com/u/20147732?v=4"
@@ -3729,7 +3729,7 @@
       "full_name": "ory/kratos",
       "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network. ",
       "html_url": "https://github.com/ory/kratos",
-      "stars": 13299,
+      "stars": 13300,
       "forks": 1091,
       "language": "Go",
       "topics": [
@@ -3746,7 +3746,7 @@
         "users"
       ],
       "created_at": "2018-05-29T16:09:37Z",
-      "updated_at": "2026-01-03T11:27:52Z",
+      "updated_at": "2026-01-03T14:02:39Z",
       "pushed_at": "2026-01-02T11:58:32Z",
       "open_issues": 216,
       "owner": {
@@ -3961,7 +3961,7 @@
       "full_name": "FortAwesome/Font-Awesome",
       "description": "The iconic SVG, font, and CSS toolkit",
       "html_url": "https://github.com/FortAwesome/Font-Awesome",
-      "stars": 76168,
+      "stars": 76170,
       "forks": 12250,
       "language": "JavaScript",
       "topics": [
@@ -3974,7 +3974,7 @@
         "webfont"
       ],
       "created_at": "2012-02-17T14:19:43Z",
-      "updated_at": "2026-01-03T13:06:32Z",
+      "updated_at": "2026-01-03T15:01:52Z",
       "pushed_at": "2025-12-12T16:04:31Z",
       "open_issues": 303,
       "owner": {
@@ -4040,9 +4040,9 @@
         "reactive"
       ],
       "created_at": "2018-07-06T00:44:20Z",
-      "updated_at": "2026-01-03T12:47:15Z",
-      "pushed_at": "2026-01-03T12:47:10Z",
-      "open_issues": 2706,
+      "updated_at": "2026-01-03T14:44:14Z",
+      "pushed_at": "2026-01-03T14:44:10Z",
+      "open_issues": 2705,
       "owner": {
         "login": "quarkusio",
         "avatar_url": "https://avatars.githubusercontent.com/u/47638783?v=4"
@@ -4056,7 +4056,7 @@
       "full_name": "datahub-project/datahub",
       "description": "The Metadata Platform for your Data and AI Stack",
       "html_url": "https://github.com/datahub-project/datahub",
-      "stars": 11387,
+      "stars": 11388,
       "forks": 3321,
       "language": "Java",
       "topics": [
@@ -4068,9 +4068,9 @@
         "metadata"
       ],
       "created_at": "2015-11-18T05:47:40Z",
-      "updated_at": "2026-01-03T14:01:24Z",
-      "pushed_at": "2026-01-03T07:56:04Z",
-      "open_issues": 678,
+      "updated_at": "2026-01-03T14:37:41Z",
+      "pushed_at": "2026-01-03T14:08:23Z",
+      "open_issues": 677,
       "owner": {
         "login": "datahub-project",
         "avatar_url": "https://avatars.githubusercontent.com/u/78121374?v=4"
@@ -4084,7 +4084,7 @@
       "full_name": "bitwarden/android",
       "description": "Bitwarden mobile apps (Password Manager and Authenticator) for Android.",
       "html_url": "https://github.com/bitwarden/android",
-      "stars": 8221,
+      "stars": 8222,
       "forks": 926,
       "language": "Kotlin",
       "topics": [
@@ -4095,7 +4095,7 @@
         "kotlin"
       ],
       "created_at": "2016-04-30T16:43:17Z",
-      "updated_at": "2026-01-03T12:26:45Z",
+      "updated_at": "2026-01-03T14:54:25Z",
       "pushed_at": "2026-01-02T20:47:21Z",
       "open_issues": 142,
       "owner": {
@@ -4161,12 +4161,12 @@
       "full_name": "adityatandon15/LLD",
       "description": "All Code of LLD Playlist",
       "html_url": "https://github.com/adityatandon15/LLD",
-      "stars": 554,
+      "stars": 555,
       "forks": 384,
       "language": "Java",
       "topics": [],
       "created_at": "2025-02-25T15:59:36Z",
-      "updated_at": "2026-01-03T12:50:40Z",
+      "updated_at": "2026-01-03T14:37:07Z",
       "pushed_at": "2025-07-23T05:02:23Z",
       "open_issues": 7,
       "owner": {
@@ -4304,7 +4304,7 @@
       "created_at": "2010-12-28T23:40:07Z",
       "updated_at": "2026-01-03T11:21:41Z",
       "pushed_at": "2026-01-03T11:21:31Z",
-      "open_issues": 1563,
+      "open_issues": 1564,
       "owner": {
         "login": "TrinityCore",
         "avatar_url": "https://avatars.githubusercontent.com/u/539602?v=4"
@@ -4360,7 +4360,7 @@
       "full_name": "portapack-mayhem/mayhem-firmware",
       "description": "Custom firmware for the HackRF+PortaPack H1/H2/H4",
       "html_url": "https://github.com/portapack-mayhem/mayhem-firmware",
-      "stars": 4731,
+      "stars": 4733,
       "forks": 802,
       "language": "C",
       "topics": [
@@ -4374,7 +4374,7 @@
         "sdrsharp"
       ],
       "created_at": "2020-03-29T13:51:34Z",
-      "updated_at": "2026-01-03T13:50:42Z",
+      "updated_at": "2026-01-03T14:22:55Z",
       "pushed_at": "2025-12-22T00:21:25Z",
       "open_issues": 158,
       "owner": {
@@ -4411,7 +4411,7 @@
       "full_name": "apple/foundationdb",
       "description": "FoundationDB - the open source, distributed, transactional key-value store",
       "html_url": "https://github.com/apple/foundationdb",
-      "stars": 16060,
+      "stars": 16061,
       "forks": 1461,
       "language": "C++",
       "topics": [
@@ -4422,7 +4422,7 @@
         "transactional"
       ],
       "created_at": "2017-12-14T01:40:42Z",
-      "updated_at": "2026-01-03T04:38:22Z",
+      "updated_at": "2026-01-03T14:17:56Z",
       "pushed_at": "2026-01-03T04:38:16Z",
       "open_issues": 832,
       "owner": {
@@ -4515,7 +4515,7 @@
       "description": "Opensource automated insulin delivery system (closed loop)",
       "html_url": "https://github.com/nightscout/AndroidAPS",
       "stars": 943,
-      "forks": 3252,
+      "forks": 3255,
       "language": "Kotlin",
       "topics": [
         "closed-loop",
@@ -4592,7 +4592,7 @@
       "full_name": "realm/SwiftLint",
       "description": "A tool to enforce Swift style and conventions.",
       "html_url": "https://github.com/realm/SwiftLint",
-      "stars": 19369,
+      "stars": 19368,
       "forks": 2274,
       "language": "Swift",
       "topics": [
@@ -4604,9 +4604,9 @@
         "swift"
       ],
       "created_at": "2015-05-16T16:59:31Z",
-      "updated_at": "2026-01-03T12:26:13Z",
-      "pushed_at": "2026-01-03T12:38:05Z",
-      "open_issues": 467,
+      "updated_at": "2026-01-03T14:29:00Z",
+      "pushed_at": "2026-01-03T14:26:02Z",
+      "open_issues": 466,
       "owner": {
         "login": "realm",
         "avatar_url": "https://avatars.githubusercontent.com/u/7575099?v=4"
@@ -4645,7 +4645,7 @@
       "full_name": "qinwf/awesome-R",
       "description": "A curated list of awesome R packages, frameworks and software.",
       "html_url": "https://github.com/qinwf/awesome-R",
-      "stars": 6380,
+      "stars": 6381,
       "forks": 1513,
       "language": "R",
       "topics": [
@@ -4658,7 +4658,7 @@
         "rstats"
       ],
       "created_at": "2014-07-19T06:02:47Z",
-      "updated_at": "2026-01-02T11:22:39Z",
+      "updated_at": "2026-01-03T14:21:38Z",
       "pushed_at": "2025-09-18T16:46:19Z",
       "open_issues": 21,
       "owner": {
@@ -4784,7 +4784,7 @@
       "created_at": "2019-12-31T15:39:38Z",
       "updated_at": "2026-01-03T11:20:55Z",
       "pushed_at": "2026-01-03T12:57:12Z",
-      "open_issues": 439,
+      "open_issues": 441,
       "owner": {
         "login": "CCBlueX",
         "avatar_url": "https://avatars.githubusercontent.com/u/12410772?v=4"
@@ -4853,7 +4853,7 @@
       "full_name": "nginx/nginx-gateway-fabric",
       "description": "NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.",
       "html_url": "https://github.com/nginx/nginx-gateway-fabric",
-      "stars": 890,
+      "stars": 891,
       "forks": 160,
       "language": "Go",
       "topics": [
@@ -4863,7 +4863,7 @@
         "nginx"
       ],
       "created_at": "2021-10-22T17:59:15Z",
-      "updated_at": "2026-01-02T22:25:23Z",
+      "updated_at": "2026-01-03T14:35:36Z",
       "pushed_at": "2026-01-03T01:16:34Z",
       "open_issues": 164,
       "owner": {
@@ -5120,5 +5120,5 @@
       "stars_today": 0
     }
   ],
-  "created_at": "2026-01-03T14:03:06.866842488Z"
+  "created_at": "2026-01-03T15:07:42.553691815Z"
 }
