@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** Projects | **210188** ⭐ | **24638** 🍴
+**10** Projects | **210368** ⭐ | **24650** 🍴
 
-**Top Languages:** `TypeScript` (4) · `Rust` (2) · `Go` (2)
+**Top Languages:** `TypeScript` (4) · `Go` (2) · `Rust` (2)
 
-**Updated:** 2026-01-03 14:15 UTC
+**Updated:** 2026-01-03 15:08 UTC
 
 **Categories:**
 
@@ -18,67 +18,7 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [newsnow](https://github.com/ourongxing/newsnow)
-
-> 🤖 **Why Recommend**  
-> *
-## newsnow
-
-**项目描述：** Elegant reading of real-time and hottest news
-
-**核心信息：**
-- ⭐ Stars: 16195
-- 🍴 Forks: 4743
-- 💻 主要语言: TypeScript
-- 📅 更新时间: 2026-01-03
-- 🔗 [访问仓库](https://github.com/ourongxing/newsnow)
-
-**项目亮点：**
-🔥 热门项目（超过 1000 stars）
-📦 活跃维护（超过 100 forks）
-✨ 最近更新（7天内）
-
-**技术栈：** elegant, news
-*
-
-- ⭐ 16195 stars
-- 🍴 4743 forks
-- 💻 TypeScript
-- 📅 最近更新: 2026-01-03
-
-![newsnow](2026-01-03_daily-top_newsnow.png)
-
-### 2. [vibe-kanban](https://github.com/BloopAI/vibe-kanban)
-
-> 🤖 **Why Recommend**  
-> *
-## vibe-kanban
-
-**项目描述：** Get 10X more out of Claude Code, Codex or any coding agent
-
-**核心信息：**
-- ⭐ Stars: 11702
-- 🍴 Forks: 1059
-- 💻 主要语言: Rust
-- 📅 更新时间: 2026-01-03
-- 🔗 [访问仓库](https://github.com/BloopAI/vibe-kanban)
-
-**项目亮点：**
-🔥 热门项目（超过 1000 stars）
-📦 活跃维护（超过 100 forks）
-✨ 最近更新（7天内）
-
-**技术栈：** agent, ai-agents, kanban, management, task-manager
-*
-
-- ⭐ 11702 stars
-- 🍴 1059 forks
-- 💻 Rust
-- 📅 最近更新: 2026-01-03
-
-![vibe-kanban](2026-01-03_daily-top_vibe-kanban.png)
-
-### 3. [memos](https://github.com/usememos/memos)
+### 1. [memos](https://github.com/usememos/memos)
 
 > 🤖 **Why Recommend**  
 > *
@@ -87,8 +27,8 @@
 **项目描述：** An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 
 **核心信息：**
-- ⭐ Stars: 49464
-- 🍴 Forks: 3569
+- ⭐ Stars: 49547
+- 🍴 Forks: 3574
 - 💻 主要语言: Go
 - 📅 更新时间: 2026-01-03
 - 🔗 [访问仓库](https://github.com/usememos/memos)
@@ -101,12 +41,72 @@
 **技术栈：** docker, foss, go, markdown, memo, microblog, note-taking, notecard, react, self-hosted, social-network, sqlite
 *
 
-- ⭐ 49464 stars
-- 🍴 3569 forks
+- ⭐ 49547 stars
+- 🍴 3574 forks
 - 💻 Go
 - 📅 最近更新: 2026-01-03
 
 ![memos](2026-01-03_daily-top_memos.png)
+
+### 2. [vibe-kanban](https://github.com/BloopAI/vibe-kanban)
+
+> 🤖 **Why Recommend**  
+> *
+## vibe-kanban
+
+**项目描述：** Get 10X more out of Claude Code, Codex or any coding agent
+
+**核心信息：**
+- ⭐ Stars: 11739
+- 🍴 Forks: 1063
+- 💻 主要语言: Rust
+- 📅 更新时间: 2026-01-03
+- 🔗 [访问仓库](https://github.com/BloopAI/vibe-kanban)
+
+**项目亮点：**
+🔥 热门项目（超过 1000 stars）
+📦 活跃维护（超过 100 forks）
+✨ 最近更新（7天内）
+
+**技术栈：** agent, ai-agents, kanban, management, task-manager
+*
+
+- ⭐ 11739 stars
+- 🍴 1063 forks
+- 💻 Rust
+- 📅 最近更新: 2026-01-03
+
+![vibe-kanban](2026-01-03_daily-top_vibe-kanban.png)
+
+### 3. [newsnow](https://github.com/ourongxing/newsnow)
+
+> 🤖 **Why Recommend**  
+> *
+## newsnow
+
+**项目描述：** Elegant reading of real-time and hottest news
+
+**核心信息：**
+- ⭐ Stars: 16207
+- 🍴 Forks: 4745
+- 💻 主要语言: TypeScript
+- 📅 更新时间: 2026-01-03
+- 🔗 [访问仓库](https://github.com/ourongxing/newsnow)
+
+**项目亮点：**
+🔥 热门项目（超过 1000 stars）
+📦 活跃维护（超过 100 forks）
+✨ 最近更新（7天内）
+
+**技术栈：** elegant, news
+*
+
+- ⭐ 16207 stars
+- 🍴 4745 forks
+- 💻 TypeScript
+- 📅 最近更新: 2026-01-03
+
+![newsnow](2026-01-03_daily-top_newsnow.png)
 
 ### 4. [nocodb](https://github.com/nocodb/nocodb)
 
@@ -117,8 +117,8 @@
 **项目描述：** 🔥 🔥 🔥 Open Source Airtable Alternative
 
 **核心信息：**
-- ⭐ Stars: 60113
-- 🍴 Forks: 4469
+- ⭐ Stars: 60137
+- 🍴 Forks: 4470
 - 💻 主要语言: TypeScript
 - 📅 更新时间: 2026-01-03
 - 🔗 [访问仓库](https://github.com/nocodb/nocodb)
@@ -131,8 +131,8 @@
 **技术栈：** airtable, airtable-alternative, automatic-api, hacktoberfest, low-code, no-code, no-code-database, no-code-platform, postgresql, rest-api, restful-api, spreadsheet, sqlite, swagger
 *
 
-- ⭐ 60113 stars
-- 🍴 4469 forks
+- ⭐ 60137 stars
+- 🍴 4470 forks
 - 💻 TypeScript
 - 📅 最近更新: 2026-01-03
 
@@ -147,7 +147,7 @@
 **项目描述：** A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 
 **核心信息：**
-- ⭐ Stars: 8739
+- ⭐ Stars: 8748
 - 🍴 Forks: 591
 - 💻 主要语言: Rust
 - 📅 更新时间: 2026-01-03
@@ -161,73 +161,14 @@
 **技术栈：** ai-tools, claude-code, codex, deepseek-v3, desktop-app, kimi-k2-thiking, mcp, minimax, open-source, provider-management, qwen-coder, rust, tauri, typescript, wsl-support
 *
 
-- ⭐ 8739 stars
+- ⭐ 8748 stars
 - 🍴 591 forks
 - 💻 Rust
 - 📅 最近更新: 2026-01-03
 
 ![cc-switch](2026-01-03_daily-top_cc-switch.png)
 
-### 6. [qui](https://github.com/autobrr/qui)
-
-> 🤖 **Why Recommend**  
-> *
-## qui
-
-**项目描述：** A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.
-
-**核心信息：**
-- ⭐ Stars: 1716
-- 🍴 Forks: 47
-- 💻 主要语言: Go
-- 📅 更新时间: 2026-01-03
-- 🔗 [访问仓库](https://github.com/autobrr/qui)
-
-**项目亮点：**
-🔥 热门项目（超过 1000 stars）
-✨ 最近更新（7天内）
-
-**技术栈：** cross-seed, cross-seeding, go, golang, libtorrent, qbit, qbittorrent, workflows
-*
-
-- ⭐ 1716 stars
-- 🍴 47 forks
-- 💻 Go
-- 📅 最近更新: 2026-01-03
-
-![qui](2026-01-03_daily-top_qui.png)
-
-### 7. [thingsboard](https://github.com/thingsboard/thingsboard)
-
-> 🤖 **Why Recommend**  
-> *
-## thingsboard
-
-**项目描述：** Open-source IoT Platform - Device management, data collection, processing and visualization.
-
-**核心信息：**
-- ⭐ Stars: 20855
-- 🍴 Forks: 6012
-- 💻 主要语言: Java
-- 📅 更新时间: 2026-01-03
-- 🔗 [访问仓库](https://github.com/thingsboard/thingsboard)
-
-**项目亮点：**
-🔥 热门项目（超过 1000 stars）
-📦 活跃维护（超过 100 forks）
-✨ 最近更新（7天内）
-
-**技术栈：** cloud, coap, dashboard, iot, iot-analytics, iot-platform, iot-solutions, java, kafka, lwm2m, microservices, middleware, mqtt, netty, platform, snmp, thingsboard, visualization, websockets, widgets
-*
-
-- ⭐ 20855 stars
-- 🍴 6012 forks
-- 💻 Java
-- 📅 最近更新: 2026-01-03
-
-![thingsboard](2026-01-03_daily-top_thingsboard.png)
-
-### 8. [organicmaps](https://github.com/organicmaps/organicmaps)
+### 6. [organicmaps](https://github.com/organicmaps/organicmaps)
 
 > 🤖 **Why Recommend**  
 > *
@@ -257,6 +198,65 @@
 
 ![organicmaps](2026-01-03_daily-top_organicmaps.png)
 
+### 7. [qui](https://github.com/autobrr/qui)
+
+> 🤖 **Why Recommend**  
+> *
+## qui
+
+**项目描述：** A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.
+
+**核心信息：**
+- ⭐ Stars: 1717
+- 🍴 Forks: 47
+- 💻 主要语言: Go
+- 📅 更新时间: 2026-01-03
+- 🔗 [访问仓库](https://github.com/autobrr/qui)
+
+**项目亮点：**
+🔥 热门项目（超过 1000 stars）
+✨ 最近更新（7天内）
+
+**技术栈：** cross-seed, cross-seeding, go, golang, libtorrent, qbit, qbittorrent, workflows
+*
+
+- ⭐ 1717 stars
+- 🍴 47 forks
+- 💻 Go
+- 📅 最近更新: 2026-01-03
+
+![qui](2026-01-03_daily-top_qui.png)
+
+### 8. [thingsboard](https://github.com/thingsboard/thingsboard)
+
+> 🤖 **Why Recommend**  
+> *
+## thingsboard
+
+**项目描述：** Open-source IoT Platform - Device management, data collection, processing and visualization.
+
+**核心信息：**
+- ⭐ Stars: 20858
+- 🍴 Forks: 6012
+- 💻 主要语言: Java
+- 📅 更新时间: 2026-01-03
+- 🔗 [访问仓库](https://github.com/thingsboard/thingsboard)
+
+**项目亮点：**
+🔥 热门项目（超过 1000 stars）
+📦 活跃维护（超过 100 forks）
+✨ 最近更新（7天内）
+
+**技术栈：** cloud, coap, dashboard, iot, iot-analytics, iot-platform, iot-solutions, java, kafka, lwm2m, microservices, middleware, mqtt, netty, platform, snmp, thingsboard, visualization, websockets, widgets
+*
+
+- ⭐ 20858 stars
+- 🍴 6012 forks
+- 💻 Java
+- 📅 最近更新: 2026-01-03
+
+![thingsboard](2026-01-03_daily-top_thingsboard.png)
+
 ### 9. [agents.md](https://github.com/agentsmd/agents.md)
 
 > 🤖 **Why Recommend**  
@@ -266,7 +266,7 @@
 **项目描述：** AGENTS.md — a simple, open format for guiding coding agents
 
 **核心信息：**
-- ⭐ Stars: 13950
+- ⭐ Stars: 13961
 - 🍴 Forks: 985
 - 💻 主要语言: TypeScript
 - 📅 更新时间: 2026-01-03
@@ -280,7 +280,7 @@
 **技术栈：** 未标注
 *
 
-- ⭐ 13950 stars
+- ⭐ 13961 stars
 - 🍴 985 forks
 - 💻 TypeScript
 - 📅 最近更新: 2026-01-03
@@ -329,4 +329,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 14:15:37 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 15:08:28 UTC
