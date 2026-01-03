@@ -7,7 +7,7 @@
 | 统计项 | 数值 |
 |--------|------|
 | 📦 精选项目 | **10** 个 |
-| ⏰ 更新时间 | 2026-01-03 03:00 UTC |
+| ⏰ 更新时间 | 2026-01-03 03:44 UTC |
 
 ---
 
@@ -30,7 +30,7 @@
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **241981** |
+| ⭐ Stars | **241982** |
 | 🍴 Forks | **50259** |
 | 💻 Language | JavaScript |
 | 🏷️ Tags | `declarative` `frontend` `javascript` `library` `react` |
@@ -43,7 +43,7 @@
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **148018** |
+| ⭐ Stars | **148019** |
 | 🍴 Forks | **26785** |
 | 💻 Language | JavaScript |
 | 🏷️ Tags | `arrow-functions` `es2015` `es2016` `es2017` `es2018` |
@@ -56,7 +56,7 @@
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **133459** |
+| ⭐ Stars | **133460** |
 | 🍴 Forks | **12462** |
 | 💻 Language | C |
 | 🏷️ Tags | `android` `c` `ffmpeg` `libav` `mirroring` |
@@ -70,7 +70,7 @@
 | 指标 | 值 |
 |------|----|
 | ⭐ Stars | **75778** |
-| 🍴 Forks | **25751** |
+| 🍴 Forks | **25750** |
 | 💻 Language | Java |
 | 🏷️ Tags | `elasticsearch` `java` `search-engine` |
 
@@ -82,7 +82,7 @@
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **109049** |
+| ⭐ Stars | **109051** |
 | 🍴 Forks | **14275** |
 | 💻 Language | Rust |
 | 🏷️ Tags | `compiler` `language` `rust` |
@@ -108,7 +108,7 @@
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **76166** |
+| ⭐ Stars | **76167** |
 | 🍴 Forks | **12249** |
 | 💻 Language | JavaScript |
 | 🏷️ Tags | `css` `font` `fontawesome` `icons` `svg-icons` |
@@ -121,7 +121,7 @@
 
 | 指标 | 值 |
 |------|----|
-| ⭐ Stars | **57891** |
+| ⭐ Stars | **57892** |
 | 🍴 Forks | **16323** |
 | 💻 Language | Rust |
 
@@ -152,4 +152,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 03:00:07 UTC*
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-03 03:44:44 UTC*

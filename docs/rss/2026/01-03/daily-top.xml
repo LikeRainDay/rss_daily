@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel><title>daily-top - GitHub Trending RSS</title><link>https://your-username.github.io/rss-daily-cursor/rss/daily-top.xml</link><description>GitHub trending repositories RSS feed for daily-top</description><language>zh</language><lastBuildDate>Sat, 3 Jan 2026 03:00:06 +0000</lastBuildDate><item><title>mock-repo-preview - This is a mock repository generated because &apos;mock_mode&apos; is enabled or API rate limit was reached.</title><link>https://github.com/test/mock-repo</link><description><![CDATA[<img src="2026-01-03_daily-top_mock-repo-preview.png" alt="mock-repo-preview - This is a mock repository generated because 'mock_mode' is enabled or API rate limit was reached." /><br/><br/><div class="repo-card">
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel><title>daily-top - GitHub Trending RSS</title><link>https://your-username.github.io/rss-daily-cursor/rss/daily-top.xml</link><description>GitHub trending repositories RSS feed for daily-top</description><language>zh</language><lastBuildDate>Sat, 3 Jan 2026 03:44:44 +0000</lastBuildDate><item><title>mock-repo-preview - This is a mock repository generated because &apos;mock_mode&apos; is enabled or API rate limit was reached.</title><link>https://github.com/test/mock-repo</link><description><![CDATA[<img src="2026-01-03_daily-top_mock-repo-preview.png" alt="mock-repo-preview - This is a mock repository generated because 'mock_mode' is enabled or API rate limit was reached." /><br/><br/><div class="repo-card">
     <div class="rank-badge rank-1">
         <span class="rank-number">#1</span>
     </div>
@@ -477,7 +477,7 @@
         margin-top: 2px;
     }
 </style>
-]]></description><pubDate>Sat, 3 Jan 2026 02:59:17 +0000</pubDate></item><item><title>react - The library for web and native user interfaces.</title><link>https://github.com/facebook/react</link><description><![CDATA[<img src="2026-01-03_daily-top_react.png" alt="react - The library for web and native user interfaces." /><br/><br/><div class="repo-card">
+]]></description><pubDate>Sat, 3 Jan 2026 03:43:59 +0000</pubDate></item><item><title>react - The library for web and native user interfaces.</title><link>https://github.com/facebook/react</link><description><![CDATA[<img src="2026-01-03_daily-top_react.png" alt="react - The library for web and native user interfaces." /><br/><br/><div class="repo-card">
     <div class="rank-badge rank-2">
         <span class="rank-number">#2</span>
     </div>
@@ -518,7 +518,7 @@
                 </div>
                 <div class="stat-item tooltip">
                     <span class="icon">⭐</span>
-                    <span class="value">241981</span>
+                    <span class="value">241982</span>
                 </div>
                 <div class="stat-item tooltip">
                     <span class="icon">🔱</span>
@@ -956,7 +956,7 @@
         margin-top: 2px;
     }
 </style>
-]]></description><pubDate>Sat, 3 Jan 2026 02:13:17 +0000</pubDate></item><item><title>javascript - JavaScript Style Guide</title><link>https://github.com/airbnb/javascript</link><description><![CDATA[<img src="2026-01-03_daily-top_javascript.png" alt="javascript - JavaScript Style Guide" /><br/><br/><div class="repo-card">
+]]></description><pubDate>Sat, 3 Jan 2026 03:32:55 +0000</pubDate></item><item><title>javascript - JavaScript Style Guide</title><link>https://github.com/airbnb/javascript</link><description><![CDATA[<img src="2026-01-03_daily-top_javascript.png" alt="javascript - JavaScript Style Guide" /><br/><br/><div class="repo-card">
     <div class="rank-badge rank-3">
         <span class="rank-number">#3</span>
     </div>
@@ -997,7 +997,7 @@
                 </div>
                 <div class="stat-item tooltip">
                     <span class="icon">⭐</span>
-                    <span class="value">148018</span>
+                    <span class="value">148019</span>
                 </div>
                 <div class="stat-item tooltip">
                     <span class="icon">🔱</span>
@@ -1435,7 +1435,7 @@
         margin-top: 2px;
     }
 </style>
-]]></description><pubDate>Fri, 2 Jan 2026 20:47:03 +0000</pubDate></item><item><title>scrcpy - Display and control your Android device</title><link>https://github.com/Genymobile/scrcpy</link><description><![CDATA[<img src="2026-01-03_daily-top_scrcpy.png" alt="scrcpy - Display and control your Android device" /><br/><br/><div class="repo-card">
+]]></description><pubDate>Sat, 3 Jan 2026 03:23:35 +0000</pubDate></item><item><title>scrcpy - Display and control your Android device</title><link>https://github.com/Genymobile/scrcpy</link><description><![CDATA[<img src="2026-01-03_daily-top_scrcpy.png" alt="scrcpy - Display and control your Android device" /><br/><br/><div class="repo-card">
     <div class="rank-badge rank-normal">
         <span class="rank-number">#4</span>
     </div>
@@ -1476,7 +1476,7 @@
                 </div>
                 <div class="stat-item tooltip">
                     <span class="icon">⭐</span>
-                    <span class="value">133459</span>
+                    <span class="value">133460</span>
                 </div>
                 <div class="stat-item tooltip">
                     <span class="icon">🔱</span>
@@ -1914,7 +1914,7 @@
         margin-top: 2px;
     }
 </style>
-]]></description><pubDate>Sat, 3 Jan 2026 02:33:55 +0000</pubDate></item><item><title>elasticsearch - Free and Open Source, Distributed, RESTful Search Engine</title><link>https://github.com/elastic/elasticsearch</link><description><![CDATA[<img src="2026-01-03_daily-top_elasticsearch.png" alt="elasticsearch - Free and Open Source, Distributed, RESTful Search Engine" /><br/><br/><div class="repo-card">
+]]></description><pubDate>Sat, 3 Jan 2026 03:24:49 +0000</pubDate></item><item><title>elasticsearch - Free and Open Source, Distributed, RESTful Search Engine</title><link>https://github.com/elastic/elasticsearch</link><description><![CDATA[<img src="2026-01-03_daily-top_elasticsearch.png" alt="elasticsearch - Free and Open Source, Distributed, RESTful Search Engine" /><br/><br/><div class="repo-card">
     <div class="rank-badge rank-normal">
         <span class="rank-number">#5</span>
     </div>
@@ -1959,7 +1959,7 @@
                 </div>
                 <div class="stat-item tooltip">
                     <span class="icon">🔱</span>
-                    <span class="value">25751</span>
+                    <span class="value">25750</span>
                 </div>
                 <div class="stat-item tooltip">
                     <span class="icon">
@@ -2434,7 +2434,7 @@
                 </div>
                 <div class="stat-item tooltip">
                     <span class="icon">⭐</span>
-                    <span class="value">109049</span>
+                    <span class="value">109051</span>
                 </div>
                 <div class="stat-item tooltip">
                     <span class="icon">🔱</span>
@@ -2872,7 +2872,7 @@
         margin-top: 2px;
     }
 </style>
-]]></description><pubDate>Sat, 3 Jan 2026 01:57:10 +0000</pubDate></item><item><title>express - Fast, unopinionated, minimalist web framework for node.</title><link>https://github.com/expressjs/express</link><description><![CDATA[<img src="2026-01-03_daily-top_express.png" alt="express - Fast, unopinionated, minimalist web framework for node." /><br/><br/><div class="repo-card">
+]]></description><pubDate>Sat, 3 Jan 2026 03:28:42 +0000</pubDate></item><item><title>express - Fast, unopinionated, minimalist web framework for node.</title><link>https://github.com/expressjs/express</link><description><![CDATA[<img src="2026-01-03_daily-top_express.png" alt="express - Fast, unopinionated, minimalist web framework for node." /><br/><br/><div class="repo-card">
     <div class="rank-badge rank-normal">
         <span class="rank-number">#7</span>
     </div>
@@ -3392,7 +3392,7 @@
                 </div>
                 <div class="stat-item tooltip">
                     <span class="icon">⭐</span>
-                    <span class="value">76166</span>
+                    <span class="value">76167</span>
                 </div>
                 <div class="stat-item tooltip">
                     <span class="icon">🔱</span>
@@ -3830,7 +3830,7 @@
         margin-top: 2px;
     }
 </style>
-]]></description><pubDate>Sat, 3 Jan 2026 02:02:14 +0000</pubDate></item><item><title>Magisk - The Magic Mask for Android</title><link>https://github.com/topjohnwu/Magisk</link><description><![CDATA[<img src="2026-01-03_daily-top_Magisk.png" alt="Magisk - The Magic Mask for Android" /><br/><br/><div class="repo-card">
+]]></description><pubDate>Sat, 3 Jan 2026 03:25:54 +0000</pubDate></item><item><title>Magisk - The Magic Mask for Android</title><link>https://github.com/topjohnwu/Magisk</link><description><![CDATA[<img src="2026-01-03_daily-top_Magisk.png" alt="Magisk - The Magic Mask for Android" /><br/><br/><div class="repo-card">
     <div class="rank-badge rank-normal">
         <span class="rank-number">#9</span>
     </div>
@@ -3871,7 +3871,7 @@
                 </div>
                 <div class="stat-item tooltip">
                     <span class="icon">⭐</span>
-                    <span class="value">57891</span>
+                    <span class="value">57892</span>
                 </div>
                 <div class="stat-item tooltip">
                     <span class="icon">🔱</span>
@@ -3885,7 +3885,7 @@
                             </path>
                         </svg>
                     </span>
-                    <span class="value">51</span>
+                    <span class="value">49</span>
                 </div>
                 <div class="stat-item tooltip">
                     <span class="icon">
@@ -4309,7 +4309,7 @@
         margin-top: 2px;
     }
 </style>
-]]></description><pubDate>Sat, 3 Jan 2026 00:45:34 +0000</pubDate></item><item><title>hugo - The world’s fastest framework for building websites.</title><link>https://github.com/gohugoio/hugo</link><description><![CDATA[<img src="2026-01-03_daily-top_hugo.png" alt="hugo - The world’s fastest framework for building websites." /><br/><br/><div class="repo-card">
+]]></description><pubDate>Sat, 3 Jan 2026 03:09:35 +0000</pubDate></item><item><title>hugo - The world’s fastest framework for building websites.</title><link>https://github.com/gohugoio/hugo</link><description><![CDATA[<img src="2026-01-03_daily-top_hugo.png" alt="hugo - The world’s fastest framework for building websites." /><br/><br/><div class="repo-card">
     <div class="rank-badge rank-normal">
         <span class="rank-number">#10</span>
     </div>
