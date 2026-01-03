@@ -1,0 +1,28 @@
+# Rust
+/target/
+**/*.rs.bk
+*.pdb
+Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+
+# Output
+docs/rss/*.xml
+docs/rss/*.png
+
+# Data (keep structure but ignore actual data files)
+data/**/*.json
+!data/**/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db

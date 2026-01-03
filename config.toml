@@ -1,0 +1,60 @@
+# GitHub API Token (也可以通过环境变量 GITHUB_TOKEN 设置)
+github_token = ""
+
+# 要抓取的语言列表（主流编程语言）
+languages = ["java", "rust", "go", "cpp", "c", "swift", "kotlin", "r", "typescript", "javascript"]
+
+# RSS 分类配置 - 只保留每日最有价值的 Top 15
+[[categories]]
+name = "daily-top"
+language = "zh"  # "zh" 或 "en"
+keywords = []  # 不限制关键词，包含所有类型
+topics = []    # 不限制主题
+max_items = 10  # 只推荐前 10 个最有价值的项目
+
+# 总结生成配置
+[summary]
+enabled = true
+provider = "simple"  # "simple", "openai", "local"
+api_key = ""  # OpenAI API key (如果使用 OpenAI)
+model = "gpt-3.5-turbo"  # OpenAI model name
+
+# 图片生成配置
+[image]
+enabled = true
+height = 400
+width = 1000
+background_color = "#1a1a1a"
+text_color = "#ffffff"
+font_size = 24
+
+# 是否允许重新推荐已推荐过的内容（如果算法判断值得重新推荐）
+allow_recommend_again = true
+
+# 最小 stars 数量过滤（避免 0 星或低星仓库出现在 trending 中）
+min_stars = 10
+
+# 趋势算法配置
+[algorithm]
+# "显著增长"阈值（增长率百分比，0.20 = 20%）
+significant_growth_threshold = 0.20
+
+# 时间衰减半衰期（天数）
+recency_decay_days = 7.0
+
+# 新仓库识别窗口期（天数）
+new_repo_window_days = 30
+
+# 增长率计算窗口期（天数，基于历史记录）
+growth_rate_window_days = 7
+
+# 推送配置
+[push]
+enabled = false  # 是否启用推送功能
+
+# 推送平台配置（可以通过环境变量覆盖）
+[[push.platforms]]
+name = "csdn"
+# username 和 password 可以通过环境变量 CSDN_USERNAME 和 CSDN_PASSWORD 设置
+username = ""
+password = ""

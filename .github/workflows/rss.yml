@@ -1,0 +1,85 @@
+name: Generate RSS Feeds
+
+on:
+  schedule:
+    # 每6小时运行一次
+    - cron: "0 */6 * * *"
+  # 允许手动触发
+  workflow_dispatch:
+  # 推送到 main 分支时也运行（用于测试）
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-rss:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Rust
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+          override: true
+          components: rustfmt, clippy
+
+      - name: Cache cargo dependencies
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.cargo/bin/
+            ~/.cargo/registry/index/
+            ~/.cargo/registry/cache/
+            ~/.cargo/git/db/
+            target/
+          key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-cargo-
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libfontconfig1-dev libfreetype6-dev fonts-dejavu-core
+
+      - name: Build project
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUST_BACKTRACE: 1
+        run: |
+          cargo build --release
+
+      - name: Run RSS generator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          CSDN_USERNAME: ${{ secrets.CSDN_USERNAME }}
+          CSDN_PASSWORD: ${{ secrets.CSDN_PASSWORD }}
+          RUST_BACKTRACE: 1
+        run: |
+          cargo run --release
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "rss-bot[bot]"
+          git config user.email "rss-bot[bot]@users.noreply.github.com"
+          git add docs/rss/*.xml docs/rss/*.png || true
+          git diff --staged --quiet || git commit -m "🤖 Auto-update RSS feeds [skip ci]"
+          git push || echo "No changes to commit"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
