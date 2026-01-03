@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel><title>daily-top - GitHub Trending RSS</title><link>https://your-username.github.io/rss-daily-cursor/rss/daily-top.xml</link><description>GitHub trending repositories RSS feed for daily-top</description><language>zh</language><lastBuildDate>Sat, 3 Jan 2026 12:34:59 +0000</lastBuildDate><item><title>mock-repo-preview - This is a mock repository generated because &apos;mock_mode&apos; is enabled or API rate limit was reached.</title><link>https://github.com/test/mock-repo</link><description><![CDATA[<img src="2026-01-03_daily-top_mock-repo-preview.png" alt="mock-repo-preview - This is a mock repository generated because 'mock_mode' is enabled or API rate limit was reached." /><br/><br/><!DOCTYPE html>
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel><title>daily-top - GitHub Trending RSS</title><link>https://your-username.github.io/rss-daily-cursor/rss/daily-top.xml</link><description>GitHub trending repositories RSS feed for daily-top</description><language>zh</language><lastBuildDate>Sat, 3 Jan 2026 13:08:48 +0000</lastBuildDate><item><title>mock-repo-preview - This is a mock repository generated because &apos;mock_mode&apos; is enabled or API rate limit was reached.</title><link>https://github.com/test/mock-repo</link><description><![CDATA[<img src="2026-01-03_daily-top_mock-repo-preview.png" alt="mock-repo-preview - This is a mock repository generated because 'mock_mode' is enabled or API rate limit was reached." /><br/><br/><!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -548,4 +548,4 @@
 </body>
 
 </html>
-]]></description><pubDate>Sat, 3 Jan 2026 12:34:53 +0000</pubDate></item></channel></rss>
+]]></description><pubDate>Sat, 3 Jan 2026 13:08:35 +0000</pubDate></item></channel></rss>

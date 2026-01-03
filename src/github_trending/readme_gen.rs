@@ -26,23 +26,88 @@ impl ReadmeGenerator {
 
         let mut content = String::new();
 
-        // 标题和说明
-        content.push_str(&format!("# {} - {}\n\n", text.title_prefix, date));
-        content.push_str(&format!("{}\n\n", text.description));
+        // Title with modern styling
+        content.push_str(&format!("# 📊 {} - {}\n\n", text.title_prefix, date));
+        content.push_str(&format!("> {}\n\n", text.description));
 
-        // 统计信息
+        // === NEW: Overview Section ===
+        content.push_str("## 📋 Overview\n\n");
+
+        // Calculate aggregate statistics
         let total_repos: usize = categories.iter().map(|(_, repos)| repos.len()).sum();
-        content.push_str(&format!("## {}\n\n", text.highlights_title));
-        content.push_str(&format!("| {} | {} |\n", text.table_stat, text.table_value));
-        content.push_str("|--------|------|\n");
-        content.push_str(&format!("| {} | **{}** |\n", text.stat_items, total_repos));
+        let mut all_repos: Vec<&Repository> = categories
+            .iter()
+            .flat_map(|(_, repos)| repos.iter().map(|(repo, _)| repo))
+            .collect();
+
+        let total_stars: u32 = all_repos.iter().map(|r| r.stars).sum();
+        let total_forks: u32 = all_repos.iter().map(|r| r.forks).sum();
+
+        // Get unique languages
+        let mut languages: std::collections::HashMap<String, usize> =
+            std::collections::HashMap::new();
+        for repo in &all_repos {
+            if let Some(lang) = &repo.language {
+                *languages.entry(lang.clone()).or_insert(0) += 1;
+            }
+        }
+
+        // Top 3 languages
+        let mut lang_vec: Vec<_> = languages.iter().collect();
+        lang_vec.sort_by(|a, b| b.1.cmp(a.1));
+        let top_languages: Vec<String> = lang_vec
+            .iter()
+            .take(3)
+            .map(|(lang, count)| format!("`{}` ({})", lang, count))
+            .collect();
+
+        // Display overview stats in a clean, modern format
         content.push_str(&format!(
-            "| {} | {} |\n\n",
-            text.stat_time,
+            "**{}** {} | **{}** ⭐ | **{}** 🍴\n\n",
+            total_repos,
+            if is_cn { "个项目" } else { "Projects" },
+            total_stars,
+            total_forks
+        ));
+
+        if !top_languages.is_empty() {
+            content.push_str(&format!(
+                "**{}:** {}\n\n",
+                if is_cn {
+                    "热门语言"
+                } else {
+                    "Top Languages"
+                },
+                top_languages.join(" · ")
+            ));
+        }
+
+        content.push_str(&format!(
+            "**{}:** {}\n\n",
+            if is_cn { "更新时间" } else { "Updated" },
             Utc::now().format("%Y-%m-%d %H:%M UTC")
         ));
 
-        // 每个分类
+        // Category distribution
+        content.push_str(&format!(
+            "**{}:**\n\n",
+            if is_cn { "分类分布" } else { "Categories" }
+        ));
+        for (category_name, repos) in categories {
+            if !repos.is_empty() {
+                let display_name = self.format_category_name(category_name, locale);
+                content.push_str(&format!(
+                    "- {} {} ({} {})\n",
+                    self.get_category_emoji(category_name),
+                    display_name,
+                    repos.len(),
+                    if is_cn { "项" } else { "items" }
+                ));
+            }
+        }
+        content.push_str("\n");
+
+        // Each category
         for (category_name, repos) in categories {
             if repos.is_empty() {
                 continue;
@@ -56,9 +121,9 @@ impl ReadmeGenerator {
                 display_name
             ));
 
-            // 仓库表格
-            for (idx, (repo, _card)) in repos.iter().enumerate() {
-                // 项目标题
+            // Repository entries
+            for (idx, (repo, card)) in repos.iter().enumerate() {
+                // Project title
                 content.push_str(&format!(
                     "### {}. [{}]({})\n\n",
                     idx + 1,
@@ -66,41 +131,26 @@ impl ReadmeGenerator {
                     repo.html_url
                 ));
 
-                // 统计信息表格
+                // AI Summary as recommendation (推荐理由)
                 content.push_str(&format!(
-                    "| {} | {} |\n",
-                    text.table_indicator, text.table_val
+                    "> 🤖 **{}**  \n",
+                    if is_cn {
+                        "推荐理由"
+                    } else {
+                        "Why Recommend"
+                    }
                 ));
-                content.push_str("|------|----|\n");
-                content.push_str(&format!("| ⭐ Stars | **{}** |\n", repo.stars));
-                content.push_str(&format!("| 🍴 Forks | **{}** |\n", repo.forks));
-                content.push_str(&format!(
-                    "| 💻 Language | {} |\n",
-                    repo.language.as_deref().unwrap_or("N/A")
-                ));
-                if !repo.topics.is_empty() {
-                    let topics_str: Vec<String> = repo
-                        .topics
-                        .iter()
-                        .take(5) // 最多显示5个标签
-                        .map(|t| format!("`{}`", t))
-                        .collect();
-                    content.push_str(&format!("| 🏷️ Tags | {} |\n", topics_str.join(" ")));
+                content.push_str(&format!("> *{}*\n\n", card.summary.content));
+
+                // Display key points if available
+                if !card.summary.key_points.is_empty() {
+                    for point in &card.summary.key_points {
+                        content.push_str(&format!("- {}\n", point));
+                    }
+                    content.push_str("\n");
                 }
 
-                // New: Stars Today (Strict Priority)
-                if let Some(today) = repo.stars_today {
-                    content.push_str(&format!("| {} | **{}** |\n", text.stars_today_label, today));
-                }
-
-                content.push_str("\n");
-
-                // 项目描述
-                if let Some(desc) = &repo.description {
-                    content.push_str(&format!("**{}:** {}\n\n", text.desc_label, desc));
-                }
-
-                // 卡片图片
+                // Card image (preserved)
                 let image_path = format!(
                     "{}_{}_{}.png",
                     date,

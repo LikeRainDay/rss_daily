@@ -46,6 +46,7 @@ pub struct SummaryConfig {
     pub provider: String, // "openai", "local", "simple"
     pub api_key: Option<String>,
     pub model: Option<String>,
+    pub base_url: Option<String>, // Custom OpenAI-compatible endpoint
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -92,6 +93,10 @@ impl Config {
 
         if let Ok(api_key) = std::env::var("OPENAI_API_KEY") {
             config.summary.api_key = Some(api_key);
+        }
+
+        if let Ok(base_url) = std::env::var("OPENAI_BASE_URL") {
+            config.summary.base_url = Some(base_url);
         }
 
         // 推送平台配置（从环境变量）
@@ -155,6 +160,7 @@ impl Default for Config {
                 provider: "simple".to_string(),
                 api_key: None,
                 model: None,
+                base_url: None,
             },
             image: ImageConfig {
                 enabled: true,
