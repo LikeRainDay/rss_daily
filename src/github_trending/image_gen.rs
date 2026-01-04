@@ -60,6 +60,8 @@ impl ImageGenerator {
         use headless_chrome::protocol::cdp::DOM::RGBA;
         use std::time::Duration;
 
+        log::debug!("🖼️  Starting image generation for {}", repo.name);
+
         // HTML 已包含完整文档结构
         let full_html = html_card.to_string();
 
@@ -67,23 +69,47 @@ impl ImageGenerator {
         let temp_dir = std::env::temp_dir();
         let temp_html = temp_dir.join(format!("card_{}_{}.html", category, repo.id));
         fs::write(&temp_html, &full_html)?;
+        log::debug!("📄 Created temp HTML at {:?}", temp_html);
 
-        // create new tab from shared browser
-        let tab = browser.new_tab()?;
+        // create new tab from shared browser (可能超时)
+        let tab = match browser.new_tab() {
+            Ok(t) => {
+                log::debug!("✅ Browser tab created successfully");
+                t
+            }
+            Err(e) => {
+                log::error!("❌ Failed to create browser tab: {}", e);
+                let _ = fs::remove_file(&temp_html);
+                return Err(anyhow::anyhow!("Chrome tab creation failed: {}", e));
+            }
+        };
 
         // Enable transparency - background should be transparent
-        tab.call_method(SetDefaultBackgroundColorOverride {
+        if let Err(e) = tab.call_method(SetDefaultBackgroundColorOverride {
             color: Some(RGBA {
                 r: 0,
                 g: 0,
                 b: 0,
                 a: Some(0.0),
             }),
-        })?;
+        }) {
+            log::warn!("⚠️  Failed to set transparent background: {}", e);
+        }
 
-        // 加载 HTML 文件
+        // 加载 HTML 文件 (可能超时)
         let file_url = format!("file://{}", temp_html.to_str().unwrap());
-        tab.navigate_to(&file_url)?.wait_until_navigated()?;
+        log::debug!("🌐 Navigating to: {}", file_url);
+
+        if let Err(e) = tab
+            .navigate_to(&file_url)
+            .and_then(|nav| nav.wait_until_navigated())
+        {
+            log::error!("❌ Navigation failed or timed out: {}", e);
+            let _ = fs::remove_file(&temp_html);
+            return Err(anyhow::anyhow!("Chrome navigation timeout: {}", e));
+        }
+
+        log::debug!("✅ Page loaded, waiting for rendering...");
 
         // 等待页面渲染 (Increased wait time for fonts/images)
         std::thread::sleep(Duration::from_millis(2000));
@@ -101,15 +127,27 @@ impl ImageGenerator {
             scale: 1.0,
         };
 
-        let png_data = tab.capture_screenshot(
+        log::debug!("📸 Capturing screenshot...");
+        let png_data = match tab.capture_screenshot(
             Page::CaptureScreenshotFormatOption::Png,
             None,
             Some(clip),
             true,
-        )?;
+        ) {
+            Ok(data) => {
+                log::debug!("✅ Screenshot captured ({} bytes)", data.len());
+                data
+            }
+            Err(e) => {
+                log::error!("❌ Screenshot capture failed: {}", e);
+                let _ = fs::remove_file(&temp_html);
+                return Err(anyhow::anyhow!("Screenshot capture failed: {}", e));
+            }
+        };
 
         // 保存图片
         fs::write(&image_path, png_data)?;
+        log::debug!("💾 Image saved to {:?}", image_path);
 
         // 清理临时文件
         let _ = fs::remove_file(&temp_html);

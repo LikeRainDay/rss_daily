@@ -42,21 +42,41 @@ impl CardGenerator {
         rank: usize,
         browser: &headless_chrome::Browser,
     ) -> Result<Card> {
-        // 生成总结
+        // 生成总结（独立于 Chrome，确保一定成功）
         let summary = self.summary_gen.generate_summary(repo, language).await?;
 
         // 生成 HTML（图片路径稍后生成）
         let html = self.generate_html_card(repo, &summary, "", language, rank);
 
         // 生成图片（从 HTML 转换，包含日期）
+        // 使用独立的错误处理，确保 Chrome 超时不影响 summary 和 HTML 的生成
         let image_generator = super::image_gen::ImageGenerator::new(config);
-        let image_path = image_generator
+        let image_path = match image_generator
             .generate_card_image(repo, &summary, &html, output_dir, category, date, browser)
-            .await?;
+            .await
+        {
+            Ok(path) => {
+                log::info!("✅ Successfully generated image for {}", repo.name);
+                path
+            }
+            Err(e) => {
+                log::warn!(
+                    "⚠️  Failed to generate image for {} (Chrome timeout or error): {}. Continuing with summary and HTML.",
+                    repo.name,
+                    e
+                );
+                // 返回空图片路径，但不中断流程
+                String::new()
+            }
+        };
 
-        // 更新 HTML 中的图片路径
-        let image_filename = image_path.split('/').last().unwrap_or("");
-        let html = html.replace("rss/", &format!("rss/{}", image_filename));
+        // 更新 HTML 中的图片路径（如果图片生成成功）
+        let html = if !image_path.is_empty() {
+            let image_filename = image_path.split('/').last().unwrap_or("");
+            html.replace("rss/", &format!("rss/{}", image_filename))
+        } else {
+            html
+        };
 
         Ok(Card {
             html,
