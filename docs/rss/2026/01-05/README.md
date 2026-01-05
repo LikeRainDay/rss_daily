@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** Projects | **220667** ⭐ | **20799** 🍴
+**10** Projects | **252509** ⭐ | **20391** 🍴
 
-**Top Languages:** `TypeScript` (6) · `Go` (2) · `Rust` (2)
+**Top Languages:** `TypeScript` (6) · `Go` (2) · `JavaScript` (1)
 
-**Updated:** 2026-01-05 06:51 UTC
+**Updated:** 2026-01-05 13:00 UTC
 
 **Categories:**
 
@@ -18,68 +18,68 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [memos](https://github.com/usememos/memos)
+### 1. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **Why Recommend**  
-> *Memos is an open-source, self-hosted note-taking service designed for privacy and control, with no tracking, ads, or subscription fees. Built with Go and React, it offers full markdown support, blazing fast performance, and easy deployment via Docker. Key features include complete data ownership, REST and gRPC APIs for integration, and a clean, responsive interface. Suitable for personal notes and team wikis, Memos allows users to manage their knowledge effectively while ensuring data privacy. Explore more at usememos.com.*
+> *OpenCode is an open-source AI coding agent built in TypeScript, designed to enhance development workflows. With over 48,910 stars on GitHub, it offers a terminal user interface (TUI) and two built-in agents: "build" for full access development and "plan" for read-only code exploration. OpenCode supports multiple platforms, including desktop applications for macOS, Windows, and Linux. Its provider-agnostic design allows integration with various AI models, emphasizing flexibility and usability. For more features, visit opencode.ai.*
 
-- ⭐ 51415 stars
-- 💻 Go
-- 📅 Updated: 2026-01-05
-
-![memos](2026-01-05_daily-top_memos.png)
-
-### 2. [opencode](https://github.com/anomalyco/opencode)
-
-> 🤖 **Why Recommend**  
-> *OpenCode is an open-source AI coding agent built with TypeScript, boasting over 48,000 stars on GitHub. It features two agents—'build' for full development access and 'plan' for read-only analysis, ideal for exploring codebases. Users can switch between agents with ease. OpenCode supports various installation methods across platforms and offers a BETA desktop app. Its unique client/server architecture allows remote interaction with a terminal-based UI. The project emphasizes provider-agnostic model usage, making it versatile for developers. Join the community on Discord for support and collaboration.*
-
-- ⭐ 48359 stars
+- ⭐ 48910 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-05
 
 ![opencode](2026-01-05_daily-top_opencode.png)
 
-### 3. [nocodb](https://github.com/nocodb/nocodb)
+### 2. [memos](https://github.com/usememos/memos)
 
 > 🤖 **Why Recommend**  
-> *🔥 🔥 🔥 Open Source Airtable Alternative. popular project, actively maintained, recently updated*
+> *Memos is an open-source, self-hosted note-taking service designed for privacy and data ownership. With over 51,600 stars, it offers a fast and seamless experience for personal notes and team wikis, built using Go and React. Key features include complete data control with no tracking or ads, full markdown support, simple Docker deployment, and REST/gRPC APIs for easy integration. Memos is free forever under the MIT license, making it a cost-effective alternative to cloud services. Experience the beautiful interface and responsive design today.*
 
-- ⭐ 60723 stars
-- 🍴 4513 forks
+- ⭐ 51636 stars
+- 💻 Go
+- 📅 Updated: 2026-01-05
+
+![memos](2026-01-05_daily-top_memos.png)
+
+### 3. [daytona](https://github.com/daytonaio/daytona)
+
+> 🤖 **Why Recommend**  
+> *Daytona is a cutting-edge infrastructure designed for securely executing AI-generated code. With over 42,000 stars on GitHub, it offers lightning-fast sandbox creation (under 90ms), isolated runtime environments to ensure security, and massive parallelization capabilities for concurrent AI workflows. It supports programmatic control through APIs and is compatible with OCI/Docker images. Daytona provides SDKs in Python and TypeScript, enabling easy integration. Join a growing community and explore extensive documentation to get started.*
+
+- ⭐ 42698 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-05
 
-![nocodb](2026-01-05_daily-top_nocodb.png)
+![daytona](2026-01-05_daily-top_daytona.png)
 
 ### 4. [seanime](https://github.com/5rahim/seanime)
 
 > 🤖 **Why Recommend**  
-> *Seanime is an open-source media server for anime and manga, featuring a cross-platform web interface and desktop app. Key features include a built-in video player with support for advanced subtitles, AniList integration for managing your library, and offline mode functionality. Users can scan their anime library quickly and stream torrents directly to their media player. Additional capabilities include customizable UI, integrated torrent search, and manga reading support. Seanime emphasizes legal media sourcing and offers extensive documentation and community support.*
+> *Seanime is an open-source media server designed for managing anime and manga libraries with a web interface and desktop app. Key features include a built-in video player with subtitle support, AniList integration for managing content, and custom source support for additional series. Users can stream torrents directly, download episodes automatically, and read manga from their library. Offline mode, a customizable UI, and compatibility with popular media players enhance the user experience. Seanime promotes legal media access and does not provide content itself.*
 
-- ⭐ 2253 stars
+- ⭐ 2334 stars
 - 💻 Go
 - 📅 Updated: 2026-01-05
 
 ![seanime](2026-01-05_daily-top_seanime.png)
 
-### 5. [newsnow](https://github.com/ourongxing/newsnow)
+### 5. [nocodb](https://github.com/nocodb/nocodb)
 
 > 🤖 **Why Recommend**  
-> *newsnow is a TypeScript-based project designed for elegant reading of real-time trending news, currently supporting Chinese. Key features include a clean UI, GitHub OAuth login, adaptive scraping intervals to optimize resource usage, and a customizable caching system. The project offers easy deployment options via platforms like Cloudflare and Vercel, with support for multiple databases, particularly Cloudflare D1. Future enhancements aim to include multi-language support, personalized news options, and expanded data sources. Contributions are welcome under the MIT license.*
+> *🔥 🔥 🔥 Open Source Airtable Alternative. popular project, actively maintained, recently updated*
 
-- ⭐ 16640 stars
+- ⭐ 60816 stars
+- 🍴 4521 forks
 - 💻 TypeScript
 - 📅 Updated: 2026-01-05
 
-![newsnow](2026-01-05_daily-top_newsnow.png)
+![nocodb](2026-01-05_daily-top_nocodb.png)
 
 ### 6. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *cc-switch is a cross-platform desktop assistant tool for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. It boasts over 9,200 stars and features a robust SQLite + JSON dual-layer architecture for data management. Key highlights include seamless provider switching, advanced skills and prompts management, and enhanced MCP server integration. The app supports multiple languages, auto-launches on startup, and offers a brand-new user interface. It also provides cloud sync capabilities and integrates with various AI coding services, ensuring a fast and stable coding experience.*
+> *cc-switch is a cross-platform desktop assistant (v3.8.3) built in Rust, supporting Claude Code, Codex, and Gemini CLI with 9,310 stars on GitHub. Key features include a dual-layer architecture for data management, a redesigned UI with Japanese language support, and enhanced skills and prompts management systems. Users can easily switch between providers, manage MCP servers, and test API speeds. The tool integrates with services like Z.ai, PackyCode, and AIGoCode for AI coding, offering a streamlined experience for developers across Windows, macOS, and Linux platforms.*
 
-- ⭐ 9211 stars
+- ⭐ 9310 stars
 - 💻 Rust
 - 📅 Updated: 2026-01-05
 
@@ -88,9 +88,9 @@
 ### 7. [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
 
 > 🤖 **Why Recommend**  
-> *MapLibre GL JS is an open-source library for rendering interactive vector tile maps in web applications, leveraging GPU acceleration for fast performance. Originating as a fork of Mapbox GL JS, it provides a seamless experience for developers seeking an open-source alternative. Key features include customizable map styles, 3D terrain visualization, and support for heatmaps. The library is compatible with React and Angular, and comprehensive documentation, examples, and community engagement opportunities are available. It is actively maintained under the BSD-3-Clause license.*
+> *MapLibre GL JS is an open-source library for creating interactive vector tile maps in web applications, leveraging GPU-accelerated rendering for fast performance. Initially a fork of Mapbox GL JS, it has evolved to offer enhanced functionalities. Key features include customizable map styles, support for third-party vector tiles, and advanced visualizations like 3D buildings and heatmaps. The library is designed for easy integration with HTML and supports bindings for React and Angular. Comprehensive documentation and examples are available, fostering community contributions and collaboration.*
 
-- ⭐ 9222 stars
+- ⭐ 9256 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-05
 
@@ -99,9 +99,9 @@
 ### 8. [nuclear](https://github.com/nukeop/nuclear)
 
 > 🤖 **Why Recommend**  
-> *Nuclear is a free, open-source music streaming player that aggregates music from platforms like YouTube, Jamendo, Audius, and SoundCloud. Key features include playlist management, real-time lyrics, scrobbling to Last.fm, and genre browsing. With no ads or accounts required, users can enjoy unlimited downloads and audio normalization. A forthcoming rewrite aims to enhance performance, add auto-updates, and support for plugins using Tauri and Rust. Community engagement is encouraged through translations and feature suggestions.*
+> *Nuclear is a free, open-source music streaming player that aggregates music from various free sources like YouTube, Jamendo, Audius, and SoundCloud. Key features include playlist management, real-time lyrics, genre browsing, and a radio mode for automatic track queuing. Users can scrobble to Last.fm, enjoy audio normalization, and download tracks without ads or accounts. A new version is in development, promising auto-updates, enhanced performance, and a robust plugin system. Join the community on Discord and contribute to its growth!*
 
-- ⭐ 16925 stars
+- ⭐ 16932 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-05
 
@@ -110,25 +110,24 @@
 ### 9. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
 > 🤖 **Why Recommend**  
-> *Personal_AI_Infrastructure (PAI) is an open-source framework for creating personalized AI systems. With 3,398 stars on GitHub, PAI focuses on helping users achieve their goals through a unique architecture that combines a universal progress pattern and a scientific method cycle. Key features include modular packs for customizable AI capabilities, persistent memory, and intelligent context management. PAI enables users to build tailored AI assistants that learn and adapt, fostering a self-improving ecosystem designed for individual needs.*
+> *Personal_AI_Infrastructure (PAI) is an open-source framework designed for building personalized AI systems that enhance human productivity. With 3,476 stars on GitHub, it offers modular packs for customizable skills, persistent memory, and context-aware workflows. Key features include a universal goal-oriented pattern, an inner scientific loop for iterative learning, and a hook system for event-driven automation. Users can install packs independently or as curated bundles, making PAI adaptable for various platforms and personal use cases, ultimately promoting self-improvement and intelligent assistance.*
 
-- ⭐ 3398 stars
+- ⭐ 3476 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-05
 
 ![Personal_AI_Infrastructure](2026-01-05_daily-top_Personal_AI_Infrastructure.png)
 
-### 10. [hl](https://github.com/pamburus/hl)
+### 10. [escrcpy](https://github.com/viarotel-org/escrcpy)
 
 > 🤖 **Why Recommend**  
-> *A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.. popular project, recently updated*
+> *Escrcpy is an open-source tool that allows users to display and control their Android devices graphically using Electron. Key features include intelligent control via natural-language commands, automation for efficient workflow management across multiple devices, and high-performance screen mirroring. It supports wireless connections with reverse tethering and provides multi-device management through visual orchestration. Installation is straightforward via released packages or Homebrew for macOS. The project is actively maintained and welcomes contributions from developers.*
 
-- ⭐ 2521 stars
-- 🍴 52 forks
-- 💻 Rust
+- ⭐ 7141 stars
+- 💻 JavaScript
 - 📅 Updated: 2026-01-05
 
-![hl](2026-01-05_daily-top_hl.png)
+![escrcpy](2026-01-05_daily-top_escrcpy.png)
 
 ---
 
@@ -142,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-05 06:51:06 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-05 13:00:57 UTC
