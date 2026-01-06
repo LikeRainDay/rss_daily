@@ -8,19 +8,19 @@
       "full_name": "anomalyco/opencode",
       "description": "The open source coding agent.",
       "html_url": "https://github.com/anomalyco/opencode",
-      "stars": 49895,
-      "forks": 4229,
+      "stars": 50330,
+      "forks": 4276,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2025-04-30T20:08:00Z",
-      "updated_at": "2026-01-06T02:07:28Z",
-      "pushed_at": "2026-01-06T00:04:02Z",
-      "open_issues": 2006,
+      "updated_at": "2026-01-06T06:43:22Z",
+      "pushed_at": "2026-01-06T06:19:29Z",
+      "open_issues": 2027,
       "owner": {
         "login": "anomalyco",
         "avatar_url": "https://avatars.githubusercontent.com/u/66570915?v=4"
       },
-      "readme": "<p align=\"center\">\n  <a href=\"https://opencode.ai\">\n    <picture>\n      <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\">\n      <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\">\n      <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\">\n    </picture>\n  </a>\n</p>\n<p align=\"center\">The open source AI coding agent.</p>\n<p align=\"center\">\n  <a href=\"https://opencode.ai/discord\"><img alt=\"Discord\" src=\"https://img.shields.io/discord/1391832426048651334?style=flat-square&label=discord\" /></a>\n  <a href=\"https://www.npmjs.com/package/opencode-ai\"><img alt=\"npm\" src=\"https://img.shields.io/npm/v/opencode-ai?style=flat-square\" /></a>\n  <a href=\"https://github.com/anomalyco/opencode/actions/workflows/publish.yml\"><img alt=\"Build status\" src=\"https://img.shields.io/github/actions/workflow/status/anomalyco/opencode/publish.yml?style=flat-square&branch=dev\" /></a>\n</p>\n\n[![OpenCode Terminal UI](packages/web/src/assets/lander/screenshot.png)](https://opencode.ai)\n\n---\n\n### Installation\n\n```bash\n# YOLO\ncurl -fsSL https://opencode.ai/install | bash\n\n# Package managers\nnpm i -g opencode-ai@latest        # or bun/pnpm/yarn\nscoop bucket add extras; scoop install extras/opencode  # Windows\nchoco install opencode             # Windows\nbrew install opencode              # macOS and Linux\nparu -S opencode-bin               # Arch Linux\nmise use -g opencode               # Any OS\nnix run nixpkgs#opencode           # or github:anomalyco/opencode for latest dev branch\n```\n\n> [!TIP]\n> Remove versions older than 0.1.x before installing.\n\n### Desktop App (BETA)\n\nOpenCode is also available as a desktop application. Download directly from the [releases page](https://github.com/anomalyco/opencode/releases) or [opencode.ai/download](https://opencode.ai/download).\n\n| Platform              | Download                              |\n| --------------------- | ------------------------------------- |\n| macOS (Apple Silicon) | `opencode-desktop-darwin-aarch64.dmg` |\n| macOS (Intel)         | `opencode-desktop-darwin-x64.dmg`     |\n| Windows               | `opencode-desktop-windows-x64.exe`    |\n| Linux                 | `.deb`, `.rpm`, or AppImage           |\n\n```bash\n# macOS (Homebrew)\nbrew install --cask opencode-desktop\n```\n\n#### Installation Directory\n\nThe install script respects the following priority order for the installation path:\n\n1. `$OPENCODE_INSTALL_DIR` - Custom installation directory\n2. `$XDG_BIN_DIR` - XDG Base Directory Specification compliant path\n3. `$HOME/bin` - Standard user binary directory (if exists or can be created)\n4. `$HOME/.opencode/bin` - Default fallback\n\n```bash\n# Examples\nOPENCODE_INSTALL_DIR=/usr/local/bin curl -fsSL https://opencode.ai/install | bash\nXDG_BIN_DIR=$HOME/.local/bin curl -fsSL https://opencode.ai/install | bash\n```\n\n### Agents\n\nOpenCode includes two built-in agents you can switch between,\nyou can switch between these using the `Tab` key.\n\n- **build** - Default, full access agent for development work\n- **plan** - Read-only agent for analysis and code exploration\n  - Denies file edits by default\n  - Asks permission before running bash commands\n  - Ideal for exploring unfamiliar codebases or planning changes\n\nAlso, included is a **general** subagent for complex searches and multistep tasks.\nThis is used internally and can be invoked using `@general` in messages.\n\nLearn more about [agents](https://opencode.ai/docs/agents).\n\n### Documentation\n\nFor more info on how to configure OpenCode [**head over to our docs**](https://opencode.ai/docs).\n\n### Contributing\n\nIf you're interested in contributing to OpenCode, please read our [contributing docs](./CONTRIBUTING.md) before submitting a pull request.\n\n### Building on OpenCode\n\nIf you are working on a project that's related to OpenCode and is using \"opencode\" as a part of its name; for example, \"opencode-dashboard\" or \"opencode-mobile\", please add a note to your README to clarify that it is not built by the OpenCode team and is not affiliated with us in any way.\n\n### FAQ\n\n#### How is this different from Claude Code?\n\nIt's very similar to Claude Code in terms of capability. Here are the key differences:\n\n- 100% open source\n- Not coupled to any provider. Although we recommend the models we provide through [OpenCode Zen](https://opencode.ai/zen); OpenCode can be used with Claude, OpenAI, Google or even local models. As models evolve the gaps between them will close and pricing will drop so being provider-agnostic is important.\n- Out of the box LSP support\n- A focus on TUI. OpenCode is built by neovim users and the creators of [terminal.shop](https://terminal.shop); we are going to push the limits of what's possible in the terminal.\n- A client/server architecture. This for example can allow OpenCode to run on your computer, while you can drive it remotely from a mobile app. Meaning that the TUI frontend is just one of the possible clients.\n\n#### What's the other repo?\n\nThe other confusingly named repo has no relation to this one. You can [read the story behind it here](https://x.com/thdxr/status/1933561254481666466).\n\n---\n\n**Join our community** [Discord](https://discord.gg/opencode) | [X.com](https://x.com/opencode)\n",
+      "readme": "<p align=\"center\">\n  <a href=\"https://opencode.ai\">\n    <picture>\n      <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\">\n      <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\">\n      <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\">\n    </picture>\n  </a>\n</p>\n<p align=\"center\">The open source AI coding agent.</p>\n<p align=\"center\">\n  <a href=\"https://opencode.ai/discord\"><img alt=\"Discord\" src=\"https://img.shields.io/discord/1391832426048651334?style=flat-square&label=discord\" /></a>\n  <a href=\"https://www.npmjs.com/package/opencode-ai\"><img alt=\"npm\" src=\"https://img.shields.io/npm/v/opencode-ai?style=flat-square\" /></a>\n  <a href=\"https://github.com/anomalyco/opencode/actions/workflows/publish.yml\"><img alt=\"Build status\" src=\"https://img.shields.io/github/actions/workflow/status/anomalyco/opencode/publish.yml?style=flat-square&branch=dev\" /></a>\n</p>\n\n[![OpenCode Terminal UI](packages/web/src/assets/lander/screenshot.png)](https://opencode.ai)\n\n---\n\n### Installation\n\n```bash\n# YOLO\ncurl -fsSL https://opencode.ai/install | bash\n\n# Package managers\nnpm i -g opencode-ai@latest        # or bun/pnpm/yarn\nscoop bucket add extras; scoop install extras/opencode  # Windows\nchoco install opencode             # Windows\nbrew install opencode              # macOS and Linux\nparu -S opencode-bin               # Arch Linux\nmise use -g opencode               # Any OS\nnix run nixpkgs#opencode           # or github:anomalyco/opencode for latest dev branch\n```\n\n> [!TIP]\n> Remove versions older than 0.1.x before installing.\n\n### Desktop App (BETA)\n\nOpenCode is also available as a desktop application. Download directly from the [releases page](https://github.com/anomalyco/opencode/releases) or [opencode.ai/download](https://opencode.ai/download).\n\n| Platform              | Download                              |\n| --------------------- | ------------------------------------- |\n| macOS (Apple Silicon) | `opencode-desktop-darwin-aarch64.dmg` |\n| macOS (Intel)         | `opencode-desktop-darwin-x64.dmg`     |\n| Windows               | `opencode-desktop-windows-x64.exe`    |\n| Linux                 | `.deb`, `.rpm`, or AppImage           |\n\n```bash\n# macOS (Homebrew)\nbrew install --cask opencode-desktop\n```\n\n#### Installation Directory\n\nThe install script respects the following priority order for the installation path:\n\n1. `$OPENCODE_INSTALL_DIR` - Custom installation directory\n2. `$XDG_BIN_DIR` - XDG Base Directory Specification compliant path\n3. `$HOME/bin` - Standard user binary directory (if exists or can be created)\n4. `$HOME/.opencode/bin` - Default fallback\n\n```bash\n# Examples\nOPENCODE_INSTALL_DIR=/usr/local/bin curl -fsSL https://opencode.ai/install | bash\nXDG_BIN_DIR=$HOME/.local/bin curl -fsSL https://opencode.ai/install | bash\n```\n\n### Agents\n\nOpenCode includes two built-in agents you can switch between with the `Tab` key.\n\n- **build** - Default, full access agent for development work\n- **plan** - Read-only agent for analysis and code exploration\n  - Denies file edits by default\n  - Asks permission before running bash commands\n  - Ideal for exploring unfamiliar codebases or planning changes\n\nAlso, included is a **general** subagent for complex searches and multistep tasks.\nThis is used internally and can be invoked using `@general` in messages.\n\nLearn more about [agents](https://opencode.ai/docs/agents).\n\n### Documentation\n\nFor more info on how to configure OpenCode [**head over to our docs**](https://opencode.ai/docs).\n\n### Contributing\n\nIf you're interested in contributing to OpenCode, please read our [contributing docs](./CONTRIBUTING.md) before submitting a pull request.\n\n### Building on OpenCode\n\nIf you are working on a project that's related to OpenCode and is using \"opencode\" as a part of its name; for example, \"opencode-dashboard\" or \"opencode-mobile\", please add a note to your README to clarify that it is not built by the OpenCode team and is not affiliated with us in any way.\n\n### FAQ\n\n#### How is this different from Claude Code?\n\nIt's very similar to Claude Code in terms of capability. Here are the key differences:\n\n- 100% open source\n- Not coupled to any provider. Although we recommend the models we provide through [OpenCode Zen](https://opencode.ai/zen); OpenCode can be used with Claude, OpenAI, Google or even local models. As models evolve the gaps between them will close and pricing will drop so being provider-agnostic is important.\n- Out of the box LSP support\n- A focus on TUI. OpenCode is built by neovim users and the creators of [terminal.shop](https://terminal.shop); we are going to push the limits of what's possible in the terminal.\n- A client/server architecture. This for example can allow OpenCode to run on your computer, while you can drive it remotely from a mobile app. Meaning that the TUI frontend is just one of the possible clients.\n\n#### What's the other repo?\n\nThe other confusingly named repo has no relation to this one. You can [read the story behind it here](https://x.com/thdxr/status/1933561254481666466).\n\n---\n\n**Join our community** [Discord](https://discord.gg/opencode) | [X.com](https://x.com/opencode)\n",
       "stars_today": 1852
     },
     {
@@ -29,8 +29,8 @@
       "full_name": "usememos/memos",
       "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
       "html_url": "https://github.com/usememos/memos",
-      "stars": 51929,
-      "forks": 3734,
+      "stars": 52043,
+      "forks": 3748,
       "language": "Go",
       "topics": [
         "docker",
@@ -47,7 +47,7 @@
         "sqlite"
       ],
       "created_at": "2021-12-08T15:30:18Z",
-      "updated_at": "2026-01-06T02:05:23Z",
+      "updated_at": "2026-01-06T06:41:02Z",
       "pushed_at": "2026-01-06T01:08:31Z",
       "open_issues": 40,
       "owner": {
@@ -63,8 +63,8 @@
       "full_name": "daytonaio/daytona",
       "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
       "html_url": "https://github.com/daytonaio/daytona",
-      "stars": 42990,
-      "forks": 3877,
+      "stars": 43049,
+      "forks": 3881,
       "language": "TypeScript",
       "topics": [
         "agentic-workflow",
@@ -77,9 +77,9 @@
         "developer-tools"
       ],
       "created_at": "2024-02-06T08:21:20Z",
-      "updated_at": "2026-01-06T02:02:15Z",
+      "updated_at": "2026-01-06T06:40:25Z",
       "pushed_at": "2026-01-06T01:32:50Z",
-      "open_issues": 282,
+      "open_issues": 283,
       "owner": {
         "login": "daytonaio",
         "avatar_url": "https://avatars.githubusercontent.com/u/130513197?v=4"
@@ -93,8 +93,8 @@
       "full_name": "5rahim/seanime",
       "description": "Open-source media server with a web interface and desktop app for anime and manga.",
       "html_url": "https://github.com/5rahim/seanime",
-      "stars": 2362,
-      "forks": 146,
+      "stars": 2369,
+      "forks": 147,
       "language": "Go",
       "topics": [
         "anilist",
@@ -114,7 +114,7 @@
         "self-hosted"
       ],
       "created_at": "2023-10-23T03:05:04Z",
-      "updated_at": "2026-01-06T01:50:40Z",
+      "updated_at": "2026-01-06T04:12:17Z",
       "pushed_at": "2026-01-04T11:09:18Z",
       "open_issues": 40,
       "owner": {
@@ -130,8 +130,8 @@
       "full_name": "nocodb/nocodb",
       "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
       "html_url": "https://github.com/nocodb/nocodb",
-      "stars": 60930,
-      "forks": 4522,
+      "stars": 60959,
+      "forks": 4527,
       "language": "TypeScript",
       "topics": [
         "airtable",
@@ -150,9 +150,9 @@
         "swagger"
       ],
       "created_at": "2017-10-29T18:51:48Z",
-      "updated_at": "2026-01-06T02:04:42Z",
-      "pushed_at": "2026-01-05T20:27:11Z",
-      "open_issues": 552,
+      "updated_at": "2026-01-06T06:35:13Z",
+      "pushed_at": "2026-01-06T05:53:19Z",
+      "open_issues": 549,
       "owner": {
         "login": "nocodb",
         "avatar_url": "https://avatars.githubusercontent.com/u/50206778?v=4"
@@ -166,8 +166,8 @@
       "full_name": "farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "html_url": "https://github.com/farion1231/cc-switch",
-      "stars": 9375,
-      "forks": 633,
+      "stars": 9424,
+      "forks": 642,
       "language": "Rust",
       "topics": [
         "ai-tools",
@@ -187,9 +187,9 @@
         "wsl-support"
       ],
       "created_at": "2025-08-04T14:16:16Z",
-      "updated_at": "2026-01-06T02:05:48Z",
+      "updated_at": "2026-01-06T06:41:00Z",
       "pushed_at": "2026-01-05T14:40:02Z",
-      "open_issues": 92,
+      "open_issues": 93,
       "owner": {
         "login": "farion1231",
         "avatar_url": "https://avatars.githubusercontent.com/u/44939412?v=4"
@@ -203,8 +203,8 @@
       "full_name": "danielmiessler/Personal_AI_Infrastructure",
       "description": "Personal AI Infrastructure for upgrading humans.",
       "html_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "stars": 3590,
-      "forks": 615,
+      "stars": 3619,
+      "forks": 619,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -212,7 +212,7 @@
         "productivity"
       ],
       "created_at": "2025-09-08T16:18:30Z",
-      "updated_at": "2026-01-06T01:53:52Z",
+      "updated_at": "2026-01-06T06:43:25Z",
       "pushed_at": "2026-01-04T21:33:05Z",
       "open_issues": 15,
       "owner": {
@@ -228,8 +228,8 @@
       "full_name": "viarotel-org/escrcpy",
       "description": "📱 Display and control your Android device graphically with scrcpy.",
       "html_url": "https://github.com/viarotel-org/escrcpy",
-      "stars": 7166,
-      "forks": 529,
+      "stars": 7178,
+      "forks": 531,
       "language": "JavaScript",
       "topics": [
         "android",
@@ -251,8 +251,8 @@
         "windows"
       ],
       "created_at": "2023-09-15T02:42:13Z",
-      "updated_at": "2026-01-06T01:47:27Z",
-      "pushed_at": "2026-01-06T01:41:27Z",
+      "updated_at": "2026-01-06T06:38:09Z",
+      "pushed_at": "2026-01-06T03:44:21Z",
       "open_issues": 33,
       "owner": {
         "login": "viarotel-org",
@@ -267,15 +267,15 @@
       "full_name": "ourongxing/newsnow",
       "description": "Elegant reading of real-time and hottest news",
       "html_url": "https://github.com/ourongxing/newsnow",
-      "stars": 16809,
-      "forks": 4835,
+      "stars": 16863,
+      "forks": 4847,
       "language": "TypeScript",
       "topics": [
         "elegant",
         "news"
       ],
       "created_at": "2024-09-23T14:16:12Z",
-      "updated_at": "2026-01-06T02:05:10Z",
+      "updated_at": "2026-01-06T06:40:44Z",
       "pushed_at": "2025-12-27T15:23:56Z",
       "open_issues": 112,
       "owner": {
@@ -291,12 +291,12 @@
       "full_name": "agentsmd/agents.md",
       "description": "AGENTS.md — a simple, open format for guiding coding agents",
       "html_url": "https://github.com/agentsmd/agents.md",
-      "stars": 14326,
-      "forks": 1007,
+      "stars": 14361,
+      "forks": 1010,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2025-08-19T17:22:54Z",
-      "updated_at": "2026-01-06T01:56:24Z",
+      "updated_at": "2026-01-06T06:43:44Z",
       "pushed_at": "2025-12-19T20:06:52Z",
       "open_issues": 98,
       "owner": {
@@ -312,8 +312,8 @@
       "full_name": "clash-verge-rev/clash-verge-rev",
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "html_url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "stars": 90453,
-      "forks": 6643,
+      "stars": 90513,
+      "forks": 6651,
       "language": "TypeScript",
       "topics": [
         "clash",
@@ -326,7 +326,7 @@
         "windows"
       ],
       "created_at": "2023-11-21T18:24:03Z",
-      "updated_at": "2026-01-06T02:05:13Z",
+      "updated_at": "2026-01-06T06:42:07Z",
       "pushed_at": "2026-01-06T01:11:36Z",
       "open_issues": 87,
       "owner": {
@@ -342,12 +342,12 @@
       "full_name": "heyitsnoah/claudesidian",
       "description": null,
       "html_url": "https://github.com/heyitsnoah/claudesidian",
-      "stars": 1251,
-      "forks": 99,
+      "stars": 1257,
+      "forks": 100,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2025-09-12T00:40:48Z",
-      "updated_at": "2026-01-06T02:07:10Z",
+      "updated_at": "2026-01-06T06:13:19Z",
       "pushed_at": "2025-10-24T16:13:36Z",
       "open_issues": 8,
       "owner": {
@@ -363,8 +363,8 @@
       "full_name": "godotengine/godot",
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "html_url": "https://github.com/godotengine/godot",
-      "stars": 104925,
-      "forks": 23965,
+      "stars": 104937,
+      "forks": 23968,
       "language": "C++",
       "topics": [
         "game-development",
@@ -376,9 +376,9 @@
         "open-source"
       ],
       "created_at": "2014-01-04T16:05:36Z",
-      "updated_at": "2026-01-06T02:06:06Z",
+      "updated_at": "2026-01-06T06:04:44Z",
       "pushed_at": "2026-01-05T18:13:09Z",
-      "open_issues": 17132,
+      "open_issues": 17135,
       "owner": {
         "login": "godotengine",
         "avatar_url": "https://avatars.githubusercontent.com/u/6318500?v=4"
@@ -392,8 +392,8 @@
       "full_name": "xpipe-io/xpipe",
       "description": "Access your entire server infrastructure from your local desktop",
       "html_url": "https://github.com/xpipe-io/xpipe",
-      "stars": 12354,
-      "forks": 481,
+      "stars": 12374,
+      "forks": 483,
       "language": "Java",
       "topics": [
         "bash",
@@ -414,7 +414,7 @@
         "wsl"
       ],
       "created_at": "2023-01-27T02:25:38Z",
-      "updated_at": "2026-01-06T02:00:58Z",
+      "updated_at": "2026-01-06T05:54:54Z",
       "pushed_at": "2026-01-05T15:12:30Z",
       "open_issues": 43,
       "owner": {
@@ -430,7 +430,7 @@
       "full_name": "pamburus/hl",
       "description": "A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.",
       "html_url": "https://github.com/pamburus/hl",
-      "stars": 2571,
+      "stars": 2579,
       "forks": 52,
       "language": "Rust",
       "topics": [
@@ -453,8 +453,8 @@
         "viewer"
       ],
       "created_at": "2020-08-04T07:19:46Z",
-      "updated_at": "2026-01-06T02:04:35Z",
-      "pushed_at": "2026-01-05T23:18:44Z",
+      "updated_at": "2026-01-06T06:37:01Z",
+      "pushed_at": "2026-01-06T06:41:06Z",
       "open_issues": 8,
       "owner": {
         "login": "pamburus",
@@ -469,14 +469,14 @@
       "full_name": "musistudio/claude-code-router",
       "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
       "html_url": "https://github.com/musistudio/claude-code-router",
-      "stars": 24751,
-      "forks": 1945,
+      "stars": 24775,
+      "forks": 1946,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2025-02-25T02:17:18Z",
-      "updated_at": "2026-01-06T02:07:38Z",
+      "updated_at": "2026-01-06T06:32:40Z",
       "pushed_at": "2026-01-04T07:23:42Z",
-      "open_issues": 707,
+      "open_issues": 709,
       "owner": {
         "login": "musistudio",
         "avatar_url": "https://avatars.githubusercontent.com/u/21162426?v=4"
@@ -490,8 +490,8 @@
       "full_name": "imputnet/helium",
       "description": "Private, fast, and honest web browser",
       "html_url": "https://github.com/imputnet/helium",
-      "stars": 9763,
-      "forks": 198,
+      "stars": 9773,
+      "forks": 199,
       "language": "C++",
       "topics": [
         "browser",
@@ -500,9 +500,9 @@
         "web-browser"
       ],
       "created_at": "2025-02-15T11:43:15Z",
-      "updated_at": "2026-01-06T01:49:06Z",
-      "pushed_at": "2026-01-05T21:41:27Z",
-      "open_issues": 193,
+      "updated_at": "2026-01-06T06:23:17Z",
+      "pushed_at": "2026-01-06T06:17:53Z",
+      "open_issues": 194,
       "owner": {
         "login": "imputnet",
         "avatar_url": "https://avatars.githubusercontent.com/u/152056268?v=4"
@@ -516,17 +516,17 @@
       "full_name": "justlovemaki/AIClient-2-API",
       "description": "Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!",
       "html_url": "https://github.com/justlovemaki/AIClient-2-API",
-      "stars": 2322,
-      "forks": 375,
+      "stars": 2332,
+      "forks": 376,
       "language": "JavaScript",
       "topics": [
         "aicoding",
         "free"
       ],
       "created_at": "2025-07-20T07:05:56Z",
-      "updated_at": "2026-01-06T02:02:45Z",
+      "updated_at": "2026-01-06T05:56:07Z",
       "pushed_at": "2026-01-05T12:42:53Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": {
         "login": "justlovemaki",
         "avatar_url": "https://avatars.githubusercontent.com/u/22851716?v=4"
@@ -540,14 +540,14 @@
       "full_name": "openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "html_url": "https://github.com/openai/codex",
-      "stars": 55289,
-      "forks": 7091,
+      "stars": 55305,
+      "forks": 7094,
       "language": "Rust",
       "topics": [],
       "created_at": "2025-04-13T05:37:54Z",
-      "updated_at": "2026-01-06T01:57:28Z",
-      "pushed_at": "2026-01-06T02:06:56Z",
-      "open_issues": 946,
+      "updated_at": "2026-01-06T06:34:50Z",
+      "pushed_at": "2026-01-06T06:42:19Z",
+      "open_issues": 945,
       "owner": {
         "login": "openai",
         "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
@@ -561,12 +561,12 @@
       "full_name": "get-convex/chef",
       "description": "The only AI app builder that knows backend",
       "html_url": "https://github.com/get-convex/chef",
-      "stars": 4084,
+      "stars": 4089,
       "forks": 803,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2025-03-31T19:00:59Z",
-      "updated_at": "2026-01-05T23:08:30Z",
+      "updated_at": "2026-01-06T06:35:12Z",
       "pushed_at": "2025-12-30T04:11:47Z",
       "open_issues": 28,
       "owner": {
@@ -582,12 +582,12 @@
       "full_name": "jesseduffield/lazydocker",
       "description": "The lazier way to manage everything docker",
       "html_url": "https://github.com/jesseduffield/lazydocker",
-      "stars": 48837,
-      "forks": 1543,
+      "stars": 48853,
+      "forks": 1542,
       "language": "Go",
       "topics": [],
       "created_at": "2019-05-18T08:53:50Z",
-      "updated_at": "2026-01-06T02:06:52Z",
+      "updated_at": "2026-01-06T06:25:18Z",
       "pushed_at": "2025-12-19T22:55:13Z",
       "open_issues": 252,
       "owner": {
@@ -603,8 +603,8 @@
       "full_name": "Genymobile/scrcpy",
       "description": "Display and control your Android device",
       "html_url": "https://github.com/Genymobile/scrcpy",
-      "stars": 133628,
-      "forks": 12482,
+      "stars": 133641,
+      "forks": 12483,
       "language": "C",
       "topics": [
         "android",
@@ -617,7 +617,7 @@
         "sdl2"
       ],
       "created_at": "2017-11-21T18:00:27Z",
-      "updated_at": "2026-01-06T02:04:50Z",
+      "updated_at": "2026-01-06T06:40:39Z",
       "pushed_at": "2026-01-04T13:35:21Z",
       "open_issues": 2670,
       "owner": {
@@ -633,8 +633,8 @@
       "full_name": "zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "html_url": "https://github.com/zed-industries/zed",
-      "stars": 72641,
-      "forks": 6494,
+      "stars": 72659,
+      "forks": 6495,
       "language": "Rust",
       "topics": [
         "gpui",
@@ -643,9 +643,9 @@
         "zed"
       ],
       "created_at": "2021-02-20T03:01:06Z",
-      "updated_at": "2026-01-06T01:48:40Z",
-      "pushed_at": "2026-01-06T01:47:07Z",
-      "open_issues": 3209,
+      "updated_at": "2026-01-06T06:29:14Z",
+      "pushed_at": "2026-01-06T04:17:55Z",
+      "open_issues": 3214,
       "owner": {
         "login": "zed-industries",
         "avatar_url": "https://avatars.githubusercontent.com/u/79345384?v=4"
@@ -659,8 +659,8 @@
       "full_name": "googleapis/genai-toolbox",
       "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "html_url": "https://github.com/googleapis/genai-toolbox",
-      "stars": 12205,
-      "forks": 1107,
+      "stars": 12209,
+      "forks": 1108,
       "language": "Go",
       "topics": [
         "agent",
@@ -684,9 +684,9 @@
         "tidb"
       ],
       "created_at": "2024-06-07T20:52:54Z",
-      "updated_at": "2026-01-06T01:14:07Z",
-      "pushed_at": "2026-01-06T01:56:35Z",
-      "open_issues": 156,
+      "updated_at": "2026-01-06T06:24:06Z",
+      "pushed_at": "2026-01-06T05:25:16Z",
+      "open_issues": 159,
       "owner": {
         "login": "googleapis",
         "avatar_url": "https://avatars.githubusercontent.com/u/16785467?v=4"
@@ -700,7 +700,7 @@
       "full_name": "fjall-rs/fjall",
       "description": "🗻 Log-structured, embeddable key-value storage engine written in Rust",
       "html_url": "https://github.com/fjall-rs/fjall",
-      "stars": 1727,
+      "stars": 1734,
       "forks": 60,
       "language": "Rust",
       "topics": [
@@ -726,7 +726,7 @@
         "storage-engine"
       ],
       "created_at": "2023-11-16T13:41:50Z",
-      "updated_at": "2026-01-06T01:26:03Z",
+      "updated_at": "2026-01-06T06:30:28Z",
       "pushed_at": "2026-01-06T00:51:32Z",
       "open_issues": 23,
       "owner": {
@@ -742,8 +742,8 @@
       "full_name": "charmbracelet/crush",
       "description": "The glamourous AI coding agent for your favourite terminal 💘",
       "html_url": "https://github.com/charmbracelet/crush",
-      "stars": 16750,
-      "forks": 996,
+      "stars": 16760,
+      "forks": 997,
       "language": "Go",
       "topics": [
         "agentic-ai",
@@ -752,9 +752,9 @@
         "ravishing"
       ],
       "created_at": "2025-05-21T12:14:57Z",
-      "updated_at": "2026-01-06T02:04:42Z",
+      "updated_at": "2026-01-06T06:36:52Z",
       "pushed_at": "2026-01-06T00:04:24Z",
-      "open_issues": 333,
+      "open_issues": 334,
       "owner": {
         "login": "charmbracelet",
         "avatar_url": "https://avatars.githubusercontent.com/u/57376114?v=4"
@@ -768,7 +768,7 @@
       "full_name": "gohugoio/hugo",
       "description": "The world’s fastest framework for building websites.",
       "html_url": "https://github.com/gohugoio/hugo",
-      "stars": 85854,
+      "stars": 85856,
       "forks": 8162,
       "language": "Go",
       "topics": [
@@ -781,7 +781,7 @@
         "static-site-generator"
       ],
       "created_at": "2013-07-04T15:26:26Z",
-      "updated_at": "2026-01-06T01:51:41Z",
+      "updated_at": "2026-01-06T06:10:09Z",
       "pushed_at": "2026-01-05T08:01:26Z",
       "open_issues": 311,
       "owner": {
@@ -797,8 +797,8 @@
       "full_name": "jesseduffield/lazygit",
       "description": "simple terminal UI for git commands",
       "html_url": "https://github.com/jesseduffield/lazygit",
-      "stars": 70201,
-      "forks": 2420,
+      "stars": 70209,
+      "forks": 2421,
       "language": "Go",
       "topics": [
         "cli",
@@ -806,7 +806,7 @@
         "terminal"
       ],
       "created_at": "2018-05-19T00:53:06Z",
-      "updated_at": "2026-01-06T01:40:47Z",
+      "updated_at": "2026-01-06T06:33:00Z",
       "pushed_at": "2026-01-05T20:50:40Z",
       "open_issues": 847,
       "owner": {
@@ -822,7 +822,7 @@
       "full_name": "chaitin/SafeLine",
       "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
       "html_url": "https://github.com/chaitin/SafeLine",
-      "stars": 19940,
+      "stars": 19950,
       "forks": 1262,
       "language": "Go",
       "topics": [
@@ -848,7 +848,7 @@
         "xss"
       ],
       "created_at": "2023-04-12T11:30:14Z",
-      "updated_at": "2026-01-06T02:01:45Z",
+      "updated_at": "2026-01-06T06:19:08Z",
       "pushed_at": "2025-11-05T08:13:12Z",
       "open_issues": 58,
       "owner": {
@@ -864,8 +864,8 @@
       "full_name": "krahets/hello-algo",
       "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
       "html_url": "https://github.com/krahets/hello-algo",
-      "stars": 121143,
-      "forks": 14737,
+      "stars": 121147,
+      "forks": 14739,
       "language": "Java",
       "topics": [
         "algo",
@@ -881,7 +881,7 @@
         "programming"
       ],
       "created_at": "2022-11-04T11:08:34Z",
-      "updated_at": "2026-01-06T02:01:08Z",
+      "updated_at": "2026-01-06T06:14:51Z",
       "pushed_at": "2026-01-04T08:26:47Z",
       "open_issues": 18,
       "owner": {
@@ -897,7 +897,7 @@
       "full_name": "mickael-kerjean/filestash",
       "description": ":file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more",
       "html_url": "https://github.com/mickael-kerjean/filestash",
-      "stars": 13360,
+      "stars": 13362,
       "forks": 946,
       "language": "JavaScript",
       "topics": [
@@ -917,9 +917,9 @@
         "webdav"
       ],
       "created_at": "2017-06-13T05:34:14Z",
-      "updated_at": "2026-01-06T02:04:10Z",
-      "pushed_at": "2026-01-05T14:46:49Z",
-      "open_issues": 61,
+      "updated_at": "2026-01-06T05:45:44Z",
+      "pushed_at": "2026-01-06T05:45:40Z",
+      "open_issues": 60,
       "owner": {
         "login": "mickael-kerjean",
         "avatar_url": "https://avatars.githubusercontent.com/u/13233076?v=4"
@@ -933,8 +933,8 @@
       "full_name": "lobehub/lobe-chat",
       "description": "🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.",
       "html_url": "https://github.com/lobehub/lobe-chat",
-      "stars": 69819,
-      "forks": 14358,
+      "stars": 69829,
+      "forks": 14362,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -956,9 +956,9 @@
         "rag"
       ],
       "created_at": "2023-05-21T07:19:12Z",
-      "updated_at": "2026-01-06T00:40:02Z",
-      "pushed_at": "2026-01-06T00:34:52Z",
-      "open_issues": 1140,
+      "updated_at": "2026-01-06T06:26:56Z",
+      "pushed_at": "2026-01-06T06:38:36Z",
+      "open_issues": 1149,
       "owner": {
         "login": "lobehub",
         "avatar_url": "https://avatars.githubusercontent.com/u/131470832?v=4"
@@ -972,7 +972,7 @@
       "full_name": "2dust/v2rayNG",
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "html_url": "https://github.com/2dust/v2rayNG",
-      "stars": 49137,
+      "stars": 49148,
       "forks": 6776,
       "language": "Kotlin",
       "topics": [
@@ -990,7 +990,7 @@
         "xtls"
       ],
       "created_at": "2019-05-15T02:15:31Z",
-      "updated_at": "2026-01-06T01:56:01Z",
+      "updated_at": "2026-01-06T05:55:28Z",
       "pushed_at": "2026-01-05T03:06:42Z",
       "open_issues": 5,
       "owner": {
@@ -1006,8 +1006,8 @@
       "full_name": "termux/termux-app",
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "html_url": "https://github.com/termux/termux-app",
-      "stars": 48507,
-      "forks": 5799,
+      "stars": 48512,
+      "forks": 5802,
       "language": "Java",
       "topics": [
         "android",
@@ -1017,9 +1017,9 @@
         "termux"
       ],
       "created_at": "2015-10-23T09:42:46Z",
-      "updated_at": "2026-01-06T01:54:49Z",
+      "updated_at": "2026-01-06T06:36:16Z",
       "pushed_at": "2026-01-04T02:16:28Z",
-      "open_issues": 480,
+      "open_issues": 481,
       "owner": {
         "login": "termux",
         "avatar_url": "https://avatars.githubusercontent.com/u/8104776?v=4"
@@ -1033,7 +1033,7 @@
       "full_name": "LizardByte/Sunshine",
       "description": "Self-hosted game stream host for Moonlight.",
       "html_url": "https://github.com/LizardByte/Sunshine",
-      "stars": 33257,
+      "stars": 33264,
       "forks": 1626,
       "language": "C++",
       "topics": [
@@ -1056,8 +1056,8 @@
         "winget-pkg"
       ],
       "created_at": "2021-12-15T23:38:57Z",
-      "updated_at": "2026-01-06T02:02:57Z",
-      "pushed_at": "2026-01-05T23:10:55Z",
+      "updated_at": "2026-01-06T06:14:49Z",
+      "pushed_at": "2026-01-06T03:49:23Z",
       "open_issues": 112,
       "owner": {
         "login": "LizardByte",
@@ -1072,8 +1072,8 @@
       "full_name": "Wei-Shaw/claude-relay-service",
       "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "html_url": "https://github.com/Wei-Shaw/claude-relay-service",
-      "stars": 6733,
-      "forks": 1136,
+      "stars": 6747,
+      "forks": 1139,
       "language": "JavaScript",
       "topics": [
         "claude",
@@ -1088,9 +1088,9 @@
         "gemini-cli"
       ],
       "created_at": "2025-07-14T10:11:32Z",
-      "updated_at": "2026-01-06T01:43:50Z",
-      "pushed_at": "2026-01-05T11:09:20Z",
-      "open_issues": 163,
+      "updated_at": "2026-01-06T06:30:55Z",
+      "pushed_at": "2026-01-06T05:40:45Z",
+      "open_issues": 162,
       "owner": {
         "login": "Wei-Shaw",
         "avatar_url": "https://avatars.githubusercontent.com/u/26101719?v=4"
@@ -1104,12 +1104,12 @@
       "full_name": "ninxsoft/Mist",
       "description": "A Mac utility that automatically downloads macOS Firmwares / Installers.",
       "html_url": "https://github.com/ninxsoft/Mist",
-      "stars": 4336,
+      "stars": 4343,
       "forks": 184,
       "language": "Swift",
       "topics": [],
       "created_at": "2022-06-30T11:21:57Z",
-      "updated_at": "2026-01-06T02:07:59Z",
+      "updated_at": "2026-01-06T05:04:39Z",
       "pushed_at": "2025-10-11T07:40:41Z",
       "open_issues": 54,
       "owner": {
@@ -1125,8 +1125,8 @@
       "full_name": "78/xiaozhi-esp32",
       "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
       "html_url": "https://github.com/78/xiaozhi-esp32",
-      "stars": 22921,
-      "forks": 4811,
+      "stars": 22928,
+      "forks": 4813,
       "language": "C++",
       "topics": [
         "chatbot",
@@ -1134,9 +1134,9 @@
         "mcp"
       ],
       "created_at": "2024-08-31T10:08:16Z",
-      "updated_at": "2026-01-06T01:40:34Z",
+      "updated_at": "2026-01-06T06:26:37Z",
       "pushed_at": "2026-01-04T10:06:06Z",
-      "open_issues": 473,
+      "open_issues": 474,
       "owner": {
         "login": "78",
         "avatar_url": "https://avatars.githubusercontent.com/u/4488133?v=4"
@@ -1150,8 +1150,8 @@
       "full_name": "nautechsystems/nautilus_trader",
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "html_url": "https://github.com/nautechsystems/nautilus_trader",
-      "stars": 17054,
-      "forks": 2028,
+      "stars": 17073,
+      "forks": 2029,
       "language": "Rust",
       "topics": [
         "algorithmic-trading-engine",
@@ -1169,14 +1169,14 @@
         "trading-platform"
       ],
       "created_at": "2018-06-25T06:26:16Z",
-      "updated_at": "2026-01-06T01:29:30Z",
-      "pushed_at": "2026-01-06T01:29:26Z",
-      "open_issues": 73,
+      "updated_at": "2026-01-06T06:39:25Z",
+      "pushed_at": "2026-01-06T06:40:52Z",
+      "open_issues": 71,
       "owner": {
         "login": "nautechsystems",
         "avatar_url": "https://avatars.githubusercontent.com/u/33360632?v=4"
       },
-      "readme": "# <img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader-logo.png\" width=\"500\">\n\n[![codecov](https://codecov.io/gh/nautechsystems/nautilus_trader/branch/master/graph/badge.svg?token=DXO9QQI40H)](https://codecov.io/gh/nautechsystems/nautilus_trader)\n[![codspeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/nautechsystems/nautilus_trader)\n![pythons](https://img.shields.io/pypi/pyversions/nautilus_trader)\n![pypi-version](https://img.shields.io/pypi/v/nautilus_trader)\n![pypi-format](https://img.shields.io/pypi/format/nautilus_trader?color=blue)\n[![Downloads](https://pepy.tech/badge/nautilus-trader)](https://pepy.tech/project/nautilus-trader)\n[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/NautilusTrader)\n\n| Branch    | Version                                                                                                                                                                                                                     | Status                                                                                                                                                                                            |\n| :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |\n| `master`  | [![version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnautechsystems%2Fnautilus_trader%2Fmaster%2Fversion.json)](https://packages.nautechsystems.io/simple/nautilus-trader/index.html)  | [![build](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml)  |\n| `nightly` | [![version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnautechsystems%2Fnautilus_trader%2Fnightly%2Fversion.json)](https://packages.nautechsystems.io/simple/nautilus-trader/index.html) | [![build](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml/badge.svg?branch=nightly)](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml) |\n| `develop` | [![version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnautechsystems%2Fnautilus_trader%2Fdevelop%2Fversion.json)](https://packages.nautechsystems.io/simple/nautilus-trader/index.html) | [![build](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml/badge.svg?branch=develop)](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml) |\n\n| Platform           | Rust   | Python    |\n| :----------------- | :----- | :-------- |\n| `Linux (x86_64)`   | 1.92.0 | 3.12-3.14 |\n| `Linux (ARM64)`    | 1.92.0 | 3.12-3.14 |\n| `macOS (ARM64)`    | 1.92.0 | 3.12-3.14 |\n| `Windows (x86_64)` | 1.92.0 | 3.12-3.14 |\n\n- **Docs**: <https://nautilustrader.io/docs/>\n- **Website**: <https://nautilustrader.io>\n- **Support**: [support@nautilustrader.io](mailto:support@nautilustrader.io)\n\n## Introduction\n\nNautilusTrader is an open-source, high-performance, production-grade algorithmic trading platform,\nproviding quantitative traders with the ability to backtest portfolios of automated trading strategies\non historical data with an event-driven engine, and also deploy those same strategies live, with no code changes.\n\nThe platform is *AI-first*, designed to develop and deploy algorithmic trading strategies within a highly performant\nand robust Python-native environment. This helps to address the parity challenge of keeping the Python research/backtest\nenvironment consistent with the production live trading environment.\n\nNautilusTrader's design, architecture, and implementation philosophy prioritizes software correctness and safety at the\nhighest level, with the aim of supporting Python-native, mission-critical, trading system backtesting\nand live deployment workloads.\n\nThe platform is also universal, and asset-class-agnostic — with any REST API or WebSocket feed able to be integrated via modular\nadapters. It supports high-frequency trading across a wide range of asset classes and instrument types\nincluding FX, Equities, Futures, Options, Crypto, DeFi, and Betting — enabling seamless operations across multiple venues simultaneously.\n\n![nautilus-trader](https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader.png \"nautilus-trader\")\n\n## Features\n\n- **Fast**: Core is written in Rust with asynchronous networking using [tokio](https://crates.io/crates/tokio).\n- **Reliable**: Rust-powered type- and thread-safety, with optional Redis-backed state persistence.\n- **Portable**: OS independent, runs on Linux, macOS, and Windows. Deploy using Docker.\n- **Flexible**: Modular adapters mean any REST API or WebSocket feed can be integrated.\n- **Advanced**: Time in force `IOC`, `FOK`, `GTC`, `GTD`, `DAY`, `AT_THE_OPEN`, `AT_THE_CLOSE`, advanced order types and conditional triggers. Execution instructions `post-only`, `reduce-only`, and icebergs. Contingency orders including `OCO`, `OUO`, `OTO`.\n- **Customizable**: Add user-defined custom components, or assemble entire systems from scratch leveraging the [cache](https://nautilustrader.io/docs/latest/concepts/cache) and [message bus](https://nautilustrader.io/docs/latest/concepts/message_bus).\n- **Backtesting**: Run with multiple venues, instruments and strategies simultaneously using historical quote tick, trade tick, bar, order book and custom data with nanosecond resolution.\n- **Live**: Use identical strategy implementations between backtesting and live deployments.\n- **Multi-venue**: Multiple venue capabilities facilitate market-making and statistical arbitrage strategies.\n- **AI Training**: Backtest engine fast enough to be used to train AI trading agents (RL/ES).\n\n![Alt text](https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-art.png \"nautilus\")\n\n> *nautilus - from ancient Greek 'sailor' and naus 'ship'.*\n>\n> *The nautilus shell consists of modular chambers with a growth factor which approximates a logarithmic spiral.\n> The idea is that this can be translated to the aesthetics of design and architecture.*\n\n## Why NautilusTrader?\n\n- **Highly performant event-driven Python**: Native binary core components.\n- **Parity between backtesting and live trading**: Identical strategy code.\n- **Reduced operational risk**: Enhanced risk management functionality, logical accuracy, and type safety.\n- **Highly extendable**: Message bus, custom components and actors, custom data, custom adapters.\n\nTraditionally, trading strategy research and backtesting might be conducted in Python\nusing vectorized methods, with the strategy then needing to be reimplemented in a more event-driven way\nusing C++, C#, Java or other statically typed language(s). The reasoning here is that vectorized backtesting code cannot\nexpress the granular time and event dependent complexity of real-time trading, where compiled languages have\nproven to be more suitable due to their inherently higher performance, and type safety.\n\nOne of the key advantages of NautilusTrader here, is that this reimplementation step is now circumvented - as the critical core components of the platform\nhave all been written entirely in [Rust](https://www.rust-lang.org/) or [Cython](https://cython.org/).\nThis means we're using the right tools for the job, where systems programming languages compile performant binaries,\nwith CPython C extension modules then able to offer a Python-native environment, suitable for professional quantitative traders and trading firms.\n\n## Why Python?\n\nPython was originally created decades ago as a simple scripting language with a clean straightforward syntax.\nIt has since evolved into a fully fledged general purpose object-oriented programming language.\nBased on the TIOBE index, Python is currently the most popular programming language in the world.\nNot only that, Python has become the *de facto lingua franca* of data science, machine learning, and artificial intelligence.\n\n## Why Rust?\n\n[Rust](https://www.rust-lang.org/) is a multi-paradigm programming language designed for performance and safety, especially safe\nconcurrency. Rust is \"blazingly fast\" and memory-efficient (comparable to C and C++) with no garbage collector.\nIt can power mission-critical systems, run on embedded devices, and easily integrates with other languages.\n\nRust's rich type system and ownership model guarantee memory-safety and thread-safety in safe code,\neliminating many classes of bugs at compile-time. Overall safety in this project also depends on\ncorrectly upheld invariants in unsafe blocks and FFI boundaries.\n\nThe project increasingly utilizes Rust for core performance-critical components. Python bindings are implemented via Cython and [PyO3](https://pyo3.rs)—no Rust toolchain is required at install time.\n\nThis project makes the [Soundness Pledge](https://raphlinus.github.io/rust/2020/01/18/soundness-pledge.html):\n\n> “The intent of this project is to be free of soundness bugs.\n> The developers will do their best to avoid them, and welcome help in analyzing and fixing them.”\n\n> [!NOTE]\n>\n> **MSRV:** NautilusTrader relies heavily on improvements in the Rust language and compiler.\n> As a result, the Minimum Supported Rust Version (MSRV) is generally equal to the latest stable release of Rust.\n\n## Integrations\n\nNautilusTrader is modularly designed to work with *adapters*, enabling connectivity to trading venues\nand data providers by translating their raw APIs into a unified interface and normalized domain model.\n\nThe following integrations are currently supported; see [docs/integrations/](https://nautilustrader.io/docs/latest/integrations/) for details:\n\n| Name                                                                         | ID                    | Type                    | Status                                                  | Docs                                        |\n| :--------------------------------------------------------------------------- | :-------------------- | :---------------------- | :------------------------------------------------------ | :------------------------------------------ |\n| [AX Exchange](https://architect.exchange)                                    | `AX`                  | Perpetuals Exchange     | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/architect.md)     |\n| [Architect](https://architect.co)                                            | `ARCHITECT`           | Brokerage (multi-venue) | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/architect.md)     |\n| [Betfair](https://betfair.com)                                               | `BETFAIR`             | Sports Betting Exchange | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/betfair.md)       |\n| [Binance](https://binance.com)                                               | `BINANCE`             | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/binance.md)       |\n| [BitMEX](https://www.bitmex.com)                                             | `BITMEX`              | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/bitmex.md)        |\n| [Bybit](https://www.bybit.com)                                               | `BYBIT`               | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/bybit.md)         |\n| [Coinbase International](https://www.coinbase.com/en/international-exchange) | `COINBASE_INTX`       | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/coinbase_intx.md) |\n| [Databento](https://databento.com)                                           | `DATABENTO`           | Data Provider           | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/databento.md)     |\n| [Deribit](https://www.deribit.com)                                           | `DERIBIT`             | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/deribit.md)       |\n| [dYdX v3](https://dydx.exchange/)                                            | `DYDX`                | Crypto Exchange (DEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/dydx.md)          |\n| [dYdX v4](https://dydx.exchange/)                                            | `DYDX`                | Crypto Exchange (DEX)   | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/dydx.md)          |\n| [Hyperliquid](https://hyperliquid.xyz)                                       | `HYPERLIQUID`         | Crypto Exchange (DEX)   | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/hyperliquid.md)   |\n| [Interactive Brokers](https://www.interactivebrokers.com)                    | `INTERACTIVE_BROKERS` | Brokerage (multi-venue) | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/ib.md)            |\n| [Kraken](https://kraken.com)                                                 | `KRAKEN`              | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/beta-yellow)     | [Guide](docs/integrations/kraken.md)        |\n| [OKX](https://okx.com)                                                       | `OKX`                 | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/okx.md)           |\n| [Polymarket](https://polymarket.com)                                         | `POLYMARKET`          | Prediction Market (DEX) | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/polymarket.md)    |\n| [Tardis](https://tardis.dev)                                                 | `TARDIS`              | Crypto Data Provider    | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/tardis.md)        |\n\n- **ID**: The default client ID for the integrations adapter clients.\n- **Type**: The type of integration (often the venue type).\n\n### Status\n\n- `building`: Under construction and likely not in a usable state.\n- `beta`: Completed to a minimally working state and in a beta testing phase.\n- `stable`: Stabilized feature set and API, the integration has been tested by both developers and users to a reasonable level (some bugs may still remain).\n\nSee the [Integrations](https://nautilustrader.io/docs/latest/integrations/) documentation for further details.\n\n## Versioning and releases\n\n> [!WARNING]\n>\n> **NautilusTrader is still under active development**. Some features may be incomplete, and while\n> the API is becoming more stable, breaking changes can occur between releases.\n> We strive to document these changes in the release notes on a **best-effort basis**.\n\nWe aim to follow a **bi-weekly release schedule**, though experimental or larger features may cause delays.\n\n### Branches\n\nWe aim to maintain a stable, passing build across all branches.\n\n- `master`: Reflects the source code for the latest released version; recommended for production use.\n- `nightly`: Daily snapshots of the `develop` branch for early testing; merged at **14:00 UTC** and as required.\n- `develop`: Active development branch for contributors and feature work.\n\n> [!NOTE]\n>\n> Our [roadmap](/ROADMAP.md) aims to achieve a **stable API for version 2.x** (likely after the Rust port).\n> Once this milestone is reached, we plan to implement a formal deprecation process for any API changes.\n> This approach allows us to maintain a rapid development pace for now.\n\n## Precision mode\n\nNautilusTrader supports two precision modes for its core value types (`Price`, `Quantity`, `Money`),\nwhich differ in their internal bit-width and maximum decimal precision.\n\n- **High-precision**: 128-bit integers with up to 16 decimals of precision, and a larger value range.\n- **Standard-precision**: 64-bit integers with up to 9 decimals of precision, and a smaller value range.\n\n> [!NOTE]\n>\n> By default, the official Python wheels ship in high-precision (128-bit) mode on Linux and macOS.\n> On Windows, only standard-precision (64-bit) Python wheels are available because MSVC's C/C++ frontend\n> does not support `__int128`, preventing the Cython/FFI layer from handling 128-bit integers.\n>\n> For pure Rust crates, high-precision works on all platforms (including Windows) since Rust handles\n> `i128`/`u128` via software emulation. The default is standard-precision unless you explicitly enable\n> the `high-precision` feature flag.\n\nSee the [Installation Guide](https://nautilustrader.io/docs/latest/getting_started/installation) for further details.\n\n**Rust feature flag**: To enable high-precision mode in Rust, add the `high-precision` feature to your Cargo.toml:\n\n```toml\n[dependencies]\nnautilus_model = { version = \"*\", features = [\"high-precision\"] }\n```\n\n## Installation\n\nWe recommend using the latest supported version of Python and installing [nautilus_trader](https://pypi.org/project/nautilus_trader/) inside a virtual environment to isolate dependencies.\n\n**There are two supported ways to install**:\n\n1. Pre-built binary wheel from PyPI *or* the Nautech Systems package index.\n2. Build from source.\n\n> [!TIP]\n>\n> We highly recommend installing using the [uv](https://docs.astral.sh/uv) package manager with a \"vanilla\" CPython.\n>\n> Conda and other Python distributions *may* work but aren’t officially supported.\n\n### From PyPI\n\nTo install the latest binary wheel (or sdist package) from PyPI using Python's pip package manager:\n\n```bash\npip install -U nautilus_trader\n```\n\nInstall optional dependencies as 'extras' for specific integrations (e.g., `betfair`, `docker`, `dydx`, `ib`, `polymarket`, `visualization`):\n\n```bash\npip install -U \"nautilus_trader[docker,ib]\"\n```\n\nSee the [Installation Guide](https://nautilustrader.io/docs/latest/getting_started/installation#extras) for the full list of available extras.\n\n### From the Nautech Systems package index\n\nThe Nautech Systems package index (`packages.nautechsystems.io`) complies with [PEP-503](https://peps.python.org/pep-0503/) and hosts both stable and development binary wheels for `nautilus_trader`.\nThis enables users to install either the latest stable release or pre-release versions for testing.\n\n#### Stable wheels\n\nStable wheels correspond to official releases of `nautilus_trader` on PyPI, and use standard versioning.\n\nTo install the latest stable release:\n\n```bash\npip install -U nautilus_trader --index-url=https://packages.nautechsystems.io/simple\n```\n\n> [!TIP]\n>\n> Use `--extra-index-url` instead of `--index-url` if you want pip to fall back to PyPI automatically:\n\n#### Development wheels\n\nDevelopment wheels are published from both the `nightly` and `develop` branches,\nallowing users to test features and fixes ahead of stable releases.\n\nThis process also helps preserve compute resources and provides easy access to the exact binaries tested in CI pipelines,\nwhile adhering to [PEP-440](https://peps.python.org/pep-0440/) versioning standards:\n\n- `develop` wheels use the version format `dev{date}+{build_number}` (e.g., `1.208.0.dev20241212+7001`).\n- `nightly` wheels use the version format `a{date}` (alpha) (e.g., `1.208.0a20241212`).\n\n| Platform           | Nightly | Develop |\n| :----------------- | :------ | :------ |\n| `Linux (x86_64)`   | ✓       | ✓       |\n| `Linux (ARM64)`    | ✓       | -       |\n| `macOS (ARM64)`    | ✓       | ✓       |\n| `Windows (x86_64)` | ✓       | ✓       |\n\n**Note**: Development wheels from the `develop` branch publish for every supported platform except Linux ARM64.\nSkipping that target keeps CI feedback fast while avoiding unnecessary build resource usage.\n\n> [!WARNING]\n>\n> We do not recommend using development wheels in production environments, such as live trading controlling real capital.\n\n#### Installation commands\n\nBy default, pip will install the latest stable release. Adding the `--pre` flag ensures that pre-release versions, including development wheels, are considered.\n\nTo install the latest available pre-release (including development wheels):\n\n```bash\npip install -U nautilus_trader --pre --index-url=https://packages.nautechsystems.io/simple\n```\n\nTo install a specific development wheel (e.g., `1.221.0a20251026` for October 26, 2025):\n\n```bash\npip install nautilus_trader==1.221.0a20251026 --index-url=https://packages.nautechsystems.io/simple\n```\n\n#### Available versions\n\nYou can view all available versions of `nautilus_trader` on the [package index](https://packages.nautechsystems.io/simple/nautilus-trader/index.html).\n\nTo programmatically fetch and list available versions:\n\n```bash\ncurl -s https://packages.nautechsystems.io/simple/nautilus-trader/index.html | grep -oP '(?<=<a href=\")[^\"]+(?=\")' | awk -F'#' '{print $1}' | sort\n```\n\n> [!NOTE]\n>\n> On Linux, confirm your glibc version with `ldd --version` and ensure it reports **2.35** or newer before installing binary wheels.\n\n#### Branch updates\n\n- `develop` branch wheels (`.dev`): Build and publish continuously with every merged commit.\n- `nightly` branch wheels (`a`): Build and publish daily when we automatically merge the `develop` branch at **14:00 UTC** (if there are changes).\n\n#### Retention policies\n\n- `develop` branch wheels (`.dev`): We retain only the most recent wheel build.\n- `nightly` branch wheels (`a`): We retain only the 30 most recent wheel builds.\n\n#### Verifying build provenance\n\nAll release artifacts (wheels and source distributions) published to PyPI, GitHub Releases,\nand the Nautech Systems package index include cryptographic attestations that prove their authenticity and build provenance.\n\nThese attestations are generated automatically during the CI/CD pipeline using [SLSA](https://slsa.dev/) build provenance, and can be verified to ensure:\n\n- The artifact was built by the official NautilusTrader GitHub Actions workflow.\n- The artifact corresponds to a specific commit SHA in the repository.\n- The artifact hasn't been tampered with since it was built.\n\nTo verify a wheel file using the GitHub CLI:\n\n```bash\ngh attestation verify nautilus_trader-1.220.0-*.whl --owner nautechsystems\n```\n\nThis provides supply chain security by allowing you to cryptographically verify that the installed package came from the official NautilusTrader build process.\n\n> [!NOTE]\n>\n> Attestation verification requires the [GitHub CLI](https://cli.github.com/) (`gh`) to be installed.\n> Development wheels from `develop` and `nightly` branches are also attested and can be verified the same way.\n\n### From source\n\nIt's possible to install from source using pip if you first install the build dependencies as specified in the `pyproject.toml`.\n\n1. Install [rustup](https://rustup.rs/) (the Rust toolchain installer):\n   - Linux and macOS:\n\n       ```bash\n       curl https://sh.rustup.rs -sSf | sh\n       ```\n\n   - Windows:\n       - Download and install [`rustup-init.exe`](https://win.rustup.rs/x86_64)\n       - Install \"Desktop development with C++\" using [Build Tools for Visual Studio 2022](https://visualstudio.microsoft.com/visual-cpp-build-tools/)\n   - Verify (any system):\n       from a terminal session run: `rustc --version`\n\n2. Enable `cargo` in the current shell:\n   - Linux and macOS:\n\n       ```bash\n       source $HOME/.cargo/env\n       ```\n\n   - Windows:\n     - Start a new PowerShell\n\n3. Install [clang](https://clang.llvm.org/) (a C language frontend for LLVM):\n   - Linux:\n\n       ```bash\n       sudo apt-get install clang\n       ```\n\n   - Windows:\n       1. Add Clang to your [Build Tools for Visual Studio 2022](https://visualstudio.microsoft.com/visual-cpp-build-tools/):\n          - Start | Visual Studio Installer | Modify | C++ Clang tools for Windows (latest) = checked | Modify\n       2. Enable `clang` in the current shell:\n\n          ```powershell\n          [System.Environment]::SetEnvironmentVariable('path', \"C:\\Program Files\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\Llvm\\x64\\bin\\;\" + $env:Path,\"User\")\n          ```\n\n   - Verify (any system):\n       from a terminal session run: `clang --version`\n\n4. Install uv (see the [uv installation guide](https://docs.astral.sh/uv/getting-started/installation) for more details):\n\n    - Linux and macOS:\n\n        ```bash\n        curl -LsSf https://astral.sh/uv/install.sh | sh\n        ```\n\n    - Windows (PowerShell):\n\n        ```powershell\n        irm https://astral.sh/uv/install.ps1 | iex\n        ```\n\n5. Clone the source with `git`, and install from the project's root directory:\n\n    ```bash\n    git clone --branch develop --depth 1 https://github.com/nautechsystems/nautilus_trader\n    cd nautilus_trader\n    uv sync --all-extras\n    ```\n\n> [!NOTE]\n>\n> The `--depth 1` flag fetches just the latest commit for a faster, lightweight clone.\n\n6. Set environment variables for PyO3 compilation (Linux and macOS only):\n\n    ```bash\n    # Linux only: Set the library path for the Python interpreter\n    export LD_LIBRARY_PATH=\"$(python -c 'import sys; print(sys.base_prefix)')/lib:$LD_LIBRARY_PATH\"\n\n    # Set the Python executable path for PyO3\n    export PYO3_PYTHON=$(pwd)/.venv/bin/python\n\n    # Required for Rust tests when using uv-installed Python\n    export PYTHONHOME=$(python -c \"import sys; print(sys.base_prefix)\")\n    ```\n\n> [!NOTE]\n>\n> The `LD_LIBRARY_PATH` export is Linux-specific and not needed on macOS.\n>\n> The `PYTHONHOME` variable is required when running `make cargo-test` with a `uv`-installed Python.\n> Without it, tests that depend on PyO3 may fail to locate the Python runtime.\n\nSee the [Installation Guide](https://nautilustrader.io/docs/latest/getting_started/installation) for other options and further details.\n\n## Redis\n\nUsing [Redis](https://redis.io) with NautilusTrader is **optional** and only required if configured as the backend for a\n[cache](https://nautilustrader.io/docs/latest/concepts/cache) database or [message bus](https://nautilustrader.io/docs/latest/concepts/message_bus).\nSee the **Redis** section of the [Installation Guide](https://nautilustrader.io/docs/latest/getting_started/installation#redis) for further details.\n\n## Makefile\n\nA `Makefile` is provided to automate most installation and build tasks for development. Some of the targets include:\n\n- `make install`: Installs in `release` build mode with all dependency groups and extras.\n- `make install-debug`: Same as `make install` but with `debug` build mode.\n- `make install-just-deps`: Installs just the `main`, `dev` and `test` dependencies (does not install package).\n- `make build`: Runs the build script in `release` build mode (default).\n- `make build-debug`: Runs the build script in `debug` build mode.\n- `make build-wheel`: Runs uv build with a wheel format in `release` mode.\n- `make build-wheel-debug`: Runs uv build with a wheel format in `debug` mode.\n- `make cargo-test`: Runs all Rust crate tests using `cargo-nextest`.\n- `make clean`: Deletes all build results, such as `.so` or `.dll` files.\n- `make distclean`: **CAUTION** Removes all artifacts not in the git index from the repository. This includes source files which have not been `git add`ed.\n- `make docs`: Builds the documentation HTML using Sphinx.\n- `make pre-commit`: Runs the pre-commit checks over all files.\n- `make ruff`: Runs ruff over all files using the `pyproject.toml` config (with autofix).\n- `make pytest`: Runs all tests with `pytest`.\n- `make test-performance`: Runs performance tests with [codspeed](https://codspeed.io).\n\n> [!TIP]\n>\n> Run `make help` for documentation on all available make targets.\n\n> [!TIP]\n>\n> See the [crates/infrastructure/TESTS.md](https://github.com/nautechsystems/nautilus_trader/blob/develop/crates/infrastructure/TESTS.md) file for running the infrastructure integration tests.\n\n## Examples\n\nIndicators and strategies can be developed in both Python and Cython. For performance and\nlatency-sensitive applications, we recommend using Cython. Below are some examples:\n\n- [indicator](/nautilus_trader/examples/indicators/ema_python.py) example written in Python.\n- [indicator](/nautilus_trader/indicators/) implementations written in Cython.\n- [strategy](/nautilus_trader/examples/strategies/) examples written in Python.\n- [backtest](/examples/backtest/) examples using a `BacktestEngine` directly.\n\n## Docker\n\nDocker containers are built using the base image `python:3.12-slim` with the following variant tags:\n\n- `nautilus_trader:latest` has the latest release version installed.\n- `nautilus_trader:nightly` has the head of the `nightly` branch installed.\n- `jupyterlab:latest` has the latest release version installed along with `jupyterlab` and an\n  example backtest notebook with accompanying data.\n- `jupyterlab:nightly` has the head of the `nightly` branch installed along with `jupyterlab` and an\n  example backtest notebook with accompanying data.\n\nYou can pull the container images as follows:\n\n```bash\ndocker pull ghcr.io/nautechsystems/<image_variant_tag> --platform linux/amd64\n```\n\nYou can launch the backtest example container by running:\n\n```bash\ndocker pull ghcr.io/nautechsystems/jupyterlab:nightly --platform linux/amd64\ndocker run -p 8888:8888 ghcr.io/nautechsystems/jupyterlab:nightly\n```\n\nThen open your browser at the following address:\n\n```bash\nhttp://127.0.0.1:8888/lab\n```\n\n> [!WARNING]\n>\n> NautilusTrader currently exceeds the rate limit for Jupyter notebook logging (stdout output).\n> Therefore, we set the `log_level` to `ERROR` in the examples. Lowering this level to see more\n> logging will cause the notebook to hang during cell execution. We are investigating a fix that\n> may involve either raising the configured rate limits for Jupyter or throttling the log flushing\n> from Nautilus.\n>\n> - <https://github.com/jupyterlab/jupyterlab/issues/12845>\n> - <https://github.com/deshaw/jupyterlab-limit-output>\n\n## Development\n\nWe aim to provide the most pleasant developer experience possible for this hybrid codebase of Python, Cython and Rust.\nSee the [Developer Guide](https://nautilustrader.io/docs/latest/developer_guide/) for helpful information.\n\n> [!TIP]\n>\n> Run `make build-debug` to compile after changes to Rust or Cython code for the most efficient development workflow.\n\n### Testing with Rust\n\n[cargo-nextest](https://nexte.st) is the standard Rust test runner for NautilusTrader.\nIts key benefit is isolating each test in its own process, ensuring test reliability\nby avoiding interference.\n\nYou can install cargo-nextest by running:\n\n```bash\ncargo install cargo-nextest\n```\n\n> [!TIP]\n>\n> Run Rust tests with `make cargo-test`, which uses **cargo-nextest** with an efficient profile.\n\n## Contributing\n\nThank you for considering contributing to NautilusTrader! We welcome any and all help to improve\nthe project. If you have an idea for an enhancement or a bug fix, the first step is to open an [issue](https://github.com/nautechsystems/nautilus_trader/issues)\non GitHub to discuss it with the team. This helps to ensure that your contribution will be\nwell-aligned with the goals of the project and avoids duplication of effort.\n\nBefore getting started, be sure to review the [open-source scope](/ROADMAP.md#open-source-scope) outlined in the project’s roadmap to understand what’s in and out of scope.\n\nOnce you're ready to start working on your contribution, make sure to follow the guidelines\noutlined in the [CONTRIBUTING.md](https://github.com/nautechsystems/nautilus_trader/blob/develop/CONTRIBUTING.md) file. This includes signing a Contributor License Agreement (CLA)\nto ensure that your contributions can be included in the project.\n\n> [!NOTE]\n>\n> Pull requests should target the `develop` branch (the default branch). This is where new features and improvements are integrated before release.\n\nThank you again for your interest in NautilusTrader! We look forward to reviewing your contributions and working with you to improve the project.\n\n## Community\n\nJoin our community of users and contributors on [Discord](https://discord.gg/NautilusTrader) to chat\nand stay up-to-date with the latest announcements and features of NautilusTrader. Whether you're a\ndeveloper looking to contribute or just want to learn more about the platform, all are welcome on our Discord server.\n\n> [!WARNING]\n>\n> NautilusTrader does not issue, promote, or endorse any cryptocurrency tokens. Any claims or communications suggesting otherwise are unauthorized and false.\n>\n> All official updates and communications from NautilusTrader will be shared exclusively through <https://nautilustrader.io>, our [Discord server](https://discord.gg/NautilusTrader),\n> or our X (Twitter) account: [@NautilusTrader](https://x.com/NautilusTrader).\n>\n> If you encounter any suspicious activity, please report it to the appropriate platform and contact us at <info@nautechsystems.io>.\n\n## License\n\nThe source code for NautilusTrader is available on GitHub under the [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html).\nContributions to the project are welcome and require the completion of a standard [Contributor License Agreement (CLA)](https://github.com/nautechsystems/nautilus_trader/blob/develop/CLA.md).\n\n---\n\nNautilusTrader™ is developed and maintained by Nautech Systems, a technology\ncompany specializing in the development of high-performance trading systems.\nFor more information, visit <https://nautilustrader.io>.\n\n© 2015-2026 Nautech Systems Pty Ltd. All rights reserved.\n\n![nautechsystems](https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/ns-logo.png \"nautechsystems\")\n<img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/ferris.png\" width=\"128\">\n",
+      "readme": "# <img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader-logo.png\" width=\"500\">\n\n[![codecov](https://codecov.io/gh/nautechsystems/nautilus_trader/branch/master/graph/badge.svg?token=DXO9QQI40H)](https://codecov.io/gh/nautechsystems/nautilus_trader)\n[![codspeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/nautechsystems/nautilus_trader)\n![pythons](https://img.shields.io/pypi/pyversions/nautilus_trader)\n![pypi-version](https://img.shields.io/pypi/v/nautilus_trader)\n![pypi-format](https://img.shields.io/pypi/format/nautilus_trader?color=blue)\n[![Downloads](https://pepy.tech/badge/nautilus-trader)](https://pepy.tech/project/nautilus-trader)\n[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/NautilusTrader)\n\n| Branch    | Version                                                                                                                                                                                                                     | Status                                                                                                                                                                                            |\n| :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |\n| `master`  | [![version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnautechsystems%2Fnautilus_trader%2Fmaster%2Fversion.json)](https://packages.nautechsystems.io/simple/nautilus-trader/index.html)  | [![build](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml)  |\n| `nightly` | [![version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnautechsystems%2Fnautilus_trader%2Fnightly%2Fversion.json)](https://packages.nautechsystems.io/simple/nautilus-trader/index.html) | [![build](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml/badge.svg?branch=nightly)](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml) |\n| `develop` | [![version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnautechsystems%2Fnautilus_trader%2Fdevelop%2Fversion.json)](https://packages.nautechsystems.io/simple/nautilus-trader/index.html) | [![build](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml/badge.svg?branch=develop)](https://github.com/nautechsystems/nautilus_trader/actions/workflows/build.yml) |\n\n| Platform           | Rust   | Python    |\n| :----------------- | :----- | :-------- |\n| `Linux (x86_64)`   | 1.92.0 | 3.12-3.14 |\n| `Linux (ARM64)`    | 1.92.0 | 3.12-3.14 |\n| `macOS (ARM64)`    | 1.92.0 | 3.12-3.14 |\n| `Windows (x86_64)` | 1.92.0 | 3.12-3.14 |\n\n- **Docs**: <https://nautilustrader.io/docs/>\n- **Website**: <https://nautilustrader.io>\n- **Support**: [support@nautilustrader.io](mailto:support@nautilustrader.io)\n\n## Introduction\n\nNautilusTrader is an open-source, high-performance, production-grade algorithmic trading platform,\nproviding quantitative traders with the ability to backtest portfolios of automated trading strategies\non historical data with an event-driven engine, and also deploy those same strategies live, with no code changes.\n\nThe platform is *AI-first*, designed to develop and deploy algorithmic trading strategies within a highly performant\nand robust Python-native environment. This helps to address the parity challenge of keeping the Python research/backtest\nenvironment consistent with the production live trading environment.\n\nNautilusTrader's design, architecture, and implementation philosophy prioritizes software correctness and safety at the\nhighest level, with the aim of supporting Python-native, mission-critical, trading system backtesting\nand live deployment workloads.\n\nThe platform is also universal, and asset-class-agnostic — with any REST API or WebSocket feed able to be integrated via modular\nadapters. It supports high-frequency trading across a wide range of asset classes and instrument types\nincluding FX, Equities, Futures, Options, Crypto, DeFi, and Betting — enabling seamless operations across multiple venues simultaneously.\n\n![nautilus-trader](https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader.png \"nautilus-trader\")\n\n## Features\n\n- **Fast**: Core is written in Rust with asynchronous networking using [tokio](https://crates.io/crates/tokio).\n- **Reliable**: Rust-powered type- and thread-safety, with optional Redis-backed state persistence.\n- **Portable**: OS independent, runs on Linux, macOS, and Windows. Deploy using Docker.\n- **Flexible**: Modular adapters mean any REST API or WebSocket feed can be integrated.\n- **Advanced**: Time in force `IOC`, `FOK`, `GTC`, `GTD`, `DAY`, `AT_THE_OPEN`, `AT_THE_CLOSE`, advanced order types and conditional triggers. Execution instructions `post-only`, `reduce-only`, and icebergs. Contingency orders including `OCO`, `OUO`, `OTO`.\n- **Customizable**: Add user-defined custom components, or assemble entire systems from scratch leveraging the [cache](https://nautilustrader.io/docs/latest/concepts/cache) and [message bus](https://nautilustrader.io/docs/latest/concepts/message_bus).\n- **Backtesting**: Run with multiple venues, instruments and strategies simultaneously using historical quote tick, trade tick, bar, order book and custom data with nanosecond resolution.\n- **Live**: Use identical strategy implementations between backtesting and live deployments.\n- **Multi-venue**: Multiple venue capabilities facilitate market-making and statistical arbitrage strategies.\n- **AI Training**: Backtest engine fast enough to be used to train AI trading agents (RL/ES).\n\n![Alt text](https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-art.png \"nautilus\")\n\n> *nautilus - from ancient Greek 'sailor' and naus 'ship'.*\n>\n> *The nautilus shell consists of modular chambers with a growth factor which approximates a logarithmic spiral.\n> The idea is that this can be translated to the aesthetics of design and architecture.*\n\n## Why NautilusTrader?\n\n- **Highly performant event-driven Python**: Native binary core components.\n- **Parity between backtesting and live trading**: Identical strategy code.\n- **Reduced operational risk**: Enhanced risk management functionality, logical accuracy, and type safety.\n- **Highly extendable**: Message bus, custom components and actors, custom data, custom adapters.\n\nTraditionally, trading strategy research and backtesting might be conducted in Python\nusing vectorized methods, with the strategy then needing to be reimplemented in a more event-driven way\nusing C++, C#, Java or other statically typed language(s). The reasoning here is that vectorized backtesting code cannot\nexpress the granular time and event dependent complexity of real-time trading, where compiled languages have\nproven to be more suitable due to their inherently higher performance, and type safety.\n\nOne of the key advantages of NautilusTrader here, is that this reimplementation step is now circumvented - as the critical core components of the platform\nhave all been written entirely in [Rust](https://www.rust-lang.org/) or [Cython](https://cython.org/).\nThis means we're using the right tools for the job, where systems programming languages compile performant binaries,\nwith CPython C extension modules then able to offer a Python-native environment, suitable for professional quantitative traders and trading firms.\n\n## Why Python?\n\nPython was originally created decades ago as a simple scripting language with a clean straightforward syntax.\nIt has since evolved into a fully fledged general purpose object-oriented programming language.\nBased on the TIOBE index, Python is currently the most popular programming language in the world.\nNot only that, Python has become the *de facto lingua franca* of data science, machine learning, and artificial intelligence.\n\n## Why Rust?\n\n[Rust](https://www.rust-lang.org/) is a multi-paradigm programming language designed for performance and safety, especially safe\nconcurrency. Rust is \"blazingly fast\" and memory-efficient (comparable to C and C++) with no garbage collector.\nIt can power mission-critical systems, run on embedded devices, and easily integrates with other languages.\n\nRust's rich type system and ownership model guarantee memory-safety and thread-safety in safe code,\neliminating many classes of bugs at compile-time. Overall safety in this project also depends on\ncorrectly upheld invariants in unsafe blocks and FFI boundaries.\n\nThe project increasingly utilizes Rust for core performance-critical components. Python bindings are implemented via Cython and [PyO3](https://pyo3.rs)—no Rust toolchain is required at install time.\n\nThis project makes the [Soundness Pledge](https://raphlinus.github.io/rust/2020/01/18/soundness-pledge.html):\n\n> “The intent of this project is to be free of soundness bugs.\n> The developers will do their best to avoid them, and welcome help in analyzing and fixing them.”\n\n> [!NOTE]\n>\n> **MSRV:** NautilusTrader relies heavily on improvements in the Rust language and compiler.\n> As a result, the Minimum Supported Rust Version (MSRV) is generally equal to the latest stable release of Rust.\n\n## Integrations\n\nNautilusTrader is modularly designed to work with *adapters*, enabling connectivity to trading venues\nand data providers by translating their raw APIs into a unified interface and normalized domain model.\n\nThe following integrations are currently supported; see [docs/integrations/](https://nautilustrader.io/docs/latest/integrations/) for details:\n\n| Name                                                                         | ID                    | Type                    | Status                                                  | Docs                                        |\n| :--------------------------------------------------------------------------- | :-------------------- | :---------------------- | :------------------------------------------------------ | :------------------------------------------ |\n| [AX Exchange](https://architect.exchange)                                    | `AX`                  | Perpetuals Exchange     | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/architect_ax.md)  |\n| [Architect](https://architect.co)                                            | `ARCHITECT`           | Brokerage (multi-venue) | ![status](https://img.shields.io/badge/planned-gray)    | -                                           |\n| [Betfair](https://betfair.com)                                               | `BETFAIR`             | Sports Betting Exchange | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/betfair.md)       |\n| [Binance](https://binance.com)                                               | `BINANCE`             | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/binance.md)       |\n| [BitMEX](https://www.bitmex.com)                                             | `BITMEX`              | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/bitmex.md)        |\n| [Bybit](https://www.bybit.com)                                               | `BYBIT`               | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/bybit.md)         |\n| [Coinbase International](https://www.coinbase.com/en/international-exchange) | `COINBASE_INTX`       | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/coinbase_intx.md) |\n| [Databento](https://databento.com)                                           | `DATABENTO`           | Data Provider           | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/databento.md)     |\n| [Deribit](https://www.deribit.com)                                           | `DERIBIT`             | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/deribit.md)       |\n| [dYdX v3](https://dydx.exchange/)                                            | `DYDX`                | Crypto Exchange (DEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/dydx.md)          |\n| [dYdX v4](https://dydx.exchange/)                                            | `DYDX`                | Crypto Exchange (DEX)   | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/dydx.md)          |\n| [Hyperliquid](https://hyperliquid.xyz)                                       | `HYPERLIQUID`         | Crypto Exchange (DEX)   | ![status](https://img.shields.io/badge/building-orange) | [Guide](docs/integrations/hyperliquid.md)   |\n| [Interactive Brokers](https://www.interactivebrokers.com)                    | `INTERACTIVE_BROKERS` | Brokerage (multi-venue) | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/ib.md)            |\n| [Kraken](https://kraken.com)                                                 | `KRAKEN`              | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/beta-yellow)     | [Guide](docs/integrations/kraken.md)        |\n| [OKX](https://okx.com)                                                       | `OKX`                 | Crypto Exchange (CEX)   | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/okx.md)           |\n| [Polymarket](https://polymarket.com)                                         | `POLYMARKET`          | Prediction Market (DEX) | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/polymarket.md)    |\n| [Tardis](https://tardis.dev)                                                 | `TARDIS`              | Crypto Data Provider    | ![status](https://img.shields.io/badge/stable-green)    | [Guide](docs/integrations/tardis.md)        |\n\n- **ID**: The default client ID for the integrations adapter clients.\n- **Type**: The type of integration (often the venue type).\n\n### Status\n\n- `planned`: Planned for future development.\n- `building`: Under construction and likely not in a usable state.\n- `beta`: Completed to a minimally working state and in a beta testing phase.\n- `stable`: Stabilized feature set and API, the integration has been tested by both developers and users to a reasonable level (some bugs may still remain).\n\nSee the [Integrations](https://nautilustrader.io/docs/latest/integrations/) documentation for further details.\n\n## Versioning and releases\n\n> [!WARNING]\n>\n> **NautilusTrader is still under active development**. Some features may be incomplete, and while\n> the API is becoming more stable, breaking changes can occur between releases.\n> We strive to document these changes in the release notes on a **best-effort basis**.\n\nWe aim to follow a **bi-weekly release schedule**, though experimental or larger features may cause delays.\n\n### Branches\n\nWe aim to maintain a stable, passing build across all branches.\n\n- `master`: Reflects the source code for the latest released version; recommended for production use.\n- `nightly`: Daily snapshots of the `develop` branch for early testing; merged at **14:00 UTC** and as required.\n- `develop`: Active development branch for contributors and feature work.\n\n> [!NOTE]\n>\n> Our [roadmap](/ROADMAP.md) aims to achieve a **stable API for version 2.x** (likely after the Rust port).\n> Once this milestone is reached, we plan to implement a formal deprecation process for any API changes.\n> This approach allows us to maintain a rapid development pace for now.\n\n## Precision mode\n\nNautilusTrader supports two precision modes for its core value types (`Price`, `Quantity`, `Money`),\nwhich differ in their internal bit-width and maximum decimal precision.\n\n- **High-precision**: 128-bit integers with up to 16 decimals of precision, and a larger value range.\n- **Standard-precision**: 64-bit integers with up to 9 decimals of precision, and a smaller value range.\n\n> [!NOTE]\n>\n> By default, the official Python wheels ship in high-precision (128-bit) mode on Linux and macOS.\n> On Windows, only standard-precision (64-bit) Python wheels are available because MSVC's C/C++ frontend\n> does not support `__int128`, preventing the Cython/FFI layer from handling 128-bit integers.\n>\n> For pure Rust crates, high-precision works on all platforms (including Windows) since Rust handles\n> `i128`/`u128` via software emulation. The default is standard-precision unless you explicitly enable\n> the `high-precision` feature flag.\n\nSee the [Installation Guide](https://nautilustrader.io/docs/latest/getting_started/installation) for further details.\n\n**Rust feature flag**: To enable high-precision mode in Rust, add the `high-precision` feature to your Cargo.toml:\n\n```toml\n[dependencies]\nnautilus_model = { version = \"*\", features = [\"high-precision\"] }\n```\n\n## Installation\n\nWe recommend using the latest supported version of Python and installing [nautilus_trader](https://pypi.org/project/nautilus_trader/) inside a virtual environment to isolate dependencies.\n\n**There are two supported ways to install**:\n\n1. Pre-built binary wheel from PyPI *or* the Nautech Systems package index.\n2. Build from source.\n\n> [!TIP]\n>\n> We highly recommend installing using the [uv](https://docs.astral.sh/uv) package manager with a \"vanilla\" CPython.\n>\n> Conda and other Python distributions *may* work but aren’t officially supported.\n\n### From PyPI\n\nTo install the latest binary wheel (or sdist package) from PyPI using Python's pip package manager:\n\n```bash\npip install -U nautilus_trader\n```\n\nInstall optional dependencies as 'extras' for specific integrations (e.g., `betfair`, `docker`, `dydx`, `ib`, `polymarket`, `visualization`):\n\n```bash\npip install -U \"nautilus_trader[docker,ib]\"\n```\n\nSee the [Installation Guide](https://nautilustrader.io/docs/latest/getting_started/installation#extras) for the full list of available extras.\n\n### From the Nautech Systems package index\n\nThe Nautech Systems package index (`packages.nautechsystems.io`) complies with [PEP-503](https://peps.python.org/pep-0503/) and hosts both stable and development binary wheels for `nautilus_trader`.\nThis enables users to install either the latest stable release or pre-release versions for testing.\n\n#### Stable wheels\n\nStable wheels correspond to official releases of `nautilus_trader` on PyPI, and use standard versioning.\n\nTo install the latest stable release:\n\n```bash\npip install -U nautilus_trader --index-url=https://packages.nautechsystems.io/simple\n```\n\n> [!TIP]\n>\n> Use `--extra-index-url` instead of `--index-url` if you want pip to fall back to PyPI automatically:\n\n#### Development wheels\n\nDevelopment wheels are published from both the `nightly` and `develop` branches,\nallowing users to test features and fixes ahead of stable releases.\n\nThis process also helps preserve compute resources and provides easy access to the exact binaries tested in CI pipelines,\nwhile adhering to [PEP-440](https://peps.python.org/pep-0440/) versioning standards:\n\n- `develop` wheels use the version format `dev{date}+{build_number}` (e.g., `1.208.0.dev20241212+7001`).\n- `nightly` wheels use the version format `a{date}` (alpha) (e.g., `1.208.0a20241212`).\n\n| Platform           | Nightly | Develop |\n| :----------------- | :------ | :------ |\n| `Linux (x86_64)`   | ✓       | ✓       |\n| `Linux (ARM64)`    | ✓       | -       |\n| `macOS (ARM64)`    | ✓       | ✓       |\n| `Windows (x86_64)` | ✓       | ✓       |\n\n**Note**: Development wheels from the `develop` branch publish for every supported platform except Linux ARM64.\nSkipping that target keeps CI feedback fast while avoiding unnecessary build resource usage.\n\n> [!WARNING]\n>\n> We do not recommend using development wheels in production environments, such as live trading controlling real capital.\n\n#### Installation commands\n\nBy default, pip will install the latest stable release. Adding the `--pre` flag ensures that pre-release versions, including development wheels, are considered.\n\nTo install the latest available pre-release (including development wheels):\n\n```bash\npip install -U nautilus_trader --pre --index-url=https://packages.nautechsystems.io/simple\n```\n\nTo install a specific development wheel (e.g., `1.221.0a20251026` for October 26, 2025):\n\n```bash\npip install nautilus_trader==1.221.0a20251026 --index-url=https://packages.nautechsystems.io/simple\n```\n\n#### Available versions\n\nYou can view all available versions of `nautilus_trader` on the [package index](https://packages.nautechsystems.io/simple/nautilus-trader/index.html).\n\nTo programmatically fetch and list available versions:\n\n```bash\ncurl -s https://packages.nautechsystems.io/simple/nautilus-trader/index.html | grep -oP '(?<=<a href=\")[^\"]+(?=\")' | awk -F'#' '{print $1}' | sort\n```\n\n> [!NOTE]\n>\n> On Linux, confirm your glibc version with `ldd --version` and ensure it reports **2.35** or newer before installing binary wheels.\n\n#### Branch updates\n\n- `develop` branch wheels (`.dev`): Build and publish continuously with every merged commit.\n- `nightly` branch wheels (`a`): Build and publish daily when we automatically merge the `develop` branch at **14:00 UTC** (if there are changes).\n\n#### Retention policies\n\n- `develop` branch wheels (`.dev`): We retain only the most recent wheel build.\n- `nightly` branch wheels (`a`): We retain only the 30 most recent wheel builds.\n\n#### Verifying build provenance\n\nAll release artifacts (wheels and source distributions) published to PyPI, GitHub Releases,\nand the Nautech Systems package index include cryptographic attestations that prove their authenticity and build provenance.\n\nThese attestations are generated automatically during the CI/CD pipeline using [SLSA](https://slsa.dev/) build provenance, and can be verified to ensure:\n\n- The artifact was built by the official NautilusTrader GitHub Actions workflow.\n- The artifact corresponds to a specific commit SHA in the repository.\n- The artifact hasn't been tampered with since it was built.\n\nTo verify a wheel file using the GitHub CLI:\n\n```bash\ngh attestation verify nautilus_trader-1.220.0-*.whl --owner nautechsystems\n```\n\nThis provides supply chain security by allowing you to cryptographically verify that the installed package came from the official NautilusTrader build process.\n\n> [!NOTE]\n>\n> Attestation verification requires the [GitHub CLI](https://cli.github.com/) (`gh`) to be installed.\n> Development wheels from `develop` and `nightly` branches are also attested and can be verified the same way.\n\n### From source\n\nIt's possible to install from source using pip if you first install the build dependencies as specified in the `pyproject.toml`.\n\n1. Install [rustup](https://rustup.rs/) (the Rust toolchain installer):\n   - Linux and macOS:\n\n       ```bash\n       curl https://sh.rustup.rs -sSf | sh\n       ```\n\n   - Windows:\n       - Download and install [`rustup-init.exe`](https://win.rustup.rs/x86_64)\n       - Install \"Desktop development with C++\" using [Build Tools for Visual Studio 2022](https://visualstudio.microsoft.com/visual-cpp-build-tools/)\n   - Verify (any system):\n       from a terminal session run: `rustc --version`\n\n2. Enable `cargo` in the current shell:\n   - Linux and macOS:\n\n       ```bash\n       source $HOME/.cargo/env\n       ```\n\n   - Windows:\n     - Start a new PowerShell\n\n3. Install [clang](https://clang.llvm.org/) (a C language frontend for LLVM):\n   - Linux:\n\n       ```bash\n       sudo apt-get install clang\n       ```\n\n   - Windows:\n       1. Add Clang to your [Build Tools for Visual Studio 2022](https://visualstudio.microsoft.com/visual-cpp-build-tools/):\n          - Start | Visual Studio Installer | Modify | C++ Clang tools for Windows (latest) = checked | Modify\n       2. Enable `clang` in the current shell:\n\n          ```powershell\n          [System.Environment]::SetEnvironmentVariable('path', \"C:\\Program Files\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\Llvm\\x64\\bin\\;\" + $env:Path,\"User\")\n          ```\n\n   - Verify (any system):\n       from a terminal session run: `clang --version`\n\n4. Install uv (see the [uv installation guide](https://docs.astral.sh/uv/getting-started/installation) for more details):\n\n    - Linux and macOS:\n\n        ```bash\n        curl -LsSf https://astral.sh/uv/install.sh | sh\n        ```\n\n    - Windows (PowerShell):\n\n        ```powershell\n        irm https://astral.sh/uv/install.ps1 | iex\n        ```\n\n5. Clone the source with `git`, and install from the project's root directory:\n\n    ```bash\n    git clone --branch develop --depth 1 https://github.com/nautechsystems/nautilus_trader\n    cd nautilus_trader\n    uv sync --all-extras\n    ```\n\n> [!NOTE]\n>\n> The `--depth 1` flag fetches just the latest commit for a faster, lightweight clone.\n\n6. Set environment variables for PyO3 compilation (Linux and macOS only):\n\n    ```bash\n    # Linux only: Set the library path for the Python interpreter\n    export LD_LIBRARY_PATH=\"$(python -c 'import sys; print(sys.base_prefix)')/lib:$LD_LIBRARY_PATH\"\n\n    # Set the Python executable path for PyO3\n    export PYO3_PYTHON=$(pwd)/.venv/bin/python\n\n    # Required for Rust tests when using uv-installed Python\n    export PYTHONHOME=$(python -c \"import sys; print(sys.base_prefix)\")\n    ```\n\n> [!NOTE]\n>\n> The `LD_LIBRARY_PATH` export is Linux-specific and not needed on macOS.\n>\n> The `PYTHONHOME` variable is required when running `make cargo-test` with a `uv`-installed Python.\n> Without it, tests that depend on PyO3 may fail to locate the Python runtime.\n\nSee the [Installation Guide](https://nautilustrader.io/docs/latest/getting_started/installation) for other options and further details.\n\n## Redis\n\nUsing [Redis](https://redis.io) with NautilusTrader is **optional** and only required if configured as the backend for a\n[cache](https://nautilustrader.io/docs/latest/concepts/cache) database or [message bus](https://nautilustrader.io/docs/latest/concepts/message_bus).\nSee the **Redis** section of the [Installation Guide](https://nautilustrader.io/docs/latest/getting_started/installation#redis) for further details.\n\n## Makefile\n\nA `Makefile` is provided to automate most installation and build tasks for development. Some of the targets include:\n\n- `make install`: Installs in `release` build mode with all dependency groups and extras.\n- `make install-debug`: Same as `make install` but with `debug` build mode.\n- `make install-just-deps`: Installs just the `main`, `dev` and `test` dependencies (does not install package).\n- `make build`: Runs the build script in `release` build mode (default).\n- `make build-debug`: Runs the build script in `debug` build mode.\n- `make build-wheel`: Runs uv build with a wheel format in `release` mode.\n- `make build-wheel-debug`: Runs uv build with a wheel format in `debug` mode.\n- `make cargo-test`: Runs all Rust crate tests using `cargo-nextest`.\n- `make clean`: Deletes all build results, such as `.so` or `.dll` files.\n- `make distclean`: **CAUTION** Removes all artifacts not in the git index from the repository. This includes source files which have not been `git add`ed.\n- `make docs`: Builds the documentation HTML using Sphinx.\n- `make pre-commit`: Runs the pre-commit checks over all files.\n- `make ruff`: Runs ruff over all files using the `pyproject.toml` config (with autofix).\n- `make pytest`: Runs all tests with `pytest`.\n- `make test-performance`: Runs performance tests with [codspeed](https://codspeed.io).\n\n> [!TIP]\n>\n> Run `make help` for documentation on all available make targets.\n\n> [!TIP]\n>\n> See the [crates/infrastructure/TESTS.md](https://github.com/nautechsystems/nautilus_trader/blob/develop/crates/infrastructure/TESTS.md) file for running the infrastructure integration tests.\n\n## Examples\n\nIndicators and strategies can be developed in both Python and Cython. For performance and\nlatency-sensitive applications, we recommend using Cython. Below are some examples:\n\n- [indicator](/nautilus_trader/examples/indicators/ema_python.py) example written in Python.\n- [indicator](/nautilus_trader/indicators/) implementations written in Cython.\n- [strategy](/nautilus_trader/examples/strategies/) examples written in Python.\n- [backtest](/examples/backtest/) examples using a `BacktestEngine` directly.\n\n## Docker\n\nDocker containers are built using the base image `python:3.12-slim` with the following variant tags:\n\n- `nautilus_trader:latest` has the latest release version installed.\n- `nautilus_trader:nightly` has the head of the `nightly` branch installed.\n- `jupyterlab:latest` has the latest release version installed along with `jupyterlab` and an\n  example backtest notebook with accompanying data.\n- `jupyterlab:nightly` has the head of the `nightly` branch installed along with `jupyterlab` and an\n  example backtest notebook with accompanying data.\n\nYou can pull the container images as follows:\n\n```bash\ndocker pull ghcr.io/nautechsystems/<image_variant_tag> --platform linux/amd64\n```\n\nYou can launch the backtest example container by running:\n\n```bash\ndocker pull ghcr.io/nautechsystems/jupyterlab:nightly --platform linux/amd64\ndocker run -p 8888:8888 ghcr.io/nautechsystems/jupyterlab:nightly\n```\n\nThen open your browser at the following address:\n\n```bash\nhttp://127.0.0.1:8888/lab\n```\n\n> [!WARNING]\n>\n> NautilusTrader currently exceeds the rate limit for Jupyter notebook logging (stdout output).\n> Therefore, we set the `log_level` to `ERROR` in the examples. Lowering this level to see more\n> logging will cause the notebook to hang during cell execution. We are investigating a fix that\n> may involve either raising the configured rate limits for Jupyter or throttling the log flushing\n> from Nautilus.\n>\n> - <https://github.com/jupyterlab/jupyterlab/issues/12845>\n> - <https://github.com/deshaw/jupyterlab-limit-output>\n\n## Development\n\nWe aim to provide the most pleasant developer experience possible for this hybrid codebase of Python, Cython and Rust.\nSee the [Developer Guide](https://nautilustrader.io/docs/latest/developer_guide/) for helpful information.\n\n> [!TIP]\n>\n> Run `make build-debug` to compile after changes to Rust or Cython code for the most efficient development workflow.\n\n### Testing with Rust\n\n[cargo-nextest](https://nexte.st) is the standard Rust test runner for NautilusTrader.\nIts key benefit is isolating each test in its own process, ensuring test reliability\nby avoiding interference.\n\nYou can install cargo-nextest by running:\n\n```bash\ncargo install cargo-nextest\n```\n\n> [!TIP]\n>\n> Run Rust tests with `make cargo-test`, which uses **cargo-nextest** with an efficient profile.\n\n## Contributing\n\nThank you for considering contributing to NautilusTrader! We welcome any and all help to improve\nthe project. If you have an idea for an enhancement or a bug fix, the first step is to open an [issue](https://github.com/nautechsystems/nautilus_trader/issues)\non GitHub to discuss it with the team. This helps to ensure that your contribution will be\nwell-aligned with the goals of the project and avoids duplication of effort.\n\nBefore getting started, be sure to review the [open-source scope](/ROADMAP.md#open-source-scope) outlined in the project’s roadmap to understand what’s in and out of scope.\n\nOnce you're ready to start working on your contribution, make sure to follow the guidelines\noutlined in the [CONTRIBUTING.md](https://github.com/nautechsystems/nautilus_trader/blob/develop/CONTRIBUTING.md) file. This includes signing a Contributor License Agreement (CLA)\nto ensure that your contributions can be included in the project.\n\n> [!NOTE]\n>\n> Pull requests should target the `develop` branch (the default branch). This is where new features and improvements are integrated before release.\n\nThank you again for your interest in NautilusTrader! We look forward to reviewing your contributions and working with you to improve the project.\n\n## Community\n\nJoin our community of users and contributors on [Discord](https://discord.gg/NautilusTrader) to chat\nand stay up-to-date with the latest announcements and features of NautilusTrader. Whether you're a\ndeveloper looking to contribute or just want to learn more about the platform, all are welcome on our Discord server.\n\n> [!WARNING]\n>\n> NautilusTrader does not issue, promote, or endorse any cryptocurrency tokens. Any claims or communications suggesting otherwise are unauthorized and false.\n>\n> All official updates and communications from NautilusTrader will be shared exclusively through <https://nautilustrader.io>, our [Discord server](https://discord.gg/NautilusTrader),\n> or our X (Twitter) account: [@NautilusTrader](https://x.com/NautilusTrader).\n>\n> If you encounter any suspicious activity, please report it to the appropriate platform and contact us at <info@nautechsystems.io>.\n\n## License\n\nThe source code for NautilusTrader is available on GitHub under the [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html).\nContributions to the project are welcome and require the completion of a standard [Contributor License Agreement (CLA)](https://github.com/nautechsystems/nautilus_trader/blob/develop/CLA.md).\n\n---\n\nNautilusTrader™ is developed and maintained by Nautech Systems, a technology\ncompany specializing in the development of high-performance trading systems.\nFor more information, visit <https://nautilustrader.io>.\n\n© 2015-2026 Nautech Systems Pty Ltd. All rights reserved.\n\n![nautechsystems](https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/ns-logo.png \"nautechsystems\")\n<img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/ferris.png\" width=\"128\">\n",
       "stars_today": 40
     },
     {
@@ -1185,8 +1185,8 @@
       "full_name": "maplibre/maplibre-gl-js",
       "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
       "html_url": "https://github.com/maplibre/maplibre-gl-js",
-      "stars": 9405,
-      "forks": 968,
+      "stars": 9452,
+      "forks": 970,
       "language": "TypeScript",
       "topics": [
         "hacktoberfest",
@@ -1197,7 +1197,7 @@
         "webgl2"
       ],
       "created_at": "2020-12-08T22:42:56Z",
-      "updated_at": "2026-01-06T02:06:51Z",
+      "updated_at": "2026-01-06T06:40:12Z",
       "pushed_at": "2026-01-05T20:52:27Z",
       "open_issues": 402,
       "owner": {
@@ -1213,7 +1213,7 @@
       "full_name": "c3lang/c3c",
       "description": "Compiler for the C3 language",
       "html_url": "https://github.com/c3lang/c3c",
-      "stars": 4894,
+      "stars": 4896,
       "forks": 314,
       "language": "C",
       "topics": [
@@ -1222,7 +1222,7 @@
         "language"
       ],
       "created_at": "2019-07-31T21:24:37Z",
-      "updated_at": "2026-01-06T01:12:50Z",
+      "updated_at": "2026-01-06T06:41:02Z",
       "pushed_at": "2026-01-05T23:15:04Z",
       "open_issues": 167,
       "owner": {
@@ -1238,17 +1238,17 @@
       "full_name": "LadybirdBrowser/ladybird",
       "description": "Truly independent web browser",
       "html_url": "https://github.com/LadybirdBrowser/ladybird",
-      "stars": 57435,
-      "forks": 2587,
+      "stars": 57438,
+      "forks": 2589,
       "language": "C++",
       "topics": [
         "browser",
         "browser-engine"
       ],
       "created_at": "2024-05-30T09:18:10Z",
-      "updated_at": "2026-01-06T01:38:02Z",
+      "updated_at": "2026-01-06T06:21:39Z",
       "pushed_at": "2026-01-06T00:08:30Z",
-      "open_issues": 667,
+      "open_issues": 666,
       "owner": {
         "login": "LadybirdBrowser",
         "avatar_url": "https://avatars.githubusercontent.com/u/134672918?v=4"
@@ -1262,7 +1262,7 @@
       "full_name": "wezterm/wezterm",
       "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
       "html_url": "https://github.com/wezterm/wezterm",
-      "stars": 23214,
+      "stars": 23217,
       "forks": 1106,
       "language": "Rust",
       "topics": [
@@ -1274,7 +1274,7 @@
         "terminal-emulators"
       ],
       "created_at": "2018-02-07T05:35:46Z",
-      "updated_at": "2026-01-06T01:05:45Z",
+      "updated_at": "2026-01-06T05:50:30Z",
       "pushed_at": "2026-01-01T00:40:51Z",
       "open_issues": 1525,
       "owner": {
@@ -1290,8 +1290,8 @@
       "full_name": "golang/go",
       "description": "The Go programming language",
       "html_url": "https://github.com/golang/go",
-      "stars": 131791,
-      "forks": 18689,
+      "stars": 131793,
+      "forks": 18688,
       "language": "Go",
       "topics": [
         "go",
@@ -1300,9 +1300,9 @@
         "programming-language"
       ],
       "created_at": "2014-08-19T04:33:40Z",
-      "updated_at": "2026-01-05T23:58:42Z",
+      "updated_at": "2026-01-06T05:25:12Z",
       "pushed_at": "2026-01-05T20:23:11Z",
-      "open_issues": 9697,
+      "open_issues": 9698,
       "owner": {
         "login": "golang",
         "avatar_url": "https://avatars.githubusercontent.com/u/4314092?v=4"
@@ -1317,7 +1317,7 @@
       "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
       "html_url": "https://github.com/kingToolbox/WindTerm",
       "stars": 29280,
-      "forks": 2258,
+      "forks": 2259,
       "language": "C",
       "topics": [
         "bash",
@@ -1342,7 +1342,7 @@
         "zmodem"
       ],
       "created_at": "2019-10-09T19:56:09Z",
-      "updated_at": "2026-01-06T00:47:37Z",
+      "updated_at": "2026-01-06T05:09:47Z",
       "pushed_at": "2025-03-11T19:12:09Z",
       "open_issues": 2296,
       "owner": {
@@ -1358,8 +1358,8 @@
       "full_name": "TeamNewPipe/NewPipe",
       "description": "A libre lightweight streaming front-end for Android.",
       "html_url": "https://github.com/TeamNewPipe/NewPipe",
-      "stars": 36168,
-      "forks": 3361,
+      "stars": 36174,
+      "forks": 3362,
       "language": "Java",
       "topics": [
         "4k",
@@ -1375,9 +1375,9 @@
         "youtube-video"
       ],
       "created_at": "2015-09-03T23:39:26Z",
-      "updated_at": "2026-01-06T01:24:56Z",
+      "updated_at": "2026-01-06T06:37:06Z",
       "pushed_at": "2026-01-05T22:03:31Z",
-      "open_issues": 1352,
+      "open_issues": 1353,
       "owner": {
         "login": "TeamNewPipe",
         "avatar_url": "https://avatars.githubusercontent.com/u/22159318?v=4"
@@ -1391,8 +1391,8 @@
       "full_name": "tailscale/tailscale",
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "html_url": "https://github.com/tailscale/tailscale",
-      "stars": 26957,
-      "forks": 2194,
+      "stars": 26963,
+      "forks": 2195,
       "language": "Go",
       "topics": [
         "2fa",
@@ -1403,9 +1403,9 @@
         "wireguard"
       ],
       "created_at": "2020-01-31T22:00:03Z",
-      "updated_at": "2026-01-06T02:03:44Z",
+      "updated_at": "2026-01-06T06:23:51Z",
       "pushed_at": "2026-01-06T01:05:01Z",
-      "open_issues": 4111,
+      "open_issues": 4113,
       "owner": {
         "login": "tailscale",
         "avatar_url": "https://avatars.githubusercontent.com/u/48932923?v=4"
@@ -1419,7 +1419,7 @@
       "full_name": "wailsapp/wails",
       "description": "Create beautiful applications using Go",
       "html_url": "https://github.com/wailsapp/wails",
-      "stars": 32039,
+      "stars": 32048,
       "forks": 1548,
       "language": "Go",
       "topics": [
@@ -1436,7 +1436,7 @@
         "windows"
       ],
       "created_at": "2018-12-15T23:14:06Z",
-      "updated_at": "2026-01-06T01:06:08Z",
+      "updated_at": "2026-01-06T06:16:51Z",
       "pushed_at": "2026-01-06T00:21:02Z",
       "open_issues": 364,
       "owner": {
@@ -1452,7 +1452,7 @@
       "full_name": "valkey-io/valkey",
       "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
       "html_url": "https://github.com/valkey-io/valkey",
-      "stars": 24330,
+      "stars": 24334,
       "forks": 984,
       "language": "C",
       "topics": [
@@ -1466,9 +1466,9 @@
         "valkey-client"
       ],
       "created_at": "2024-03-22T00:42:17Z",
-      "updated_at": "2026-01-06T02:04:20Z",
+      "updated_at": "2026-01-06T06:34:06Z",
       "pushed_at": "2026-01-06T02:02:54Z",
-      "open_issues": 572,
+      "open_issues": 573,
       "owner": {
         "login": "valkey-io",
         "avatar_url": "https://avatars.githubusercontent.com/u/164458127?v=4"
@@ -1482,7 +1482,7 @@
       "full_name": "gitbutlerapp/gitbutler",
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "html_url": "https://github.com/gitbutlerapp/gitbutler",
-      "stars": 17398,
+      "stars": 17402,
       "forks": 750,
       "language": "Rust",
       "topics": [
@@ -1491,9 +1491,9 @@
         "tauri"
       ],
       "created_at": "2023-01-31T14:56:22Z",
-      "updated_at": "2026-01-06T00:55:11Z",
-      "pushed_at": "2026-01-06T00:44:31Z",
-      "open_issues": 641,
+      "updated_at": "2026-01-06T05:30:55Z",
+      "pushed_at": "2026-01-06T03:49:42Z",
+      "open_issues": 642,
       "owner": {
         "login": "gitbutlerapp",
         "avatar_url": "https://avatars.githubusercontent.com/u/123460877?v=4"
@@ -1507,8 +1507,8 @@
       "full_name": "elysiajs/elysia",
       "description": "Ergonomic Framework for Humans",
       "html_url": "https://github.com/elysiajs/elysia",
-      "stars": 16491,
-      "forks": 443,
+      "stars": 16502,
+      "forks": 444,
       "language": "TypeScript",
       "topics": [
         "bun",
@@ -1519,7 +1519,7 @@
         "web"
       ],
       "created_at": "2022-12-04T12:53:30Z",
-      "updated_at": "2026-01-06T01:45:05Z",
+      "updated_at": "2026-01-06T06:07:04Z",
       "pushed_at": "2026-01-05T00:44:31Z",
       "open_issues": 215,
       "owner": {
@@ -1535,7 +1535,7 @@
       "full_name": "songquanpeng/one-api",
       "description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
       "html_url": "https://github.com/songquanpeng/one-api",
-      "stars": 28846,
+      "stars": 28857,
       "forks": 5626,
       "language": "JavaScript",
       "topics": [
@@ -1552,7 +1552,7 @@
         "proxy"
       ],
       "created_at": "2023-04-22T12:39:24Z",
-      "updated_at": "2026-01-06T01:59:38Z",
+      "updated_at": "2026-01-06T06:30:50Z",
       "pushed_at": "2025-11-20T01:15:39Z",
       "open_issues": 978,
       "owner": {
@@ -1568,8 +1568,8 @@
       "full_name": "Snailclimb/JavaGuide",
       "description": "Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！",
       "html_url": "https://github.com/Snailclimb/JavaGuide",
-      "stars": 153346,
-      "forks": 46095,
+      "stars": 153352,
+      "forks": 46096,
       "language": "Java",
       "topics": [
         "algorithms",
@@ -1586,7 +1586,7 @@
         "zookeeper"
       ],
       "created_at": "2018-05-07T13:27:00Z",
-      "updated_at": "2026-01-06T01:47:30Z",
+      "updated_at": "2026-01-06T06:25:18Z",
       "pushed_at": "2026-01-05T13:11:08Z",
       "open_issues": 74,
       "owner": {
@@ -1602,8 +1602,8 @@
       "full_name": "nocobase/nocobase",
       "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.",
       "html_url": "https://github.com/nocobase/nocobase",
-      "stars": 21039,
-      "forks": 2364,
+      "stars": 21043,
+      "forks": 2365,
       "language": "TypeScript",
       "topics": [
         "admin-dashboard",
@@ -1628,9 +1628,9 @@
         "workflows"
       ],
       "created_at": "2020-10-24T07:27:48Z",
-      "updated_at": "2026-01-06T00:57:54Z",
-      "pushed_at": "2026-01-06T01:49:12Z",
-      "open_issues": 269,
+      "updated_at": "2026-01-06T06:37:54Z",
+      "pushed_at": "2026-01-06T06:38:45Z",
+      "open_issues": 272,
       "owner": {
         "login": "nocobase",
         "avatar_url": "https://avatars.githubusercontent.com/u/66196787?v=4"
@@ -1644,7 +1644,7 @@
       "full_name": "vuejs/vitepress",
       "description": "Vite & Vue powered static site generator.",
       "html_url": "https://github.com/vuejs/vitepress",
-      "stars": 16769,
+      "stars": 16775,
       "forks": 2627,
       "language": "TypeScript",
       "topics": [
@@ -1656,7 +1656,7 @@
         "vue"
       ],
       "created_at": "2020-04-30T23:16:17Z",
-      "updated_at": "2026-01-06T02:01:53Z",
+      "updated_at": "2026-01-06T06:15:27Z",
       "pushed_at": "2025-12-24T04:38:32Z",
       "open_issues": 521,
       "owner": {
@@ -1672,7 +1672,7 @@
       "full_name": "open-ani/animeko",
       "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
       "html_url": "https://github.com/open-ani/animeko",
-      "stars": 14007,
+      "stars": 14016,
       "forks": 351,
       "language": "Kotlin",
       "topics": [
@@ -1697,9 +1697,9 @@
         "windows"
       ],
       "created_at": "2022-07-31T17:38:49Z",
-      "updated_at": "2026-01-06T01:49:27Z",
+      "updated_at": "2026-01-06T06:21:48Z",
       "pushed_at": "2026-01-05T00:54:32Z",
-      "open_issues": 463,
+      "open_issues": 465,
       "owner": {
         "login": "open-ani",
         "avatar_url": "https://avatars.githubusercontent.com/u/166622089?v=4"
@@ -1713,7 +1713,7 @@
       "full_name": "0xPlaygrounds/rig",
       "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "html_url": "https://github.com/0xPlaygrounds/rig",
-      "stars": 5371,
+      "stars": 5373,
       "forks": 616,
       "language": "Rust",
       "topics": [
@@ -1729,7 +1729,7 @@
         "scalable-ai"
       ],
       "created_at": "2024-06-05T13:42:28Z",
-      "updated_at": "2026-01-06T02:04:42Z",
+      "updated_at": "2026-01-06T02:28:47Z",
       "pushed_at": "2026-01-06T01:01:16Z",
       "open_issues": 112,
       "owner": {
@@ -1745,8 +1745,8 @@
       "full_name": "bannedbook/fanqiang",
       "description": "翻墙-科学上网",
       "html_url": "https://github.com/bannedbook/fanqiang",
-      "stars": 41637,
-      "forks": 7533,
+      "stars": 41643,
+      "forks": 7532,
       "language": "Kotlin",
       "topics": [
         "brook",
@@ -1762,7 +1762,7 @@
         "v2ray"
       ],
       "created_at": "2015-01-14T00:34:25Z",
-      "updated_at": "2026-01-05T23:48:33Z",
+      "updated_at": "2026-01-06T06:28:23Z",
       "pushed_at": "2026-01-02T14:13:40Z",
       "open_issues": 320,
       "owner": {
@@ -1778,7 +1778,7 @@
       "full_name": "colinhacks/zod",
       "description": "TypeScript-first schema validation with static type inference",
       "html_url": "https://github.com/colinhacks/zod",
-      "stars": 41304,
+      "stars": 41309,
       "forks": 1755,
       "language": "TypeScript",
       "topics": [
@@ -1789,7 +1789,7 @@
         "typescript"
       ],
       "created_at": "2020-03-07T20:59:08Z",
-      "updated_at": "2026-01-06T00:20:07Z",
+      "updated_at": "2026-01-06T05:34:20Z",
       "pushed_at": "2026-01-04T08:07:21Z",
       "open_issues": 233,
       "owner": {
@@ -1805,7 +1805,7 @@
       "full_name": "atuinsh/atuin",
       "description": "✨ Magical shell history",
       "html_url": "https://github.com/atuinsh/atuin",
-      "stars": 27775,
+      "stars": 27777,
       "forks": 756,
       "language": "Rust",
       "topics": [
@@ -1817,7 +1817,7 @@
         "zsh"
       ],
       "created_at": "2020-10-04T23:01:58Z",
-      "updated_at": "2026-01-05T23:40:27Z",
+      "updated_at": "2026-01-06T06:19:24Z",
       "pushed_at": "2026-01-05T19:33:31Z",
       "open_issues": 459,
       "owner": {
@@ -1833,8 +1833,8 @@
       "full_name": "vladmeer/polymarket-copy-trading-bot",
       "description": "Polymarket Copy Trading Bot || Polymarket trading bot. Polymarket Copy Trading Bot || Polymarket trading bot. Polymarket Copy Trading Bot || Polymarket trading bot",
       "html_url": "https://github.com/vladmeer/polymarket-copy-trading-bot",
-      "stars": 656,
-      "forks": 367,
+      "stars": 659,
+      "forks": 366,
       "language": "TypeScript",
       "topics": [
         "bot",
@@ -1851,7 +1851,7 @@
         "trading-bot"
       ],
       "created_at": "2024-11-25T10:56:19Z",
-      "updated_at": "2026-01-06T00:56:37Z",
+      "updated_at": "2026-01-06T04:43:50Z",
       "pushed_at": "2025-12-14T14:24:56Z",
       "open_issues": 6,
       "owner": {
@@ -1867,7 +1867,7 @@
       "full_name": "EasyTier/EasyTier",
       "description": "A simple, decentralized mesh VPN with WireGuard support.",
       "html_url": "https://github.com/EasyTier/EasyTier",
-      "stars": 9139,
+      "stars": 9147,
       "forks": 862,
       "language": "Rust",
       "topics": [
@@ -1879,9 +1879,9 @@
         "zerotier"
       ],
       "created_at": "2023-09-29T17:03:53Z",
-      "updated_at": "2026-01-06T01:43:33Z",
+      "updated_at": "2026-01-06T06:21:47Z",
       "pushed_at": "2026-01-04T13:04:43Z",
-      "open_issues": 324,
+      "open_issues": 325,
       "owner": {
         "login": "EasyTier",
         "avatar_url": "https://avatars.githubusercontent.com/u/169161851?v=4"
@@ -1895,8 +1895,8 @@
       "full_name": "lwouis/alt-tab-macos",
       "description": "Windows alt-tab on macOS ",
       "html_url": "https://github.com/lwouis/alt-tab-macos",
-      "stars": 14165,
-      "forks": 456,
+      "stars": 14166,
+      "forks": 457,
       "language": "Swift",
       "topics": [
         "alt-tab",
@@ -1909,9 +1909,9 @@
         "window-manager"
       ],
       "created_at": "2019-08-14T13:11:57Z",
-      "updated_at": "2026-01-06T01:18:37Z",
+      "updated_at": "2026-01-06T03:05:40Z",
       "pushed_at": "2026-01-04T13:33:07Z",
-      "open_issues": 85,
+      "open_issues": 86,
       "owner": {
         "login": "lwouis",
         "avatar_url": "https://avatars.githubusercontent.com/u/106195?v=4"
@@ -1925,8 +1925,8 @@
       "full_name": "codexu/note-gen",
       "description": "A cross-platform Markdown AI note-taking software.",
       "html_url": "https://github.com/codexu/note-gen",
-      "stars": 10434,
-      "forks": 747,
+      "stars": 10440,
+      "forks": 748,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -1942,9 +1942,9 @@
         "webdav"
       ],
       "created_at": "2024-08-06T05:20:16Z",
-      "updated_at": "2026-01-06T01:52:57Z",
+      "updated_at": "2026-01-06T05:58:50Z",
       "pushed_at": "2026-01-04T05:14:44Z",
-      "open_issues": 165,
+      "open_issues": 166,
       "owner": {
         "login": "codexu",
         "avatar_url": "https://avatars.githubusercontent.com/u/15899990?v=4"
@@ -1958,8 +1958,8 @@
       "full_name": "jeecgboot/JeecgBoot",
       "description": "🔥AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~",
       "html_url": "https://github.com/jeecgboot/JeecgBoot",
-      "stars": 44927,
-      "forks": 15737,
+      "stars": 44929,
+      "forks": 15736,
       "language": "Java",
       "topics": [
         "activiti",
@@ -1984,9 +1984,9 @@
         "vue3"
       ],
       "created_at": "2018-11-26T10:40:00Z",
-      "updated_at": "2026-01-06T02:02:08Z",
+      "updated_at": "2026-01-06T06:09:51Z",
       "pushed_at": "2026-01-01T19:21:41Z",
-      "open_issues": 34,
+      "open_issues": 35,
       "owner": {
         "login": "jeecgboot",
         "avatar_url": "https://avatars.githubusercontent.com/u/86360035?v=4"
@@ -2000,8 +2000,8 @@
       "full_name": "firecracker-microvm/firecracker",
       "description": "Secure and fast microVMs for serverless computing.",
       "html_url": "https://github.com/firecracker-microvm/firecracker",
-      "stars": 31708,
-      "forks": 2196,
+      "stars": 31712,
+      "forks": 2197,
       "language": "Rust",
       "topics": [
         "containers",
@@ -2015,9 +2015,9 @@
         "virtualization"
       ],
       "created_at": "2017-10-19T06:18:47Z",
-      "updated_at": "2026-01-06T01:32:38Z",
+      "updated_at": "2026-01-06T06:36:16Z",
       "pushed_at": "2026-01-06T01:55:18Z",
-      "open_issues": 72,
+      "open_issues": 73,
       "owner": {
         "login": "firecracker-microvm",
         "avatar_url": "https://avatars.githubusercontent.com/u/44477506?v=4"
@@ -2031,12 +2031,12 @@
       "full_name": "apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
       "html_url": "https://github.com/apple/container",
-      "stars": 23119,
+      "stars": 23130,
       "forks": 576,
       "language": "Swift",
       "topics": [],
       "created_at": "2025-05-30T21:26:05Z",
-      "updated_at": "2026-01-06T01:51:52Z",
+      "updated_at": "2026-01-06T06:30:57Z",
       "pushed_at": "2026-01-05T21:50:57Z",
       "open_issues": 257,
       "owner": {
@@ -2052,7 +2052,7 @@
       "full_name": "halo-dev/halo",
       "description": "强大易用的开源建站工具。",
       "html_url": "https://github.com/halo-dev/halo",
-      "stars": 37699,
+      "stars": 37698,
       "forks": 10181,
       "language": "Java",
       "topics": [
@@ -2065,9 +2065,9 @@
         "website-builder"
       ],
       "created_at": "2018-03-21T12:56:52Z",
-      "updated_at": "2026-01-06T01:34:13Z",
-      "pushed_at": "2026-01-04T17:29:05Z",
-      "open_issues": 308,
+      "updated_at": "2026-01-06T06:26:05Z",
+      "pushed_at": "2026-01-06T03:02:29Z",
+      "open_issues": 309,
       "owner": {
         "login": "halo-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/48195280?v=4"
@@ -2081,8 +2081,8 @@
       "full_name": "alacritty/alacritty",
       "description": "A cross-platform, OpenGL terminal emulator.",
       "html_url": "https://github.com/alacritty/alacritty",
-      "stars": 61741,
-      "forks": 3258,
+      "stars": 61747,
+      "forks": 3259,
       "language": "Rust",
       "topics": [
         "bsd",
@@ -2097,9 +2097,9 @@
         "windows"
       ],
       "created_at": "2016-02-18T05:02:30Z",
-      "updated_at": "2026-01-06T02:03:12Z",
+      "updated_at": "2026-01-06T06:38:29Z",
       "pushed_at": "2025-12-23T00:39:50Z",
-      "open_issues": 333,
+      "open_issues": 332,
       "owner": {
         "login": "alacritty",
         "avatar_url": "https://avatars.githubusercontent.com/u/29714349?v=4"
@@ -2113,14 +2113,14 @@
       "full_name": "openwrt/openwrt",
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "html_url": "https://github.com/openwrt/openwrt",
-      "stars": 25053,
-      "forks": 11900,
+      "stars": 25059,
+      "forks": 11901,
       "language": "C",
       "topics": [],
       "created_at": "2015-11-09T07:13:55Z",
-      "updated_at": "2026-01-06T01:20:05Z",
+      "updated_at": "2026-01-06T06:39:11Z",
       "pushed_at": "2026-01-06T00:16:16Z",
-      "open_issues": 3723,
+      "open_issues": 3724,
       "owner": {
         "login": "openwrt",
         "avatar_url": "https://avatars.githubusercontent.com/u/2528830?v=4"
@@ -2134,7 +2134,7 @@
       "full_name": "utmapp/UTM",
       "description": "Virtual machines for iOS and macOS",
       "html_url": "https://github.com/utmapp/UTM",
-      "stars": 32129,
+      "stars": 32133,
       "forks": 1615,
       "language": "Swift",
       "topics": [
@@ -2149,9 +2149,9 @@
         "vm"
       ],
       "created_at": "2019-04-12T16:09:24Z",
-      "updated_at": "2026-01-05T21:23:42Z",
-      "pushed_at": "2026-01-06T01:39:55Z",
-      "open_issues": 971,
+      "updated_at": "2026-01-06T06:36:16Z",
+      "pushed_at": "2026-01-06T04:56:49Z",
+      "open_issues": 970,
       "owner": {
         "login": "utmapp",
         "avatar_url": "https://avatars.githubusercontent.com/u/49966544?v=4"
@@ -2165,8 +2165,8 @@
       "full_name": "alibaba/spring-ai-alibaba",
       "description": "Agentic AI Framework for Java Developers",
       "html_url": "https://github.com/alibaba/spring-ai-alibaba",
-      "stars": 7744,
-      "forks": 1673,
+      "stars": 7756,
+      "forks": 1675,
       "language": "Java",
       "topics": [
         "agentic",
@@ -2180,9 +2180,9 @@
         "workflow"
       ],
       "created_at": "2024-09-09T01:35:50Z",
-      "updated_at": "2026-01-06T01:45:50Z",
+      "updated_at": "2026-01-06T06:40:21Z",
       "pushed_at": "2026-01-04T10:01:23Z",
-      "open_issues": 308,
+      "open_issues": 312,
       "owner": {
         "login": "alibaba",
         "avatar_url": "https://avatars.githubusercontent.com/u/1961952?v=4"
@@ -2196,8 +2196,8 @@
       "full_name": "ast-grep/ast-grep",
       "description": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
       "html_url": "https://github.com/ast-grep/ast-grep",
-      "stars": 11867,
-      "forks": 299,
+      "stars": 11869,
+      "forks": 300,
       "language": "Rust",
       "topics": [
         "ast",
@@ -2217,7 +2217,7 @@
         "typescript"
       ],
       "created_at": "2022-07-01T19:21:00Z",
-      "updated_at": "2026-01-06T01:52:34Z",
+      "updated_at": "2026-01-06T06:39:02Z",
       "pushed_at": "2026-01-05T14:57:07Z",
       "open_issues": 38,
       "owner": {
@@ -2233,12 +2233,12 @@
       "full_name": "jd-opensource/joyagent-jdgenie",
       "description": "开源的端到端产品级通用智能体",
       "html_url": "https://github.com/jd-opensource/joyagent-jdgenie",
-      "stars": 11520,
-      "forks": 1453,
+      "stars": 11521,
+      "forks": 1455,
       "language": "Java",
       "topics": [],
       "created_at": "2025-07-16T02:59:53Z",
-      "updated_at": "2026-01-06T01:50:50Z",
+      "updated_at": "2026-01-06T03:00:43Z",
       "pushed_at": "2025-12-16T13:38:16Z",
       "open_issues": 199,
       "owner": {
@@ -2254,7 +2254,7 @@
       "full_name": "nukeop/nuclear",
       "description": "Streaming music player that finds free music for you",
       "html_url": "https://github.com/nukeop/nuclear",
-      "stars": 16941,
+      "stars": 16940,
       "forks": 1260,
       "language": "TypeScript",
       "topics": [
@@ -2269,7 +2269,7 @@
         "youtube"
       ],
       "created_at": "2016-09-22T22:58:21Z",
-      "updated_at": "2026-01-06T01:12:17Z",
+      "updated_at": "2026-01-06T06:04:10Z",
       "pushed_at": "2025-12-27T08:45:37Z",
       "open_issues": 167,
       "owner": {
@@ -2285,8 +2285,8 @@
       "full_name": "OrcaSlicer/OrcaSlicer",
       "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
       "html_url": "https://github.com/OrcaSlicer/OrcaSlicer",
-      "stars": 12062,
-      "forks": 1623,
+      "stars": 12065,
+      "forks": 1624,
       "language": "C++",
       "topics": [
         "3d-printer",
@@ -2297,8 +2297,8 @@
         "slicer"
       ],
       "created_at": "2022-07-16T11:01:21Z",
-      "updated_at": "2026-01-06T01:35:04Z",
-      "pushed_at": "2026-01-05T23:30:29Z",
+      "updated_at": "2026-01-06T05:28:28Z",
+      "pushed_at": "2026-01-06T03:48:16Z",
       "open_issues": 1564,
       "owner": {
         "login": "OrcaSlicer",
@@ -2313,8 +2313,8 @@
       "full_name": "xpzouying/xiaohongshu-mcp",
       "description": "MCP for xiaohongshu.com",
       "html_url": "https://github.com/xpzouying/xiaohongshu-mcp",
-      "stars": 7843,
-      "forks": 1242,
+      "stars": 7855,
+      "forks": 1243,
       "language": "Go",
       "topics": [
         "mcp",
@@ -2322,9 +2322,9 @@
         "xiaohongshu-mcp"
       ],
       "created_at": "2025-08-03T09:08:45Z",
-      "updated_at": "2026-01-05T19:27:35Z",
+      "updated_at": "2026-01-06T06:34:00Z",
       "pushed_at": "2026-01-05T15:04:18Z",
-      "open_issues": 81,
+      "open_issues": 82,
       "owner": {
         "login": "xpzouying",
         "avatar_url": "https://avatars.githubusercontent.com/u/3946563?v=4"
@@ -2338,7 +2338,7 @@
       "full_name": "AlexandreRouma/SDRPlusPlus",
       "description": "Cross-Platform SDR Software",
       "html_url": "https://github.com/AlexandreRouma/SDRPlusPlus",
-      "stars": 5473,
+      "stars": 5475,
       "forks": 753,
       "language": "C++",
       "topics": [
@@ -2346,7 +2346,7 @@
         "sdr"
       ],
       "created_at": "2020-06-10T02:12:59Z",
-      "updated_at": "2026-01-06T01:23:45Z",
+      "updated_at": "2026-01-06T05:35:35Z",
       "pushed_at": "2025-12-12T06:55:38Z",
       "open_issues": 120,
       "owner": {
@@ -2362,7 +2362,7 @@
       "full_name": "netdata/netdata",
       "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "html_url": "https://github.com/netdata/netdata",
-      "stars": 77240,
+      "stars": 77239,
       "forks": 6294,
       "language": "C",
       "topics": [
@@ -2388,7 +2388,7 @@
         "prometheus"
       ],
       "created_at": "2013-06-17T18:39:10Z",
-      "updated_at": "2026-01-06T02:07:29Z",
+      "updated_at": "2026-01-06T06:12:45Z",
       "pushed_at": "2026-01-06T00:16:59Z",
       "open_issues": 240,
       "owner": {
@@ -2404,8 +2404,8 @@
       "full_name": "zephyrproject-rtos/zephyr",
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "html_url": "https://github.com/zephyrproject-rtos/zephyr",
-      "stars": 14075,
-      "forks": 8455,
+      "stars": 14076,
+      "forks": 8456,
       "language": "C",
       "topics": [
         "bluetooth",
@@ -2422,9 +2422,9 @@
         "zephyros"
       ],
       "created_at": "2016-05-26T17:54:19Z",
-      "updated_at": "2026-01-06T01:14:16Z",
+      "updated_at": "2026-01-06T06:41:36Z",
       "pushed_at": "2026-01-05T22:39:46Z",
-      "open_issues": 3492,
+      "open_issues": 3498,
       "owner": {
         "login": "zephyrproject-rtos",
         "avatar_url": "https://avatars.githubusercontent.com/u/19595895?v=4"
@@ -2438,7 +2438,7 @@
       "full_name": "wangrongding/wechat-bot",
       "description": "🤖一个基于 WeChaty 结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
       "html_url": "https://github.com/wangrongding/wechat-bot",
-      "stars": 9453,
+      "stars": 9459,
       "forks": 1111,
       "language": "JavaScript",
       "topics": [
@@ -2449,7 +2449,7 @@
         "wechaty"
       ],
       "created_at": "2021-12-15T06:04:18Z",
-      "updated_at": "2026-01-06T01:08:56Z",
+      "updated_at": "2026-01-06T06:33:50Z",
       "pushed_at": "2025-12-27T18:50:51Z",
       "open_issues": 109,
       "owner": {
@@ -2465,8 +2465,8 @@
       "full_name": "embassy-rs/embassy",
       "description": "Modern embedded framework, using Rust and async.",
       "html_url": "https://github.com/embassy-rs/embassy",
-      "stars": 8049,
-      "forks": 1308,
+      "stars": 8051,
+      "forks": 1309,
       "language": "Rust",
       "topics": [
         "async",
@@ -2477,9 +2477,9 @@
         "rust"
       ],
       "created_at": "2020-09-22T16:04:20Z",
-      "updated_at": "2026-01-06T00:58:25Z",
-      "pushed_at": "2026-01-05T22:23:32Z",
-      "open_issues": 631,
+      "updated_at": "2026-01-06T03:19:50Z",
+      "pushed_at": "2026-01-06T02:18:40Z",
+      "open_issues": 630,
       "owner": {
         "login": "embassy-rs",
         "avatar_url": "https://avatars.githubusercontent.com/u/80000440?v=4"
@@ -2493,8 +2493,8 @@
       "full_name": "dataease/dataease",
       "description": "🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.",
       "html_url": "https://github.com/dataease/dataease",
-      "stars": 23044,
-      "forks": 3960,
+      "stars": 23051,
+      "forks": 3961,
       "language": "Java",
       "topics": [
         "apache-doris",
@@ -2507,9 +2507,9 @@
         "tableau"
       ],
       "created_at": "2021-02-02T04:10:21Z",
-      "updated_at": "2026-01-05T23:53:20Z",
+      "updated_at": "2026-01-06T06:34:23Z",
       "pushed_at": "2026-01-05T03:48:58Z",
-      "open_issues": 90,
+      "open_issues": 84,
       "owner": {
         "login": "dataease",
         "avatar_url": "https://avatars.githubusercontent.com/u/75054108?v=4"
@@ -2523,7 +2523,7 @@
       "full_name": "ankidroid/Anki-Android",
       "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
       "html_url": "https://github.com/ankidroid/Anki-Android",
-      "stars": 10481,
+      "stars": 10482,
       "forks": 2609,
       "language": "Kotlin",
       "topics": [
@@ -2537,9 +2537,9 @@
         "srs"
       ],
       "created_at": "2013-01-20T13:55:53Z",
-      "updated_at": "2026-01-06T01:39:20Z",
-      "pushed_at": "2026-01-05T15:58:53Z",
-      "open_issues": 372,
+      "updated_at": "2026-01-06T06:02:18Z",
+      "pushed_at": "2026-01-06T06:26:02Z",
+      "open_issues": 370,
       "owner": {
         "login": "ankidroid",
         "avatar_url": "https://avatars.githubusercontent.com/u/3320903?v=4"
@@ -2614,7 +2614,7 @@
       "full_name": "KotatsuApp/Kotatsu",
       "description": "Manga reader for Android",
       "html_url": "https://github.com/KotatsuApp/Kotatsu",
-      "stars": 7969,
+      "stars": 7971,
       "forks": 569,
       "language": "Kotlin",
       "topics": [
@@ -2626,7 +2626,7 @@
         "webtoon"
       ],
       "created_at": "2020-01-30T18:11:38Z",
-      "updated_at": "2026-01-06T01:57:12Z",
+      "updated_at": "2026-01-06T05:32:56Z",
       "pushed_at": "2025-11-04T08:40:47Z",
       "open_issues": 580,
       "owner": {
@@ -2642,7 +2642,7 @@
       "full_name": "deniscerri/ytdlnis",
       "description": "Full-featured audio/video downloader for Android using yt-dlp",
       "html_url": "https://github.com/deniscerri/ytdlnis",
-      "stars": 7193,
+      "stars": 7197,
       "forks": 298,
       "language": "Kotlin",
       "topics": [
@@ -2660,7 +2660,7 @@
         "yt-dlp-gui"
       ],
       "created_at": "2022-05-27T20:46:51Z",
-      "updated_at": "2026-01-06T01:05:18Z",
+      "updated_at": "2026-01-06T06:37:45Z",
       "pushed_at": "2026-01-04T16:28:53Z",
       "open_issues": 30,
       "owner": {
@@ -2697,7 +2697,7 @@
       "full_name": "RunanywhereAI/runanywhere-sdks",
       "description": "Production ready toolkit to run AI locally",
       "html_url": "https://github.com/RunanywhereAI/runanywhere-sdks",
-      "stars": 3671,
+      "stars": 3673,
       "forks": 97,
       "language": "Kotlin",
       "topics": [
@@ -2721,8 +2721,8 @@
         "voice-assistant"
       ],
       "created_at": "2025-07-22T01:23:34Z",
-      "updated_at": "2026-01-05T20:18:49Z",
-      "pushed_at": "2026-01-05T17:53:04Z",
+      "updated_at": "2026-01-06T06:28:11Z",
+      "pushed_at": "2026-01-06T06:34:16Z",
       "open_issues": 143,
       "owner": {
         "login": "RunanywhereAI",
@@ -2737,8 +2737,8 @@
       "full_name": "opencv/opencv",
       "description": "Open Source Computer Vision Library",
       "html_url": "https://github.com/opencv/opencv",
-      "stars": 85584,
-      "forks": 56469,
+      "stars": 85587,
+      "forks": 56468,
       "language": "C++",
       "topics": [
         "c-plus-plus",
@@ -2748,7 +2748,7 @@
         "opencv"
       ],
       "created_at": "2012-07-19T09:40:17Z",
-      "updated_at": "2026-01-06T01:06:35Z",
+      "updated_at": "2026-01-06T04:39:08Z",
       "pushed_at": "2026-01-05T13:15:02Z",
       "open_issues": 2727,
       "owner": {
@@ -2764,8 +2764,8 @@
       "full_name": "labring/FastGPT",
       "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
       "html_url": "https://github.com/labring/FastGPT",
-      "stars": 26774,
-      "forks": 6861,
+      "stars": 26781,
+      "forks": 6865,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -2780,9 +2780,9 @@
         "workflow"
       ],
       "created_at": "2023-02-23T16:53:25Z",
-      "updated_at": "2026-01-06T01:06:10Z",
-      "pushed_at": "2026-01-05T12:53:39Z",
-      "open_issues": 677,
+      "updated_at": "2026-01-06T06:34:24Z",
+      "pushed_at": "2026-01-06T05:25:47Z",
+      "open_issues": 620,
       "owner": {
         "login": "labring",
         "avatar_url": "https://avatars.githubusercontent.com/u/102226726?v=4"
@@ -2796,8 +2796,8 @@
       "full_name": "apache/doris",
       "description": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
       "html_url": "https://github.com/apache/doris",
-      "stars": 14839,
-      "forks": 3673,
+      "stars": 14841,
+      "forks": 3674,
       "language": "Java",
       "topics": [
         "agent",
@@ -2820,9 +2820,9 @@
         "sql"
       ],
       "created_at": "2017-08-10T12:13:30Z",
-      "updated_at": "2026-01-06T02:01:23Z",
-      "pushed_at": "2026-01-05T16:28:50Z",
-      "open_issues": 786,
+      "updated_at": "2026-01-06T06:11:31Z",
+      "pushed_at": "2026-01-06T06:11:21Z",
+      "open_issues": 787,
       "owner": {
         "login": "apache",
         "avatar_url": "https://avatars.githubusercontent.com/u/47359?v=4"
@@ -2836,12 +2836,12 @@
       "full_name": "opa334/Dopamine",
       "description": "Dopamine is a semi-untethered jailbreak for iOS 15 and 16",
       "html_url": "https://github.com/opa334/Dopamine",
-      "stars": 4510,
+      "stars": 4513,
       "forks": 5979,
       "language": "C",
       "topics": [],
       "created_at": "2023-01-31T21:28:44Z",
-      "updated_at": "2026-01-06T01:44:58Z",
+      "updated_at": "2026-01-06T06:40:07Z",
       "pushed_at": "2026-01-04T11:58:03Z",
       "open_issues": 51,
       "owner": {
@@ -2857,8 +2857,8 @@
       "full_name": "MAZHARMIK/Interview_DS_Algo",
       "description": "Super Repository for Coding Interview Preperation",
       "html_url": "https://github.com/MAZHARMIK/Interview_DS_Algo",
-      "stars": 3598,
-      "forks": 1675,
+      "stars": 3600,
+      "forks": 1676,
       "language": "C++",
       "topics": [
         "algorithms",
@@ -2870,7 +2870,7 @@
         "leetcode"
       ],
       "created_at": "2020-07-12T13:13:36Z",
-      "updated_at": "2026-01-05T18:44:08Z",
+      "updated_at": "2026-01-06T06:15:18Z",
       "pushed_at": "2026-01-04T02:26:01Z",
       "open_issues": 55,
       "owner": {
@@ -2886,7 +2886,7 @@
       "full_name": "1Panel-dev/1Panel",
       "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
       "html_url": "https://github.com/1Panel-dev/1Panel",
-      "stars": 32717,
+      "stars": 32721,
       "forks": 2896,
       "language": "Go",
       "topics": [
@@ -2901,9 +2901,9 @@
         "webmin"
       ],
       "created_at": "2022-07-19T15:44:52Z",
-      "updated_at": "2026-01-06T01:08:01Z",
-      "pushed_at": "2026-01-05T14:10:28Z",
-      "open_issues": 352,
+      "updated_at": "2026-01-06T05:50:58Z",
+      "pushed_at": "2026-01-06T04:01:45Z",
+      "open_issues": 350,
       "owner": {
         "login": "1Panel-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/109613420?v=4"
@@ -2917,7 +2917,7 @@
       "full_name": "simple-icons/simple-icons",
       "description": "SVG icons for popular brands",
       "html_url": "https://github.com/simple-icons/simple-icons",
-      "stars": 24115,
+      "stars": 24116,
       "forks": 3018,
       "language": "JavaScript",
       "topics": [
@@ -2942,9 +2942,9 @@
         "svg-images"
       ],
       "created_at": "2012-11-16T11:09:13Z",
-      "updated_at": "2026-01-05T18:01:27Z",
-      "pushed_at": "2026-01-05T16:02:37Z",
-      "open_issues": 699,
+      "updated_at": "2026-01-06T03:20:05Z",
+      "pushed_at": "2026-01-06T03:09:52Z",
+      "open_issues": 695,
       "owner": {
         "login": "simple-icons",
         "avatar_url": "https://avatars.githubusercontent.com/u/29872746?v=4"
@@ -2958,8 +2958,8 @@
       "full_name": "surrealdb/surrealdb",
       "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
       "html_url": "https://github.com/surrealdb/surrealdb",
-      "stars": 30720,
-      "forks": 1092,
+      "stars": 30727,
+      "forks": 1093,
       "language": "Rust",
       "topics": [
         "backend-as-a-service",
@@ -2982,9 +2982,9 @@
         "web"
       ],
       "created_at": "2021-12-09T15:03:29Z",
-      "updated_at": "2026-01-06T01:30:38Z",
+      "updated_at": "2026-01-06T04:02:15Z",
       "pushed_at": "2026-01-06T00:02:23Z",
-      "open_issues": 643,
+      "open_issues": 644,
       "owner": {
         "login": "surrealdb",
         "avatar_url": "https://avatars.githubusercontent.com/u/10982346?v=4"
@@ -2998,14 +2998,14 @@
       "full_name": "TelegramMessenger/Telegram-iOS",
       "description": "Telegram-iOS",
       "html_url": "https://github.com/TelegramMessenger/Telegram-iOS",
-      "stars": 7877,
-      "forks": 2303,
+      "stars": 7881,
+      "forks": 2304,
       "language": "Swift",
       "topics": [],
       "created_at": "2018-11-14T18:06:49Z",
-      "updated_at": "2026-01-06T01:06:01Z",
+      "updated_at": "2026-01-06T06:34:37Z",
       "pushed_at": "2026-01-04T00:36:39Z",
-      "open_issues": 604,
+      "open_issues": 601,
       "owner": {
         "login": "TelegramMessenger",
         "avatar_url": "https://avatars.githubusercontent.com/u/22377696?v=4"
@@ -3019,7 +3019,7 @@
       "full_name": "xuxueli/xxl-job",
       "description": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
       "html_url": "https://github.com/xuxueli/xxl-job",
-      "stars": 29765,
+      "stars": 29768,
       "forks": 11419,
       "language": "Java",
       "topics": [
@@ -3036,7 +3036,7 @@
         "xxl-job"
       ],
       "created_at": "2015-11-28T12:59:34Z",
-      "updated_at": "2026-01-06T01:18:42Z",
+      "updated_at": "2026-01-06T06:21:12Z",
       "pushed_at": "2026-01-04T08:44:34Z",
       "open_issues": 231,
       "owner": {
@@ -3052,7 +3052,7 @@
       "full_name": "rerun-io/rerun",
       "description": "An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data",
       "html_url": "https://github.com/rerun-io/rerun",
-      "stars": 9900,
+      "stars": 9901,
       "forks": 607,
       "language": "Rust",
       "topics": [
@@ -3065,8 +3065,8 @@
         "visualization"
       ],
       "created_at": "2022-04-08T07:30:05Z",
-      "updated_at": "2026-01-06T01:22:41Z",
-      "pushed_at": "2026-01-06T00:47:16Z",
+      "updated_at": "2026-01-06T04:53:49Z",
+      "pushed_at": "2026-01-06T05:05:42Z",
       "open_issues": 1356,
       "owner": {
         "login": "rerun-io",
@@ -3081,8 +3081,8 @@
       "full_name": "1Panel-dev/CordysCRM",
       "description": "🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.",
       "html_url": "https://github.com/1Panel-dev/CordysCRM",
-      "stars": 1572,
-      "forks": 286,
+      "stars": 1573,
+      "forks": 287,
       "language": "Java",
       "topics": [
         "ai-crm",
@@ -3095,8 +3095,8 @@
         "sqlbot"
       ],
       "created_at": "2025-08-24T02:54:30Z",
-      "updated_at": "2026-01-06T01:11:55Z",
-      "pushed_at": "2026-01-06T01:11:52Z",
+      "updated_at": "2026-01-06T06:32:02Z",
+      "pushed_at": "2026-01-06T06:19:17Z",
       "open_issues": 123,
       "owner": {
         "login": "1Panel-dev",
@@ -3111,14 +3111,14 @@
       "full_name": "dijia1124/PlusPlusBattery",
       "description": "A lightweight battery info and health estimation tool.",
       "html_url": "https://github.com/dijia1124/PlusPlusBattery",
-      "stars": 224,
+      "stars": 225,
       "forks": 11,
       "language": "Kotlin",
       "topics": [],
       "created_at": "2024-12-08T09:32:01Z",
-      "updated_at": "2026-01-05T12:51:55Z",
+      "updated_at": "2026-01-06T03:52:06Z",
       "pushed_at": "2025-12-06T17:54:51Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": {
         "login": "dijia1124",
         "avatar_url": "https://avatars.githubusercontent.com/u/34638934?v=4"
@@ -3132,7 +3132,7 @@
       "full_name": "prettier/prettier",
       "description": "Prettier is an opinionated code formatter.",
       "html_url": "https://github.com/prettier/prettier",
-      "stars": 51356,
+      "stars": 51357,
       "forks": 4627,
       "language": "JavaScript",
       "topics": [
@@ -3156,9 +3156,9 @@
         "yaml"
       ],
       "created_at": "2016-11-29T17:13:37Z",
-      "updated_at": "2026-01-06T00:22:24Z",
-      "pushed_at": "2026-01-05T18:32:35Z",
-      "open_issues": 1456,
+      "updated_at": "2026-01-06T06:36:40Z",
+      "pushed_at": "2026-01-06T06:36:31Z",
+      "open_issues": 1454,
       "owner": {
         "login": "prettier",
         "avatar_url": "https://avatars.githubusercontent.com/u/25822731?v=4"
@@ -3172,12 +3172,12 @@
       "full_name": "rxhanson/Rectangle",
       "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
       "html_url": "https://github.com/rxhanson/Rectangle",
-      "stars": 28144,
+      "stars": 28147,
       "forks": 871,
       "language": "Swift",
       "topics": [],
       "created_at": "2019-06-21T21:34:53Z",
-      "updated_at": "2026-01-06T02:00:46Z",
+      "updated_at": "2026-01-06T04:19:14Z",
       "pushed_at": "2026-01-04T20:40:58Z",
       "open_issues": 97,
       "owner": {
@@ -3193,8 +3193,8 @@
       "full_name": "spring-projects/spring-ai",
       "description": "An Application Framework for AI Engineering",
       "html_url": "https://github.com/spring-projects/spring-ai",
-      "stars": 7563,
-      "forks": 2173,
+      "stars": 7569,
+      "forks": 2175,
       "language": "Java",
       "topics": [
         "artificial-intelligence",
@@ -3203,9 +3203,9 @@
         "spring-ai"
       ],
       "created_at": "2023-06-27T18:57:29Z",
-      "updated_at": "2026-01-05T14:43:22Z",
+      "updated_at": "2026-01-06T06:36:07Z",
       "pushed_at": "2026-01-02T20:41:04Z",
-      "open_issues": 1090,
+      "open_issues": 1091,
       "owner": {
         "login": "spring-projects",
         "avatar_url": "https://avatars.githubusercontent.com/u/317776?v=4"
@@ -3219,7 +3219,7 @@
       "full_name": "tisfeng/Easydict",
       "description": "一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. ",
       "html_url": "https://github.com/tisfeng/Easydict",
-      "stars": 11399,
+      "stars": 11400,
       "forks": 566,
       "language": "Swift",
       "topics": [
@@ -3240,8 +3240,8 @@
         "youdao"
       ],
       "created_at": "2022-11-15T12:41:53Z",
-      "updated_at": "2026-01-06T02:04:39Z",
-      "pushed_at": "2026-01-05T07:44:38Z",
+      "updated_at": "2026-01-06T05:09:31Z",
+      "pushed_at": "2026-01-06T03:39:33Z",
       "open_issues": 116,
       "owner": {
         "login": "tisfeng",
@@ -3256,8 +3256,8 @@
       "full_name": "espressif/esp-drone",
       "description": "Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.",
       "html_url": "https://github.com/espressif/esp-drone",
-      "stars": 1407,
-      "forks": 366,
+      "stars": 1412,
+      "forks": 367,
       "language": "C",
       "topics": [
         "drone",
@@ -3265,7 +3265,7 @@
         "quadcopter"
       ],
       "created_at": "2020-06-22T07:14:49Z",
-      "updated_at": "2026-01-05T17:39:51Z",
+      "updated_at": "2026-01-06T05:36:06Z",
       "pushed_at": "2025-07-24T13:59:16Z",
       "open_issues": 28,
       "owner": {
@@ -3281,8 +3281,8 @@
       "full_name": "sunnyyoung/WeChatTweak",
       "description": "A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨",
       "html_url": "https://github.com/sunnyyoung/WeChatTweak",
-      "stars": 13210,
-      "forks": 1545,
+      "stars": 13214,
+      "forks": 1546,
       "language": "Swift",
       "topics": [
         "alfred",
@@ -3307,7 +3307,7 @@
         "weixin-tweak"
       ],
       "created_at": "2017-01-18T05:42:16Z",
-      "updated_at": "2026-01-05T17:23:58Z",
+      "updated_at": "2026-01-06T03:08:52Z",
       "pushed_at": "2025-12-13T17:05:51Z",
       "open_issues": 57,
       "owner": {
@@ -3323,7 +3323,7 @@
       "full_name": "BishopFox/sliver",
       "description": "Adversary Emulation Framework",
       "html_url": "https://github.com/BishopFox/sliver",
-      "stars": 10480,
+      "stars": 10482,
       "forks": 1434,
       "language": "Go",
       "topics": [
@@ -3344,9 +3344,9 @@
         "sliver"
       ],
       "created_at": "2019-01-17T22:07:38Z",
-      "updated_at": "2026-01-06T01:47:48Z",
+      "updated_at": "2026-01-06T05:38:03Z",
       "pushed_at": "2026-01-05T06:05:02Z",
-      "open_issues": 255,
+      "open_issues": 256,
       "owner": {
         "login": "BishopFox",
         "avatar_url": "https://avatars.githubusercontent.com/u/4523757?v=4"
@@ -3360,7 +3360,7 @@
       "full_name": "NVIDIA/cutlass",
       "description": "CUDA Templates and Python DSLs for High-Performance Linear Algebra",
       "html_url": "https://github.com/NVIDIA/cutlass",
-      "stars": 9056,
+      "stars": 9058,
       "forks": 1607,
       "language": "C++",
       "topics": [
@@ -3373,7 +3373,7 @@
         "python"
       ],
       "created_at": "2017-11-30T00:11:24Z",
-      "updated_at": "2026-01-05T18:50:49Z",
+      "updated_at": "2026-01-06T06:38:51Z",
       "pushed_at": "2026-01-05T18:50:44Z",
       "open_issues": 526,
       "owner": {
@@ -3389,8 +3389,8 @@
       "full_name": "leejet/stable-diffusion.cpp",
       "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
       "html_url": "https://github.com/leejet/stable-diffusion.cpp",
-      "stars": 5082,
-      "forks": 497,
+      "stars": 5084,
+      "forks": 498,
       "language": "C++",
       "topics": [
         "ai",
@@ -3414,9 +3414,9 @@
         "z-image-turbo"
       ],
       "created_at": "2023-08-13T07:36:51Z",
-      "updated_at": "2026-01-06T01:48:32Z",
+      "updated_at": "2026-01-06T05:48:26Z",
       "pushed_at": "2026-01-05T17:48:08Z",
-      "open_issues": 339,
+      "open_issues": 341,
       "owner": {
         "login": "leejet",
         "avatar_url": "https://avatars.githubusercontent.com/u/31925346?v=4"
@@ -3430,7 +3430,7 @@
       "full_name": "gotson/komga",
       "description": "Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support",
       "html_url": "https://github.com/gotson/komga",
-      "stars": 5753,
+      "stars": 5755,
       "forks": 338,
       "language": "Kotlin",
       "topics": [
@@ -3448,7 +3448,7 @@
         "spring-boot"
       ],
       "created_at": "2019-08-08T09:48:49Z",
-      "updated_at": "2026-01-05T21:58:42Z",
+      "updated_at": "2026-01-06T06:37:43Z",
       "pushed_at": "2026-01-02T09:50:45Z",
       "open_issues": 16,
       "owner": {
@@ -3464,7 +3464,7 @@
       "full_name": "aistra0528/Hail",
       "description": "Disable / Hide / Suspend / Uninstall Android apps without root.",
       "html_url": "https://github.com/aistra0528/Hail",
-      "stars": 4812,
+      "stars": 4813,
       "forks": 167,
       "language": "Kotlin",
       "topics": [
@@ -3477,7 +3477,7 @@
         "shizuku"
       ],
       "created_at": "2021-08-12T07:39:40Z",
-      "updated_at": "2026-01-06T01:40:26Z",
+      "updated_at": "2026-01-06T02:43:32Z",
       "pushed_at": "2026-01-02T11:01:54Z",
       "open_issues": 120,
       "owner": {
@@ -3514,7 +3514,7 @@
       "created_at": "2023-02-08T05:34:22Z",
       "updated_at": "2026-01-06T01:40:32Z",
       "pushed_at": "2026-01-05T16:23:20Z",
-      "open_issues": 386,
+      "open_issues": 384,
       "owner": {
         "login": "anilbeesetti",
         "avatar_url": "https://avatars.githubusercontent.com/u/66936649?v=4"
@@ -3528,13 +3528,13 @@
       "full_name": "google-ai-edge/LiteRT",
       "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
       "html_url": "https://github.com/google-ai-edge/LiteRT",
-      "stars": 1219,
-      "forks": 164,
+      "stars": 1222,
+      "forks": 165,
       "language": "C++",
       "topics": [],
       "created_at": "2024-09-04T03:33:35Z",
-      "updated_at": "2026-01-06T00:41:20Z",
-      "pushed_at": "2026-01-06T01:13:10Z",
+      "updated_at": "2026-01-06T06:27:03Z",
+      "pushed_at": "2026-01-06T06:33:01Z",
       "open_issues": 1082,
       "owner": {
         "login": "google-ai-edge",
@@ -3550,7 +3550,7 @@
       "description": "Lean's LEDE source",
       "html_url": "https://github.com/coolsnowwolf/lede",
       "stars": 31220,
-      "forks": 19537,
+      "forks": 19536,
       "language": "C",
       "topics": [
         "lede",
@@ -3560,7 +3560,7 @@
         "openwrt-zh-cn"
       ],
       "created_at": "2017-09-06T07:39:03Z",
-      "updated_at": "2026-01-06T00:10:03Z",
+      "updated_at": "2026-01-06T05:09:28Z",
       "pushed_at": "2026-01-05T11:10:54Z",
       "open_issues": 808,
       "owner": {
@@ -3576,8 +3576,8 @@
       "full_name": "openssl/openssl",
       "description": "TLS/SSL and crypto library",
       "html_url": "https://github.com/openssl/openssl",
-      "stars": 29327,
-      "forks": 10987,
+      "stars": 29328,
+      "forks": 10988,
       "language": "C",
       "topics": [
         "cryptography",
@@ -3588,9 +3588,9 @@
         "tls"
       ],
       "created_at": "2013-01-15T22:34:48Z",
-      "updated_at": "2026-01-05T20:48:36Z",
+      "updated_at": "2026-01-06T06:40:48Z",
       "pushed_at": "2026-01-05T17:05:32Z",
-      "open_issues": 1696,
+      "open_issues": 1695,
       "owner": {
         "login": "openssl",
         "avatar_url": "https://avatars.githubusercontent.com/u/3279138?v=4"
@@ -3604,7 +3604,7 @@
       "full_name": "sqlitebrowser/sqlitebrowser",
       "description": "Official home of the DB Browser for SQLite (DB4S) project. Previously known as \"SQLite Database Browser\" and \"Database Browser for SQLite\". Website at: ",
       "html_url": "https://github.com/sqlitebrowser/sqlitebrowser",
-      "stars": 23451,
+      "stars": 23452,
       "forks": 2301,
       "language": "C++",
       "topics": [
@@ -3617,7 +3617,7 @@
         "sqlitebrowser"
       ],
       "created_at": "2014-05-04T01:54:44Z",
-      "updated_at": "2026-01-06T01:39:03Z",
+      "updated_at": "2026-01-06T06:41:56Z",
       "pushed_at": "2026-01-04T00:22:15Z",
       "open_issues": 812,
       "owner": {
@@ -3633,7 +3633,7 @@
       "full_name": "JetBrains/compose-multiplatform",
       "description": "Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
       "html_url": "https://github.com/JetBrains/compose-multiplatform",
-      "stars": 18675,
+      "stars": 18676,
       "forks": 1365,
       "language": "Kotlin",
       "topics": [
@@ -3655,8 +3655,8 @@
         "webassembly"
       ],
       "created_at": "2020-09-07T10:40:49Z",
-      "updated_at": "2026-01-06T01:46:15Z",
-      "pushed_at": "2025-12-20T02:58:07Z",
+      "updated_at": "2026-01-06T02:43:16Z",
+      "pushed_at": "2026-01-06T02:56:05Z",
       "open_issues": 70,
       "owner": {
         "login": "JetBrains",
@@ -3695,7 +3695,7 @@
       "created_at": "2011-12-16T19:43:47Z",
       "updated_at": "2026-01-05T20:11:48Z",
       "pushed_at": "2026-01-04T23:44:50Z",
-      "open_issues": 486,
+      "open_issues": 487,
       "owner": {
         "login": "openwall",
         "avatar_url": "https://avatars.githubusercontent.com/u/1579552?v=4"
@@ -3709,8 +3709,8 @@
       "full_name": "duixcom/Duix-Avatar",
       "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
       "html_url": "https://github.com/duixcom/Duix-Avatar",
-      "stars": 12072,
-      "forks": 1984,
+      "stars": 12075,
+      "forks": 1985,
       "language": "C",
       "topics": [
         "ai-avatar",
@@ -3723,7 +3723,7 @@
         "video-synthesis"
       ],
       "created_at": "2024-12-24T03:00:26Z",
-      "updated_at": "2026-01-05T13:57:51Z",
+      "updated_at": "2026-01-06T05:42:45Z",
       "pushed_at": "2025-10-16T03:36:57Z",
       "open_issues": 397,
       "owner": {
@@ -3739,7 +3739,7 @@
       "full_name": "juicedata/juicefs",
       "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
       "html_url": "https://github.com/juicedata/juicefs",
-      "stars": 12641,
+      "stars": 12645,
       "forks": 1133,
       "language": "Go",
       "topics": [
@@ -3757,9 +3757,9 @@
         "storage"
       ],
       "created_at": "2021-01-08T09:39:46Z",
-      "updated_at": "2026-01-06T02:05:29Z",
-      "pushed_at": "2026-01-05T09:25:27Z",
-      "open_issues": 157,
+      "updated_at": "2026-01-06T05:55:06Z",
+      "pushed_at": "2026-01-06T02:10:16Z",
+      "open_issues": 156,
       "owner": {
         "login": "juicedata",
         "avatar_url": "https://avatars.githubusercontent.com/u/27241737?v=4"
@@ -3773,8 +3773,8 @@
       "full_name": "ZCShou/GoGoGo",
       "description": "一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆",
       "html_url": "https://github.com/ZCShou/GoGoGo",
-      "stars": 9585,
-      "forks": 1094,
+      "stars": 9587,
+      "forks": 1096,
       "language": "Java",
       "topics": [
         "android",
@@ -3789,7 +3789,7 @@
         "virtual-location"
       ],
       "created_at": "2021-12-03T06:59:39Z",
-      "updated_at": "2026-01-06T02:06:53Z",
+      "updated_at": "2026-01-06T05:18:54Z",
       "pushed_at": "2025-11-20T17:04:08Z",
       "open_issues": 13,
       "owner": {
@@ -3838,7 +3838,7 @@
       "full_name": "ros-navigation/navigation2",
       "description": "ROS 2 Navigation Framework and System",
       "html_url": "https://github.com/ros-navigation/navigation2",
-      "stars": 3800,
+      "stars": 3801,
       "forks": 1679,
       "language": "C++",
       "topics": [
@@ -3847,7 +3847,7 @@
         "ros2"
       ],
       "created_at": "2018-05-29T23:35:08Z",
-      "updated_at": "2026-01-06T01:30:59Z",
+      "updated_at": "2026-01-06T05:27:30Z",
       "pushed_at": "2026-01-05T21:28:52Z",
       "open_issues": 139,
       "owner": {
@@ -3863,12 +3863,12 @@
       "full_name": "tsoding/nob.h",
       "description": "Header only library for writing build recipes in C. ",
       "html_url": "https://github.com/tsoding/nob.h",
-      "stars": 2328,
+      "stars": 2331,
       "forks": 148,
       "language": "C",
       "topics": [],
       "created_at": "2024-10-14T23:01:06Z",
-      "updated_at": "2026-01-06T01:56:54Z",
+      "updated_at": "2026-01-06T05:28:40Z",
       "pushed_at": "2026-01-05T21:12:36Z",
       "open_issues": 48,
       "owner": {
@@ -3897,7 +3897,7 @@
       "created_at": "2017-07-04T19:03:31Z",
       "updated_at": "2026-01-05T13:25:01Z",
       "pushed_at": "2025-08-18T03:32:18Z",
-      "open_issues": 1002,
+      "open_issues": 1003,
       "owner": {
         "login": "ApolloAuto",
         "avatar_url": "https://avatars.githubusercontent.com/u/28768304?v=4"
@@ -3911,7 +3911,7 @@
       "full_name": "brave/brave-browser",
       "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
       "html_url": "https://github.com/brave/brave-browser",
-      "stars": 21022,
+      "stars": 21023,
       "forks": 2920,
       "language": "JavaScript",
       "topics": [
@@ -3923,9 +3923,9 @@
         "windows"
       ],
       "created_at": "2017-11-09T23:44:38Z",
-      "updated_at": "2026-01-06T01:26:39Z",
-      "pushed_at": "2026-01-06T00:30:19Z",
-      "open_issues": 10190,
+      "updated_at": "2026-01-06T03:37:02Z",
+      "pushed_at": "2026-01-06T04:03:14Z",
+      "open_issues": 10193,
       "owner": {
         "login": "brave",
         "avatar_url": "https://avatars.githubusercontent.com/u/12301619?v=4"
@@ -3939,7 +3939,7 @@
       "full_name": "NVIDIA/cuda-samples",
       "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
       "html_url": "https://github.com/NVIDIA/cuda-samples",
-      "stars": 8657,
+      "stars": 8658,
       "forks": 2240,
       "language": "C",
       "topics": [
@@ -3949,7 +3949,7 @@
         "cuda-opengl"
       ],
       "created_at": "2018-03-27T17:36:24Z",
-      "updated_at": "2026-01-05T11:19:00Z",
+      "updated_at": "2026-01-06T06:14:42Z",
       "pushed_at": "2025-09-05T16:29:17Z",
       "open_issues": 99,
       "owner": {
@@ -3991,7 +3991,7 @@
       "description": "The java implementation of Apache Dubbo. An RPC and microservice framework.",
       "html_url": "https://github.com/apache/dubbo",
       "stars": 41694,
-      "forks": 26568,
+      "forks": 26567,
       "language": "Java",
       "topics": [
         "distributed-systems",
@@ -4007,9 +4007,9 @@
         "web"
       ],
       "created_at": "2012-06-19T07:56:02Z",
-      "updated_at": "2026-01-05T13:08:35Z",
-      "pushed_at": "2026-01-05T08:04:45Z",
-      "open_issues": 931,
+      "updated_at": "2026-01-06T05:27:03Z",
+      "pushed_at": "2026-01-06T05:27:05Z",
+      "open_issues": 927,
       "owner": {
         "login": "apache",
         "avatar_url": "https://avatars.githubusercontent.com/u/47359?v=4"
@@ -4028,9 +4028,9 @@
       "language": "C++",
       "topics": [],
       "created_at": "2014-12-08T18:58:53Z",
-      "updated_at": "2026-01-05T23:44:20Z",
-      "pushed_at": "2026-01-06T01:31:02Z",
-      "open_issues": 1191,
+      "updated_at": "2026-01-06T06:25:36Z",
+      "pushed_at": "2026-01-06T06:26:28Z",
+      "open_issues": 1188,
       "owner": {
         "login": "grpc",
         "avatar_url": "https://avatars.githubusercontent.com/u/7802525?v=4"
@@ -4044,7 +4044,7 @@
       "full_name": "v2ray/v2ray-core",
       "description": "A platform for building proxies to bypass network restrictions.",
       "html_url": "https://github.com/v2ray/v2ray-core",
-      "stars": 46828,
+      "stars": 46830,
       "forks": 8903,
       "language": "Go",
       "topics": [
@@ -4058,7 +4058,7 @@
         "vmess"
       ],
       "created_at": "2015-09-04T11:42:53Z",
-      "updated_at": "2026-01-06T01:57:08Z",
+      "updated_at": "2026-01-06T05:30:34Z",
       "pushed_at": "2025-10-06T03:01:00Z",
       "open_issues": 10,
       "owner": {
@@ -4074,7 +4074,7 @@
       "full_name": "ZLMediaKit/ZLMediaKit",
       "description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11",
       "html_url": "https://github.com/ZLMediaKit/ZLMediaKit",
-      "stars": 16436,
+      "stars": 16438,
       "forks": 3916,
       "language": "C++",
       "topics": [
@@ -4100,7 +4100,7 @@
         "websocket-flv"
       ],
       "created_at": "2017-04-01T08:30:25Z",
-      "updated_at": "2026-01-05T10:58:15Z",
+      "updated_at": "2026-01-06T06:31:55Z",
       "pushed_at": "2026-01-03T15:11:45Z",
       "open_issues": 101,
       "owner": {
@@ -4116,8 +4116,8 @@
       "full_name": "apache/seatunnel",
       "description": "SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.",
       "html_url": "https://github.com/apache/seatunnel",
-      "stars": 9025,
-      "forks": 2146,
+      "stars": 9026,
+      "forks": 2147,
       "language": "Java",
       "topics": [
         "apache",
@@ -4136,9 +4136,9 @@
         "streaming"
       ],
       "created_at": "2017-08-05T09:14:47Z",
-      "updated_at": "2026-01-06T02:05:09Z",
-      "pushed_at": "2026-01-05T13:04:32Z",
-      "open_issues": 340,
+      "updated_at": "2026-01-06T04:07:25Z",
+      "pushed_at": "2026-01-06T04:07:18Z",
+      "open_issues": 341,
       "owner": {
         "login": "apache",
         "avatar_url": "https://avatars.githubusercontent.com/u/47359?v=4"
@@ -4152,7 +4152,7 @@
       "full_name": "mackron/miniaudio",
       "description": "Audio playback and capture library written in C, in a single source file.",
       "html_url": "https://github.com/mackron/miniaudio",
-      "stars": 5774,
+      "stars": 5777,
       "forks": 495,
       "language": "C",
       "topics": [
@@ -4178,9 +4178,9 @@
         "windows"
       ],
       "created_at": "2016-10-21T03:17:26Z",
-      "updated_at": "2026-01-06T00:48:33Z",
-      "pushed_at": "2026-01-06T00:05:43Z",
-      "open_issues": 24,
+      "updated_at": "2026-01-06T04:15:49Z",
+      "pushed_at": "2026-01-06T06:32:40Z",
+      "open_issues": 23,
       "owner": {
         "login": "mackron",
         "avatar_url": "https://avatars.githubusercontent.com/u/1232553?v=4"
@@ -4227,7 +4227,7 @@
       "full_name": "maplibre/martin",
       "description": "Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.",
       "html_url": "https://github.com/maplibre/martin",
-      "stars": 3231,
+      "stars": 3234,
       "forks": 312,
       "language": "Rust",
       "topics": [
@@ -4248,7 +4248,7 @@
         "webserver"
       ],
       "created_at": "2017-09-30T10:53:46Z",
-      "updated_at": "2026-01-05T21:20:12Z",
+      "updated_at": "2026-01-06T03:16:22Z",
       "pushed_at": "2026-01-06T00:50:56Z",
       "open_issues": 106,
       "owner": {
@@ -4264,12 +4264,12 @@
       "full_name": "cameron314/concurrentqueue",
       "description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11",
       "html_url": "https://github.com/cameron314/concurrentqueue",
-      "stars": 11938,
+      "stars": 11942,
       "forks": 1871,
       "language": "C++",
       "topics": [],
       "created_at": "2014-11-06T05:29:05Z",
-      "updated_at": "2026-01-06T01:30:06Z",
+      "updated_at": "2026-01-06T06:30:40Z",
       "pushed_at": "2025-07-06T02:13:14Z",
       "open_issues": 73,
       "owner": {
@@ -4285,7 +4285,7 @@
       "full_name": "tdlib/td",
       "description": "Cross-platform library for building Telegram clients",
       "html_url": "https://github.com/tdlib/td",
-      "stars": 8364,
+      "stars": 8367,
       "forks": 1874,
       "language": "C++",
       "topics": [
@@ -4294,7 +4294,7 @@
         "telegram"
       ],
       "created_at": "2017-12-31T20:23:47Z",
-      "updated_at": "2026-01-05T22:07:42Z",
+      "updated_at": "2026-01-06T06:36:16Z",
       "pushed_at": "2026-01-03T20:33:20Z",
       "open_issues": 65,
       "owner": {
@@ -4310,8 +4310,8 @@
       "full_name": "coze-dev/coze-loop",
       "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.  ",
       "html_url": "https://github.com/coze-dev/coze-loop",
-      "stars": 5216,
-      "forks": 721,
+      "stars": 5218,
+      "forks": 722,
       "language": "Go",
       "topics": [
         "agent",
@@ -4333,9 +4333,9 @@
         "prompt-management"
       ],
       "created_at": "2025-06-24T00:26:28Z",
-      "updated_at": "2026-01-05T20:04:59Z",
-      "pushed_at": "2026-01-05T15:30:20Z",
-      "open_issues": 60,
+      "updated_at": "2026-01-06T06:12:16Z",
+      "pushed_at": "2026-01-06T04:13:17Z",
+      "open_issues": 61,
       "owner": {
         "login": "coze-dev",
         "avatar_url": "https://avatars.githubusercontent.com/u/157483752?v=4"
@@ -4349,7 +4349,7 @@
       "full_name": "JetBrains/koog",
       "description": "Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
       "html_url": "https://github.com/JetBrains/koog",
-      "stars": 3592,
+      "stars": 3594,
       "forks": 285,
       "language": "Kotlin",
       "topics": [
@@ -4375,9 +4375,9 @@
         "spring"
       ],
       "created_at": "2025-05-01T13:38:01Z",
-      "updated_at": "2026-01-06T00:33:11Z",
+      "updated_at": "2026-01-06T05:01:38Z",
       "pushed_at": "2026-01-05T18:21:48Z",
-      "open_issues": 195,
+      "open_issues": 196,
       "owner": {
         "login": "JetBrains",
         "avatar_url": "https://avatars.githubusercontent.com/u/878437?v=4"
@@ -4404,7 +4404,7 @@
       "created_at": "2014-05-21T05:03:06Z",
       "updated_at": "2026-01-05T23:31:00Z",
       "pushed_at": "2026-01-05T16:52:54Z",
-      "open_issues": 178,
+      "open_issues": 179,
       "owner": {
         "login": "guardianproject",
         "avatar_url": "https://avatars.githubusercontent.com/u/218109?v=4"
@@ -4419,7 +4419,7 @@
       "description": "ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback",
       "html_url": "https://github.com/chsbuffer/ReVancedXposed",
       "stars": 1925,
-      "forks": 81,
+      "forks": 82,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -4445,12 +4445,12 @@
       "full_name": "espressif/esp-brookesia",
       "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
       "html_url": "https://github.com/espressif/esp-brookesia",
-      "stars": 547,
+      "stars": 548,
       "forks": 130,
       "language": "C",
       "topics": [],
       "created_at": "2024-07-16T03:41:15Z",
-      "updated_at": "2026-01-05T16:23:34Z",
+      "updated_at": "2026-01-06T02:59:12Z",
       "pushed_at": "2025-12-25T03:23:07Z",
       "open_issues": 33,
       "owner": {
@@ -4467,7 +4467,7 @@
       "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine.",
       "html_url": "https://github.com/MarlinFirmware/Marlin",
       "stars": 17226,
-      "forks": 19636,
+      "forks": 19637,
       "language": "C++",
       "topics": [
         "3d-printing",
@@ -4483,7 +4483,7 @@
       "created_at": "2011-08-13T08:07:20Z",
       "updated_at": "2026-01-05T18:25:44Z",
       "pushed_at": "2026-01-05T00:38:17Z",
-      "open_issues": 806,
+      "open_issues": 807,
       "owner": {
         "login": "MarlinFirmware",
         "avatar_url": "https://avatars.githubusercontent.com/u/10418365?v=4"
@@ -4497,7 +4497,7 @@
       "full_name": "projectdiscovery/nuclei-templates",
       "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
       "html_url": "https://github.com/projectdiscovery/nuclei-templates",
-      "stars": 11767,
+      "stars": 11768,
       "forks": 3282,
       "language": "JavaScript",
       "topics": [
@@ -4513,9 +4513,9 @@
         "vulnerability-detection"
       ],
       "created_at": "2020-04-04T16:21:34Z",
-      "updated_at": "2026-01-05T15:57:52Z",
-      "pushed_at": "2026-01-05T08:45:30Z",
-      "open_issues": 168,
+      "updated_at": "2026-01-06T06:33:45Z",
+      "pushed_at": "2026-01-06T06:06:26Z",
+      "open_issues": 169,
       "owner": {
         "login": "projectdiscovery",
         "avatar_url": "https://avatars.githubusercontent.com/u/50994705?v=4"
@@ -4529,13 +4529,13 @@
       "full_name": "openwrt/luci",
       "description": "LuCI - OpenWrt Configuration Interface",
       "html_url": "https://github.com/openwrt/luci",
-      "stars": 7350,
-      "forks": 2754,
+      "stars": 7352,
+      "forks": 2753,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2014-10-09T16:02:20Z",
-      "updated_at": "2026-01-05T19:03:40Z",
-      "pushed_at": "2026-01-05T19:03:50Z",
+      "updated_at": "2026-01-06T05:14:23Z",
+      "pushed_at": "2026-01-06T03:10:21Z",
       "open_issues": 305,
       "owner": {
         "login": "openwrt",
@@ -4563,9 +4563,9 @@
         "rss-reader"
       ],
       "created_at": "2017-05-21T17:59:23Z",
-      "updated_at": "2026-01-05T20:35:20Z",
-      "pushed_at": "2026-01-05T20:05:40Z",
-      "open_issues": 835,
+      "updated_at": "2026-01-06T04:12:55Z",
+      "pushed_at": "2026-01-06T04:12:51Z",
+      "open_issues": 834,
       "owner": {
         "login": "Ranchero-Software",
         "avatar_url": "https://avatars.githubusercontent.com/u/59430456?v=4"
@@ -4579,12 +4579,12 @@
       "full_name": "axboe/fio",
       "description": "Flexible I/O Tester",
       "html_url": "https://github.com/axboe/fio",
-      "stars": 6012,
+      "stars": 6013,
       "forks": 1361,
       "language": "C",
       "topics": [],
       "created_at": "2012-10-22T08:20:41Z",
-      "updated_at": "2026-01-05T19:57:55Z",
+      "updated_at": "2026-01-06T03:29:28Z",
       "pushed_at": "2025-12-29T20:08:41Z",
       "open_issues": 231,
       "owner": {
@@ -4600,7 +4600,7 @@
       "full_name": "olikraus/u8g2",
       "description": "U8glib library for monochrome displays, version 2 ",
       "html_url": "https://github.com/olikraus/u8g2",
-      "stars": 6166,
+      "stars": 6167,
       "forks": 1174,
       "language": "C",
       "topics": [
@@ -4615,7 +4615,7 @@
         "u8g2"
       ],
       "created_at": "2015-11-06T19:51:07Z",
-      "updated_at": "2026-01-05T18:36:03Z",
+      "updated_at": "2026-01-06T05:02:10Z",
       "pushed_at": "2025-11-09T18:19:44Z",
       "open_issues": 279,
       "owner": {
@@ -4673,7 +4673,7 @@
       "full_name": "Dimillian/IceCubesApp",
       "description": "A SwiftUI Mastodon client",
       "html_url": "https://github.com/Dimillian/IceCubesApp",
-      "stars": 6795,
+      "stars": 6796,
       "forks": 678,
       "language": "Swift",
       "topics": [
@@ -4683,8 +4683,8 @@
         "swiftui"
       ],
       "created_at": "2022-11-20T14:10:57Z",
-      "updated_at": "2026-01-06T01:29:26Z",
-      "pushed_at": "2026-01-05T18:53:07Z",
+      "updated_at": "2026-01-06T06:12:57Z",
+      "pushed_at": "2026-01-06T06:12:52Z",
       "open_issues": 548,
       "owner": {
         "login": "Dimillian",
@@ -4699,7 +4699,7 @@
       "full_name": "sveltejs/kit",
       "description": "web development, streamlined",
       "html_url": "https://github.com/sveltejs/kit",
-      "stars": 20140,
+      "stars": 20141,
       "forks": 2182,
       "language": "JavaScript",
       "topics": [
@@ -4707,9 +4707,9 @@
         "svelte"
       ],
       "created_at": "2020-10-15T14:00:23Z",
-      "updated_at": "2026-01-05T23:26:50Z",
-      "pushed_at": "2026-01-05T23:27:56Z",
-      "open_issues": 1070,
+      "updated_at": "2026-01-06T03:13:40Z",
+      "pushed_at": "2026-01-06T03:14:16Z",
+      "open_issues": 1069,
       "owner": {
         "login": "sveltejs",
         "avatar_url": "https://avatars.githubusercontent.com/u/23617963?v=4"
@@ -4739,7 +4739,7 @@
       ],
       "created_at": "2016-06-06T21:23:36Z",
       "updated_at": "2026-01-05T17:01:41Z",
-      "pushed_at": "2026-01-05T11:26:52Z",
+      "pushed_at": "2026-01-06T02:41:04Z",
       "open_issues": 1425,
       "owner": {
         "login": "nextcloud",
@@ -4828,7 +4828,7 @@
       "description": "Enhancements & experiments for ComfyUI, mostly focusing on UI features",
       "html_url": "https://github.com/pythongosssss/ComfyUI-Custom-Scripts",
       "stars": 2889,
-      "forks": 234,
+      "forks": 235,
       "language": "JavaScript",
       "topics": [
         "comfyui"
@@ -4836,7 +4836,7 @@
       "created_at": "2023-03-06T19:23:24Z",
       "updated_at": "2026-01-06T01:40:31Z",
       "pushed_at": "2025-08-09T16:18:21Z",
-      "open_issues": 189,
+      "open_issues": 188,
       "owner": {
         "login": "pythongosssss",
         "avatar_url": "https://avatars.githubusercontent.com/u/125205205?v=4"
@@ -4871,7 +4871,7 @@
       "full_name": "supabase/supabase-swift",
       "description": "A Swift SDK for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse Swift examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector. ",
       "html_url": "https://github.com/supabase/supabase-swift",
-      "stars": 1129,
+      "stars": 1131,
       "forks": 215,
       "language": "Swift",
       "topics": [
@@ -4881,7 +4881,7 @@
         "swift"
       ],
       "created_at": "2021-05-23T07:46:26Z",
-      "updated_at": "2026-01-05T20:54:54Z",
+      "updated_at": "2026-01-06T06:25:30Z",
       "pushed_at": "2026-01-05T15:48:00Z",
       "open_issues": 26,
       "owner": {
@@ -4897,8 +4897,8 @@
       "full_name": "mybatis/mybatis-3",
       "description": "MyBatis SQL mapper framework for Java",
       "html_url": "https://github.com/mybatis/mybatis-3",
-      "stars": 20339,
-      "forks": 12965,
+      "stars": 20341,
+      "forks": 12964,
       "language": "Java",
       "topics": [
         "java",
@@ -4906,9 +4906,9 @@
         "sql"
       ],
       "created_at": "2013-02-14T19:03:32Z",
-      "updated_at": "2026-01-05T20:25:15Z",
+      "updated_at": "2026-01-06T05:43:44Z",
       "pushed_at": "2026-01-02T02:22:37Z",
-      "open_issues": 205,
+      "open_issues": 206,
       "owner": {
         "login": "mybatis",
         "avatar_url": "https://avatars.githubusercontent.com/u/1483254?v=4"
@@ -4922,12 +4922,12 @@
       "full_name": "ChartsOrg/Charts",
       "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
       "html_url": "https://github.com/ChartsOrg/Charts",
-      "stars": 28002,
-      "forks": 6047,
+      "stars": 28004,
+      "forks": 6048,
       "language": "Swift",
       "topics": [],
       "created_at": "2015-03-20T10:49:12Z",
-      "updated_at": "2026-01-05T16:19:20Z",
+      "updated_at": "2026-01-06T03:39:52Z",
       "pushed_at": "2025-05-13T04:45:38Z",
       "open_issues": 991,
       "owner": {
@@ -4943,8 +4943,8 @@
       "full_name": "vapor/vapor",
       "description": "💧 A server-side Swift HTTP web framework.",
       "html_url": "https://github.com/vapor/vapor",
-      "stars": 25876,
-      "forks": 1515,
+      "stars": 25878,
+      "forks": 1516,
       "language": "Swift",
       "topics": [
         "framework",
@@ -4957,9 +4957,9 @@
         "web-framework"
       ],
       "created_at": "2016-01-18T22:37:52Z",
-      "updated_at": "2026-01-05T19:45:32Z",
+      "updated_at": "2026-01-06T04:09:00Z",
       "pushed_at": "2026-01-05T12:16:24Z",
-      "open_issues": 111,
+      "open_issues": 112,
       "owner": {
         "login": "vapor",
         "avatar_url": "https://avatars.githubusercontent.com/u/17364220?v=4"
@@ -5000,12 +5000,12 @@
       "full_name": "signalapp/Signal-iOS",
       "description": "A private messenger for iOS.",
       "html_url": "https://github.com/signalapp/Signal-iOS",
-      "stars": 11769,
+      "stars": 11770,
       "forks": 3332,
       "language": "Swift",
       "topics": [],
       "created_at": "2014-05-04T15:42:40Z",
-      "updated_at": "2026-01-06T01:07:56Z",
+      "updated_at": "2026-01-06T03:39:34Z",
       "pushed_at": "2025-12-18T20:49:52Z",
       "open_issues": 124,
       "owner": {
@@ -5021,12 +5021,12 @@
       "full_name": "swirldev/swirl_courses",
       "description": ":mortar_board: A collection of interactive courses for the swirl R package.",
       "html_url": "https://github.com/swirldev/swirl_courses",
-      "stars": 4511,
+      "stars": 4512,
       "forks": 7243,
       "language": "R",
       "topics": [],
       "created_at": "2014-02-23T04:48:04Z",
-      "updated_at": "2026-01-03T10:24:23Z",
+      "updated_at": "2026-01-06T06:02:25Z",
       "pushed_at": "2024-01-10T17:38:19Z",
       "open_issues": 206,
       "owner": {
@@ -5042,8 +5042,8 @@
       "full_name": "capstone-engine/capstone",
       "description": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
       "html_url": "https://github.com/capstone-engine/capstone",
-      "stars": 8469,
-      "forks": 1645,
+      "stars": 8470,
+      "forks": 1644,
       "language": "C",
       "topics": [
         "arm",
@@ -5068,7 +5068,7 @@
         "x86-64"
       ],
       "created_at": "2013-11-27T02:32:11Z",
-      "updated_at": "2026-01-05T09:08:59Z",
+      "updated_at": "2026-01-06T05:16:05Z",
       "pushed_at": "2026-01-04T15:16:25Z",
       "open_issues": 371,
       "owner": {
@@ -5193,5 +5193,5 @@
       "stars_today": 0
     }
   ],
-  "created_at": "2026-01-06T02:08:47.517543148Z"
+  "created_at": "2026-01-06T06:43:57.834753356Z"
 }
