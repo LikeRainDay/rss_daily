@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** 个项目 | **136107** ⭐ | **10528** 🍴
+**10** 个项目 | **232898** ⭐ | **19365** 🍴
 
-**热门语言:** `TypeScript` (4) · `JavaScript` (4) · `Go` (1)
+**热门语言:** `TypeScript` (4) · `Rust` (3) · `JavaScript` (2)
 
-**更新时间:** 2026-01-06 12:58 UTC
+**更新时间:** 2026-01-06 18:42 UTC
 
 **分类分布:**
 
@@ -21,9 +21,9 @@
 ### 1. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **推荐理由**  
-> *OpenCode is an open-source AI coding agent designed to enhance coding efficiency. It features two built-in agents: the "build" agent for full development access and the "plan" agent for read-only code exploration. Users can switch between agents seamlessly. OpenCode supports multiple platforms with a desktop application and offers installation via various package managers. It is provider-agnostic, enabling integration with models from various sources, and features a terminal user interface optimized for neovim users. Join the community on Discord for support and collaboration.*
+> *OpenCode is an open-source AI coding agent built in TypeScript, boasting over 51,000 stars on GitHub. It features two primary agents: a full-access "build" agent for development and a "plan" agent for code exploration, enhancing user interactions with codebases. OpenCode supports multiple platforms via a desktop app and offers extensive documentation for configuration. It stands out for its provider-agnostic design, allowing integration with various AI models, and emphasizes a terminal user interface. Join the community on Discord for support and collaboration.*
 
-- ⭐ 50944 stars
+- ⭐ 51304 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-06
 
@@ -32,101 +32,101 @@
 ### 2. [claude-mem](https://github.com/thedotmack/claude-mem)
 
 > 🤖 **推荐理由**  
-> *Claude-Mem is a powerful TypeScript plugin designed for Claude Code that enhances coding sessions by automatically capturing and compressing context with AI. Key features include persistent memory to retain knowledge across sessions, progressive disclosure for efficient memory retrieval, and a web viewer UI for real-time access. Users can perform skill-based searches, manage privacy with `<private>` tags, and utilize automatic operation without manual input. Claude-Mem supports a beta channel for experimental features, making it an essential tool for continuous coding productivity.*
+> *Claude-Mem is a powerful plugin for Claude Code that enhances coding sessions by automatically capturing user actions and compressing this data with AI for future reference. Key features include persistent memory to maintain context across sessions, skill-based search for project history, and a web-based UI for real-time memory access. Additional highlights include privacy controls, automatic operation, and an innovative beta channel for experimental features. With over 11,000 stars on GitHub, it streamlines coding workflows and optimizes knowledge retention.*
 
-- ⭐ 10840 stars
+- ⭐ 11041 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-06
 
 ![claude-mem](2026/01-06/2026-01-06_daily-top_claude-mem.png)
 
-### 3. [seanime](https://github.com/5rahim/seanime)
+### 3. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *Seanime is an open-source media server designed for anime and manga enthusiasts, featuring a cross-platform web interface and desktop app. Key features include a built-in video player with subtitle support, complete AniList integration, and the ability to manage a local library. Users can stream content via torrents without downloading, with support for major torrent clients. Seanime also offers offline mode, customizable UI, and manga reading capabilities. It emphasizes user responsibility for obtaining media legally and includes extensive documentation and community support.*
+> *cc-switch is a cross-platform desktop assistant tool for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. With over 9,500 stars, it features a dual-layer architecture for data management, a revamped user interface, and support for multiple languages (English, Chinese, Japanese). Key functionalities include easy provider management, skills and prompts management systems, environment variable conflict detection, and an auto-syncing MCP server. The tool also offers seamless integration with various AI coding platforms, optimized performance, and user-friendly configuration options.*
 
-- ⭐ 2378 stars
-- 💻 Go
-- 📅 Updated: 2026-01-06
-
-![seanime](2026/01-06/2026-01-06_daily-top_seanime.png)
-
-### 4. [cc-switch](https://github.com/farion1231/cc-switch)
-
-> 🤖 **推荐理由**  
-> *cc-switch is a cross-platform All-in-One assistant tool for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. It features a dual-layer SQLite + JSON architecture for data management, a redesigned UI, and support for multiple languages (English, Chinese, Japanese). Key functionalities include provider management, skills and prompts management, auto-launch on startup, and environment variable conflict detection. It offers seamless integration with various AI coding services, enhanced performance, and user-friendly configuration options, making it a valuable tool for developers.*
-
-- ⭐ 9529 stars
+- ⭐ 9579 stars
 - 💻 Rust
 - 📅 Updated: 2026-01-06
 
 ![cc-switch](2026/01-06/2026-01-06_daily-top_cc-switch.png)
 
-### 5. [YTPro](https://github.com/prateek-chaubey/YTPro)
+### 4. [YTPro](https://github.com/prateek-chaubey/YTPro)
 
 > 🤖 **推荐理由**  
-> *YTPro is a YouTube client designed for older Android versions, offering features like background audio playback, video downloading, and Google Gemini for video summarization. With a minimalist design and APK size under 50KB, it includes an ad blocker, thumbnail and caption downloads, and gesture controls for volume and brightness. Users can save videos without logging in and enjoy features like Picture-in-Picture mode and dislike counts. The project has garnered 1,075 stars on GitHub, showcasing its popularity among users seeking a versatile YouTube experience.*
+> *YTPro is a feature-rich YouTube client designed for older Android versions, boasting 1,162 stars on GitHub. Key features include Google Gemini for video summarization, video and thumbnails downloading, an ads blocker, background audio playback, Picture-in-Picture mode, and gesture controls. Users can customize prompts, save videos without logging in, and enjoy minimal internal dependencies with an APK size under 50KB. The project emphasizes user experience with adaptive UI icons and auto updates, making it an efficient choice for YouTube enthusiasts.*
 
-- ⭐ 1075 stars
+- ⭐ 1162 stars
 - 💻 JavaScript
 - 📅 Updated: 2026-01-06
 
 ![YTPro](2026/01-06/2026-01-06_daily-top_YTPro.png)
 
-### 6. [escrcpy](https://github.com/viarotel-org/escrcpy)
+### 5. [web-check](https://github.com/Lissy93/web-check)
 
 > 🤖 **推荐理由**  
-> *Escrcpy is an innovative tool for displaying and controlling Android devices graphically, leveraging Electron for a seamless experience. Key features include intelligent control through natural-language commands, automated workflows across multiple devices, and efficient multi-device management. It supports wireless connectivity with Gnirehtet reverse tethering and offers high-performance, low-latency screen mirroring. With comprehensive documentation and community support, Escrcpy is a powerful solution for Android device management, boasting over 7,192 stars on GitHub.*
+> *Web-Check is a powerful OSINT tool for analyzing websites, offering insights into security configurations, server architecture, and technologies used. Key features include IP info, SSL chain analysis, DNS records, cookie inspection, and performance metrics. Users can explore associated hostnames, open ports, and redirect chains, enhancing their understanding of potential vulnerabilities. With support for Docker and easy deployment options via Netlify or Vercel, Web-Check is designed for security researchers and developers seeking to optimize and secure their web presence efficiently.*
 
-- ⭐ 7192 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-01-06
-
-![escrcpy](2026/01-06/2026-01-06_daily-top_escrcpy.png)
-
-### 7. [web-check](https://github.com/Lissy93/web-check)
-
-> 🤖 **推荐理由**  
-> *Web-Check is a powerful all-in-one OSINT tool for analyzing websites, boasting over 27,000 stars on GitHub. Built with TypeScript, it offers comprehensive insights into website security, server architecture, and technology stack. Key features include IP info, SSL chain analysis, DNS records, cookie examination, server location mapping, and performance metrics. Users can explore associated hostnames, traceroute paths, and even the environmental impact of a website. Web-Check facilitates optimization and security assessment, making it essential for web developers and security researchers alike.*
-
-- ⭐ 27424 stars
+- ⭐ 27602 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-06
 
 ![web-check](2026/01-06/2026-01-06_daily-top_web-check.png)
 
-### 8. [public-apis](https://github.com/marcelscruz/public-apis)
+### 6. [public-apis](https://github.com/marcelscruz/public-apis)
 
 > 🤖 **推荐理由**  
-> *The "public-apis" project is a collaborative repository featuring a curated list of over 1,000 public APIs for developers. It covers diverse categories such as Animals, Weather, Finance, Machine Learning, and more, enabling quick access to essential data and services. With 6,663 stars on GitHub, this resource facilitates API discovery for various applications, from e-commerce to social media integration. Key highlights include APIs for cryptocurrency, health data, transportation, and entertainment, making it a valuable tool for developers seeking to enhance their projects with external data.*
+> *The public-apis project is a collaborative repository featuring a comprehensive list of public APIs for developers, boasting over 6,700 stars on GitHub. It categorizes APIs across diverse domains, including Animals, Finance, Machine Learning, and Weather, allowing users to easily discover APIs suited to their needs. Key features include access to real-time data, extensive documentation, and a variety of services from entertainment to geolocation. This resource aims to streamline API integration, enhancing development efficiency and innovation.*
 
-- ⭐ 6663 stars
+- ⭐ 6771 stars
 - 💻 JavaScript
 - 📅 Updated: 2026-01-06
 
 ![public-apis](2026/01-06/2026-01-06_daily-top_public-apis.png)
 
-### 9. [claudesidian](https://github.com/heyitsnoah/claudesidian)
+### 7. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
 > 🤖 **推荐理由**  
-> *Claudesidian is an AI-powered Obsidian starter kit designed to enhance knowledge organization and productivity using Claude Code. Key features include a PARA method-based vault structure, Git integration for version control, and mobile access. It offers AI-driven functionalities such as collaborative exploration and content generation, along with optional modules for document analysis and web research. The setup wizard streamlines the initial configuration, making it easy to personalize and maintain an efficient workflow. Ideal for users seeking to leverage AI as a thinking partner.*
+> *chrome-devtools-mcp is a TypeScript-based project enabling coding agents like Gemini and Copilot to control and inspect live Chrome browsers. With 18,813 stars, it serves as a Model-Context-Protocol (MCP) server, facilitating reliable automation, advanced debugging, and performance analysis using Chrome DevTools. Key features include actionable performance insights, network request analysis, and automation through Puppeteer. It requires Node.js and the latest Chrome version, and integrates seamlessly with various MCP clients for enhanced development workflows.*
 
-- ⭐ 1279 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-01-06
-
-![claudesidian](2026/01-06/2026-01-06_daily-top_claudesidian.png)
-
-### 10. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-
-> 🤖 **推荐理由**  
-> *chrome-devtools-mcp is a TypeScript project enabling coding agents like Gemini and Copilot to control and inspect live Chrome browsers. With over 18,000 stars, it acts as a Model-Context-Protocol (MCP) server, providing advanced debugging, performance insights, and reliable automation through Puppeteer. Key features include network request analysis, screenshot capture, and performance trace recording. The tool requires Node.js and a stable Chrome version, allowing seamless integration with various coding environments for enhanced development efficiency.*
-
-- ⭐ 18783 stars
+- ⭐ 18813 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-06
 
 ![chrome-devtools-mcp](2026/01-06/2026-01-06_daily-top_chrome-devtools-mcp.png)
+
+### 8. [zed](https://github.com/zed-industries/zed)
+
+> 🤖 **推荐理由**  
+> *Zed is a high-performance, multiplayer code editor developed by the creators of Atom and Tree-sitter, designed for speed and collaboration. It supports macOS, Linux, and Windows, allowing users to install via direct download or local package managers. Key features include real-time collaboration, efficient code editing, and extensive customization options. Zed is open for contributions, and the project actively seeks new talent. The team utilizes automated tools to ensure compliance with open-source licenses. Explore more at zed.dev.*
+
+- ⭐ 72707 stars
+- 💻 Rust
+- 📅 Updated: 2026-01-06
+
+![zed](2026/01-06/2026-01-06_daily-top_zed.png)
+
+### 9. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+
+> 🤖 **推荐理由**  
+> *NautilusTrader is a high-performance, open-source algorithmic trading platform built in Rust, designed for quantitative traders. It features an event-driven backtester for portfolios of automated strategies, allowing seamless transitions from backtesting to live trading without code changes. Key capabilities include high-frequency trading across diverse asset classes, modular API integrations, customizable components, advanced order types, and AI training support. NautilusTrader prioritizes software correctness and safety, making it ideal for mission-critical trading environments.*
+
+- ⭐ 17119 stars
+- 💻 Rust
+- 📅 Updated: 2026-01-06
+
+![nautilus_trader](2026/01-06/2026-01-06_daily-top_nautilus_trader.png)
+
+### 10. [crush](https://github.com/charmbracelet/crush)
+
+> 🤖 **推荐理由**  
+> *Crush is a sophisticated AI coding agent designed for seamless integration with your terminal. Key features include multi-model support for various LLMs, session-based context management, and the ability to switch models mid-session. It enhances productivity through Language Server Protocol (LSP) integration and is highly extensible via Model Context Protocols (MCPs). Crush is compatible with macOS, Linux, Windows, and more, making it versatile across platforms. Installation is straightforward via popular package managers, ensuring easy access to powerful AI-driven coding assistance.*
+
+- ⭐ 16800 stars
+- 💻 Go
+- 📅 Updated: 2026-01-06
+
+![crush](2026/01-06/2026-01-06_daily-top_crush.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-06 12:58:37 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-06 18:42:03 UTC
