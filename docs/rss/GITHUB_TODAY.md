@@ -4,11 +4,11 @@
 
 ## 📋 Overview
 
-**10** Projects | **160998** ⭐ | **19552** 🍴
+**10** Projects | **161286** ⭐ | **19578** 🍴
 
-**Top Languages:** `TypeScript` (5) · `Rust` (2) · `JavaScript` (2)
+**Top Languages:** `TypeScript` (5) · `JavaScript` (2) · `Rust` (2)
 
-**Updated:** 2026-01-07 12:59 UTC
+**Updated:** 2026-01-07 14:08 UTC
 
 **Categories:**
 
@@ -21,9 +21,9 @@
 ### 1. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **Why Recommend**  
-> *OpenCode is an open-source AI coding agent built with TypeScript, boasting over 52,000 stars on GitHub. It features two built-in agents: a full-access "build" agent for development and a read-only "plan" agent for code exploration. OpenCode supports various installation methods, including desktop applications for macOS, Windows, and Linux. Key highlights include provider-agnostic model support, out-of-the-box LSP compatibility, and a focus on terminal user interfaces. Join the community on Discord for collaboration and support.*
+> *OpenCode is an open-source AI coding agent designed for developers, built with TypeScript and boasting over 52,000 stars. It features two primary agents: a full-access "build" agent for development and a "plan" agent for code exploration, ensuring safe interactions. OpenCode supports a variety of installation methods and is available as a desktop app for macOS, Windows, and Linux. Its client/server architecture enables remote operation, while built-in LSP support enhances coding efficiency. The project prioritizes community engagement through Discord and extensive documentation.*
 
-- ⭐ 52753 stars
+- ⭐ 52846 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-07
 
@@ -32,9 +32,9 @@
 ### 2. [web-check](https://github.com/Lissy93/web-check)
 
 > 🤖 **Why Recommend**  
-> *Web-Check is an all-in-one OSINT tool designed for comprehensive website analysis, boasting over 28,000 stars on GitHub. It enables users to uncover critical insights about any website, including IP info, SSL certificates, DNS records, security configurations, server architecture, and associated technologies. Key features include performance metrics, security checks, cookie analysis, and domain info retrieval. With easy deployment options via Netlify, Vercel, or Docker, Web-Check is a valuable resource for optimizing and securing web presence while supporting ethical research. Visit [web-check.xyz](https://web-check.xyz) for more details.*
+> *Web-Check is an all-in-one OSINT tool for analyzing websites, boasting over 28,250 stars on GitHub. Built with TypeScript, it provides comprehensive insights into website architecture, security configurations, and technologies used. Key features include IP info, SSL analysis, DNS records, cookies, headers, server location, and performance metrics. Users can also explore associated hostnames, analyze open ports, and assess carbon footprints. With easy deployment options via Netlify, Vercel, or Docker, Web-Check aims to optimize and secure websites, making it a valuable resource for developers and security researchers.*
 
-- ⭐ 28209 stars
+- ⭐ 28250 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-07
 
@@ -43,9 +43,9 @@
 ### 3. [claude-mem](https://github.com/thedotmack/claude-mem)
 
 > 🤖 **Why Recommend**  
-> *Claude-Mem is a powerful plugin for Claude Code that automates the capture and compression of coding session data, ensuring continuity across sessions. Key features include persistent memory, skill-based search, a web viewer UI for real-time memory access, and privacy controls for sensitive information. It supports natural language queries and offers a beta channel for experimental features like Endless Mode. With over 11,500 stars on GitHub, Claude-Mem enhances productivity by maintaining context, enabling efficient project management, and improving overall coding experience.*
+> *Claude-Mem is a TypeScript plugin for Claude Code that enhances coding sessions by automatically capturing and compressing all interactions, ensuring continuity of context across sessions. Key features include persistent memory, skill-based search, a web UI for real-time memory viewing, and privacy controls for sensitive information. Users can easily retrieve project history through intelligent queries. With a beta channel for experimental features, Claude-Mem streamlines coding workflows while maintaining a rich knowledge base. The project is open-source and has garnered over 11,500 stars on GitHub.*
 
-- ⭐ 11521 stars
+- ⭐ 11573 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-07
 
@@ -54,9 +54,9 @@
 ### 4. [public-apis](https://github.com/marcelscruz/public-apis)
 
 > 🤖 **Why Recommend**  
-> *The "public-apis" project is a collaborative repository featuring over 1,000 public APIs that developers can leverage for various applications. With over 7,112 stars, it includes a diverse range of categories such as weather, health, finance, machine learning, and more. Key highlights include APIs for popular services like GitHub, Spotify, and Google, as well as niche data sources for specific needs. This extensive list serves as a valuable resource for developers seeking to enhance their projects with robust and accessible API integrations.*
+> *The public-apis project is a collaborative repository offering a comprehensive list of public APIs for developers, boasting over 7,132 stars on GitHub. It categorizes APIs across diverse domains including Animals, Finance, Health, and Machine Learning, among others. Key features include API authentication details, CORS support, and HTTPS compatibility for each entry. The project serves as a valuable resource for developers seeking to enhance their applications with external data and functionalities, simplifying the integration process across various technologies.*
 
-- ⭐ 7112 stars
+- ⭐ 7132 stars
 - 💻 JavaScript
 - 📅 Updated: 2026-01-07
 
@@ -65,9 +65,9 @@
 ### 5. [claude-code-action](https://github.com/anthropics/claude-code-action)
 
 > 🤖 **Why Recommend**  
-> *Claude Code Action is a versatile GitHub action designed for PRs and issues, leveraging AI to respond to queries and implement code changes. Key features include intelligent mode detection, interactive code assistance, automated code reviews, and seamless integration with GitHub comments. It supports multiple authentication methods and offers flexible tool access. Users can track progress with visual indicators and receive structured JSON outputs for automation. The action runs on your infrastructure, simplifying configuration while maintaining compatibility. Ideal for automating code reviews, issue triage, and documentation updates.*
+> *Claude Code Action is a versatile GitHub action designed for PRs and issues, enabling intelligent code assistance. Key features include automatic mode detection based on workflow context, interactive code analysis, and implementation of fixes or new features. It integrates seamlessly with GitHub comments and supports multiple authentication methods, including Anthropic API and cloud services like AWS and Google. The action runs on your infrastructure and offers structured outputs for automation. Comprehensive documentation and migration guides are available for users.*
 
-- ⭐ 4921 stars
+- ⭐ 4925 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-07
 
@@ -76,53 +76,53 @@
 ### 6. [stb](https://github.com/nothings/stb)
 
 > 🤖 **Why Recommend**  
-> *stb is a popular collection of single-file public domain (or MIT licensed) libraries for C/C++, boasting over 31,000 stars on GitHub. It features essential tools such as image loaders (stb_image.h), writers (stb_image_write.h), resizers (stb_image_resize2.h), and font rasterizers (stb_truetype.h). Additionally, it provides utility libraries for typesafe containers (stb_ds.h) and audio decoding (stb_vorbis.c). Designed for ease of integration, these libraries streamline deployment, making them ideal for developers seeking minimal dependencies and straightforward usage.*
+> *The stb project offers a collection of single-file public domain libraries for C/C++, featuring essential tools like image loading (stb_image.h), writing (stb_image_write.h), and resizing (stb_image_resize2.h), along with font rendering (stb_truetype.h) and typesafe containers (stb_ds.h). With over 21 libraries and 51,137 lines of code, stb simplifies integration by allowing developers to include libraries as standalone headers. The libraries are designed for ease of use, supporting various formats and functionalities, making them a go-to resource for graphics, audio, and utility needs in software development.*
 
-- ⭐ 31357 stars
+- ⭐ 31370 stars
 - 💻 C
 - 📅 Updated: 2026-01-07
 
 ![stb](2026/01-07/2026-01-07_daily-top_stb.png)
 
-### 7. [YTPro](https://github.com/prateek-chaubey/YTPro)
+### 7. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *YTPro is a lightweight YouTube client supporting older Android versions, featuring a background audio player and Google Gemini integration for video summarization. Key features include video and captions downloading, ads blocking, Picture-in-Picture mode, gesture controls, and the ability to show the number of dislikes. With an APK size under 50KB, it offers a minimal design and auto-updates. YTPro supports customizable prompts, skips sponsor segments, and allows saving videos without an account. This project showcases advanced JavaScript techniques for enhanced user experience.*
+> *cc-switch is a powerful cross-platform desktop assistant tool designed for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. It boasts features like seamless provider management, an advanced skills management system, and multi-preset prompts management, all enhanced by a new SQLite + JSON architecture for better performance. The application supports Windows, macOS, and Linux, with a sleek user interface and options for cloud sync. Sponsored by Z.ai and AIGoCode, it provides top-tier AI coding services, ensuring efficient and stable coding experiences. With nearly 10,000 stars on GitHub, cc-switch is a valuable tool for developers.*
 
-- ⭐ 1311 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-01-07
-
-![YTPro](2026/01-07/2026-01-07_daily-top_YTPro.png)
-
-### 8. [memvid](https://github.com/memvid/memvid)
-
-> 🤖 **Why Recommend**  
-> *Memvid is a serverless, single-file memory layer designed for AI agents, enabling instant retrieval and long-term memory without the need for complex RAG pipelines or databases. Built in Rust, it allows for persistent, versioned, and portable memory management. Key features include append-only Smart Frames for efficient data organization, time-travel debugging, and predictive caching. Memvid supports various use cases like offline AI systems and enterprise knowledge bases. Its lightweight architecture ensures fast access with a model-agnostic design, making it versatile for developers across multiple domains.*
-
-- ⭐ 11173 stars
-- 💻 Rust
-- 📅 Updated: 2026-01-07
-
-![memvid](2026/01-07/2026-01-07_daily-top_memvid.png)
-
-### 9. [cc-switch](https://github.com/farion1231/cc-switch)
-
-> 🤖 **Why Recommend**  
-> *cc-switch is a cross-platform desktop assistant tool for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. It boasts over 9,700 stars and features a dual-layer architecture for data management, supporting SQLite and JSON storage. Key functionalities include provider management, skills and prompts systems, and a unified MCP server management interface. It offers auto-launch on startup, cross-platform support (Windows, macOS, Linux), and a redesigned UI with multi-language support. The tool ensures efficient coding experiences with integrated API services from Z.ai, PackyCode, and AIGoCode.*
-
-- ⭐ 9784 stars
+- ⭐ 9795 stars
 - 💻 Rust
 - 📅 Updated: 2026-01-07
 
 ![cc-switch](2026/01-07/2026-01-07_daily-top_cc-switch.png)
 
+### 8. [YTPro](https://github.com/prateek-chaubey/YTPro)
+
+> 🤖 **Why Recommend**  
+> *YTPro is a feature-rich YouTube client designed for older Android versions. With 1,325 stars on GitHub, it offers a seamless experience with features like Google Gemini for video summarization, video and shorts downloading, ad blocking, and a background audio player. Users can enjoy picture-in-picture mode, customizable gesture controls, and options to hide shorts or skip sponsors. The app is lightweight (under 50KB), has minimal dependencies, and supports auto-updates, making it a versatile choice for enhanced video consumption.*
+
+- ⭐ 1325 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-01-07
+
+![YTPro](2026/01-07/2026-01-07_daily-top_YTPro.png)
+
+### 9. [memvid](https://github.com/memvid/memvid)
+
+> 🤖 **Why Recommend**  
+> *Memvid is a serverless, single-file memory layer for AI agents, providing instant retrieval and long-term memory without the complexity of traditional RAG pipelines. Built in Rust, it packages data, embeddings, and metadata into a portable format, enabling efficient append-only writes and time-travel debugging. Key features include Smart Recall for rapid access, Capsule Context for shareable memory, and codec intelligence for adaptive compression. Ideal for diverse applications like enterprise knowledge bases and offline AI systems, Memvid enhances AI capabilities with a lightweight, model-agnostic memory solution.*
+
+- ⭐ 11211 stars
+- 💻 Rust
+- 📅 Updated: 2026-01-07
+
+![memvid](2026/01-07/2026-01-07_daily-top_memvid.png)
+
 ### 10. [short-video-factory](https://github.com/YILS-LIN/short-video-factory)
 
 > 🤖 **Why Recommend**  
-> *The AI Short Video Factory is an open-source desktop tool designed for effortless creation of product marketing and general content videos. Key features include AI-driven video editing, automatic clip generation from user-provided scripts and footage, voice synthesis, and subtitle effects. The platform supports batch processing, multiple video formats, and offers a user-friendly interface, making it accessible on Windows, macOS, and Linux. With multi-language support and regular updates, it ensures high-quality video production with minimal setup, catering to diverse user needs.*
+> *The "short-video-factory" is an open-source desktop application designed to streamline the creation of short marketing and general content videos using AI technology. Key features include AI-driven video editing, automated clipping, text-to-speech synthesis, and subtitle effects. Users can quickly generate high-quality videos from simple prompts and video assets, with support for batch processing and multiple languages. The application is user-friendly, cross-platform (Windows, macOS, Linux), and operates locally for enhanced data security. With over 2859 stars on GitHub, it offers a powerful, out-of-the-box solution for video production.*
 
-- ⭐ 2857 stars
+- ⭐ 2859 stars
 - 💻 TypeScript
 - 📅 Updated: 2026-01-07
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-07 12:59:48 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-07 14:08:39 UTC
