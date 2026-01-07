@@ -3,7 +3,7 @@ name: Generate RSS Feeds
 on:
   schedule:
     # 每6小时运行一次
-    - cron: "0 */6 * * *"
+    - cron: "0 */12 * * *"
   # 允许手动触发
   workflow_dispatch:
   # 推送到 main 分支时也运行（用于测试）
