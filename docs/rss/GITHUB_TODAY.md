@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-01-08
+# 📊 🌟 GitHub Trending Daily - 2026-01-09
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **166179** ⭐ | **19828** 🍴
+**10** Projects | **266545** ⭐ | **19065** 🍴
 
-**Top Languages:** `TypeScript` (4) · `JavaScript` (2) · `C` (2)
+**Top Languages:** `TypeScript` (6) · `Rust` (2) · `JavaScript` (1)
 
-**Updated:** 2026-01-08 01:06 UTC
+**Updated:** 2026-01-09 12:30 UTC
 
 **Categories:**
 
@@ -21,112 +21,112 @@
 ### 1. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **Why Recommend**  
-> *OpenCode is an open-source AI coding agent built in TypeScript, designed to enhance development workflows. With over 53,000 stars on GitHub, it features two main agents: a full-access "build" agent for development and a read-only "plan" agent for code exploration. The platform supports installation via various package managers and offers a desktop application for macOS, Windows, and Linux. OpenCode prioritizes provider-agnostic integration, allowing users to leverage multiple AI models. Its focus on terminal user interface (TUI) and client/server architecture sets it apart in the coding assistant landscape.*
+> *OpenCode is an open-source AI coding agent built in TypeScript, boasting over 56,000 stars on GitHub. It features two main agents: "build" for full development access and "plan" for read-only analysis, ideal for exploring unfamiliar codebases. The project offers a desktop application for macOS, Windows, and Linux, alongside a client/server architecture that supports various AI models. With a focus on terminal user interface (TUI), OpenCode provides seamless integration with coding environments, making it a versatile tool for developers. Join the community on Discord for support and collaboration.*
 
-- ⭐ 53419 stars
+- ⭐ 56492 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-08
+- 📅 Updated: 2026-01-09
 
-![opencode](2026/01-08/2026-01-08_daily-top_opencode.png)
+![opencode](2026/01-09/2026-01-09_daily-top_opencode.png)
 
-### 2. [web-check](https://github.com/Lissy93/web-check)
+### 2. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 
 > 🤖 **Why Recommend**  
-> *Web-Check is an all-in-one OSINT tool designed for comprehensive website analysis. With over 28,000 stars on GitHub, it provides critical insights into website security and performance. Key features include IP info, SSL chain analysis, DNS records, cookies, server location, port scanning, and carbon footprint assessment. It also offers tools for identifying technologies used, analyzing HTTP headers, and checking for potential vulnerabilities. The tool is easily deployable via Netlify, Vercel, or Docker, making it accessible for developers and security researchers alike.*
+> *UI-TARS-desktop is an open-source multimodal AI agent stack designed to enhance user interaction with computers and browsers. It features a native GUI agent leveraging advanced Vision-Language Models for natural language control, visual recognition, and precise input handling. Key highlights include seamless local and remote operation capabilities, real-time feedback, cross-platform support, and robust integration with real-world tools through MCP. Its user-friendly interfaces and powerful automation make it an ideal solution for efficient task management.*
 
-- ⭐ 28519 stars
+- ⭐ 21319 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-08
+- 📅 Updated: 2026-01-09
 
-![web-check](2026/01-08/2026-01-08_daily-top_web-check.png)
+![UI-TARS-desktop](2026/01-09/2026-01-09_daily-top_UI-TARS-desktop.png)
 
 ### 3. [claude-mem](https://github.com/thedotmack/claude-mem)
 
 > 🤖 **Why Recommend**  
-> *Claude-Mem is a powerful TypeScript plugin for Claude Code that captures coding sessions, compresses information using AI, and reintegrates relevant context into future sessions. Key features include persistent memory across sessions, skill-based search, a web viewer UI for real-time memory access, and privacy controls for sensitive content. It supports progressive disclosure for efficient context retrieval and offers a beta channel for experimental features. With over 11,900 stars, Claude-Mem enhances productivity by ensuring continuity and accessibility of project knowledge.*
+> *Claude-Mem is a powerful TypeScript plugin for Claude Code that enhances coding sessions by automatically capturing and compressing context from previous sessions. Key features include persistent memory to preserve context, a skill-based search tool for querying project history, and a web UI for real-time memory access. It supports privacy controls, automatic operation, and citations for past observations. With a beta channel for experimental features, Claude-Mem optimizes AI interactions, making coding more efficient and context-aware.*
 
-- ⭐ 11922 stars
+- ⭐ 12732 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-08
+- 📅 Updated: 2026-01-09
 
-![claude-mem](2026/01-08/2026-01-08_daily-top_claude-mem.png)
+![claude-mem](2026/01-09/2026-01-09_daily-top_claude-mem.png)
 
-### 4. [public-apis](https://github.com/marcelscruz/public-apis)
-
-> 🤖 **Why Recommend**  
-> *The public-apis project is a collaborative repository featuring a comprehensive list of over 1,000 public APIs for developers across various categories such as Weather, Finance, Machine Learning, and Entertainment. With 7,281 stars, it serves as a valuable resource for quick access to APIs for tasks ranging from data analysis to content creation. Key highlights include APIs for sports data, cryptocurrency tracking, and social media integration, making it a versatile tool for developers seeking to enhance their applications with external data services.*
-
-- ⭐ 7281 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-01-08
-
-![public-apis](2026/01-08/2026-01-08_daily-top_public-apis.png)
-
-### 5. [stb](https://github.com/nothings/stb)
+### 4. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
 > 🤖 **Why Recommend**  
-> *stb is a collection of single-file public domain libraries for C/C++, boasting over 31,000 stars on GitHub. Key features include image loading and writing (stb_image.h, stb_image_write.h), image resizing (stb_image_resize2.h), font rasterization (stb_truetype.h), and typesafe containers (stb_ds.h). The libraries facilitate easy integration with minimal dependencies, ideal for projects requiring straightforward deployment. While security-related issues may arise, their simplicity and ease of use make them a popular choice for developers.*
+> *chrome-devtools-mcp is a TypeScript library enabling coding agents like Gemini and Copilot to control and inspect live Chrome browsers via a Model-Context-Protocol (MCP) server. Key features include advanced browser debugging, performance insights, and reliable automation using Puppeteer. The library allows for detailed analysis of network requests, console messages, and performance traces. With support for multiple MCP clients, it seamlessly integrates into various development environments for enhancing coding efficiency.*
 
-- ⭐ 31472 stars
-- 💻 C
-- 📅 Updated: 2026-01-08
-
-![stb](2026/01-08/2026-01-08_daily-top_stb.png)
-
-### 6. [claude-code-action](https://github.com/anthropics/claude-code-action)
-
-> 🤖 **Why Recommend**  
-> *Claude Code Action is a versatile GitHub action designed for PRs and issues, leveraging the Claude AI for intelligent code assistance. Key features include automatic mode detection, interactive code reviews, and seamless integration with GitHub comments. It supports multiple authentication methods and enables code implementation, refactoring, and structured output generation for complex automations. Notable services include automatic PR reviews, issue triage, and custom review checklists. The action operates on your infrastructure, ensuring data security and flexibility in configuration.*
-
-- ⭐ 4938 stars
+- ⭐ 19588 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-08
+- 📅 Updated: 2026-01-09
 
-![claude-code-action](2026/01-08/2026-01-08_daily-top_claude-code-action.png)
+![chrome-devtools-mcp](2026/01-09/2026-01-09_daily-top_chrome-devtools-mcp.png)
+
+### 5. [xpipe](https://github.com/xpipe-io/xpipe)
+
+> 🤖 **Why Recommend**  
+> *XPipe is a powerful connection hub enabling seamless access to your entire server infrastructure from your local desktop. With support for SSH, Docker, Kubernetes, RDP, and various cloud services, it integrates effortlessly with your favorite tools, allowing for efficient management of remote connections. Key features include a centralized connection management interface, a versatile file browser, and a customizable terminal launcher. XPipe also offers an extensible scripting system and secure vault for managing credentials. Designed for professionals, it prioritizes user privacy with no external data storage.*
+
+- ⭐ 13037 stars
+- 💻 Java
+- 📅 Updated: 2026-01-09
+
+![xpipe](2026/01-09/2026-01-09_daily-top_xpipe.png)
+
+### 6. [web-check](https://github.com/Lissy93/web-check)
+
+> 🤖 **Why Recommend**  
+> *Web-Check is an all-in-one OSINT tool for analyzing websites, boasting over 29,000 stars on GitHub. Built with TypeScript, it provides detailed insights into web infrastructure, including IP info, SSL certificates, DNS records, and server configurations. Key features encompass site performance metrics, associated hostnames, security checks, and technologies used. Users can explore a live demo at web-check.xyz and deploy via Netlify, Vercel, Docker, or from source. Web-Check aims to optimize website security and performance while enhancing understanding of web technologies.*
+
+- ⭐ 29121 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-09
+
+![web-check](2026/01-09/2026-01-09_daily-top_web-check.png)
 
 ### 7. [YTPro](https://github.com/prateek-chaubey/YTPro)
 
 > 🤖 **Why Recommend**  
-> *YTPro is a feature-rich YouTube client designed for older Android versions, boasting 1,427 stars on GitHub. Key features include a background audio player, video downloading (including shorts and captions), Google Gemini integration for video summarization, an ads blocker, and customizable gestures for volume and brightness control. The app supports picture-in-picture mode, displays the number of dislikes, and offers a minimal APK size under 50KB. With almost zero internal dependencies and auto-updating capabilities, YTPro enhances the YouTube experience efficiently and effectively.*
+> *YTPro is a feature-rich YouTube client designed for older Android versions, boasting a range of functionalities including a background audio player, Google Gemini integration for video summarization, and ad-blocking capabilities. Users can download videos, shorts, and captions, while enjoying minimal internal dependencies and an APK size under 50KB. Key features include gesture controls, a custom heart feature for saving videos, and the ability to skip sponsors. YTPro offers a customizable and adaptive UI, ensuring a seamless user experience.*
 
-- ⭐ 1427 stars
+- ⭐ 1742 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-01-08
+- 📅 Updated: 2026-01-09
 
-![YTPro](2026/01-08/2026-01-08_daily-top_YTPro.png)
+![YTPro](2026/01-09/2026-01-09_daily-top_YTPro.png)
 
-### 8. [cc-switch](https://github.com/farion1231/cc-switch)
+### 8. [embassy](https://github.com/embassy-rs/embassy)
 
 > 🤖 **Why Recommend**  
-> *cc-switch is a cross-platform desktop assistant tool for Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. It offers seamless provider management, allowing users to switch between AI configurations effortlessly. Key features include a dual-layer SQLite + JSON architecture for data management, a redesigned UI, and comprehensive skills and prompts management. The tool supports multiple languages and auto-launch on startup. It integrates with various API services, providing enhanced coding experiences and discounts through partnerships with Z.ai, PackyCode, and AIGoCode.*
+> *Embassy is a modern embedded framework designed for efficient embedded application development using Rust and async programming. It ensures safety and performance without the need for a traditional RTOS. Key features include hardware abstraction layers (HALs) for various microcontrollers, a real-time cooperative multitasking model, low-power operation, and comprehensive networking support via embassy-net. Additional functionalities include Bluetooth, USB, and LoRa integration, along with a robust bootloader for firmware upgrades. With extensive documentation and examples, Embassy accelerates embedded coding while enhancing reliability.*
 
-- ⭐ 9844 stars
+- ⭐ 8382 stars
 - 💻 Rust
-- 📅 Updated: 2026-01-08
+- 📅 Updated: 2026-01-09
 
-![cc-switch](2026/01-08/2026-01-08_daily-top_cc-switch.png)
+![embassy](2026/01-09/2026-01-09_daily-top_embassy.png)
 
-### 9. [memvid](https://github.com/memvid/memvid)
+### 9. [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 
 > 🤖 **Why Recommend**  
-> *Memvid is a portable, serverless memory layer for AI agents, enabling instant retrieval and long-term memory without complex pipelines or databases. Its innovative design organizes memory as immutable "Smart Frames" for efficient storage and retrieval. Key features include append-only writes, time-travel debugging, and predictive caching for rapid access. Memvid supports multiple use cases, such as long-running AI agents and offline systems, and offers SDKs for various programming languages. With over 11,395 stars on GitHub, it’s a robust solution for enhancing AI capabilities.*
+> *Tailwind CSS is a utility-first CSS framework designed for rapid UI development, enabling developers to create custom user interfaces efficiently. With over 92,000 stars on GitHub, it supports a modular approach, allowing developers to apply styles directly in HTML using utility classes. Tailwind CSS emphasizes flexibility and responsiveness, making it ideal for modern web applications. The project includes comprehensive documentation, a vibrant community for support, and guidelines for contributors. Explore more at [tailwindcss.com](https://tailwindcss.com).*
 
-- ⭐ 11395 stars
+- ⭐ 92301 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-01-09
+
+![tailwindcss](2026/01-09/2026-01-09_daily-top_tailwindcss.png)
+
+### 10. [memvid](https://github.com/memvid/memvid)
+
+> 🤖 **Why Recommend**  
+> *Memvid is a Rust-based, serverless memory layer for AI agents, simplifying complex RAG pipelines into a single-file solution. It enables instant retrieval and long-term memory, storing data as efficient Smart Frames for quick access and crash safety. Key features include a Living Memory Engine, time-travel debugging, and smart recall capabilities. Memvid supports multiple use cases, from enterprise knowledge bases to personal assistants, and offers SDKs for various programming languages. With over 11,800 stars on GitHub, it's a robust tool for developers seeking portable, model-agnostic memory solutions.*
+
+- ⭐ 11831 stars
 - 💻 Rust
-- 📅 Updated: 2026-01-08
+- 📅 Updated: 2026-01-09
 
-![memvid](2026/01-08/2026-01-08_daily-top_memvid.png)
-
-### 10. [miniaudio](https://github.com/mackron/miniaudio)
-
-> 🤖 **Why Recommend**  
-> *miniaudio is a lightweight audio playback and capture library written in C, encapsulated in a single source file and free of external dependencies. It offers a simple API for both high-level sound management and low-level raw audio data access, supporting multiple audio formats like WAV, FLAC, and MP3. Key features include a flexible node graph for mixing, resource management, basic waveform generation, and built-in effects. Compatible across major platforms, miniaudio is easy to integrate, making it ideal for developers seeking efficient audio solutions.*
-
-- ⭐ 5962 stars
-- 💻 C
-- 📅 Updated: 2026-01-08
-
-![miniaudio](2026/01-08/2026-01-08_daily-top_miniaudio.png)
+![memvid](2026/01-09/2026-01-09_daily-top_memvid.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-08 01:06:42 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-09 12:30:07 UTC
