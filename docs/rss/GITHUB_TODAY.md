@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-01-10
+# 📊 🌟 GitHub Trending Daily - 2026-01-11
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **459549** ⭐ | **76575** 🍴
+**10** Projects | **470725** ⭐ | **76486** 🍴
 
-**Top Languages:** `TypeScript` (7) · `Go` (1) · `JavaScript` (1)
+**Top Languages:** `TypeScript` (7) · `Go` (2) · `JavaScript` (1)
 
-**Updated:** 2026-01-10 12:27 UTC
+**Updated:** 2026-01-11 01:14 UTC
 
 **Categories:**
 
@@ -21,112 +21,112 @@
 ### 1. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **Why Recommend**  
-> *OpenCode is an open-source AI coding agent built with TypeScript, boasting over 58,600 stars on GitHub. It features a unique dual-agent system, allowing users to switch between a full-access development agent and a read-only planning agent for safe code exploration. The project supports multiple installation methods, including desktop applications for macOS, Windows, and Linux. Designed for terminal enthusiasts, OpenCode emphasizes flexibility with provider-agnostic model support and a client/server architecture. Join the community on Discord for collaboration and updates.*
+> *OpenCode is an open-source AI coding agent designed for seamless development and code exploration. It features a dual-agent system, allowing users to switch between a full-access development agent and a read-only planning agent for safe code analysis. Installation is straightforward across platforms, including a desktop app in beta. OpenCode offers built-in support for various models and emphasizes a terminal user interface, catering to neovim users. With a community-driven approach and comprehensive documentation, OpenCode is ideal for developers seeking flexibility and control in their coding workflows.*
 
-- ⭐ 58625 stars
+- ⭐ 59754 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-10
+- 📅 Updated: 2026-01-11
 
-![opencode](2026/01-10/2026-01-10_daily-top_opencode.png)
+![opencode](2026/01-11/2026-01-11_daily-top_opencode.png)
 
 ### 2. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 
 > 🤖 **Why Recommend**  
-> *UI-TARS-desktop is an open-source multimodal AI agent stack designed to enhance user experience through advanced GUI automation. Key features include natural language control powered by Vision-Language models, precise mouse and keyboard interactions, and cross-platform support for Windows, MacOS, and browsers. The application enables both local and remote operations, offering real-time feedback and visual recognition capabilities. With a focus on seamless integration with various tools, UI-TARS-desktop aims to simplify complex tasks and improve productivity.*
+> *UI-TARS-desktop is an open-source multimodal AI agent stack that integrates advanced AI models and agent infrastructure, receiving over 22,000 stars on GitHub. Key features include natural language control powered by Vision-Language Models, precise mouse and keyboard control, and support for real-time feedback across platforms (Windows, MacOS, Browser). The application enables local and remote operations for tasks like GUI automation and browser interactions, while ensuring privacy with fully local processing. It aims to facilitate human-like task completion through seamless integration with real-world tools.*
 
-- ⭐ 22108 stars
+- ⭐ 22319 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-10
+- 📅 Updated: 2026-01-11
 
-![UI-TARS-desktop](2026/01-10/2026-01-10_daily-top_UI-TARS-desktop.png)
+![UI-TARS-desktop](2026/01-11/2026-01-11_daily-top_UI-TARS-desktop.png)
 
 ### 3. [ConvertX](https://github.com/C4illin/ConvertX)
 
 > 🤖 **Why Recommend**  
-> *ConvertX is a self-hosted online file converter supporting over 1000 formats, built with TypeScript, Bun, and Elysia. Key features include batch file processing, password protection, and multi-account support. It integrates various converters like Inkscape, FFmpeg, and LibreOffice for diverse file types including images, documents, and videos. The project is actively maintained with 14,100 stars on GitHub, offering Docker images for easy deployment. Ideal for users needing a robust, customizable file conversion solution.*
+> *ConvertX is a self-hosted file converter supporting over 1000 formats, built with TypeScript, Bun, and Elysia. Key features include batch processing, password protection, and multiple user accounts. It supports a wide range of converters such as Inkscape, FFmpeg, and LibreOffice, allowing conversions for images, documents, and videos. The project is easily deployable via Docker and offers customizable settings for user management and file handling. With over 14,000 stars on GitHub, ConvertX is a robust solution for file conversion needs.*
 
-- ⭐ 14100 stars
+- ⭐ 14251 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-10
+- 📅 Updated: 2026-01-11
 
-![ConvertX](2026/01-10/2026-01-10_daily-top_ConvertX.png)
+![ConvertX](2026/01-11/2026-01-11_daily-top_ConvertX.png)
 
-### 4. [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+### 4. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
 > 🤖 **Why Recommend**  
-> *Tailwind CSS is a utility-first CSS framework designed for rapid UI development. With over 92,600 stars on GitHub, it empowers developers to build custom user interfaces efficiently using a set of pre-defined utility classes. Key features include responsive design, customization options, and a robust plugin ecosystem. The framework is built in TypeScript and offers extensive documentation for ease of use. Community support is available through GitHub discussions, and contributions are encouraged via a structured process. For more information, visit tailwindcss.com.*
+> *chrome-devtools-mcp is a powerful TypeScript library that enables coding agents like Gemini and Copilot to control and inspect a live Chrome browser. With over 20,000 stars on GitHub, it serves as a Model-Context-Protocol (MCP) server, facilitating reliable automation, advanced debugging, and performance analysis via Chrome DevTools. Key features include performance insights recording, network request analysis, and screenshot capabilities. It seamlessly integrates with various MCP clients, supporting customizable configurations for optimized browser interactions.*
 
-- ⭐ 92614 stars
+- ⭐ 20058 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-10
+- 📅 Updated: 2026-01-11
 
-![tailwindcss](2026/01-10/2026-01-10_daily-top_tailwindcss.png)
+![chrome-devtools-mcp](2026/01-11/2026-01-11_daily-top_chrome-devtools-mcp.png)
 
-### 5. [embassy](https://github.com/embassy-rs/embassy)
-
-> 🤖 **Why Recommend**  
-> *Embassy is a modern embedded framework for building safe, efficient applications in Rust, leveraging async programming for improved multitasking. Key features include hardware abstraction layers for various microcontrollers (STM32, nRF, RP2040, etc.), a robust networking stack (TCP, UDP, DHCP), Bluetooth support, and low-power operation with automatic core sleep. The framework eliminates the need for traditional RTOS, enabling simpler and faster development. With extensive documentation and examples, Embassy streamlines embedded programming while ensuring energy efficiency and real-time readiness.*
-
-- ⭐ 8531 stars
-- 💻 Rust
-- 📅 Updated: 2026-01-10
-
-![embassy](2026/01-10/2026-01-10_daily-top_embassy.png)
-
-### 6. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+### 5. [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 
 > 🤖 **Why Recommend**  
-> *Chrome DevTools MCP is a TypeScript-based project enabling coding agents like Gemini and Copilot to control and inspect live Chrome browsers. With 19,875 stars on GitHub, it serves as a Model-Context-Protocol server, facilitating reliable automation, in-depth debugging, and performance analysis through Chrome DevTools. Key features include performance insights, advanced browser debugging, and seamless automation with Puppeteer. It supports various configurations for different MCP clients and allows connecting to running Chrome instances for enhanced testing and debugging capabilities.*
+> *Tailwind CSS is a utility-first CSS framework designed for rapid UI development, enabling developers to create custom user interfaces efficiently. With over 92,000 stars on GitHub, it emphasizes a flexible and responsive design approach, allowing for easy customization through utility classes. The framework is built in TypeScript and supports extensive documentation available at tailwindcss.com. Community engagement is encouraged through discussions and contributions, fostering a collaborative environment for best practices and feature enhancements.*
 
-- ⭐ 19875 stars
+- ⭐ 92671 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-10
+- 📅 Updated: 2026-01-11
 
-![chrome-devtools-mcp](2026/01-10/2026-01-10_daily-top_chrome-devtools-mcp.png)
+![tailwindcss](2026/01-11/2026-01-11_daily-top_tailwindcss.png)
 
-### 7. [n8n](https://github.com/n8n-io/n8n)
+### 6. [n8n](https://github.com/n8n-io/n8n)
 
 > 🤖 **Why Recommend**  
-> *n8n is a fair-code workflow automation platform designed for technical teams, combining the flexibility of code with the ease of a no-code interface. It boasts over 400 integrations and native AI capabilities, enabling users to create powerful automations while retaining full data control. Key features include the ability to write custom code, self-host or utilize cloud services, and access enterprise-level functionalities like advanced permissions and SSO. With an active community and extensive resources, n8n is ideal for building tailored workflows efficiently.*
+> *n8n is a fair-code workflow automation platform designed for technical teams, combining the flexibility of code with no-code speed. With over 400 integrations and native AI capabilities, users can create powerful automations while retaining full data control. Key features include a visual interface, support for JavaScript/Python, self-hosting options, and enterprise-ready solutions with advanced permissions. The platform also boasts an active community offering over 900 templates and extensive documentation. n8n is self-hostable and extensible, making it ideal for diverse automation needs.*
 
-- ⭐ 167845 stars
+- ⭐ 167994 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-10
+- 📅 Updated: 2026-01-11
 
-![n8n](2026/01-10/2026-01-10_daily-top_n8n.png)
+![n8n](2026/01-11/2026-01-11_daily-top_n8n.png)
 
-### 8. [twenty](https://github.com/twentyhq/twenty)
+### 7. [twenty](https://github.com/twentyhq/twenty)
 
 > 🤖 **Why Recommend**  
-> *Twenty is an open-source CRM designed as a modern alternative to Salesforce, emphasizing community-driven development. Key features include customizable layouts, object and field management, role-based permissions, and workflow automation. The platform supports integration with emails, calendar events, and files, providing a cohesive user experience inspired by tools like Notion and Airtable. Built with TypeScript and a robust tech stack including NestJS and PostgreSQL, Twenty fosters a collaborative ecosystem for developers. Join the community via Discord and contribute to its growth.*
+> *Twenty is a modern open-source CRM, designed as a community-driven alternative to Salesforce, with over 38,000 stars on GitHub. Key features include customizable layouts with filters, roles and permissions management, and workflow automation. It supports integration of emails, calendar events, and files. Built with TypeScript and React, it emphasizes user-friendly design inspired by tools like Notion and Airtable. The project encourages community contributions and offers extensive documentation, a roadmap, and active support via Discord and other platforms.*
 
-- ⭐ 38168 stars
+- ⭐ 38375 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-01-10
+- 📅 Updated: 2026-01-11
 
-![twenty](2026/01-10/2026-01-10_daily-top_twenty.png)
+![twenty](2026/01-11/2026-01-11_daily-top_twenty.png)
 
-### 9. [netbird](https://github.com/netbirdio/netbird)
+### 8. [crush](https://github.com/charmbracelet/crush)
 
 > 🤖 **Why Recommend**  
-> *NetBird is an open-source project that enables secure connections between devices using a WireGuard®-based overlay network, featuring Single Sign-On (SSO), Multi-Factor Authentication (MFA), and granular access controls. Key features include peer-to-peer connectivity, automatic configuration, a user-friendly admin UI, activity logging, and support for various platforms (Linux, Mac, Windows, iOS, Android). NetBird simplifies remote access management while enhancing security through device posture checks and public API integration. Join the community for support and resources at netbird.io.*
+> *Crush is a sophisticated AI coding assistant designed for integration with various terminal environments. Key features include multi-model support for LLMs, session-based context preservation, and LSP-enhanced functionalities, enabling seamless workflow management. The tool is extensible through Model Context Protocols (MCPs) and offers compatibility across macOS, Linux, Windows, and BSD systems. Installation is straightforward via multiple package managers. Crush empowers developers by streamlining coding tasks while maintaining flexibility and adaptability in diverse coding environments.*
 
-- ⭐ 20915 stars
+- ⭐ 17433 stars
 - 💻 Go
-- 📅 Updated: 2026-01-10
+- 📅 Updated: 2026-01-11
 
-![netbird](2026/01-10/2026-01-10_daily-top_netbird.png)
+![crush](2026/01-11/2026-01-11_daily-top_crush.png)
 
-### 10. [awesome-copilot](https://github.com/github/awesome-copilot)
+### 9. [awesome-copilot](https://github.com/github/awesome-copilot)
 
 > 🤖 **Why Recommend**  
-> *Awesome Copilot is a community-driven repository designed to enhance your GitHub Copilot experience with specialized agents, prompts, and instructions. Key features include custom agents for specific workflows, task-focused prompts for coding and documentation, and comprehensive instructions for coding standards. The MCP Server enables easy integration of these resources into your editor. With over 16,000 stars, it offers curated collections and continuous updates, promoting productivity and best practices across various programming domains. Contributions are welcomed to expand this toolkit.*
+> *Awesome Copilot is a community-driven repository offering a collection of custom agents, prompts, and instructions to enhance your GitHub Copilot experience. With 16,937 stars, it includes specialized agents for various workflows, task-specific prompts for code generation, and best practice instructions tailored to file patterns. Key features include curated collections for efficient coding, an MCP server for easy installation of customizations, and support for continuous learning through community contributions. Ideal for developers seeking to optimize their coding productivity and adherence to best practices.*
 
-- ⭐ 16768 stars
+- ⭐ 16937 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-01-10
+- 📅 Updated: 2026-01-11
 
-![awesome-copilot](2026/01-10/2026-01-10_daily-top_awesome-copilot.png)
+![awesome-copilot](2026/01-11/2026-01-11_daily-top_awesome-copilot.png)
+
+### 10. [netbird](https://github.com/netbirdio/netbird)
+
+> 🤖 **Why Recommend**  
+> *NetBird is an open-source project that creates secure, WireGuard®-based overlay networks for seamless device connectivity with features like Single Sign-On (SSO), Multi-Factor Authentication (MFA), and granular access controls. It simplifies network management through an Admin Web UI and supports auto peer discovery, public APIs, and private DNS. Key highlights include peer-to-peer connections, NAT traversal, and robust security measures like quantum-resistant encryption. NetBird is available for multiple platforms, including Linux, Windows, and Docker, and offers both cloud and self-hosted deployment options.*
+
+- ⭐ 20933 stars
+- 💻 Go
+- 📅 Updated: 2026-01-11
+
+![netbird](2026/01-11/2026-01-11_daily-top_netbird.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-10 12:27:14 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-01-11 01:14:01 UTC
