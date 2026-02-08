@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-02-07
+# 📊 🌟 GitHub Trending Daily - 2026-02-08
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **205337** ⭐ | **21551** 🍴
+**10** 个项目 | **174443** ⭐ | **18729** 🍴
 
-**热门语言:** `Rust` (6) · `TypeScript` (3) · `Swift` (1)
+**热门语言:** `Rust` (4) · `TypeScript` (4) · `Go` (1)
 
-**更新时间:** 2026-02-07 02:36 UTC
+**更新时间:** 2026-02-08 03:19 UTC
 
 **分类分布:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [claude-mem](https://github.com/thedotmack/claude-mem)
+### 1. [shannon](https://github.com/KeygraphHQ/shannon)
 
 > 🤖 **推荐理由**  
-> *Claude-Mem is a powerful TypeScript plugin for Claude Code that automatically captures and compresses coding session data, ensuring continuity across sessions. With 24,335 stars, it features persistent memory, skill-based search, and a real-time web viewer for easy access to previous observations. Key highlights include privacy control through `<private>` tags, context configuration, and automatic operation without manual intervention. The system supports advanced memory retrieval and offers experimental features via a beta channel, making it an essential tool for developers seeking enhanced productivity and contextual awareness.*
+> *Shannon is a fully autonomous AI pentester designed to identify and exploit vulnerabilities in web applications. Achieving a 96.15% success rate on the XBOW Benchmark, it autonomously performs penetration testing, executing real exploits to provide concrete proof of vulnerabilities. Key features include dynamic testing, pentester-grade reports, and critical OWASP vulnerability coverage. Shannon integrates with the Keygraph Security and Compliance Platform, streamlining compliance and security management. Available in Lite and Pro editions, it caters to both independent researchers and enterprises.*
 
-- ⭐ 24335 stars
+- ⭐ 10226 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-07
+- 📅 Updated: 2026-02-08
 
-![claude-mem](2026/02-07/2026-02-07_daily-top_claude-mem.png)
+![shannon](2026/02-08/2026-02-08_daily-top_shannon.png)
 
-### 2. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
-
-> 🤖 **推荐理由**  
-> *UI-TARS-desktop is an open-source multimodal AI agent stack that integrates advanced AI models for seamless interaction across platforms. Key features include a native GUI agent, natural language control, visual recognition, and precise mouse and keyboard manipulation, supporting Windows, MacOS, and browser environments. It allows local and remote operation, enhancing user productivity with real-time feedback. The project boasts a robust CLI and web UI, facilitating easy deployment and integration with real-world tools. With over 27,000 stars on GitHub, it aims to redefine automated GUI interactions.*
-
-- ⭐ 27131 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-07
-
-![UI-TARS-desktop](2026/02-07/2026-02-07_daily-top_UI-TARS-desktop.png)
-
-### 3. [CodexBar](https://github.com/steipete/CodexBar)
+### 2. [litebox](https://github.com/microsoft/litebox)
 
 > 🤖 **推荐理由**  
-> *CodexBar is a lightweight macOS 14+ menu bar app that displays usage stats for multiple AI providers, including OpenAI Codex, Claude, and more, without requiring login. Key features include session and weekly usage meters, customizable provider toggles, and dynamic icon overlays for status updates. It offers a bundled CLI for scripting and CI, privacy-first design with on-device data parsing, and options for browser cookie integration. With support for numerous providers and a user-friendly interface, CodexBar is ideal for monitoring AI usage efficiently.*
+> *LiteBox is a security-focused library OS written in Rust, designed for both kernel and user-mode execution. It minimizes the attack surface by significantly reducing the host interface, enhancing security. LiteBox features a flexible "North" interface inspired by `nix` and `rustix`, allowing seamless integration with various "South" platforms. Key use cases include running unmodified Linux programs on Windows, sandboxing Linux applications, and executing programs on SEV SNP and OP-TEE. The project is actively evolving, welcoming experimentation while aiming for a stable release.*
 
-- ⭐ 5190 stars
-- 💻 Swift
-- 📅 Updated: 2026-02-07
-
-![CodexBar](2026/02-07/2026-02-07_daily-top_CodexBar.png)
-
-### 4. [prek](https://github.com/j178/prek)
-
-> 🤖 **推荐理由**  
-> *prek is a re-engineered version of the popular pre-commit framework, built in Rust for enhanced speed and efficiency. Key features include a single binary with no dependencies, full compatibility with pre-commit configurations, built-in support for monorepos, and improved toolchain installations for various languages. It also offers faster execution times, parallel execution of hooks, and Rust-native implementations of common hooks. Already adopted by projects like CPython and Apache Airflow, prek aims to provide a better user experience without the need for Python installations.*
-
-- ⭐ 5721 stars
+- ⭐ 1155 stars
 - 💻 Rust
-- 📅 Updated: 2026-02-07
+- 📅 Updated: 2026-02-08
 
-![prek](2026/02-07/2026-02-07_daily-top_prek.png)
+![litebox](2026/02-08/2026-02-08_daily-top_litebox.png)
+
+### 3. [likec4](https://github.com/likec4/likec4)
+
+> 🤖 **推荐理由**  
+> *LikeC4 is an open-source tool for visualizing and evolving software architecture through dynamic, code-generated diagrams. Inspired by the C4 Model and Structurizr DSL, it allows users to customize notations and element types, facilitating tailored architecture modeling. The project features a CLI for easy previewing, comprehensive documentation, and a supportive community via Discord and GitHub Discussions. With over 2,100 stars on GitHub, LikeC4 integrates seamlessly with VSCode, making it a versatile choice for developers seeking real-time architectural insights.*
+
+- ⭐ 2101 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-08
+
+![likec4](2026/02-08/2026-02-08_daily-top_likec4.png)
+
+### 4. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+
+> 🤖 **推荐理由**  
+> *UI-TARS-desktop is an open-source multimodal AI agent stack designed to enhance user interactions through advanced AI models. With over 27,000 stars on GitHub, it features a native GUI agent that supports natural language control, visual recognition, and precise mouse/keyboard commands across platforms (Windows, MacOS, Browser). Key highlights include local and remote operator capabilities, one-click CLI execution, and seamless integration with real-world tools. It empowers users to automate tasks efficiently, making it ideal for both developers and everyday users.*
+
+- ⭐ 27277 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-08
+
+![UI-TARS-desktop](2026/02-08/2026-02-08_daily-top_UI-TARS-desktop.png)
 
 ### 5. [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
 
 > 🤖 **推荐理由**  
-> *Prompt Optimizer is a powerful AI prompt optimization tool designed to enhance the quality of AI-generated responses. With over 19,000 stars on GitHub, it offers a user-friendly experience through web, desktop, Chrome extension, and Docker deployment options. Key features include intelligent prompt optimization, dual-mode enhancement, real-time comparison testing, and multi-model integration (OpenAI, Gemini, etc.). It also supports advanced functionalities like image generation (T2I and I2I) and a secure architecture that ensures client-side data processing.*
+> *Prompt Optimizer is a powerful AI prompt optimization tool designed to enhance the quality of AI-generated content. It supports multiple platforms, including web, desktop, Chrome extension, and Docker deployment. Key features include smart prompt optimization, dual-mode enhancements for user and system prompts, real-time comparisons, multi-model integration (OpenAI, Gemini, etc.), and advanced testing capabilities. Users can generate images from text, manage variables, and utilize secure, client-side processing. The tool is open-source with a robust community and extensive documentation.*
 
-- ⭐ 19689 stars
+- ⭐ 19893 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-07
+- 📅 Updated: 2026-02-08
 
-![prompt-optimizer](2026/02-07/2026-02-07_daily-top_prompt-optimizer.png)
+![prompt-optimizer](2026/02-08/2026-02-08_daily-top_prompt-optimizer.png)
 
-### 6. [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
-
-> 🤖 **推荐理由**  
-> *Antigravity-Manager is a professional account management tool for seamless switching between Antigravity Tools. Built with Tauri v2 and React, it offers features like real-time quota monitoring, intelligent account recommendations, OAuth 2.0 support, and multi-protocol API proxying. Users can convert web sessions into standardized APIs, eliminating protocol barriers. The application supports advanced features such as model routing, automated quota protection, and image generation capabilities, making it an essential tool for developers and AI enthusiasts. With over 21,000 stars on GitHub, it ensures stability and high performance.*
-
-- ⭐ 21703 stars
-- 💻 Rust
-- 📅 Updated: 2026-02-07
-
-![Antigravity-Manager](2026/02-07/2026-02-07_daily-top_Antigravity-Manager.png)
-
-### 7. [100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust)
+### 6. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *The "100-exercises-to-learn-rust" project offers a self-paced course designed to teach Rust programming through 100 engaging exercises. Ideal for beginners, this course guides users from foundational knowledge to writing their own programs. Key features include clear instructions, optional IDE recommendations for enhanced learning, and access to solutions via the `solutions` branch. Developed by Mainmatter, it also highlights their consulting and training services. Get started at rust-exercises.com and explore additional resources on Mainmatter's website.*
+> *cc-switch is a cross-platform desktop assistant tool designed for Claude Code, Codex, and Gemini CLI, built with Rust. With over 16,735 stars, it offers a user-friendly interface and powerful features such as seamless provider management, skills and prompts management, and integrated MCP server support. Key highlights include SQLite-based data persistence, multi-language support (English, Chinese, Japanese), and a customizable UI. Sponsored by multiple API relay services, it ensures efficient AI coding experiences, making it a comprehensive solution for developers.*
 
-- ⭐ 9019 stars
+- ⭐ 16735 stars
 - 💻 Rust
-- 📅 Updated: 2026-02-07
+- 📅 Updated: 2026-02-08
 
-![100-exercises-to-learn-rust](2026/02-07/2026-02-07_daily-top_100-exercises-to-learn-rust.png)
+![cc-switch](2026/02-08/2026-02-08_daily-top_cc-switch.png)
 
-### 8. [codex](https://github.com/openai/codex)
+### 7. [trivy](https://github.com/aquasecurity/trivy)
 
 > 🤖 **推荐理由**  
-> *Codex is a lightweight coding agent from OpenAI that operates directly in your terminal, built with Rust and boasting over 59,000 stars on GitHub. Easily installable via npm or Homebrew, Codex enhances coding efficiency by providing intelligent code suggestions and completions. It integrates seamlessly with various IDEs, including VS Code, and supports users with ChatGPT plans. The project offers comprehensive documentation and contributes to an open-source fund, making it a valuable tool for developers seeking local coding assistance.*
+> *Trivy is a powerful open-source security scanner developed by Aqua Security that identifies vulnerabilities, misconfigurations, secrets, and Software Bill of Materials (SBOM) across various targets, including container images, Kubernetes, and code repositories. With over 31,000 stars on GitHub, it supports a wide range of programming languages and platforms. Key features include scanning for OS packages, known CVEs, IaC issues, and sensitive information. Trivy integrates seamlessly with popular tools like GitHub Actions and Kubernetes operators, making it essential for enhancing security in DevOps workflows.*
 
-- ⭐ 59299 stars
-- 💻 Rust
-- 📅 Updated: 2026-02-07
+- ⭐ 31696 stars
+- 💻 Go
+- 📅 Updated: 2026-02-08
 
-![codex](2026/02-07/2026-02-07_daily-top_codex.png)
+![trivy](2026/02-08/2026-02-08_daily-top_trivy.png)
 
-### 9. [litebox](https://github.com/microsoft/litebox)
-
-> 🤖 **推荐理由**  
-> *LiteBox is a security-focused library OS built in Rust, designed to minimize the attack surface by streamlining the interface to the host. It supports both kernel and user-mode execution, facilitating easy interoperability between various "North" shims and "South" platforms. Key features include running unmodified Linux programs on Windows, sandboxing Linux apps, and executing programs on SEV SNP and OP-TEE. As an evolving project, LiteBox invites experimentation while working toward a stable release. It is licensed under the MIT License.*
-
-- ⭐ 750 stars
-- 💻 Rust
-- 📅 Updated: 2026-02-07
-
-![litebox](2026/02-07/2026-02-07_daily-top_litebox.png)
-
-### 10. [fish-shell](https://github.com/fish-shell/fish-shell)
+### 8. [CodexBar](https://github.com/steipete/CodexBar)
 
 > 🤖 **推荐理由**  
-> *fish-shell is a user-friendly command line shell designed for macOS, Linux, and more. With 32,500 stars on GitHub, it offers intuitive features like syntax highlighting, autosuggestions, and advanced tab completions without requiring configuration. fish aims to enhance the command line experience by making it smarter and easier to use. It is easily installable via Homebrew, MacPorts, or various Linux package managers, and also supports Windows through WSL and Cygwin. Comprehensive documentation is available online to assist users in getting started.*
+> *CodexBar is a lightweight macOS 14+ menu bar app that provides real-time usage statistics for various AI code assistants like OpenAI Codex and Claude, without requiring login. With over 5,290 stars, it features session and weekly usage meters, reset countdowns, and multi-provider toggles. Users can customize the display and access optional web dashboard enhancements. The app prioritizes privacy, using on-device data parsing and offering a command-line interface for Linux. CodexBar also supports a wide range of AI providers, making it a versatile tool for developers.*
 
-- ⭐ 32500 stars
+- ⭐ 5290 stars
+- 💻 Swift
+- 📅 Updated: 2026-02-08
+
+![CodexBar](2026/02-08/2026-02-08_daily-top_CodexBar.png)
+
+### 9. [codex](https://github.com/openai/codex)
+
+> 🤖 **推荐理由**  
+> *Codex is a lightweight coding agent from OpenAI that operates directly in your terminal, designed for seamless integration with various code editors like VS Code. With over 59,462 stars, Codex supports installations via npm or Homebrew, enabling users to quickly set up and run coding tasks. It offers both local and cloud-based options, with the latter accessible through ChatGPT plans. Key features include API key support and extensive documentation for user guidance. Codex is built with Rust and is open-source under the Apache-2.0 License.*
+
+- ⭐ 59462 stars
 - 💻 Rust
-- 📅 Updated: 2026-02-07
+- 📅 Updated: 2026-02-08
 
-![fish-shell](2026/02-07/2026-02-07_daily-top_fish-shell.png)
+![codex](2026/02-08/2026-02-08_daily-top_codex.png)
+
+### 10. [anet](https://github.com/ZeroTworu/anet)
+
+> 🤖 **推荐理由**  
+> *ANet is a simple Rust-based VPN client/server designed to create a private and secure communication space among trusted individuals. It employs the proprietary ASTP (ANet Secure Transport Protocol) focusing on privacy, resilience in unstable networks, and traffic obfuscation. Key features include end-to-end encryption (ChaCha20Poly1305/X25519), cross-platform support (Linux, Windows, Android), and components like a server, CLI and GUI clients, and an Android library. ANet is built with an emphasis on reliable connectivity and user privacy.*
+
+- ⭐ 608 stars
+- 💻 Rust
+- 📅 Updated: 2026-02-08
+
+![anet](2026/02-08/2026-02-08_daily-top_anet.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-07 02:36:44 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-08 03:19:45 UTC

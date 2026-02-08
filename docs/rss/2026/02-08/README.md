@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-08
 
-![shannon](2026/02-08/2026-02-08_daily-top_shannon.png)
+![shannon](2026-02-08_daily-top_shannon.png)
 
 ### 2. [litebox](https://github.com/microsoft/litebox)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-08
 
-![litebox](2026/02-08/2026-02-08_daily-top_litebox.png)
+![litebox](2026-02-08_daily-top_litebox.png)
 
 ### 3. [likec4](https://github.com/likec4/likec4)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-08
 
-![likec4](2026/02-08/2026-02-08_daily-top_likec4.png)
+![likec4](2026-02-08_daily-top_likec4.png)
 
 ### 4. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-08
 
-![UI-TARS-desktop](2026/02-08/2026-02-08_daily-top_UI-TARS-desktop.png)
+![UI-TARS-desktop](2026-02-08_daily-top_UI-TARS-desktop.png)
 
 ### 5. [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-08
 
-![prompt-optimizer](2026/02-08/2026-02-08_daily-top_prompt-optimizer.png)
+![prompt-optimizer](2026-02-08_daily-top_prompt-optimizer.png)
 
 ### 6. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-08
 
-![cc-switch](2026/02-08/2026-02-08_daily-top_cc-switch.png)
+![cc-switch](2026-02-08_daily-top_cc-switch.png)
 
 ### 7. [trivy](https://github.com/aquasecurity/trivy)
 
@@ -93,7 +93,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-08
 
-![trivy](2026/02-08/2026-02-08_daily-top_trivy.png)
+![trivy](2026-02-08_daily-top_trivy.png)
 
 ### 8. [CodexBar](https://github.com/steipete/CodexBar)
 
@@ -104,7 +104,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-02-08
 
-![CodexBar](2026/02-08/2026-02-08_daily-top_CodexBar.png)
+![CodexBar](2026-02-08_daily-top_CodexBar.png)
 
 ### 9. [codex](https://github.com/openai/codex)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-08
 
-![codex](2026/02-08/2026-02-08_daily-top_codex.png)
+![codex](2026-02-08_daily-top_codex.png)
 
 ### 10. [anet](https://github.com/ZeroTworu/anet)
 
@@ -126,7 +126,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-08
 
-![anet](2026/02-08/2026-02-08_daily-top_anet.png)
+![anet](2026-02-08_daily-top_anet.png)
 
 ---
 
