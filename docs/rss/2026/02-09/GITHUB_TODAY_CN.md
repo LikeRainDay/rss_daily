@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-09
 
-![shannon](2026/02-09/2026-02-09_daily-top_shannon.png)
+![shannon](2026-02-09_daily-top_shannon.png)
 
 ### 2. [dexter](https://github.com/virattt/dexter)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-09
 
-![dexter](2026/02-09/2026-02-09_daily-top_dexter.png)
+![dexter](2026-02-09_daily-top_dexter.png)
 
 ### 3. [monty](https://github.com/pydantic/monty)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-09
 
-![monty](2026/02-09/2026-02-09_daily-top_monty.png)
+![monty](2026-02-09_daily-top_monty.png)
 
 ### 4. [gitbutler](https://github.com/gitbutlerapp/gitbutler)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-09
 
-![gitbutler](2026/02-09/2026-02-09_daily-top_gitbutler.png)
+![gitbutler](2026-02-09_daily-top_gitbutler.png)
 
 ### 5. [litebox](https://github.com/microsoft/litebox)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-09
 
-![litebox](2026/02-09/2026-02-09_daily-top_litebox.png)
+![litebox](2026-02-09_daily-top_litebox.png)
 
 ### 6. [AionUi](https://github.com/iOfficeAI/AionUi)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-09
 
-![AionUi](2026/02-09/2026-02-09_daily-top_AionUi.png)
+![AionUi](2026-02-09_daily-top_AionUi.png)
 
 ### 7. [likec4](https://github.com/likec4/likec4)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-09
 
-![likec4](2026/02-09/2026-02-09_daily-top_likec4.png)
+![likec4](2026-02-09_daily-top_likec4.png)
 
 ### 8. [escrcpy](https://github.com/viarotel-org/escrcpy)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-09
 
-![escrcpy](2026/02-09/2026-02-09_daily-top_escrcpy.png)
+![escrcpy](2026-02-09_daily-top_escrcpy.png)
 
 ### 9. [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-09
 
-![Antigravity-Manager](2026/02-09/2026-02-09_daily-top_Antigravity-Manager.png)
+![Antigravity-Manager](2026-02-09_daily-top_Antigravity-Manager.png)
 
 ### 10. [playwright-cli](https://github.com/microsoft/playwright-cli)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-09
 
-![playwright-cli](2026/02-09/2026-02-09_daily-top_playwright-cli.png)
+![playwright-cli](2026-02-09_daily-top_playwright-cli.png)
 
 ---
 
