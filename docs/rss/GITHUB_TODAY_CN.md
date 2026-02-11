@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-02-10
+# 📊 🌟 GitHub Trending Daily - 2026-02-11
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **84498** ⭐ | **6630** 🍴
+**10** 个项目 | **126189** ⭐ | **11894** 🍴
 
-**热门语言:** `TypeScript` (5) · `Rust` (4) · `Go` (1)
+**热门语言:** `TypeScript` (5) · `Rust` (3) · `Go` (1)
 
-**更新时间:** 2026-02-10 02:57 UTC
+**更新时间:** 2026-02-11 02:55 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [shannon](https://github.com/KeygraphHQ/shannon)
 
 > 🤖 **推荐理由**  
-> *Shannon is a fully autonomous AI pentester designed to identify and exploit vulnerabilities in web applications, achieving a 96.15% success rate on the XBOW Benchmark. It autonomously conducts penetration tests, executing real exploits like injection attacks and auth bypass to provide actionable proof of vulnerabilities. Key features include code-aware dynamic testing, pentester-grade reports, and parallel processing for faster results. Shannon is available in Lite (free) and Pro (commercial) editions and integrates into the Keygraph Security and Compliance Platform for comprehensive security management.*
+> *Shannon is a fully autonomous AI pentester designed to identify real exploits in web applications. With a 96.15% success rate on the XBOW Benchmark, it autonomously tests for vulnerabilities such as Injection, XSS, and SSRF. Key features include one-command operation, pentester-grade reports with actionable Proof-of-Concepts, and code-aware dynamic testing. Available in Lite and Pro editions, Shannon not only finds vulnerabilities but also executes real exploits, providing comprehensive security assessments. Ideal for continuous security assurance, it integrates seamlessly into development workflows.*
 
-- ⭐ 17572 stars
+- ⭐ 19849 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-10
+- 📅 Updated: 2026-02-11
 
-![shannon](2026/02-10/2026-02-10_daily-top_shannon.png)
+![shannon](2026/02-11/2026-02-11_daily-top_shannon.png)
 
 ### 2. [monty](https://github.com/pydantic/monty)
 
 > 🤖 **推荐理由**  
-> *Monty is a minimal, secure Python interpreter built in Rust, designed for AI applications. With over 4,000 stars on GitHub, it enables rapid execution of LLM-generated Python code with startup times under 1μs. Key features include strict control over the host environment, type checking support, and the ability to pause and resume execution using serialization. Monty can be called from Python, JavaScript, or Rust, making it versatile for various applications. It emphasizes security and performance, eliminating the complexity of traditional sandboxing solutions.*
+> *Monty is a minimal, secure Python interpreter written in Rust, designed for AI applications. It allows rapid execution of a subset of Python code with startup times under 1 microsecond. Key features include strict environment access control, type checking with modern Python hints, and the ability to pause and resume execution via serialization. Monty can be integrated with Rust, Python, or JavaScript without dependencies on CPython. It is particularly useful for running LLM-generated code, optimizing performance while maintaining security.*
 
-- ⭐ 4005 stars
+- ⭐ 4574 stars
 - 💻 Rust
-- 📅 Updated: 2026-02-10
+- 📅 Updated: 2026-02-11
 
-![monty](2026/02-10/2026-02-10_daily-top_monty.png)
+![monty](2026/02-11/2026-02-11_daily-top_monty.png)
 
 ### 3. [dexter](https://github.com/virattt/dexter)
 
 > 🤖 **推荐理由**  
-> *Dexter is an autonomous financial research agent designed to perform deep analysis by thinking, planning, and learning. It intelligently breaks down complex financial queries into structured tasks, executes them using real-time market data, and self-validates results. Key features include intelligent task planning, autonomous execution of data gathering, and built-in safety features to prevent errors. With access to crucial financial datasets and an evaluation suite for performance tracking, Dexter streamlines financial research and delivers confident, data-backed insights.*
+> *Dexter is an autonomous financial research agent that intelligently decomposes complex queries into actionable research plans. Leveraging real-time market data, it autonomously executes tasks, self-validates results, and iterates until confident answers are achieved. Key features include intelligent task planning, access to financial datasets, and built-in safety mechanisms to prevent runaway execution. The project is designed for seamless installation and includes an evaluation suite for tracking performance. With over 14,000 stars on GitHub, Dexter is poised to revolutionize financial research.*
 
-- ⭐ 13607 stars
+- ⭐ 14187 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-10
+- 📅 Updated: 2026-02-11
 
-![dexter](2026/02-10/2026-02-10_daily-top_dexter.png)
+![dexter](2026/02-11/2026-02-11_daily-top_dexter.png)
 
 ### 4. [AionUi](https://github.com/iOfficeAI/AionUi)
 
 > 🤖 **推荐理由**  
-> *AionUi is a free, open-source platform designed for seamless collaboration with multiple command-line AI tools such as Gemini CLI, Claude Code, and Codex. Key features include a user-friendly graphical interface, multi-agent support, local data security, and remote access via WebUI and chat platforms like Telegram and Slack. It automates tasks, offers smart file management, and supports real-time previews of AI-generated content. AionUi is cross-platform (macOS, Windows, Linux) and enables users to switch between various AI models effortlessly, enhancing productivity in AI-driven workflows.*
+> *AionUi is a free, open-source platform designed for seamless coworking with AI command-line tools like Gemini CLI, Claude Code, and more. It features a unified graphical interface, multi-agent support, and local data security. Key services include real-time multi-session chat, smart file management, and AI image generation. Users can access AionUi remotely via WebUI or chat platforms like Telegram and Slack. With powerful automation capabilities and customizable interfaces, AionUi enhances AI office automation for macOS, Windows, and Linux users.*
 
-- ⭐ 13888 stars
+- ⭐ 14526 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-10
+- 📅 Updated: 2026-02-11
 
-![AionUi](2026/02-10/2026-02-10_daily-top_AionUi.png)
+![AionUi](2026/02-11/2026-02-11_daily-top_AionUi.png)
 
-### 5. [gitbutler](https://github.com/gitbutlerapp/gitbutler)
-
-> 🤖 **推荐理由**  
-> *GitButler is an advanced Git-based version control client designed for modern workflows, featuring both a user-friendly GUI and a powerful CLI. Key features include stacked and parallel branches for efficient development, easy commit management without complex rebasing, an undo timeline for tracking changes, and first-class conflict resolution. It integrates seamlessly with GitHub and GitLab for streamlined collaboration and incorporates AI tools to enhance commit message generation and branch naming. Built with Tauri, Rust, and Svelte, GitButler is a robust and flexible alternative to traditional Git.*
-
-- ⭐ 18669 stars
-- 💻 Rust
-- 📅 Updated: 2026-02-10
-
-![gitbutler](2026/02-10/2026-02-10_daily-top_gitbutler.png)
-
-### 6. [litebox](https://github.com/microsoft/litebox)
+### 5. [gh-aw](https://github.com/github/gh-aw)
 
 > 🤖 **推荐理由**  
-> *LiteBox is a security-focused library OS written in Rust, designed to minimize the attack surface by reducing the interface to the host. It supports both kernel and user-mode execution, enabling easy interoperability between various "North" shims and "South" platforms. Key features include running unmodified Linux programs on Windows, sandboxing Linux applications, and executing programs on SEV SNP and OP-TEE. LiteBox is actively evolving, with APIs subject to change as development progresses. The project is available under the MIT License and encourages contributions.*
+> *GitHub Agentic Workflows (gh-aw) allows users to create and execute agentic workflows in natural language markdown within GitHub Actions. With 1,375 stars, this Go-based tool emphasizes safety through guardrails such as read-only permissions, input sanitization, and sandboxed execution. Key features include a Quick Start Guide, comprehensive documentation, and integration with companion projects like Agent Workflow Firewall for enhanced security. Designed for secure automation of repository tasks, it prioritizes user supervision and safety in AI operations.*
 
-- ⭐ 1745 stars
-- 💻 Rust
-- 📅 Updated: 2026-02-10
-
-![litebox](2026/02-10/2026-02-10_daily-top_litebox.png)
-
-### 7. [likec4](https://github.com/likec4/likec4)
-
-> 🤖 **推荐理由**  
-> *LikeC4 is an innovative tool for visualizing, collaborating on, and evolving software architecture through live, up-to-date diagrams generated from code. Built with TypeScript, it allows customization of notation, element types, and architecture levels, inspired by the C4 Model and Structurizr DSL. Key features include a CLI for previewing diagrams, a comprehensive documentation site, and community support via Discord and GitHub Discussions. With over 2,500 stars, LikeC4 is an open-source project, licensed under MIT, and actively welcomes contributions and financial support.*
-
-- ⭐ 2533 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-10
-
-![likec4](2026/02-10/2026-02-10_daily-top_likec4.png)
-
-### 8. [gh-aw](https://github.com/github/gh-aw)
-
-> 🤖 **推荐理由**  
-> *GitHub Agentic Workflows (gh-aw) enables users to create and run agentic workflows using natural language markdown within GitHub Actions. It emphasizes safety with guardrails, including read-only permissions, sanitized outputs, and multi-layered security measures. Key features include a quick start guide, comprehensive documentation, and integration with companion projects like Agent Workflow Firewall for secure execution. This project fosters automation while ensuring controlled and safe operations, making it ideal for repository management and AI task automation.*
-
-- ⭐ 954 stars
+- ⭐ 1375 stars
 - 💻 Go
-- 📅 Updated: 2026-02-10
+- 📅 Updated: 2026-02-11
 
-![gh-aw](2026/02-10/2026-02-10_daily-top_gh-aw.png)
+![gh-aw](2026/02-11/2026-02-11_daily-top_gh-aw.png)
 
-### 9. [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)
-
-> 🤖 **推荐理由**  
-> *check-if-email-exists is an open-source Rust project that determines the existence of an email address without sending an email. It features a robust HTTP backend available via Docker, a command-line interface (CLI), and programmatic integration for Rust applications. Key functionalities include email reachability assessment, syntax validation, DNS records check, and validation for disposable and role accounts. The project also offers a SaaS solution through Reacher for a user-friendly experience. With 8,187 stars, it provides a comprehensive alternative to paid email verification services.*
-
-- ⭐ 8187 stars
-- 💻 Rust
-- 📅 Updated: 2026-02-10
-
-![check-if-email-exists](2026/02-10/2026-02-10_daily-top_check-if-email-exists.png)
-
-### 10. [archestra](https://github.com/archestra-ai/archestra)
+### 6. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
 
 > 🤖 **推荐理由**  
-> *Archestra is a secure, MCP-native AI platform designed for enterprises, facilitating user-friendly AI integration with robust security. Key features include a centralized MCP orchestrator for server management, a private MCP registry for governance, and a cost monitoring system that can reduce AI expenses by up to 96%. It offers observability tools for tracking usage and performance, alongside security measures to prevent data exfiltration. With a quickstart via Docker and Kubernetes compatibility, Archestra simplifies AI deployment for both technical and non-technical users.*
+> *The Compound Engineering Plugin is an official Claude Code marketplace tool designed to streamline engineering workflows. It enables users to plan, execute, review, and document work effectively, promoting a philosophy where each task eases future efforts. Key features include plugin installation, conversion to OpenCode and Codex formats, and syncing of personal configurations. The workflow emphasizes thorough planning and review, reducing technical debt and enhancing code quality. With over 8,196 stars, this TypeScript-based plugin is pivotal for optimizing engineering processes.*
 
-- ⭐ 3338 stars
+- ⭐ 8196 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-10
+- 📅 Updated: 2026-02-11
 
-![archestra](2026/02-10/2026-02-10_daily-top_archestra.png)
+![compound-engineering-plugin](2026/02-11/2026-02-11_daily-top_compound-engineering-plugin.png)
+
+### 7. [gitbutler](https://github.com/gitbutlerapp/gitbutler)
+
+> 🤖 **推荐理由**  
+> *GitButler is a modern, Git-based version control client designed for enhanced user experience with both a GUI and CLI. Key features include stacked and parallel branches for efficient branch management, easy commit mutations, and an undo timeline for tracking changes. It integrates seamlessly with GitHub and GitLab for Pull Requests and CI statuses, and incorporates AI tools for generating commit messages and branch names. Built with Tauri, Rust, and Svelte, GitButler offers a user-friendly alternative to traditional Git workflows, making version control simpler and more powerful.*
+
+- ⭐ 19048 stars
+- 💻 Rust
+- 📅 Updated: 2026-02-11
+
+![gitbutler](2026/02-11/2026-02-11_daily-top_gitbutler.png)
+
+### 8. [litebox](https://github.com/microsoft/litebox)
+
+> 🤖 **推荐理由**  
+> *LiteBox is a security-focused library operating system written in Rust, designed to minimize the attack surface by drastically reducing the interface to the host. It supports both kernel- and user-mode execution, enabling seamless interoperability between diverse "North" shims and "South" platforms. Key use cases include running unmodified Linux programs on Windows, sandboxing Linux applications, and executing programs on SEV SNP or OP-TEE. LiteBox is actively evolving, encouraging experimentation while aiming for a stable release.*
+
+- ⭐ 1843 stars
+- 💻 Rust
+- 📅 Updated: 2026-02-11
+
+![litebox](2026/02-11/2026-02-11_daily-top_litebox.png)
+
+### 9. [playwright-cli](https://github.com/microsoft/playwright-cli)
+
+> 🤖 **推荐理由**  
+> *playwright-cli is a powerful command-line interface for Playwright, enabling efficient browser automation. With over 3000 stars, it facilitates recording and generating Playwright code, inspecting selectors, and capturing screenshots. Key features include token-efficient operations for coding agents, session management with persistent profiles, and a range of commands for navigation, user interaction, and storage state management. The CLI supports modern coding workflows, making it ideal for high-throughput environments. Easily install and use with Node.js 18+ and popular coding agents.*
+
+- ⭐ 3039 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-02-11
+
+![playwright-cli](2026/02-11/2026-02-11_daily-top_playwright-cli.png)
+
+### 10. [twenty](https://github.com/twentyhq/twenty)
+
+> 🤖 **推荐理由**  
+> *twenty is a powerful open-source CRM alternative to Salesforce, designed for flexibility and community collaboration. Key features include customizable layouts (filters, kanban, table views), object and field personalization, role-based permissions management, and automated workflows with triggers. Built using TypeScript, NestJS, and React, it aims to provide a cohesive user experience inspired by modern tools. With a focus on affordability and open-source development, twenty encourages contributions and community engagement through platforms like Discord and GitHub.*
+
+- ⭐ 39552 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-11
+
+![twenty](2026/02-11/2026-02-11_daily-top_twenty.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-10 02:57:02 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-11 02:55:39 UTC

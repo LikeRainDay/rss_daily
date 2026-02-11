@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-11
 
-![shannon](2026/02-11/2026-02-11_daily-top_shannon.png)
+![shannon](2026-02-11_daily-top_shannon.png)
 
 ### 2. [monty](https://github.com/pydantic/monty)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-11
 
-![monty](2026/02-11/2026-02-11_daily-top_monty.png)
+![monty](2026-02-11_daily-top_monty.png)
 
 ### 3. [dexter](https://github.com/virattt/dexter)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-11
 
-![dexter](2026/02-11/2026-02-11_daily-top_dexter.png)
+![dexter](2026-02-11_daily-top_dexter.png)
 
 ### 4. [AionUi](https://github.com/iOfficeAI/AionUi)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-11
 
-![AionUi](2026/02-11/2026-02-11_daily-top_AionUi.png)
+![AionUi](2026-02-11_daily-top_AionUi.png)
 
 ### 5. [gh-aw](https://github.com/github/gh-aw)
 
@@ -71,7 +71,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-11
 
-![gh-aw](2026/02-11/2026-02-11_daily-top_gh-aw.png)
+![gh-aw](2026-02-11_daily-top_gh-aw.png)
 
 ### 6. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-11
 
-![compound-engineering-plugin](2026/02-11/2026-02-11_daily-top_compound-engineering-plugin.png)
+![compound-engineering-plugin](2026-02-11_daily-top_compound-engineering-plugin.png)
 
 ### 7. [gitbutler](https://github.com/gitbutlerapp/gitbutler)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-11
 
-![gitbutler](2026/02-11/2026-02-11_daily-top_gitbutler.png)
+![gitbutler](2026-02-11_daily-top_gitbutler.png)
 
 ### 8. [litebox](https://github.com/microsoft/litebox)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-11
 
-![litebox](2026/02-11/2026-02-11_daily-top_litebox.png)
+![litebox](2026-02-11_daily-top_litebox.png)
 
 ### 9. [playwright-cli](https://github.com/microsoft/playwright-cli)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-11
 
-![playwright-cli](2026/02-11/2026-02-11_daily-top_playwright-cli.png)
+![playwright-cli](2026-02-11_daily-top_playwright-cli.png)
 
 ### 10. [twenty](https://github.com/twentyhq/twenty)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-11
 
-![twenty](2026/02-11/2026-02-11_daily-top_twenty.png)
+![twenty](2026-02-11_daily-top_twenty.png)
 
 ---
 
