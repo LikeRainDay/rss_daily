@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-12
 
-![shannon](2026/02-12/2026-02-12_daily-top_shannon.png)
+![shannon](2026-02-12_daily-top_shannon.png)
 
 ### 2. [AionUi](https://github.com/iOfficeAI/AionUi)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-12
 
-![AionUi](2026/02-12/2026-02-12_daily-top_AionUi.png)
+![AionUi](2026-02-12_daily-top_AionUi.png)
 
 ### 3. [drawdb](https://github.com/drawdb-io/drawdb)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-12
 
-![drawdb](2026/02-12/2026-02-12_daily-top_drawdb.png)
+![drawdb](2026-02-12_daily-top_drawdb.png)
 
 ### 4. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-12
 
-![Personal_AI_Infrastructure](2026/02-12/2026-02-12_daily-top_Personal_AI_Infrastructure.png)
+![Personal_AI_Infrastructure](2026-02-12_daily-top_Personal_AI_Infrastructure.png)
 
 ### 5. [gitbutler](https://github.com/gitbutlerapp/gitbutler)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-12
 
-![gitbutler](2026/02-12/2026-02-12_daily-top_gitbutler.png)
+![gitbutler](2026-02-12_daily-top_gitbutler.png)
 
 ### 6. [gh-aw](https://github.com/github/gh-aw)
 
@@ -82,7 +82,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-12
 
-![gh-aw](2026/02-12/2026-02-12_daily-top_gh-aw.png)
+![gh-aw](2026-02-12_daily-top_gh-aw.png)
 
 ### 7. [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-12
 
-![Antigravity-Manager](2026/02-12/2026-02-12_daily-top_Antigravity-Manager.png)
+![Antigravity-Manager](2026-02-12_daily-top_Antigravity-Manager.png)
 
 ### 8. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-12
 
-![compound-engineering-plugin](2026/02-12/2026-02-12_daily-top_compound-engineering-plugin.png)
+![compound-engineering-plugin](2026-02-12_daily-top_compound-engineering-plugin.png)
 
 ### 9. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-12
 
-![chrome-devtools-mcp](2026/02-12/2026-02-12_daily-top_chrome-devtools-mcp.png)
+![chrome-devtools-mcp](2026-02-12_daily-top_chrome-devtools-mcp.png)
 
 ### 10. [lazygit](https://github.com/jesseduffield/lazygit)
 
@@ -126,7 +126,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-12
 
-![lazygit](2026/02-12/2026-02-12_daily-top_lazygit.png)
+![lazygit](2026-02-12_daily-top_lazygit.png)
 
 ---
 

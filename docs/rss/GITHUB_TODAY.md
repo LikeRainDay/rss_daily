@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-02-11
+# 📊 🌟 GitHub Trending Daily - 2026-02-12
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **126189** ⭐ | **11894** 🍴
+**10** Projects | **227977** ⭐ | **15304** 🍴
 
-**Top Languages:** `TypeScript` (5) · `Rust` (3) · `Go` (1)
+**Top Languages:** `TypeScript` (5) · `Rust` (2) · `Go` (2)
 
-**Updated:** 2026-02-11 02:55 UTC
+**Updated:** 2026-02-12 02:51 UTC
 
 **Categories:**
 
@@ -21,112 +21,112 @@
 ### 1. [shannon](https://github.com/KeygraphHQ/shannon)
 
 > 🤖 **Why Recommend**  
-> *Shannon is a fully autonomous AI pentester designed to identify real exploits in web applications. With a 96.15% success rate on the XBOW Benchmark, it autonomously tests for vulnerabilities such as Injection, XSS, and SSRF. Key features include one-command operation, pentester-grade reports with actionable Proof-of-Concepts, and code-aware dynamic testing. Available in Lite and Pro editions, Shannon not only finds vulnerabilities but also executes real exploits, providing comprehensive security assessments. Ideal for continuous security assurance, it integrates seamlessly into development workflows.*
+> *Shannon is a fully autonomous AI pentester designed to identify and exploit vulnerabilities in web applications, achieving a 96.15% success rate on the hint-free, source-aware XBOW benchmark. It autonomously executes real exploits, such as injection attacks, providing actionable proof of vulnerabilities. Key features include automated pentesting, comprehensive reports with reproducible exploits, and critical OWASP vulnerability coverage. As part of the Keygraph Security and Compliance Platform, Shannon streamlines security and compliance, making it ideal for developers and security teams alike.*
 
-- ⭐ 19849 stars
+- ⭐ 20705 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-11
+- 📅 Updated: 2026-02-12
 
-![shannon](2026/02-11/2026-02-11_daily-top_shannon.png)
+![shannon](2026/02-12/2026-02-12_daily-top_shannon.png)
 
-### 2. [monty](https://github.com/pydantic/monty)
-
-> 🤖 **Why Recommend**  
-> *Monty is a minimal, secure Python interpreter written in Rust, designed for AI applications. It allows rapid execution of a subset of Python code with startup times under 1 microsecond. Key features include strict environment access control, type checking with modern Python hints, and the ability to pause and resume execution via serialization. Monty can be integrated with Rust, Python, or JavaScript without dependencies on CPython. It is particularly useful for running LLM-generated code, optimizing performance while maintaining security.*
-
-- ⭐ 4574 stars
-- 💻 Rust
-- 📅 Updated: 2026-02-11
-
-![monty](2026/02-11/2026-02-11_daily-top_monty.png)
-
-### 3. [dexter](https://github.com/virattt/dexter)
+### 2. [AionUi](https://github.com/iOfficeAI/AionUi)
 
 > 🤖 **Why Recommend**  
-> *Dexter is an autonomous financial research agent that intelligently decomposes complex queries into actionable research plans. Leveraging real-time market data, it autonomously executes tasks, self-validates results, and iterates until confident answers are achieved. Key features include intelligent task planning, access to financial datasets, and built-in safety mechanisms to prevent runaway execution. The project is designed for seamless installation and includes an evaluation suite for tracking performance. With over 14,000 stars on GitHub, Dexter is poised to revolutionize financial research.*
+> *AionUi is a free, open-source platform designed for seamless collaboration with various command-line AI tools such as Gemini CLI, Claude Code, and Codex. It features a unified graphical interface, multi-agent support, and local data security, allowing users to manage multiple sessions with independent contexts. Key highlights include a WebUI for remote access, smart file management, AI image generation, and real-time document previews. With extensive customization options and a community-driven approach, AionUi enhances AI office automation for macOS, Windows, and Linux users.*
 
-- ⭐ 14187 stars
+- ⭐ 15010 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-11
+- 📅 Updated: 2026-02-12
 
-![dexter](2026/02-11/2026-02-11_daily-top_dexter.png)
+![AionUi](2026/02-12/2026-02-12_daily-top_AionUi.png)
 
-### 4. [AionUi](https://github.com/iOfficeAI/AionUi)
-
-> 🤖 **Why Recommend**  
-> *AionUi is a free, open-source platform designed for seamless coworking with AI command-line tools like Gemini CLI, Claude Code, and more. It features a unified graphical interface, multi-agent support, and local data security. Key services include real-time multi-session chat, smart file management, and AI image generation. Users can access AionUi remotely via WebUI or chat platforms like Telegram and Slack. With powerful automation capabilities and customizable interfaces, AionUi enhances AI office automation for macOS, Windows, and Linux users.*
-
-- ⭐ 14526 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-11
-
-![AionUi](2026/02-11/2026-02-11_daily-top_AionUi.png)
-
-### 5. [gh-aw](https://github.com/github/gh-aw)
+### 3. [drawdb](https://github.com/drawdb-io/drawdb)
 
 > 🤖 **Why Recommend**  
-> *GitHub Agentic Workflows (gh-aw) allows users to create and execute agentic workflows in natural language markdown within GitHub Actions. With 1,375 stars, this Go-based tool emphasizes safety through guardrails such as read-only permissions, input sanitization, and sandboxed execution. Key features include a Quick Start Guide, comprehensive documentation, and integration with companion projects like Agent Workflow Firewall for enhanced security. Designed for secure automation of repository tasks, it prioritizes user supervision and safety in AI operations.*
+> *drawDB is a free, intuitive online database diagram editor and SQL generator, designed for simplicity and efficiency. Users can create database entity relationship diagrams effortlessly, export SQL scripts, and customize their editing experience—all without needing to register. With over 36,000 stars on GitHub, it boasts robust functionality accessible directly in the browser. Key features include easy diagramming, seamless SQL export, and optional file sharing through a server setup. Start building at drawdb.app and join the community on Discord.*
 
-- ⭐ 1375 stars
-- 💻 Go
-- 📅 Updated: 2026-02-11
-
-![gh-aw](2026/02-11/2026-02-11_daily-top_gh-aw.png)
-
-### 6. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
-
-> 🤖 **Why Recommend**  
-> *The Compound Engineering Plugin is an official Claude Code marketplace tool designed to streamline engineering workflows. It enables users to plan, execute, review, and document work effectively, promoting a philosophy where each task eases future efforts. Key features include plugin installation, conversion to OpenCode and Codex formats, and syncing of personal configurations. The workflow emphasizes thorough planning and review, reducing technical debt and enhancing code quality. With over 8,196 stars, this TypeScript-based plugin is pivotal for optimizing engineering processes.*
-
-- ⭐ 8196 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-11
-
-![compound-engineering-plugin](2026/02-11/2026-02-11_daily-top_compound-engineering-plugin.png)
-
-### 7. [gitbutler](https://github.com/gitbutlerapp/gitbutler)
-
-> 🤖 **Why Recommend**  
-> *GitButler is a modern, Git-based version control client designed for enhanced user experience with both a GUI and CLI. Key features include stacked and parallel branches for efficient branch management, easy commit mutations, and an undo timeline for tracking changes. It integrates seamlessly with GitHub and GitLab for Pull Requests and CI statuses, and incorporates AI tools for generating commit messages and branch names. Built with Tauri, Rust, and Svelte, GitButler offers a user-friendly alternative to traditional Git workflows, making version control simpler and more powerful.*
-
-- ⭐ 19048 stars
-- 💻 Rust
-- 📅 Updated: 2026-02-11
-
-![gitbutler](2026/02-11/2026-02-11_daily-top_gitbutler.png)
-
-### 8. [litebox](https://github.com/microsoft/litebox)
-
-> 🤖 **Why Recommend**  
-> *LiteBox is a security-focused library operating system written in Rust, designed to minimize the attack surface by drastically reducing the interface to the host. It supports both kernel- and user-mode execution, enabling seamless interoperability between diverse "North" shims and "South" platforms. Key use cases include running unmodified Linux programs on Windows, sandboxing Linux applications, and executing programs on SEV SNP or OP-TEE. LiteBox is actively evolving, encouraging experimentation while aiming for a stable release.*
-
-- ⭐ 1843 stars
-- 💻 Rust
-- 📅 Updated: 2026-02-11
-
-![litebox](2026/02-11/2026-02-11_daily-top_litebox.png)
-
-### 9. [playwright-cli](https://github.com/microsoft/playwright-cli)
-
-> 🤖 **Why Recommend**  
-> *playwright-cli is a powerful command-line interface for Playwright, enabling efficient browser automation. With over 3000 stars, it facilitates recording and generating Playwright code, inspecting selectors, and capturing screenshots. Key features include token-efficient operations for coding agents, session management with persistent profiles, and a range of commands for navigation, user interaction, and storage state management. The CLI supports modern coding workflows, making it ideal for high-throughput environments. Easily install and use with Node.js 18+ and popular coding agents.*
-
-- ⭐ 3039 stars
+- ⭐ 36566 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-02-11
+- 📅 Updated: 2026-02-12
 
-![playwright-cli](2026/02-11/2026-02-11_daily-top_playwright-cli.png)
+![drawdb](2026/02-12/2026-02-12_daily-top_drawdb.png)
 
-### 10. [twenty](https://github.com/twentyhq/twenty)
+### 4. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
 > 🤖 **Why Recommend**  
-> *twenty is a powerful open-source CRM alternative to Salesforce, designed for flexibility and community collaboration. Key features include customizable layouts (filters, kanban, table views), object and field personalization, role-based permissions management, and automated workflows with triggers. Built using TypeScript, NestJS, and React, it aims to provide a cohesive user experience inspired by modern tools. With a focus on affordability and open-source development, twenty encourages contributions and community engagement through platforms like Discord and GitHub.*
+> *Personal_AI_Infrastructure (PAI) is an open-source TypeScript project designed to enhance human capabilities through personalized AI systems. With over 7,060 stars, PAI focuses on activating individual potential by helping users identify their goals and preferences. Key features include continuous learning, goal-oriented assistance, and modular packs for tailored functionalities. PAI supports diverse users, from small business owners to creative professionals, ensuring accessible AI for everyone. Its architecture emphasizes user-centric design, making it a pioneering platform for personal AI development.*
 
-- ⭐ 39552 stars
+- ⭐ 7060 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-11
+- 📅 Updated: 2026-02-12
 
-![twenty](2026/02-11/2026-02-11_daily-top_twenty.png)
+![Personal_AI_Infrastructure](2026/02-12/2026-02-12_daily-top_Personal_AI_Infrastructure.png)
+
+### 5. [gitbutler](https://github.com/gitbutlerapp/gitbutler)
+
+> 🤖 **Why Recommend**  
+> *GitButler is a modern, AI-powered Git-based version control client, featuring a user-friendly GUI and CLI. Key highlights include stacked and parallel branches for efficient workflow, easy commit management without complex rebasing, an undo timeline for tracking changes, and first-class conflict resolution. It integrates seamlessly with GitHub and GitLab for effortless pull request management. Built with Tauri, Rust, and Svelte, GitButler aims to enhance Git's usability and flexibility, making it an ideal choice for developers seeking a powerful alternative to traditional Git interfaces.*
+
+- ⭐ 19202 stars
+- 💻 Rust
+- 📅 Updated: 2026-02-12
+
+![gitbutler](2026/02-12/2026-02-12_daily-top_gitbutler.png)
+
+### 6. [gh-aw](https://github.com/github/gh-aw)
+
+> 🤖 **Why Recommend**  
+> *GitHub Agentic Workflows (gh-aw) enables users to create and execute workflows in natural language markdown within GitHub Actions. Key features include step-by-step installation guides, customizable agent workflows, and robust security measures like read-only permissions by default, input sanitization, and human approval gates for sensitive operations. The project promotes safe automation with tools like the Agent Workflow Firewall for network security and the MCP Gateway for centralized access management. With 1,768 stars, it emphasizes safety, ease of use, and community feedback.*
+
+- ⭐ 1768 stars
+- 💻 Go
+- 📅 Updated: 2026-02-12
+
+![gh-aw](2026/02-12/2026-02-12_daily-top_gh-aw.png)
+
+### 7. [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
+
+> 🤖 **Why Recommend**  
+> *Antigravity-Manager is a professional account management tool for seamless switching between Antigravity Tools, built with Tauri v2 and React. Key features include a smart dashboard for real-time quota monitoring, OAuth 2.0 account management, API proxy for multiple protocols, and intelligent model routing to optimize usage efficiency. The application supports custom model configurations and automatic quota protection, ensuring stable performance across various user scenarios. With over 22,961 stars on GitHub, it aims to enhance user experience in managing AI accounts effectively.*
+
+- ⭐ 22961 stars
+- 💻 Rust
+- 📅 Updated: 2026-02-12
+
+![Antigravity-Manager](2026/02-12/2026-02-12_daily-top_Antigravity-Manager.png)
+
+### 8. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+
+> 🤖 **Why Recommend**  
+> *The Compound Engineering Plugin for Claude Code enhances engineering workflows by streamlining planning, execution, and review processes. Key features include a marketplace for plugins, conversion tools for OpenCode, Codex, and Factory Droid formats, and syncing capabilities for personal configurations. The plugin promotes a philosophy of reducing technical debt by emphasizing thorough planning and documentation. Core commands facilitate planning, task management, multi-agent code reviews, and knowledge codification, ensuring each engineering unit simplifies future efforts. With 8,497 stars, it is a valuable resource for efficient software development.*
+
+- ⭐ 8497 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-12
+
+![compound-engineering-plugin](2026/02-12/2026-02-12_daily-top_compound-engineering-plugin.png)
+
+### 9. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
+> 🤖 **Why Recommend**  
+> *Chrome DevTools MCP is a powerful tool that enables coding agents like Gemini and Copilot to control and inspect live Chrome browsers. With over 24,000 stars on GitHub, it offers features such as advanced browser debugging, performance insights, and reliable automation via Puppeteer. Key highlights include the ability to analyze network requests, capture screenshots, and extract performance data. The project supports various MCP clients and allows customization through configuration options, making it ideal for developers seeking to enhance their coding experiences and browser interactions.*
+
+- ⭐ 24027 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-12
+
+![chrome-devtools-mcp](2026/02-12/2026-02-12_daily-top_chrome-devtools-mcp.png)
+
+### 10. [lazygit](https://github.com/jesseduffield/lazygit)
+
+> 🤖 **Why Recommend**  
+> *Lazygit is a powerful terminal UI for Git commands, designed to simplify common tasks. Key features include staging individual lines, interactive rebasing, cherry-picking, and the ability to nuke the working tree. It supports custom commands, worktrees, and undo/redo capabilities, enhancing user control. With over 72,000 stars on GitHub, Lazygit offers a seamless experience for both novice and experienced developers, making Git's complex functionalities more accessible. Installation is easy across various platforms, including Homebrew and Scoop.*
+
+- ⭐ 72181 stars
+- 💻 Go
+- 📅 Updated: 2026-02-12
+
+![lazygit](2026/02-12/2026-02-12_daily-top_lazygit.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-11 02:55:39 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-12 02:51:04 UTC
