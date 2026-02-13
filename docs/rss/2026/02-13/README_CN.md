@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-13
 
-![chrome-devtools-mcp](2026/02-13/2026-02-13_daily-top_chrome-devtools-mcp.png)
+![chrome-devtools-mcp](2026-02-13_daily-top_chrome-devtools-mcp.png)
 
 ### 2. [gh-aw](https://github.com/github/gh-aw)
 
@@ -38,7 +38,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-13
 
-![gh-aw](2026/02-13/2026-02-13_daily-top_gh-aw.png)
+![gh-aw](2026-02-13_daily-top_gh-aw.png)
 
 ### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-13
 
-![firecrawl](2026/02-13/2026-02-13_daily-top_firecrawl.png)
+![firecrawl](2026-02-13_daily-top_firecrawl.png)
 
 ### 4. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-13
 
-![Personal_AI_Infrastructure](2026/02-13/2026-02-13_daily-top_Personal_AI_Infrastructure.png)
+![Personal_AI_Infrastructure](2026-02-13_daily-top_Personal_AI_Infrastructure.png)
 
 ### 5. [tambo](https://github.com/tambo-ai/tambo)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-13
 
-![tambo](2026/02-13/2026-02-13_daily-top_tambo.png)
+![tambo](2026-02-13_daily-top_tambo.png)
 
 ### 6. [AionUi](https://github.com/iOfficeAI/AionUi)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-13
 
-![AionUi](2026/02-13/2026-02-13_daily-top_AionUi.png)
+![AionUi](2026-02-13_daily-top_AionUi.png)
 
 ### 7. [rowboat](https://github.com/rowboatlabs/rowboat)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-13
 
-![rowboat](2026/02-13/2026-02-13_daily-top_rowboat.png)
+![rowboat](2026-02-13_daily-top_rowboat.png)
 
 ### 8. [zvec](https://github.com/alibaba/zvec)
 
@@ -104,7 +104,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-13
 
-![zvec](2026/02-13/2026-02-13_daily-top_zvec.png)
+![zvec](2026-02-13_daily-top_zvec.png)
 
 ### 9. [headscale](https://github.com/juanfont/headscale)
 
@@ -115,7 +115,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-13
 
-![headscale](2026/02-13/2026-02-13_daily-top_headscale.png)
+![headscale](2026-02-13_daily-top_headscale.png)
 
 ### 10. [EasyTier](https://github.com/EasyTier/EasyTier)
 
@@ -126,7 +126,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-13
 
-![EasyTier](2026/02-13/2026-02-13_daily-top_EasyTier.png)
+![EasyTier](2026-02-13_daily-top_EasyTier.png)
 
 ---
 
