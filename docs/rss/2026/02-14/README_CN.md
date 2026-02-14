@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-14
 
-![openclaw](2026/02-14/2026-02-14_daily-top_openclaw.png)
+![openclaw](2026-02-14_daily-top_openclaw.png)
 
 ### 2. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-14
 
-![Personal_AI_Infrastructure](2026/02-14/2026-02-14_daily-top_Personal_AI_Infrastructure.png)
+![Personal_AI_Infrastructure](2026-02-14_daily-top_Personal_AI_Infrastructure.png)
 
 ### 3. [tambo](https://github.com/tambo-ai/tambo)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-14
 
-![tambo](2026/02-14/2026-02-14_daily-top_tambo.png)
+![tambo](2026-02-14_daily-top_tambo.png)
 
 ### 4. [rowboat](https://github.com/rowboatlabs/rowboat)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-14
 
-![rowboat](2026/02-14/2026-02-14_daily-top_rowboat.png)
+![rowboat](2026-02-14_daily-top_rowboat.png)
 
 ### 5. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-14
 
-![chrome-devtools-mcp](2026/02-14/2026-02-14_daily-top_chrome-devtools-mcp.png)
+![chrome-devtools-mcp](2026-02-14_daily-top_chrome-devtools-mcp.png)
 
 ### 6. [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 
@@ -82,7 +82,7 @@
 - 💻 Java
 - 📅 Updated: 2026-02-14
 
-![awesome-system-design-resources](2026/02-14/2026-02-14_daily-top_awesome-system-design-resources.png)
+![awesome-system-design-resources](2026-02-14_daily-top_awesome-system-design-resources.png)
 
 ### 7. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-14
 
-![cc-switch](2026/02-14/2026-02-14_daily-top_cc-switch.png)
+![cc-switch](2026-02-14_daily-top_cc-switch.png)
 
 ### 8. [zvec](https://github.com/alibaba/zvec)
 
@@ -104,7 +104,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-14
 
-![zvec](2026/02-14/2026-02-14_daily-top_zvec.png)
+![zvec](2026-02-14_daily-top_zvec.png)
 
 ### 9. [gh-aw](https://github.com/github/gh-aw)
 
@@ -115,7 +115,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-14
 
-![gh-aw](2026/02-14/2026-02-14_daily-top_gh-aw.png)
+![gh-aw](2026-02-14_daily-top_gh-aw.png)
 
 ### 10. [codex](https://github.com/openai/codex)
 
@@ -126,7 +126,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-14
 
-![codex](2026/02-14/2026-02-14_daily-top_codex.png)
+![codex](2026-02-14_daily-top_codex.png)
 
 ---
 

@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-02-13
+# 📊 🌟 GitHub Trending Daily - 2026-02-14
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **191707** ⭐ | **13593** 🍴
+**10** Projects | **351446** ⭐ | **52490** 🍴
 
-**Top Languages:** `TypeScript` (6) · `Go` (2) · `C++` (1)
+**Top Languages:** `TypeScript` (5) · `Rust` (2) · `C++` (1)
 
-**Updated:** 2026-02-13 02:51 UTC
+**Updated:** 2026-02-14 02:38 UTC
 
 **Categories:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+### 1. [openclaw](https://github.com/openclaw/openclaw)
 
 > 🤖 **Why Recommend**  
-> *chrome-devtools-mcp is a TypeScript project that enables coding agents like Gemini, Claude, Cursor, and Copilot to control and inspect a live Chrome browser. Key features include advanced performance insights, automated browser interactions via Puppeteer, and in-depth debugging capabilities such as network analysis and error tracking. With over 24,000 stars on GitHub, it provides a robust Model-Context-Protocol (MCP) server for seamless integration with AI coding assistants, ensuring reliable automation and performance analysis.*
+> *OpenClaw is a versatile personal AI assistant that operates across multiple platforms (macOS, iOS, Android, Linux, and Windows via WSL2). It integrates seamlessly with popular messaging channels like WhatsApp, Telegram, Slack, Discord, and more. Key features include multi-channel support, voice interaction, a live Canvas for visual tasks, and a wizard-driven onboarding process. OpenClaw supports various AI models (recommended use of Anthropic and OpenAI) and offers tools for automation, making it ideal for users seeking a fast, local, and always-on assistant experience.*
 
-- ⭐ 24428 stars
+- ⭐ 192147 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-13
+- 📅 Updated: 2026-02-14
 
-![chrome-devtools-mcp](2026/02-13/2026-02-13_daily-top_chrome-devtools-mcp.png)
+![openclaw](2026/02-14/2026-02-14_daily-top_openclaw.png)
 
-### 2. [gh-aw](https://github.com/github/gh-aw)
-
-> 🤖 **Why Recommend**  
-> *GitHub Agentic Workflows (gh-aw) enables the creation of agentic workflows in natural language markdown, integrated seamlessly with GitHub Actions. Key features include a Quick Start Guide, robust documentation, and a focus on security with guardrails like read-only permissions, sanitized outputs, and sandboxed execution. It supports collaboration with human approval gates for critical operations. Companion projects, such as the Agent Workflow Firewall and MCP Gateway, enhance security and access management. With over 2,030 stars, it promotes safe AI automation in repositories.*
-
-- ⭐ 2030 stars
-- 💻 Go
-- 📅 Updated: 2026-02-13
-
-![gh-aw](2026/02-13/2026-02-13_daily-top_gh-aw.png)
-
-### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
+### 2. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
 > 🤖 **Why Recommend**  
-> *Firecrawl is a powerful web data API designed to transform entire websites into LLM-ready markdown or structured data. Key features include robust scraping capabilities that handle dynamic content, JavaScript rendering, and proxy management, achieving over 80% reliability in benchmarks. Users can extract data in various formats, including markdown, HTML, and JSON, and utilize batch processing, change tracking, and automated data gathering via an AI agent. Firecrawl supports easy integration with SDKs for Python and Node.js, making it ideal for developers seeking comprehensive web data solutions.*
+> *Personal_AI_Infrastructure (PAI) is an open-source project designed to enhance human capabilities through personalized AI. It features a goal-oriented architecture that learns from user interactions, improving over time. Key highlights include a modular system with 23 self-contained packs, a memory system for continuous learning, and event-driven automation. PAI serves diverse users, from small business owners to creative professionals, by providing tailored AI solutions that adapt to individual needs. With a focus on accessibility, PAI aims to democratize AI technology for everyone.*
 
-- ⭐ 82032 stars
+- ⭐ 8088 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-13
+- 📅 Updated: 2026-02-14
 
-![firecrawl](2026/02-13/2026-02-13_daily-top_firecrawl.png)
+![Personal_AI_Infrastructure](2026/02-14/2026-02-14_daily-top_Personal_AI_Infrastructure.png)
 
-### 4. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
-
-> 🤖 **Why Recommend**  
-> *Personal_AI_Infrastructure (PAI) is an open-source TypeScript project designed to enhance human capabilities through personalized AI. It aims to activate individuals' creative potential by providing an agentic AI that learns from interactions, remembers user preferences, and supports goal-oriented tasks. Key features include a modular architecture with 23 self-contained packs, continuous learning, a robust security system, and customizable workflows. PAI is suitable for everyone—from individuals to businesses—offering tools for productivity, creativity, and self-discovery. With 7,560 stars, it emphasizes making advanced AI accessible to all.*
-
-- ⭐ 7560 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-13
-
-![Personal_AI_Infrastructure](2026/02-13/2026-02-13_daily-top_Personal_AI_Infrastructure.png)
-
-### 5. [tambo](https://github.com/tambo-ai/tambo)
+### 3. [tambo](https://github.com/tambo-ai/tambo)
 
 > 🤖 **Why Recommend**  
-> *Tambo is an open-source generative UI SDK for React, enabling developers to build dynamic user interfaces powered by AI. With over 9,000 stars on GitHub, it streamlines component integration, state management, and conversation flow through its robust backend. Key features include customizable components with Zod schemas, real-time prop streaming, and support for various LLM providers like OpenAI and Anthropic. Tambo offers both a cloud-hosted solution and self-hosting via Docker, making it versatile for different deployment needs. Join the community on Discord for support and collaboration.*
+> *Tambo is an open-source generative UI toolkit for React, enabling developers to create AI-driven applications that adapt to user interactions. Key features include a complete React SDK, backend support for conversation state and agent orchestration, and seamless integration with various LLM providers like OpenAI and Google Gemini. Tambo offers streaming infrastructure for real-time component updates, customizable agents, and support for MCP integrations. Developers can choose between Tambo Cloud or self-hosting via Docker, making it a versatile solution for dynamic UI generation.*
 
-- ⭐ 9073 stars
+- ⭐ 9395 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-13
+- 📅 Updated: 2026-02-14
 
-![tambo](2026/02-13/2026-02-13_daily-top_tambo.png)
+![tambo](2026/02-14/2026-02-14_daily-top_tambo.png)
 
-### 6. [AionUi](https://github.com/iOfficeAI/AionUi)
+### 4. [rowboat](https://github.com/rowboatlabs/rowboat)
 
 > 🤖 **Why Recommend**  
-> *AionUi is a free, open-source platform designed for seamless coworking with command-line AI tools like Gemini CLI, Claude Code, and Codex. It features a unified graphical interface, multi-agent support, and local data security. Key highlights include auto-detection of CLI tools, remote access via WebUI and chat platforms (e.g., Telegram, Slack), and advanced file management. Users can automate tasks, generate and preview documents in various formats, and customize the interface. Available on macOS, Windows, and Linux, AionUi enhances productivity while maintaining data privacy.*
+> *Rowboat is an open-source AI coworker that transforms work into a long-lived knowledge graph, enhancing productivity with features like meeting preparation, email drafting, and document generation. It connects to services like Gmail and Granola for seamless integration and maintains a local Markdown vault for user control over data. Key highlights include background agents for automation, customizable model setups, and the ability to visualize and edit the knowledge graph. Rowboat prioritizes privacy by storing all data locally, making it a powerful tool for efficient work management.*
 
-- ⭐ 15419 stars
+- ⭐ 5518 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-13
+- 📅 Updated: 2026-02-14
 
-![AionUi](2026/02-13/2026-02-13_daily-top_AionUi.png)
+![rowboat](2026/02-14/2026-02-14_daily-top_rowboat.png)
 
-### 7. [rowboat](https://github.com/rowboatlabs/rowboat)
+### 5. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
 > 🤖 **Why Recommend**  
-> *Rowboat is an open-source AI coworker designed to enhance productivity by creating a long-lived knowledge graph from your emails and meeting notes. Key features include generating documents and briefs, preparing for meetings with relevant context, and maintaining a local Markdown vault for easy inspection and editing. It supports integrations with Gmail, Granola, and Fireflies, and allows users to connect their preferred AI models. With background agents for automation and a local-first design, Rowboat ensures your data remains private and manageable.*
+> *chrome-devtools-mcp is a TypeScript-based tool that enables AI coding agents like Gemini and Copilot to control and inspect a live Chrome browser. With over 24,700 stars, it offers key features such as advanced browser debugging, performance insights via Chrome DevTools, and reliable automation using Puppeteer. Users can analyze network requests, take screenshots, and obtain actionable performance data. The tool supports various configurations for seamless integration with multiple coding environments, enhancing automation and debugging capabilities.*
 
-- ⭐ 5210 stars
+- ⭐ 24746 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-13
+- 📅 Updated: 2026-02-14
 
-![rowboat](2026/02-13/2026-02-13_daily-top_rowboat.png)
+![chrome-devtools-mcp](2026/02-14/2026-02-14_daily-top_chrome-devtools-mcp.png)
+
+### 6. [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+
+> 🤖 **Why Recommend**  
+> *The "awesome-system-design-resources" GitHub repository provides a wealth of free resources for mastering system design concepts and preparing for interviews, garnering over 30,000 stars. Key features include comprehensive sections on core concepts like scalability, availability, and database fundamentals, as well as practical design problems ranging from easy to hard, such as designing a URL shortener or a messaging service. Additional offerings include courses, newsletters, and must-read articles and papers, making it an essential tool for aspiring software engineers.*
+
+- ⭐ 30164 stars
+- 💻 Java
+- 📅 Updated: 2026-02-14
+
+![awesome-system-design-resources](2026/02-14/2026-02-14_daily-top_awesome-system-design-resources.png)
+
+### 7. [cc-switch](https://github.com/farion1231/cc-switch)
+
+> 🤖 **Why Recommend**  
+> *cc-switch is a cross-platform desktop assistant tool built in Rust, designed to seamlessly manage Claude Code, Codex, and Gemini CLI configurations. With over 18,000 stars, it features a modern UI, provider management for easy switching, and integrated skills and prompts management. Key highlights include SQLite + JSON dual-layer architecture for data persistence, support for multiple languages, and one-click auto-launch on startup. Sponsored by services like MiniMax and AIGoCode, cc-switch offers efficient API relay capabilities, making it an essential tool for developers.*
+
+- ⭐ 18004 stars
+- 💻 Rust
+- 📅 Updated: 2026-02-14
+
+![cc-switch](2026/02-14/2026-02-14_daily-top_cc-switch.png)
 
 ### 8. [zvec](https://github.com/alibaba/zvec)
 
 > 🤖 **Why Recommend**  
-> *Zvec is a lightweight, in-process vector database designed for high-performance similarity search, built on Alibaba's Proxima engine. With over 731 stars, it offers blazing-fast searches across billions of vectors, supporting both dense and sparse embeddings. Key features include hybrid search capabilities and ease of installation via `pip`. Zvec operates seamlessly in various environments—servers, notebooks, and edge devices. It prioritizes low-latency, scalable solutions, making it ideal for demanding applications. Comprehensive documentation and community support are available online.*
+> *Zvec is a lightweight, lightning-fast, open-source in-process vector database designed for seamless integration into applications. Built on Alibaba's Proxima engine, it enables low-latency, scalable similarity search with minimal setup. Core features include support for both dense and sparse vectors, hybrid search capabilities, and the ability to run on various platforms (Linux, macOS). Zvec's blazing speed allows it to search billions of vectors in milliseconds, making it ideal for demanding workloads. Installation is straightforward via Python or Node.js, facilitating quick deployment.*
 
-- ⭐ 731 stars
+- ⭐ 912 stars
 - 💻 C++
-- 📅 Updated: 2026-02-13
+- 📅 Updated: 2026-02-14
 
-![zvec](2026/02-13/2026-02-13_daily-top_zvec.png)
+![zvec](2026/02-14/2026-02-14_daily-top_zvec.png)
 
-### 9. [headscale](https://github.com/juanfont/headscale)
+### 9. [gh-aw](https://github.com/github/gh-aw)
 
 > 🤖 **Why Recommend**  
-> *Headscale is an open-source, self-hosted implementation of the Tailscale control server, designed for users seeking an alternative to Tailscale's proprietary services. Built in Go, it facilitates secure, private networking using WireGuard technology, enabling users to create personal or small organizational networks (tailnets). Key features include key exchange, IP assignment, user boundaries, and route advertisement. With strong community support and extensive documentation, Headscale caters to self-hosters and enthusiasts, ensuring a sustainable and collaborative environment. Join the community on Discord for support and discussions.*
+> *GitHub Agentic Workflows (gh-aw) allows users to create and run agentic workflows in natural language markdown within GitHub Actions. Key features include a quick start guide, comprehensive documentation, and a focus on security with read-only permissions by default and multiple safety layers, including sandboxed execution and input sanitization. Companion projects like the Agent Workflow Firewall and MCP Gateway enhance security and integration. With 2,188 stars, this Go-based tool empowers automation while ensuring safety and control in repository tasks.*
 
-- ⭐ 35284 stars
+- ⭐ 2188 stars
 - 💻 Go
-- 📅 Updated: 2026-02-13
+- 📅 Updated: 2026-02-14
 
-![headscale](2026/02-13/2026-02-13_daily-top_headscale.png)
+![gh-aw](2026/02-14/2026-02-14_daily-top_gh-aw.png)
 
-### 10. [EasyTier](https://github.com/EasyTier/EasyTier)
+### 10. [codex](https://github.com/openai/codex)
 
 > 🤖 **Why Recommend**  
-> *EasyTier is a decentralized mesh VPN solution built with Rust, providing secure connections using WireGuard encryption. Key features include cross-platform support (Windows, macOS, Linux, FreeBSD, Android), easy web and command-line interfaces, and efficient NAT traversal. The platform offers intelligent routing, subnet proxy capabilities, and high performance with zero-copy data handling. Users can quickly set up networks using shared nodes and manage configurations via a web console. With over 9,940 stars on GitHub, EasyTier is a reliable choice for a simple and secure VPN.*
+> *Codex is a lightweight coding agent from OpenAI that operates directly in your terminal, designed to streamline coding tasks. With over 60,000 stars on GitHub, this Rust-based CLI tool allows users to quickly install via npm or Homebrew and start coding immediately. Codex can also be integrated into popular IDEs like VS Code. For cloud-based functionality, users can access Codex Web through chatgpt.com. It supports authentication via ChatGPT accounts and provides extensive documentation for setup and usage, making it an essential tool for developers.*
 
-- ⭐ 9940 stars
+- ⭐ 60284 stars
 - 💻 Rust
-- 📅 Updated: 2026-02-13
+- 📅 Updated: 2026-02-14
 
-![EasyTier](2026/02-13/2026-02-13_daily-top_EasyTier.png)
+![codex](2026/02-14/2026-02-14_daily-top_codex.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-13 02:51:00 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-14 02:38:29 UTC
