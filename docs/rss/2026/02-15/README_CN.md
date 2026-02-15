@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-15
 
-![openclaw](2026/02-15/2026-02-15_daily-top_openclaw.png)
+![openclaw](2026-02-15_daily-top_openclaw.png)
 
 ### 2. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-15
 
-![Personal_AI_Infrastructure](2026/02-15/2026-02-15_daily-top_Personal_AI_Infrastructure.png)
+![Personal_AI_Infrastructure](2026-02-15_daily-top_Personal_AI_Infrastructure.png)
 
 ### 3. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-15
 
-![chrome-devtools-mcp](2026/02-15/2026-02-15_daily-top_chrome-devtools-mcp.png)
+![chrome-devtools-mcp](2026-02-15_daily-top_chrome-devtools-mcp.png)
 
 ### 4. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-15
 
-![get-shit-done](2026/02-15/2026-02-15_daily-top_get-shit-done.png)
+![get-shit-done](2026-02-15_daily-top_get-shit-done.png)
 
 ### 5. [rowboat](https://github.com/rowboatlabs/rowboat)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-15
 
-![rowboat](2026/02-15/2026-02-15_daily-top_rowboat.png)
+![rowboat](2026-02-15_daily-top_rowboat.png)
 
 ### 6. [aios-core](https://github.com/SynkraAI/aios-core)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-15
 
-![aios-core](2026/02-15/2026-02-15_daily-top_aios-core.png)
+![aios-core](2026-02-15_daily-top_aios-core.png)
 
 ### 7. [DebugSwift](https://github.com/DebugSwift/DebugSwift)
 
@@ -93,7 +93,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-02-14
 
-![DebugSwift](2026/02-15/2026-02-15_daily-top_DebugSwift.png)
+![DebugSwift](2026-02-15_daily-top_DebugSwift.png)
 
 ### 8. [server-survival](https://github.com/pshenok/server-survival)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-15
 
-![server-survival](2026/02-15/2026-02-15_daily-top_server-survival.png)
+![server-survival](2026-02-15_daily-top_server-survival.png)
 
 ### 9. [zvec](https://github.com/alibaba/zvec)
 
@@ -115,7 +115,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-15
 
-![zvec](2026/02-15/2026-02-15_daily-top_zvec.png)
+![zvec](2026-02-15_daily-top_zvec.png)
 
 ### 10. [rustfs](https://github.com/rustfs/rustfs)
 
@@ -126,7 +126,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-15
 
-![rustfs](2026/02-15/2026-02-15_daily-top_rustfs.png)
+![rustfs](2026-02-15_daily-top_rustfs.png)
 
 ---
 
