@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-16
 
-![openclaw](2026/02-16/2026-02-16_daily-top_openclaw.png)
+![openclaw](2026-02-16_daily-top_openclaw.png)
 
 ### 2. [rowboat](https://github.com/rowboatlabs/rowboat)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-16
 
-![rowboat](2026/02-16/2026-02-16_daily-top_rowboat.png)
+![rowboat](2026-02-16_daily-top_rowboat.png)
 
 ### 3. [zvec](https://github.com/alibaba/zvec)
 
@@ -49,7 +49,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-16
 
-![zvec](2026/02-16/2026-02-16_daily-top_zvec.png)
+![zvec](2026-02-16_daily-top_zvec.png)
 
 ### 4. [gogcli](https://github.com/steipete/gogcli)
 
@@ -60,7 +60,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-16
 
-![gogcli](2026/02-16/2026-02-16_daily-top_gogcli.png)
+![gogcli](2026-02-16_daily-top_gogcli.png)
 
 ### 5. [tambo](https://github.com/tambo-ai/tambo)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-16
 
-![tambo](2026/02-16/2026-02-16_daily-top_tambo.png)
+![tambo](2026-02-16_daily-top_tambo.png)
 
 ### 6. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-16
 
-![get-shit-done](2026/02-16/2026-02-16_daily-top_get-shit-done.png)
+![get-shit-done](2026-02-16_daily-top_get-shit-done.png)
 
 ### 7. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-16
 
-![chrome-devtools-mcp](2026/02-16/2026-02-16_daily-top_chrome-devtools-mcp.png)
+![chrome-devtools-mcp](2026-02-16_daily-top_chrome-devtools-mcp.png)
 
 ### 8. [runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)
 
@@ -104,7 +104,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-16
 
-![runanywhere-sdks](2026/02-16/2026-02-16_daily-top_runanywhere-sdks.png)
+![runanywhere-sdks](2026-02-16_daily-top_runanywhere-sdks.png)
 
 ### 9. [gh-aw](https://github.com/github/gh-aw)
 
@@ -115,7 +115,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-16
 
-![gh-aw](2026/02-16/2026-02-16_daily-top_gh-aw.png)
+![gh-aw](2026-02-16_daily-top_gh-aw.png)
 
 ### 10. [server-survival](https://github.com/pshenok/server-survival)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-16
 
-![server-survival](2026/02-16/2026-02-16_daily-top_server-survival.png)
+![server-survival](2026-02-16_daily-top_server-survival.png)
 
 ---
 
