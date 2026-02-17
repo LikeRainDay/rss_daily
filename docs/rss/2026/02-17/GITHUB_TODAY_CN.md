@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-17
 
-![openclaw](2026/02-17/2026-02-17_daily-top_openclaw.png)
+![openclaw](2026-02-17_daily-top_openclaw.png)
 
 ### 2. [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 
@@ -38,7 +38,7 @@
 - 💻 Java
 - 📅 Updated: 2026-02-17
 
-![awesome-system-design-resources](2026/02-17/2026-02-17_daily-top_awesome-system-design-resources.png)
+![awesome-system-design-resources](2026-02-17_daily-top_awesome-system-design-resources.png)
 
 ### 3. [zvec](https://github.com/alibaba/zvec)
 
@@ -49,7 +49,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-17
 
-![zvec](2026/02-17/2026-02-17_daily-top_zvec.png)
+![zvec](2026-02-17_daily-top_zvec.png)
 
 ### 4. [rowboat](https://github.com/rowboatlabs/rowboat)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-17
 
-![rowboat](2026/02-17/2026-02-17_daily-top_rowboat.png)
+![rowboat](2026-02-17_daily-top_rowboat.png)
 
 ### 5. [gogcli](https://github.com/steipete/gogcli)
 
@@ -71,7 +71,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-17
 
-![gogcli](2026/02-17/2026-02-17_daily-top_gogcli.png)
+![gogcli](2026-02-17_daily-top_gogcli.png)
 
 ### 6. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-17
 
-![nautilus_trader](2026/02-17/2026-02-17_daily-top_nautilus_trader.png)
+![nautilus_trader](2026-02-17_daily-top_nautilus_trader.png)
 
 ### 7. [moonshine](https://github.com/moonshine-ai/moonshine)
 
@@ -93,7 +93,7 @@
 - 💻 C
 - 📅 Updated: 2026-02-17
 
-![moonshine](2026/02-17/2026-02-17_daily-top_moonshine.png)
+![moonshine](2026-02-17_daily-top_moonshine.png)
 
 ### 8. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-17
 
-![get-shit-done](2026/02-17/2026-02-17_daily-top_get-shit-done.png)
+![get-shit-done](2026-02-17_daily-top_get-shit-done.png)
 
 ### 9. [runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)
 
@@ -115,7 +115,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-17
 
-![runanywhere-sdks](2026/02-17/2026-02-17_daily-top_runanywhere-sdks.png)
+![runanywhere-sdks](2026-02-17_daily-top_runanywhere-sdks.png)
 
 ### 10. [gh-aw](https://github.com/github/gh-aw)
 
@@ -126,7 +126,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-17
 
-![gh-aw](2026/02-17/2026-02-17_daily-top_gh-aw.png)
+![gh-aw](2026-02-17_daily-top_gh-aw.png)
 
 ---
 

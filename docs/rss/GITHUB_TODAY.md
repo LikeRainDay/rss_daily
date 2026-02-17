@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-02-16
+# 📊 🌟 GitHub Trending Daily - 2026-02-17
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **275839** ⭐ | **39836** 🍴
+**10** Projects | **298980** ⭐ | **48995** 🍴
 
-**Top Languages:** `TypeScript` (4) · `C++` (2) · `JavaScript` (2)
+**Top Languages:** `TypeScript` (2) · `C++` (2) · `Go` (2)
 
-**Updated:** 2026-02-16 02:48 UTC
+**Updated:** 2026-02-17 02:43 UTC
 
 **Categories:**
 
@@ -21,112 +21,112 @@
 ### 1. [openclaw](https://github.com/openclaw/openclaw)
 
 > 🤖 **Why Recommend**  
-> *OpenClaw is a personal AI assistant that integrates seamlessly across multiple platforms, including WhatsApp, Telegram, Slack, Discord, and more. With over 197k stars on GitHub, it features a local-first control plane for managing sessions and tools, multi-channel messaging, voice activation, and an interactive live canvas. Users can navigate a guided onboarding process to set up their assistant easily. Key functionalities include voice wake, multi-agent routing, and first-class tools for automation and interaction, all running on any OS.*
+> *OpenClaw is a versatile personal AI assistant built on TypeScript, designed to run on any OS and platform. It integrates seamlessly with popular messaging channels like WhatsApp, Telegram, Discord, and more, providing a local, fast, and always-on experience. Key features include a local-first control plane, multi-channel support, voice activation, and a live Canvas for visual tasks. With an easy onboarding wizard, users can set up and customize their assistant efficiently. This project boasts over 201,000 stars, reflecting its strong community and robust functionality.*
 
-- ⭐ 197603 stars
+- ⭐ 201910 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-16
+- 📅 Updated: 2026-02-17
 
-![openclaw](2026/02-16/2026-02-16_daily-top_openclaw.png)
+![openclaw](2026/02-17/2026-02-17_daily-top_openclaw.png)
 
-### 2. [rowboat](https://github.com/rowboatlabs/rowboat)
+### 2. [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 
 > 🤖 **Why Recommend**  
-> *Rowboat is an open-source AI coworker designed to enhance productivity by building a long-lasting knowledge graph from your work. It integrates with Gmail and meeting notes to remember important context, helping you draft emails, prepare for meetings, and generate documents or presentations based on accumulated knowledge. Rowboat operates locally, ensuring privacy and control over your data. Key features include voice memo recording, background agents for automation, and compatibility with various AI models. Its transparent Markdown storage allows for easy editing and inspection.*
+> *The "awesome-system-design-resources" GitHub repository offers a comprehensive collection of free resources to learn System Design concepts and prepare for interviews, boasting over 32,000 stars. Key features include in-depth guides on scalability, reliability, APIs, databases, and architectural patterns. The project provides practical problems to solve, courses, newsletters, and must-read articles and papers on distributed systems. Ideal for beginners and experienced developers alike, it serves as a valuable tool for mastering System Design and interview preparation.*
 
-- ⭐ 6844 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-16
+- ⭐ 32456 stars
+- 💻 Java
+- 📅 Updated: 2026-02-17
 
-![rowboat](2026/02-16/2026-02-16_daily-top_rowboat.png)
+![awesome-system-design-resources](2026/02-17/2026-02-17_daily-top_awesome-system-design-resources.png)
 
 ### 3. [zvec](https://github.com/alibaba/zvec)
 
 > 🤖 **Why Recommend**  
-> *Zvec is a lightweight, lightning-fast in-process vector database designed for seamless integration into applications. Built on Alibaba's Proxima engine, it enables low-latency, scalable similarity searches across dense and sparse vectors. Key features include blazing-fast search capabilities, hybrid search combining semantic and structured filters, and the ability to run on various platforms including Linux and macOS. With easy installation via Python and Node.js, Zvec is ideal for production workloads requiring high performance and minimal setup. Join the community for support and updates.*
+> *Zvec is a lightweight, in-process vector database designed for high-performance vector similarity searches. Built on Alibaba's Proxima engine, it supports both dense and sparse vectors and enables hybrid searches with semantic similarity and structured filters. Key features include lightning-fast searches across billions of vectors, minimal setup, and compatibility with Python and Node.js. Zvec runs seamlessly on Linux and macOS, making it ideal for various applications from notebooks to edge devices. Join the community for updates and support!*
 
-- ⭐ 2393 stars
+- ⭐ 3689 stars
 - 💻 C++
-- 📅 Updated: 2026-02-16
+- 📅 Updated: 2026-02-17
 
-![zvec](2026/02-16/2026-02-16_daily-top_zvec.png)
+![zvec](2026/02-17/2026-02-17_daily-top_zvec.png)
 
-### 4. [gogcli](https://github.com/steipete/gogcli)
+### 4. [rowboat](https://github.com/rowboatlabs/rowboat)
 
 > 🤖 **Why Recommend**  
-> *gogcli is a fast, script-friendly CLI tool for managing Google Suite services, including Gmail, Calendar, Drive, Contacts, Tasks, and more. Key features include email management (search, send, label), calendar event creation (with attendees), file operations in Google Drive, and contact management. It supports multiple accounts, secure credential storage, and JSON output for automation. With over 3,000 stars on GitHub, gogcli offers robust functionality for users needing command-line access to Google Workspace services, enhancing productivity and automation.*
+> *Rowboat is an open-source AI coworker designed to enhance productivity by creating a long-lived knowledge graph from your work activities. It integrates with Gmail and meeting notes, allowing users to generate documents, summaries, and meeting preparations based on accumulated context. Key features include voice memo recording, background automation for routine tasks, and compatibility with local models and external tools through the Model Context Protocol. With all data stored locally in Markdown format, Rowboat ensures privacy and full user control over information.*
 
-- ⭐ 3012 stars
+- ⭐ 7344 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-17
+
+![rowboat](2026/02-17/2026-02-17_daily-top_rowboat.png)
+
+### 5. [gogcli](https://github.com/steipete/gogcli)
+
+> 🤖 **Why Recommend**  
+> *gogcli is a powerful CLI tool for managing Google services directly from your terminal, supporting Gmail, Calendar, Drive, Contacts, and more. With features like email tracking, event management, file handling, and secure credential storage, it enables users to interact with multiple Google accounts seamlessly. Key services include emailing with attachments, calendar event creation and updates, file uploads/downloads on Google Drive, and contact management. Its JSON output format enhances scripting and automation capabilities, making it ideal for developers and power users.*
+
+- ⭐ 3533 stars
 - 💻 Go
-- 📅 Updated: 2026-02-16
+- 📅 Updated: 2026-02-17
 
-![gogcli](2026/02-16/2026-02-16_daily-top_gogcli.png)
+![gogcli](2026/02-17/2026-02-17_daily-top_gogcli.png)
 
-### 5. [tambo](https://github.com/tambo-ai/tambo)
-
-> 🤖 **Why Recommend**  
-> *Tambo is an open-source generative UI SDK for React, enabling developers to create dynamic agents that interact with users through UI components. Key features include seamless integration with LLM providers (OpenAI, Anthropic, etc.), streaming infrastructure for real-time updates, and support for both Tambo Cloud and self-hosted environments. The toolkit simplifies state management, offers MCP integrations, and allows for both generative and interactable components. With robust documentation and a vibrant community, Tambo is designed for building adaptable, user-focused applications.*
-
-- ⭐ 10166 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-16
-
-![tambo](2026/02-16/2026-02-16_daily-top_tambo.png)
-
-### 6. [get-shit-done](https://github.com/gsd-build/get-shit-done)
+### 6. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 
 > 🤖 **Why Recommend**  
-> *Get Shit Done (GSD) is a lightweight, meta-prompting system designed for efficient development using Claude Code, OpenCode, and Gemini CLI. It addresses context rot by maintaining high-quality outputs through structured project management. GSD streamlines the development process with commands for initializing projects, discussing phases, planning, executing, and verifying work. It ensures clean, atomic Git commits and supports parallel execution to enhance productivity. Trusted by engineers from Amazon and Google, it offers a community-driven approach to simplify spec-driven development.*
+> *NautilusTrader is a high-performance, open-source algorithmic trading platform designed in Rust for reliable and efficient trading. It features an event-driven backtester that allows quantitative traders to backtest and deploy automated strategies seamlessly in both live and historical environments. With modular adapters, it supports various asset classes and trading venues. Key highlights include high-frequency trading capabilities, advanced order types, and customizable components. NautilusTrader ensures parity between backtesting and live trading, enhancing safety and reducing operational risks.*
 
-- ⭐ 14464 stars
+- ⭐ 19801 stars
+- 💻 Rust
+- 📅 Updated: 2026-02-17
+
+![nautilus_trader](2026/02-17/2026-02-17_daily-top_nautilus_trader.png)
+
+### 7. [moonshine](https://github.com/moonshine-ai/moonshine)
+
+> 🤖 **Why Recommend**  
+> *Moonshine is an open-source automatic speech recognition (ASR) toolkit optimized for edge devices, enabling fast and accurate voice applications without requiring accounts or API keys. Key features include on-device processing for low latency, flexible input windows, and caching for real-time interactions. It supports multiple languages and offers high-level APIs for tasks like transcription and intent recognition. Cross-platform compatibility spans Python, iOS, Android, and more, making it accessible for various developers. Moonshine's models often exceed Whisper's accuracy while being more efficient for live speech applications.*
+
+- ⭐ 4111 stars
+- 💻 C
+- 📅 Updated: 2026-02-17
+
+![moonshine](2026/02-17/2026-02-17_daily-top_moonshine.png)
+
+### 8. [get-shit-done](https://github.com/gsd-build/get-shit-done)
+
+> 🤖 **Why Recommend**  
+> *Get Shit Done (GSD) is a lightweight meta-prompting and context engineering system designed for Claude Code, OpenCode, and Gemini CLI. It effectively addresses context rot, ensuring high-quality outputs as tasks progress. Key features include streamlined project initialization, automated phase planning, execution in parallel waves, and atomic Git commits for traceable changes. Trusted by engineers at major companies like Amazon and Google, GSD simplifies software development workflows, allowing users to focus on building without the complexity of traditional project management tools.*
+
+- ⭐ 14917 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-02-16
+- 📅 Updated: 2026-02-17
 
-![get-shit-done](2026/02-16/2026-02-16_daily-top_get-shit-done.png)
+![get-shit-done](2026/02-17/2026-02-17_daily-top_get-shit-done.png)
 
-### 7. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-
-> 🤖 **Why Recommend**  
-> *The `chrome-devtools-mcp` project enables coding agents like Gemini and Copilot to control and inspect a live Chrome browser. With over 25,000 stars, this TypeScript-based tool serves as a Model-Context-Protocol server, offering advanced browser debugging, reliable automation via Puppeteer, and performance insights through Chrome DevTools. Key features include network request analysis, screenshot capabilities, and detailed performance tracing. The server supports easy integration across various platforms, ensuring seamless interaction with Chrome for enhanced development workflows.*
-
-- ⭐ 25446 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-16
-
-![chrome-devtools-mcp](2026/02-16/2026-02-16_daily-top_chrome-devtools-mcp.png)
-
-### 8. [runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)
+### 9. [runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)
 
 > 🤖 **Why Recommend**  
-> *RunAnywhere is a production-ready toolkit enabling on-device AI across various platforms. It supports local execution of LLMs, speech-to-text, and text-to-speech functionalities, ensuring privacy and fast performance without cloud dependency. Key features include LLM chat (e.g., Llama, Mistral), a full voice assistant pipeline, and vision-language models, all accessible via SDKs for Swift (iOS/macOS), Kotlin (Android), Web, React Native, and Flutter. With over 8,000 stars on GitHub, RunAnywhere stands out for its offline capabilities and ease of integration into applications.*
+> *RunAnywhere is a production-ready toolkit for on-device AI, enabling local execution of large language models (LLMs), speech-to-text (STT), and text-to-speech (TTS) across multiple platforms. With over 8,200 stars, it offers a privacy-first, offline solution for developers to integrate AI features into their apps. Key functionalities include LLM chat, a complete STT → LLM → TTS pipeline, and support for various platforms such as iOS, Android, Web, React Native, and Flutter. The toolkit ensures no data leaves the device, providing fast and secure AI capabilities.*
 
-- ⭐ 8062 stars
+- ⭐ 8273 stars
 - 💻 C++
-- 📅 Updated: 2026-02-16
+- 📅 Updated: 2026-02-17
 
-![runanywhere-sdks](2026/02-16/2026-02-16_daily-top_runanywhere-sdks.png)
+![runanywhere-sdks](2026/02-17/2026-02-17_daily-top_runanywhere-sdks.png)
 
-### 9. [gh-aw](https://github.com/github/gh-aw)
+### 10. [gh-aw](https://github.com/github/gh-aw)
 
 > 🤖 **Why Recommend**  
-> *GitHub Agentic Workflows (gh-aw) enables users to create and execute workflows in natural language markdown via GitHub Actions. Key features include a quick start guide, comprehensive documentation, and a focus on security with guardrails like read-only permissions, input sanitization, and human approval for critical actions. The project supports companion tools like the Agent Workflow Firewall for enhanced security and MCP Gateway for centralized access management. With 2735 stars, it emphasizes safety, automation, and collaboration in repository management.*
+> *GitHub Agentic Workflows (gh-aw) enables users to create and run natural language markdown workflows within GitHub Actions. Key features include a comprehensive Quick Start Guide, security-focused guardrails with read-only permissions, sanitized outputs, and sandboxed execution to ensure safe automation of repository tasks. The project supports contributions and community feedback while offering companion tools like the Agent Workflow Firewall for enhanced security and the MCP Gateway for access management. With 2,946 stars, it emphasizes safety and user collaboration in AI-driven workflows.*
 
-- ⭐ 2735 stars
+- ⭐ 2946 stars
 - 💻 Go
-- 📅 Updated: 2026-02-16
+- 📅 Updated: 2026-02-17
 
-![gh-aw](2026/02-16/2026-02-16_daily-top_gh-aw.png)
-
-### 10. [server-survival](https://github.com/pshenok/server-survival)
-
-> 🤖 **Why Recommend**  
-> *Server Survival is an engaging tower defense game that simulates cloud architecture, allowing players to build and scale resilient infrastructures while managing budget, reputation, and service health. Players face challenges like DDoS attacks and escalating traffic, requiring active intervention to survive. The game features various traffic types and services such as Firewalls, Load Balancers, and Databases, each with unique costs and capacities. With modes like Survival for dynamic challenges and Sandbox for experimentation, players can hone their cloud skills in an interactive environment. Join the community to discuss strategies and share scores!*
-
-- ⭐ 5114 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-02-16
-
-![server-survival](2026/02-16/2026-02-16_daily-top_server-survival.png)
+![gh-aw](2026/02-17/2026-02-17_daily-top_gh-aw.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-16 02:48:01 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-17 02:43:34 UTC
