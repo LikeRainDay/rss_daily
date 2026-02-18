@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-18
 
-![openclaw](2026/02-18/2026-02-18_daily-top_openclaw.png)
+![openclaw](2026-02-18_daily-top_openclaw.png)
 
 ### 2. [zvec](https://github.com/alibaba/zvec)
 
@@ -38,7 +38,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-18
 
-![zvec](2026/02-18/2026-02-18_daily-top_zvec.png)
+![zvec](2026-02-18_daily-top_zvec.png)
 
 ### 3. [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 
@@ -49,7 +49,7 @@
 - 💻 Java
 - 📅 Updated: 2026-02-18
 
-![awesome-system-design-resources](2026/02-18/2026-02-18_daily-top_awesome-system-design-resources.png)
+![awesome-system-design-resources](2026-02-18_daily-top_awesome-system-design-resources.png)
 
 ### 4. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-18
 
-![get-shit-done](2026/02-18/2026-02-18_daily-top_get-shit-done.png)
+![get-shit-done](2026-02-18_daily-top_get-shit-done.png)
 
 ### 5. [gogcli](https://github.com/steipete/gogcli)
 
@@ -71,7 +71,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-18
 
-![gogcli](2026/02-18/2026-02-18_daily-top_gogcli.png)
+![gogcli](2026-02-18_daily-top_gogcli.png)
 
 ### 6. [cs249r_book](https://github.com/harvard-edge/cs249r_book)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-18
 
-![cs249r_book](2026/02-18/2026-02-18_daily-top_cs249r_book.png)
+![cs249r_book](2026-02-18_daily-top_cs249r_book.png)
 
 ### 7. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-18
 
-![nautilus_trader](2026/02-18/2026-02-18_daily-top_nautilus_trader.png)
+![nautilus_trader](2026-02-18_daily-top_nautilus_trader.png)
 
 ### 8. [rowboat](https://github.com/rowboatlabs/rowboat)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-18
 
-![rowboat](2026/02-18/2026-02-18_daily-top_rowboat.png)
+![rowboat](2026-02-18_daily-top_rowboat.png)
 
 ### 9. [seerr](https://github.com/seerr-team/seerr)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-18
 
-![seerr](2026/02-18/2026-02-18_daily-top_seerr.png)
+![seerr](2026-02-18_daily-top_seerr.png)
 
 ### 10. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
@@ -126,7 +126,7 @@
 - 💻 Java
 - 📅 Updated: 2026-02-18
 
-![ghidra](2026/02-18/2026-02-18_daily-top_ghidra.png)
+![ghidra](2026-02-18_daily-top_ghidra.png)
 
 ---
 
