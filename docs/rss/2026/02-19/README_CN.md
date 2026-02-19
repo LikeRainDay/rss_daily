@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-19
 
-![openclaw](2026/02-19/2026-02-19_daily-top_openclaw.png)
+![openclaw](2026-02-19_daily-top_openclaw.png)
 
 ### 2. [daytona](https://github.com/daytonaio/daytona)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-19
 
-![daytona](2026/02-19/2026-02-19_daily-top_daytona.png)
+![daytona](2026-02-19_daily-top_daytona.png)
 
 ### 3. [cs249r_book](https://github.com/harvard-edge/cs249r_book)
 
@@ -50,7 +50,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-19
 
-![cs249r_book](2026/02-19/2026-02-19_daily-top_cs249r_book.png)
+![cs249r_book](2026-02-19_daily-top_cs249r_book.png)
 
 ### 4. [zvec](https://github.com/alibaba/zvec)
 
@@ -61,7 +61,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-19
 
-![zvec](2026/02-19/2026-02-19_daily-top_zvec.png)
+![zvec](2026-02-19_daily-top_zvec.png)
 
 ### 5. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -72,7 +72,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-19
 
-![get-shit-done](2026/02-19/2026-02-19_daily-top_get-shit-done.png)
+![get-shit-done](2026-02-19_daily-top_get-shit-done.png)
 
 ### 6. [pyrite64](https://github.com/HailToDodongo/pyrite64)
 
@@ -83,7 +83,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-19
 
-![pyrite64](2026/02-19/2026-02-19_daily-top_pyrite64.png)
+![pyrite64](2026-02-19_daily-top_pyrite64.png)
 
 ### 7. [convert](https://github.com/p2r3/convert)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-19
 
-![convert](2026/02-19/2026-02-19_daily-top_convert.png)
+![convert](2026-02-19_daily-top_convert.png)
 
 ### 8. [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 
@@ -105,7 +105,7 @@
 - 💻 Java
 - 📅 Updated: 2026-02-19
 
-![awesome-system-design-resources](2026/02-19/2026-02-19_daily-top_awesome-system-design-resources.png)
+![awesome-system-design-resources](2026-02-19_daily-top_awesome-system-design-resources.png)
 
 ### 9. [gogcli](https://github.com/steipete/gogcli)
 
@@ -116,7 +116,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-19
 
-![gogcli](2026/02-19/2026-02-19_daily-top_gogcli.png)
+![gogcli](2026-02-19_daily-top_gogcli.png)
 
 ### 10. [opencti](https://github.com/OpenCTI-Platform/opencti)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-19
 
-![opencti](2026/02-19/2026-02-19_daily-top_opencti.png)
+![opencti](2026-02-19_daily-top_opencti.png)
 
 ---
 

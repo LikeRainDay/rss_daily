@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-02-18
+# 📊 🌟 GitHub Trending Daily - 2026-02-19
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **382939** ⭐ | **59783** 🍴
+**10** Projects | **355854** ⭐ | **56677** 🍴
 
-**Top Languages:** `TypeScript` (3) · `Java` (2) · `JavaScript` (2)
+**Top Languages:** `TypeScript` (4) · `JavaScript` (2) · `C++` (2)
 
-**Updated:** 2026-02-18 02:47 UTC
+**Updated:** 2026-02-19 02:46 UTC
 
 **Categories:**
 
@@ -21,112 +21,113 @@
 ### 1. [openclaw](https://github.com/openclaw/openclaw)
 
 > 🤖 **Why Recommend**  
-> *OpenClaw is a versatile personal AI assistant that operates on any platform and OS, providing seamless integration with various messaging channels like WhatsApp, Telegram, Slack, and Discord. Key features include a local-first Gateway for managing sessions and channels, multi-channel inbox support, voice activation, and a live Canvas for visual interaction. Users can customize their experience with onboarding wizards and various skills. OpenClaw ensures user security with robust DM policies and supports multiple AI models, making it a comprehensive solution for personal assistance.*
+> *OpenClaw is a versatile personal AI assistant that operates across multiple platforms including WhatsApp, Telegram, Slack, and Discord. Key features include a local-first architecture, multi-channel support, and seamless integration with voice commands on macOS, iOS, and Android. Users can customize their experience through an onboarding wizard, manage skills via ClawHub, and utilize a live Canvas for visual tasks. The platform supports various AI models, ensuring flexibility and performance. Ideal for users seeking a fast, always-on assistant that feels local and personal.*
 
-- ⭐ 205646 stars
+- ⭐ 209037 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-18
+- 📅 Updated: 2026-02-19
 
-![openclaw](2026/02-18/2026-02-18_daily-top_openclaw.png)
+![openclaw](2026/02-19/2026-02-19_daily-top_openclaw.png)
 
-### 2. [zvec](https://github.com/alibaba/zvec)
+### 2. [daytona](https://github.com/daytonaio/daytona)
 
 > 🤖 **Why Recommend**  
-> *Zvec is a lightweight, lightning-fast, in-process vector database designed for seamless integration into applications. Built on Alibaba's Proxima engine, it enables low-latency similarity searches for both dense and sparse vectors. Key features include hybrid search capabilities, minimal setup, and support for multi-vector queries. Zvec runs on Linux and macOS, making it versatile for various environments. With over 4,500 stars on GitHub, it is ideal for production workloads, providing exceptional speed and efficiency. Join the community for support and updates.*
+> *Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code. popular project, actively maintained, recently updated*
 
-- ⭐ 4517 stars
+- ⭐ 57662 stars
+- 🍴 5036 forks
+- 💻 TypeScript
+- 📅 Updated: 2026-02-19
+
+![daytona](2026/02-19/2026-02-19_daily-top_daytona.png)
+
+### 3. [cs249r_book](https://github.com/harvard-edge/cs249r_book)
+
+> 🤖 **Why Recommend**  
+> *The cs249r_book project, "Introduction to Machine Learning Systems," presents a comprehensive guide on AI engineering principles, focusing on building efficient, reliable systems. Key features include an interactive online textbook, TinyTorch for hands-on ML framework development, and hardware kits for real-world deployment on devices like Arduino and Raspberry Pi. The project emphasizes a hands-on learning approach, connecting theory with practical applications. With over 19,700 stars, it aims to educate one million learners by 2030, fostering a robust AI engineering community.*
+
+- ⭐ 19718 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-02-19
+
+![cs249r_book](2026/02-19/2026-02-19_daily-top_cs249r_book.png)
+
+### 4. [zvec](https://github.com/alibaba/zvec)
+
+> 🤖 **Why Recommend**  
+> *Zvec is a lightweight, high-performance in-process vector database designed for seamless integration into applications. Built on Alibaba's Proxima engine, it supports both dense and sparse vectors, enabling low-latency similarity searches across billions of vectors. Key features include hybrid search capabilities, quick installation with no server setup, and compatibility with Python and Node.js. Zvec runs on various platforms, including Linux and macOS, making it ideal for production workloads. With 4,937 stars on GitHub, it offers exceptional speed and scalability for demanding applications.*
+
+- ⭐ 4937 stars
 - 💻 C++
-- 📅 Updated: 2026-02-18
+- 📅 Updated: 2026-02-19
 
-![zvec](2026/02-18/2026-02-18_daily-top_zvec.png)
+![zvec](2026/02-19/2026-02-19_daily-top_zvec.png)
 
-### 3. [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
-
-> 🤖 **Why Recommend**  
-> *Awesome System Design Resources is a comprehensive GitHub repository aimed at helping users learn System Design concepts and prepare for interviews with free resources. Key features include in-depth explanations of core concepts like scalability, availability, and reliability, alongside networking and API fundamentals. The project offers practical interview problems, courses, newsletters, and curated articles and papers on distributed systems. With over 32,000 stars, it serves as a valuable resource for beginners and experienced developers alike, enhancing their System Design knowledge and interview readiness.*
-
-- ⭐ 32844 stars
-- 💻 Java
-- 📅 Updated: 2026-02-18
-
-![awesome-system-design-resources](2026/02-18/2026-02-18_daily-top_awesome-system-design-resources.png)
-
-### 4. [get-shit-done](https://github.com/gsd-build/get-shit-done)
+### 5. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
 > 🤖 **Why Recommend**  
-> *Get Shit Done (GSD) is a lightweight, powerful meta-prompting and context engineering system for Claude Code, OpenCode, and Gemini CLI. It addresses context rot, ensuring high-quality outputs by maintaining a fresh context window during development. Key features include streamlined project initialization, phase management (discuss, plan, execute, verify), and automated Git commits for each task. GSD is trusted by engineers at major companies like Amazon and Google, making it ideal for those seeking efficient, spec-driven development without the complexities of traditional workflows.*
+> *Get Shit Done (GSD) is a lightweight, powerful meta-prompting and context engineering system for Claude Code, OpenCode, and Gemini CLI, designed to combat context rot in AI coding. With 15,840 stars on GitHub, it streamlines spec-driven development through a structured command workflow: initialize projects, discuss phases, plan, execute tasks in parallel, and verify results. GSD ensures atomic Git commits and clean project history, making it ideal for solo developers who want effective, non-enterprise workflows. Trusted by engineers at major tech firms, GSD is built for those seeking efficient code generation without complications.*
 
-- ⭐ 15376 stars
+- ⭐ 15840 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-02-18
+- 📅 Updated: 2026-02-19
 
-![get-shit-done](2026/02-18/2026-02-18_daily-top_get-shit-done.png)
+![get-shit-done](2026/02-19/2026-02-19_daily-top_get-shit-done.png)
 
-### 5. [gogcli](https://github.com/steipete/gogcli)
+### 6. [pyrite64](https://github.com/HailToDodongo/pyrite64)
 
 > 🤖 **Why Recommend**  
-> *gogcli is a powerful CLI tool for managing Google Suite services including Gmail, Calendar, Drive, and more, all from your terminal. Key features include multi-account support, JSON-first output for scripting, email tracking, event creation and management in Calendar, file handling in Drive, and contact management. It emphasizes security with least-privilege authentication, secure credential storage, and auto-refreshing tokens. With over 3,800 stars on GitHub, it's designed for efficiency and automation in a script-friendly environment.*
+> *Pyrite64 is an N64 game engine and visual editor built with libdragon and tiny3d, designed for creating 3D games compatible with real N64 hardware and accurate emulators. Key features include automatic toolchain installation on Windows, GLTF 3D model import with fast64 material support, HDR and Bloom rendering, big-texture support, and a runtime engine for scene management, rendering, and audio. The Node-Graph editor allows for scripting control flow. Although still in early development, it emphasizes accurate emulation and offers a growing set of documentation and resources.*
 
-- ⭐ 3891 stars
+- ⭐ 1324 stars
+- 💻 C++
+- 📅 Updated: 2026-02-19
+
+![pyrite64](2026/02-19/2026-02-19_daily-top_pyrite64.png)
+
+### 7. [convert](https://github.com/p2r3/convert)
+
+> 🤖 **Why Recommend**  
+> *Convert.to.it is a versatile online file converter that addresses the limitations of traditional tools by supporting a wide range of format conversions beyond just media types. Users can easily convert files by dragging and dropping them into the interface, selecting input and output formats, and clicking "Convert." The project prioritizes user privacy by avoiding file uploads to external servers. With robust support for various formats and an active community for contributions, Convert.to.it stands out as a valuable resource for diverse file conversion needs.*
+
+- ⭐ 1477 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-19
+
+![convert](2026/02-19/2026-02-19_daily-top_convert.png)
+
+### 8. [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+
+> 🤖 **Why Recommend**  
+> *The "awesome-system-design-resources" GitHub repository offers a comprehensive collection of free materials to learn System Design concepts and prepare for interviews. With over 33,000 stars, it covers core topics like scalability, reliability, and fault tolerance, along with networking, API, database, and caching fundamentals. It features hands-on design problems, courses, newsletters, and key articles and papers on distributed systems. Ideal for both beginners and experienced engineers, this resource streamlines the learning process for aspiring system designers.*
+
+- ⭐ 33045 stars
+- 💻 Java
+- 📅 Updated: 2026-02-19
+
+![awesome-system-design-resources](2026/02-19/2026-02-19_daily-top_awesome-system-design-resources.png)
+
+### 9. [gogcli](https://github.com/steipete/gogcli)
+
+> 🤖 **Why Recommend**  
+> *gogcli is a powerful CLI tool for managing Google services directly from your terminal, supporting Gmail, Google Calendar, Drive, Contacts, and more. Key features include email management (sending, searching, tracking), calendar event creation and modification, file handling in Google Drive, and task management. It supports multiple accounts, OAuth2 authentication, and provides JSON output for easy integration into scripts. With over 4,100 stars on GitHub, gogcli is designed for efficiency and automation, making Google Workspace accessible through a streamlined command-line interface.*
+
+- ⭐ 4105 stars
 - 💻 Go
-- 📅 Updated: 2026-02-18
+- 📅 Updated: 2026-02-19
 
-![gogcli](2026/02-18/2026-02-18_daily-top_gogcli.png)
+![gogcli](2026/02-19/2026-02-19_daily-top_gogcli.png)
 
-### 6. [cs249r_book](https://github.com/harvard-edge/cs249r_book)
-
-> 🤖 **Why Recommend**  
-> *The cs249r_book project offers a comprehensive introduction to Machine Learning Systems, emphasizing the principles of AI engineering. With over 19,000 stars, it features an interactive textbook, TinyTorch framework for hands-on ML development, and hardware kits for real-world deployment on devices like Arduino and Raspberry Pi. Users can explore theoretical concepts, build frameworks, and engage in upcoming AI Olympics to benchmark their skills. The project aims to establish AI engineering as a foundational discipline, promoting efficient and reliable AI systems.*
-
-- ⭐ 19035 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-02-18
-
-![cs249r_book](2026/02-18/2026-02-18_daily-top_cs249r_book.png)
-
-### 7. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+### 10. [opencti](https://github.com/OpenCTI-Platform/opencti)
 
 > 🤖 **Why Recommend**  
-> *NautilusTrader is a high-performance, open-source algorithmic trading platform developed in Rust, designed for quantitative traders. It features an event-driven backtester for testing automated trading strategies on historical data and supports live deployments without code changes. Key highlights include modular integration with various REST APIs and WebSocket feeds, advanced order types, and support for multiple asset classes (FX, Crypto, Equities). The platform prioritizes performance, reliability, and safety, making it suitable for mission-critical trading environments.*
+> *OpenCTI is an open-source Cyber Threat Intelligence Platform designed for organizations to manage, structure, and visualize cyber threat data. It utilizes a STIX2-based schema and includes a user-friendly web application with a GraphQL API. Key features include integration with tools like MISP and MITRE ATT&CK, data import/export capabilities, and a dual-edition model (Community and Enterprise). OpenCTI enables users to link technical and non-technical threat information, facilitating deeper insights and knowledge extraction. Comprehensive documentation and a demo instance are available for users.*
 
-- ⭐ 19989 stars
-- 💻 Rust
-- 📅 Updated: 2026-02-18
-
-![nautilus_trader](2026/02-18/2026-02-18_daily-top_nautilus_trader.png)
-
-### 8. [rowboat](https://github.com/rowboatlabs/rowboat)
-
-> 🤖 **Why Recommend**  
-> *Rowboat is an open-source AI coworker designed to enhance productivity by creating a long-lived knowledge graph from your work, including emails and meeting notes. Key features include drafting documents, meeting preparation, and generating summaries—all while maintaining your data locally in Markdown format. Rowboat supports integrations with Gmail, Granola, and Fireflies, and allows for customizable background tasks. With the Model Context Protocol (MCP), it connects to various external tools, ensuring a flexible and efficient workflow.*
-
-- ⭐ 7573 stars
+- ⭐ 8709 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-18
+- 📅 Updated: 2026-02-19
 
-![rowboat](2026/02-18/2026-02-18_daily-top_rowboat.png)
-
-### 9. [seerr](https://github.com/seerr-team/seerr)
-
-> 🤖 **Why Recommend**  
-> *Seerr is an open-source media request and discovery manager designed for Jellyfin, Plex, and Emby, boasting over 9,300 stars on GitHub. Key features include seamless integration with these media servers, support for PostgreSQL and SQLite databases, and a user-friendly request management system. Users can request movies and shows, manage permissions, and receive notifications. The platform is mobile-friendly and supports integration with Sonarr and Radarr for enhanced media management. For installation and documentation, visit https://docs.seerr.dev/getting-started/.*
-
-- ⭐ 9345 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-18
-
-![seerr](2026/02-18/2026-02-18_daily-top_seerr.png)
-
-### 10. [ghidra](https://github.com/NationalSecurityAgency/ghidra)
-
-> 🤖 **Why Recommend**  
-> *Ghidra is a powerful software reverse engineering (SRE) framework developed by the NSA, featuring advanced tools for analyzing compiled code across Windows, macOS, and Linux. Key capabilities include disassembly, decompilation, graphing, and scripting, supporting diverse processor instruction sets and executable formats. Ghidra allows users to create custom scripts and extensions in Java and Python, enhancing its functionality. Designed for scalability in cybersecurity efforts, Ghidra aids analysts in understanding vulnerabilities in systems and networks.*
-
-- ⭐ 64723 stars
-- 💻 Java
-- 📅 Updated: 2026-02-18
-
-![ghidra](2026/02-18/2026-02-18_daily-top_ghidra.png)
+![opencti](2026/02-19/2026-02-19_daily-top_opencti.png)
 
 ---
 
@@ -140,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-18 02:47:07 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-19 02:46:02 UTC
