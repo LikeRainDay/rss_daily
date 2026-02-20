@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-02-19
+# 📊 🌟 GitHub Trending Daily - 2026-02-20
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **355854** ⭐ | **56677** 🍴
+**10** 个项目 | **407817** ⭐ | **65789** 🍴
 
-**热门语言:** `TypeScript` (4) · `JavaScript` (2) · `C++` (2)
+**热门语言:** `TypeScript` (5) · `C++` (3) · `JavaScript` (2)
 
-**更新时间:** 2026-02-19 02:46 UTC
+**更新时间:** 2026-02-20 02:41 UTC
 
 **分类分布:**
 
@@ -21,113 +21,112 @@
 ### 1. [openclaw](https://github.com/openclaw/openclaw)
 
 > 🤖 **推荐理由**  
-> *OpenClaw is a versatile personal AI assistant that operates across multiple platforms including WhatsApp, Telegram, Slack, and Discord. Key features include a local-first architecture, multi-channel support, and seamless integration with voice commands on macOS, iOS, and Android. Users can customize their experience through an onboarding wizard, manage skills via ClawHub, and utilize a live Canvas for visual tasks. The platform supports various AI models, ensuring flexibility and performance. Ideal for users seeking a fast, always-on assistant that feels local and personal.*
+> *OpenClaw is a versatile personal AI assistant designed for any operating system and platform. It integrates with popular messaging channels like WhatsApp, Telegram, Slack, and Discord, enabling seamless communication. Key features include a local-first gateway for control, multi-channel inbox support, voice wake capabilities, and a live canvas for visual interactions. Users can easily set up through an onboarding wizard, and it supports various AI models for personalized assistance. With a focus on privacy and security, OpenClaw is ideal for those seeking a fast, always-on assistant.*
 
-- ⭐ 209037 stars
+- ⭐ 212063 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-19
+- 📅 Updated: 2026-02-20
 
-![openclaw](2026/02-19/2026-02-19_daily-top_openclaw.png)
+![openclaw](2026/02-20/2026-02-20_daily-top_openclaw.png)
 
-### 2. [daytona](https://github.com/daytonaio/daytona)
+### 2. [electrobun](https://github.com/blackboardsh/electrobun)
 
 > 🤖 **推荐理由**  
-> *Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code. popular project, actively maintained, recently updated*
+> *Electrobun is a powerful framework for building ultra-fast, tiny, cross-platform desktop applications using TypeScript. With a streamlined workflow, developers can quickly initialize projects and create self-extracting app bundles (~12MB) that support efficient updates (as small as 14KB). Key features include isolation between main and webview processes with easy RPC, and a focus on simplicity in coding and distribution. Notable applications like Audio TTS and Co(lab) showcase its capabilities. Visit electrobun.dev for documentation and resources.*
 
-- ⭐ 57662 stars
-- 🍴 5036 forks
-- 💻 TypeScript
-- 📅 Updated: 2026-02-19
+- ⭐ 5542 stars
+- 💻 C++
+- 📅 Updated: 2026-02-20
 
-![daytona](2026/02-19/2026-02-19_daily-top_daytona.png)
+![electrobun](2026/02-20/2026-02-20_daily-top_electrobun.png)
 
 ### 3. [cs249r_book](https://github.com/harvard-edge/cs249r_book)
 
 > 🤖 **推荐理由**  
-> *The cs249r_book project, "Introduction to Machine Learning Systems," presents a comprehensive guide on AI engineering principles, focusing on building efficient, reliable systems. Key features include an interactive online textbook, TinyTorch for hands-on ML framework development, and hardware kits for real-world deployment on devices like Arduino and Raspberry Pi. The project emphasizes a hands-on learning approach, connecting theory with practical applications. With over 19,700 stars, it aims to educate one million learners by 2030, fostering a robust AI engineering community.*
+> *cs249r_book is an open-source educational resource focused on "Machine Learning Systems," emphasizing the engineering of reliable AI systems rather than isolated models. The project includes a comprehensive online textbook, TinyTorch—a framework for building ML systems, and hands-on hardware labs for deployment on devices like Arduino and Raspberry Pi. With over 20,000 stars, it fosters a community-driven approach to learning AI engineering, aiming for 1 million learners by 2030. The content is available in multiple languages, and a hardcopy edition is set for 2026.*
 
-- ⭐ 19718 stars
+- ⭐ 20232 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-02-19
+- 📅 Updated: 2026-02-20
 
-![cs249r_book](2026/02-19/2026-02-19_daily-top_cs249r_book.png)
+![cs249r_book](2026/02-20/2026-02-20_daily-top_cs249r_book.png)
 
-### 4. [zvec](https://github.com/alibaba/zvec)
+### 4. [pyrite64](https://github.com/HailToDodongo/pyrite64)
 
 > 🤖 **推荐理由**  
-> *Zvec is a lightweight, high-performance in-process vector database designed for seamless integration into applications. Built on Alibaba's Proxima engine, it supports both dense and sparse vectors, enabling low-latency similarity searches across billions of vectors. Key features include hybrid search capabilities, quick installation with no server setup, and compatibility with Python and Node.js. Zvec runs on various platforms, including Linux and macOS, making it ideal for production workloads. With 4,937 stars on GitHub, it offers exceptional speed and scalability for demanding applications.*
+> *Pyrite64 is an innovative N64 game engine and editor, built using Libdragon and tiny3d, designed for creating 3D games for real N64 consoles and accurate emulators. Key features include a visual editor, automatic Windows toolchain installation, GLTF model import with material support, HDR+Bloom rendering, and big-texture capabilities. The runtime engine manages scene handling, rendering, and audio, while a Node-Graph editor simplifies scripting. This early-development project emphasizes real hardware compatibility and requires accurate emulators like Ares and gopher64.*
 
-- ⭐ 4937 stars
+- ⭐ 1777 stars
 - 💻 C++
-- 📅 Updated: 2026-02-19
+- 📅 Updated: 2026-02-20
 
-![zvec](2026/02-19/2026-02-19_daily-top_zvec.png)
+![pyrite64](2026/02-20/2026-02-20_daily-top_pyrite64.png)
 
 ### 5. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
 > 🤖 **推荐理由**  
-> *Get Shit Done (GSD) is a lightweight, powerful meta-prompting and context engineering system for Claude Code, OpenCode, and Gemini CLI, designed to combat context rot in AI coding. With 15,840 stars on GitHub, it streamlines spec-driven development through a structured command workflow: initialize projects, discuss phases, plan, execute tasks in parallel, and verify results. GSD ensures atomic Git commits and clean project history, making it ideal for solo developers who want effective, non-enterprise workflows. Trusted by engineers at major tech firms, GSD is built for those seeking efficient code generation without complications.*
+> *Get Shit Done (GSD) is a lightweight, powerful meta-prompting and context engineering system designed for Claude Code, OpenCode, and Gemini CLI. It effectively combats context rot, ensuring high-quality code generation through a structured workflow. Key features include streamlined project initialization, phase management, and atomic Git commits, which enhance collaboration and traceability. GSD is trusted by engineers at major companies like Amazon and Google, offering a frictionless development experience with minimal complexity. It supports rapid development across multiple platforms, making it ideal for solo developers and small teams.*
 
-- ⭐ 15840 stars
+- ⭐ 16295 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-02-19
+- 📅 Updated: 2026-02-20
 
-![get-shit-done](2026/02-19/2026-02-19_daily-top_get-shit-done.png)
+![get-shit-done](2026/02-20/2026-02-20_daily-top_get-shit-done.png)
 
-### 6. [pyrite64](https://github.com/HailToDodongo/pyrite64)
+### 6. [convert](https://github.com/p2r3/convert)
 
 > 🤖 **推荐理由**  
-> *Pyrite64 is an N64 game engine and visual editor built with libdragon and tiny3d, designed for creating 3D games compatible with real N64 hardware and accurate emulators. Key features include automatic toolchain installation on Windows, GLTF 3D model import with fast64 material support, HDR and Bloom rendering, big-texture support, and a runtime engine for scene management, rendering, and audio. The Node-Graph editor allows for scripting control flow. Although still in early development, it emphasizes accurate emulation and offers a growing set of documentation and resources.*
+> *Convert.to.it is a versatile online file converter that supports a wide range of formats beyond traditional constraints, enabling conversions like AVI to PDF. Designed for privacy, it avoids server uploads, ensuring user data security. The platform features an intuitive interface for easy file uploads and format selections, aiming to deliver reliable outputs even when expectations are not met. With a collaborative approach, users can contribute by suggesting new formats, provided they follow specific guidelines. The project is built in TypeScript and welcomes contributions to expand its capabilities.*
 
-- ⭐ 1324 stars
+- ⭐ 1730 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-20
+
+![convert](2026/02-20/2026-02-20_daily-top_convert.png)
+
+### 7. [qwen-code](https://github.com/QwenLM/qwen-code)
+
+> 🤖 **推荐理由**  
+> *Qwen Code is an open-source AI agent designed for terminal use, optimized for code understanding and automation. Key features include multi-protocol support for OpenAI, Anthropic, and Gemini APIs, along with a free tier via Qwen OAuth. It offers a rich agentic workflow with built-in tools and is IDE-friendly, integrating with VS Code, Zed, and JetBrains. Users can operate in interactive or headless modes, and configure via settings.json or environment variables. With over 19,000 stars, Qwen Code is a powerful tool for developers seeking efficiency and enhanced productivity in coding tasks.*
+
+- ⭐ 19079 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-20
+
+![qwen-code](2026/02-20/2026-02-20_daily-top_qwen-code.png)
+
+### 8. [opencti](https://github.com/OpenCTI-Platform/opencti)
+
+> 🤖 **推荐理由**  
+> *OpenCTI is an open-source Cyber Threat Intelligence Platform designed to manage and visualize cyber threat data. Built with TypeScript, it supports the STIX2 standard for data structuring and offers a user-friendly web application with a GraphQL API. Key features include integration with tools like MISP and MITRE ATT&CK, automated data import/export in various formats, and a dual-edition model (Community and Enterprise). OpenCTI enables organizations to link and analyze technical and non-technical threat information, facilitating informed decision-making.*
+
+- ⭐ 8812 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-20
+
+![opencti](2026/02-20/2026-02-20_daily-top_opencti.png)
+
+### 9. [composio](https://github.com/ComposioHQ/composio)
+
+> 🤖 **推荐理由**  
+> *Composio is a powerful SDK that enables the creation of AI agents by leveraging over 1000 toolkits, offering features like tool search, context management, and authentication. It provides seamless integration for both TypeScript and Python, allowing developers to build agents that convert user intent into actionable tasks. Notable highlights include support for major AI frameworks such as OpenAI and Anthropic, and the Rube platform, which connects AI tools to 500+ applications. With 26,886 stars on GitHub, Composio stands out as a versatile solution for AI development.*
+
+- ⭐ 26886 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-20
+
+![composio](2026/02-20/2026-02-20_daily-top_composio.png)
+
+### 10. [llama.cpp](https://github.com/ggml-org/llama.cpp)
+
+> 🤖 **推荐理由**  
+> *llama.cpp is a high-performance library for large language model (LLM) inference implemented in C/C++. It supports various architectures, including optimized ARM for Apple Silicon and AVX for x86. Key features include extensive model quantization options, a lightweight HTTP server compatible with OpenAI APIs, and multimodal capabilities. Users can easily install via package managers or Docker, run models locally or from Hugging Face, and utilize a command-line interface for streamlined interactions. With over 95,000 stars, it serves as a robust playground for LLM development and experimentation.*
+
+- ⭐ 95401 stars
 - 💻 C++
-- 📅 Updated: 2026-02-19
+- 📅 Updated: 2026-02-20
 
-![pyrite64](2026/02-19/2026-02-19_daily-top_pyrite64.png)
-
-### 7. [convert](https://github.com/p2r3/convert)
-
-> 🤖 **推荐理由**  
-> *Convert.to.it is a versatile online file converter that addresses the limitations of traditional tools by supporting a wide range of format conversions beyond just media types. Users can easily convert files by dragging and dropping them into the interface, selecting input and output formats, and clicking "Convert." The project prioritizes user privacy by avoiding file uploads to external servers. With robust support for various formats and an active community for contributions, Convert.to.it stands out as a valuable resource for diverse file conversion needs.*
-
-- ⭐ 1477 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-19
-
-![convert](2026/02-19/2026-02-19_daily-top_convert.png)
-
-### 8. [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
-
-> 🤖 **推荐理由**  
-> *The "awesome-system-design-resources" GitHub repository offers a comprehensive collection of free materials to learn System Design concepts and prepare for interviews. With over 33,000 stars, it covers core topics like scalability, reliability, and fault tolerance, along with networking, API, database, and caching fundamentals. It features hands-on design problems, courses, newsletters, and key articles and papers on distributed systems. Ideal for both beginners and experienced engineers, this resource streamlines the learning process for aspiring system designers.*
-
-- ⭐ 33045 stars
-- 💻 Java
-- 📅 Updated: 2026-02-19
-
-![awesome-system-design-resources](2026/02-19/2026-02-19_daily-top_awesome-system-design-resources.png)
-
-### 9. [gogcli](https://github.com/steipete/gogcli)
-
-> 🤖 **推荐理由**  
-> *gogcli is a powerful CLI tool for managing Google services directly from your terminal, supporting Gmail, Google Calendar, Drive, Contacts, and more. Key features include email management (sending, searching, tracking), calendar event creation and modification, file handling in Google Drive, and task management. It supports multiple accounts, OAuth2 authentication, and provides JSON output for easy integration into scripts. With over 4,100 stars on GitHub, gogcli is designed for efficiency and automation, making Google Workspace accessible through a streamlined command-line interface.*
-
-- ⭐ 4105 stars
-- 💻 Go
-- 📅 Updated: 2026-02-19
-
-![gogcli](2026/02-19/2026-02-19_daily-top_gogcli.png)
-
-### 10. [opencti](https://github.com/OpenCTI-Platform/opencti)
-
-> 🤖 **推荐理由**  
-> *OpenCTI is an open-source Cyber Threat Intelligence Platform designed for organizations to manage, structure, and visualize cyber threat data. It utilizes a STIX2-based schema and includes a user-friendly web application with a GraphQL API. Key features include integration with tools like MISP and MITRE ATT&CK, data import/export capabilities, and a dual-edition model (Community and Enterprise). OpenCTI enables users to link technical and non-technical threat information, facilitating deeper insights and knowledge extraction. Comprehensive documentation and a demo instance are available for users.*
-
-- ⭐ 8709 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-19
-
-![opencti](2026/02-19/2026-02-19_daily-top_opencti.png)
+![llama.cpp](2026/02-20/2026-02-20_daily-top_llama.cpp.png)
 
 ---
 
@@ -141,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-19 02:46:02 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-20 02:41:52 UTC

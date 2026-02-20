@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-20
 
-![openclaw](2026/02-20/2026-02-20_daily-top_openclaw.png)
+![openclaw](2026-02-20_daily-top_openclaw.png)
 
 ### 2. [electrobun](https://github.com/blackboardsh/electrobun)
 
@@ -38,7 +38,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-20
 
-![electrobun](2026/02-20/2026-02-20_daily-top_electrobun.png)
+![electrobun](2026-02-20_daily-top_electrobun.png)
 
 ### 3. [cs249r_book](https://github.com/harvard-edge/cs249r_book)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-20
 
-![cs249r_book](2026/02-20/2026-02-20_daily-top_cs249r_book.png)
+![cs249r_book](2026-02-20_daily-top_cs249r_book.png)
 
 ### 4. [pyrite64](https://github.com/HailToDodongo/pyrite64)
 
@@ -60,7 +60,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-20
 
-![pyrite64](2026/02-20/2026-02-20_daily-top_pyrite64.png)
+![pyrite64](2026-02-20_daily-top_pyrite64.png)
 
 ### 5. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-20
 
-![get-shit-done](2026/02-20/2026-02-20_daily-top_get-shit-done.png)
+![get-shit-done](2026-02-20_daily-top_get-shit-done.png)
 
 ### 6. [convert](https://github.com/p2r3/convert)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-20
 
-![convert](2026/02-20/2026-02-20_daily-top_convert.png)
+![convert](2026-02-20_daily-top_convert.png)
 
 ### 7. [qwen-code](https://github.com/QwenLM/qwen-code)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-20
 
-![qwen-code](2026/02-20/2026-02-20_daily-top_qwen-code.png)
+![qwen-code](2026-02-20_daily-top_qwen-code.png)
 
 ### 8. [opencti](https://github.com/OpenCTI-Platform/opencti)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-20
 
-![opencti](2026/02-20/2026-02-20_daily-top_opencti.png)
+![opencti](2026-02-20_daily-top_opencti.png)
 
 ### 9. [composio](https://github.com/ComposioHQ/composio)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-20
 
-![composio](2026/02-20/2026-02-20_daily-top_composio.png)
+![composio](2026-02-20_daily-top_composio.png)
 
 ### 10. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -126,7 +126,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-20
 
-![llama.cpp](2026/02-20/2026-02-20_daily-top_llama.cpp.png)
+![llama.cpp](2026-02-20_daily-top_llama.cpp.png)
 
 ---
 
