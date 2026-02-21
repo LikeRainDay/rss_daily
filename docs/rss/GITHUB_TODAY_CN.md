@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-02-20
+# 📊 🌟 GitHub Trending Daily - 2026-02-21
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **407817** ⭐ | **65789** 🍴
+**10** 个项目 | **209404** ⭐ | **23386** 🍴
 
-**热门语言:** `TypeScript` (5) · `C++` (3) · `JavaScript` (2)
+**热门语言:** `JavaScript` (3) · `TypeScript` (3) · `C++` (2)
 
-**更新时间:** 2026-02-20 02:41 UTC
+**更新时间:** 2026-02-21 02:35 UTC
 
 **分类分布:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [openclaw](https://github.com/openclaw/openclaw)
+### 1. [pentagi](https://github.com/vxcontrol/pentagi)
 
 > 🤖 **推荐理由**  
-> *OpenClaw is a versatile personal AI assistant designed for any operating system and platform. It integrates with popular messaging channels like WhatsApp, Telegram, Slack, and Discord, enabling seamless communication. Key features include a local-first gateway for control, multi-channel inbox support, voice wake capabilities, and a live canvas for visual interactions. Users can easily set up through an onboarding wizard, and it supports various AI models for personalized assistance. With a focus on privacy and security, OpenClaw is ideal for those seeking a fast, always-on assistant.*
+> *PentAGI is a fully autonomous AI agent system designed for advanced penetration testing, leveraging AI technologies to automate complex security assessments. Key features include a secure Docker-based environment, integration of 20+ professional pentesting tools, a smart memory system for storing research results, and a knowledge graph for enhanced context understanding. It supports REST/GraphQL APIs, real-time monitoring through Grafana, and flexible authentication options. PentAGI is scalable, self-hosted, and ideal for security professionals seeking efficient and effective testing solutions.*
 
-- ⭐ 212063 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-20
+- ⭐ 4003 stars
+- 💻 Go
+- 📅 Updated: 2026-02-21
 
-![openclaw](2026/02-20/2026-02-20_daily-top_openclaw.png)
+![pentagi](2026/02-21/2026-02-21_daily-top_pentagi.png)
 
-### 2. [electrobun](https://github.com/blackboardsh/electrobun)
+### 2. [pyrite64](https://github.com/HailToDodongo/pyrite64)
 
 > 🤖 **推荐理由**  
-> *Electrobun is a powerful framework for building ultra-fast, tiny, cross-platform desktop applications using TypeScript. With a streamlined workflow, developers can quickly initialize projects and create self-extracting app bundles (~12MB) that support efficient updates (as small as 14KB). Key features include isolation between main and webview processes with easy RPC, and a focus on simplicity in coding and distribution. Notable applications like Audio TTS and Co(lab) showcase its capabilities. Visit electrobun.dev for documentation and resources.*
+> *Pyrite64 is an N64 game engine and editor built with libdragon and tiny3d, enabling developers to create 3D games for real N64 hardware and accurate emulators. Key features include an intuitive visual editor, automatic toolchain installation on Windows, 3D model import (GLTF) with fast64 material support, HDR+BLOOM rendering, and big-texture support. The engine manages scene, rendering, collision, and audio, while offering a Node-Graph editor for scripting. As an open-source project under the MIT License, it encourages community contributions and has growing documentation.*
 
-- ⭐ 5542 stars
+- ⭐ 2140 stars
 - 💻 C++
-- 📅 Updated: 2026-02-20
+- 📅 Updated: 2026-02-21
 
-![electrobun](2026/02-20/2026-02-20_daily-top_electrobun.png)
+![pyrite64](2026/02-21/2026-02-21_daily-top_pyrite64.png)
 
-### 3. [cs249r_book](https://github.com/harvard-edge/cs249r_book)
+### 3. [electrobun](https://github.com/blackboardsh/electrobun)
 
 > 🤖 **推荐理由**  
-> *cs249r_book is an open-source educational resource focused on "Machine Learning Systems," emphasizing the engineering of reliable AI systems rather than isolated models. The project includes a comprehensive online textbook, TinyTorch—a framework for building ML systems, and hands-on hardware labs for deployment on devices like Arduino and Raspberry Pi. With over 20,000 stars, it fosters a community-driven approach to learning AI engineering, aiming for 1 million learners by 2030. The content is available in multiple languages, and a hardcopy edition is set for 2026.*
+> *Electrobun is a powerful framework for creating ultra-fast, tiny, cross-platform desktop applications using TypeScript. With 6,067 stars on GitHub, it simplifies the development process by allowing developers to write TypeScript for both the main process and webviews, featuring quick, typed RPC for seamless interaction. Key highlights include small app bundles (~12MB), minimal updates (as small as 14KB), and a streamlined setup process. Electrobun supports macOS, Windows, and Ubuntu, and comes with built-in templates to kickstart projects in minutes.*
 
-- ⭐ 20232 stars
+- ⭐ 6067 stars
+- 💻 C++
+- 📅 Updated: 2026-02-21
+
+![electrobun](2026/02-21/2026-02-21_daily-top_electrobun.png)
+
+### 4. [cs249r_book](https://github.com/harvard-edge/cs249r_book)
+
+> 🤖 **推荐理由**  
+> *The cs249r_book project is an open resource for learning AI engineering, focusing on the principles and practices of building machine learning systems. With over 20,000 stars, it offers a comprehensive textbook, the TinyTorch framework for hands-on coding, and hardware kits for real-world deployment on devices like Arduino and Raspberry Pi. Upcoming features include software co-labs and an AI Olympics for practical competitions. The project aims to establish AI engineering as a foundational discipline, encouraging learners to design, build, and evaluate robust AI systems.*
+
+- ⭐ 20482 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-02-20
+- 📅 Updated: 2026-02-21
 
-![cs249r_book](2026/02-20/2026-02-20_daily-top_cs249r_book.png)
-
-### 4. [pyrite64](https://github.com/HailToDodongo/pyrite64)
-
-> 🤖 **推荐理由**  
-> *Pyrite64 is an innovative N64 game engine and editor, built using Libdragon and tiny3d, designed for creating 3D games for real N64 consoles and accurate emulators. Key features include a visual editor, automatic Windows toolchain installation, GLTF model import with material support, HDR+Bloom rendering, and big-texture capabilities. The runtime engine manages scene handling, rendering, and audio, while a Node-Graph editor simplifies scripting. This early-development project emphasizes real hardware compatibility and requires accurate emulators like Ares and gopher64.*
-
-- ⭐ 1777 stars
-- 💻 C++
-- 📅 Updated: 2026-02-20
-
-![pyrite64](2026/02-20/2026-02-20_daily-top_pyrite64.png)
+![cs249r_book](2026/02-21/2026-02-21_daily-top_cs249r_book.png)
 
 ### 5. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
 > 🤖 **推荐理由**  
-> *Get Shit Done (GSD) is a lightweight, powerful meta-prompting and context engineering system designed for Claude Code, OpenCode, and Gemini CLI. It effectively combats context rot, ensuring high-quality code generation through a structured workflow. Key features include streamlined project initialization, phase management, and atomic Git commits, which enhance collaboration and traceability. GSD is trusted by engineers at major companies like Amazon and Google, offering a frictionless development experience with minimal complexity. It supports rapid development across multiple platforms, making it ideal for solo developers and small teams.*
+> *Get Shit Done (GSD) is a lightweight, powerful system for meta-prompting, context engineering, and spec-driven development, designed for Claude Code, OpenCode, and Gemini CLI. With over 16,600 stars, GSD effectively combats context rot, ensuring high-quality code generation. Key features include streamlined project initialization, phase discussion and planning, parallel execution of tasks, and automated verification. GSD supports seamless integration with existing codebases and offers atomic Git commits for clear version control, making it ideal for developers seeking efficient and reliable workflows.*
 
-- ⭐ 16295 stars
+- ⭐ 16691 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-02-20
+- 📅 Updated: 2026-02-21
 
-![get-shit-done](2026/02-20/2026-02-20_daily-top_get-shit-done.png)
+![get-shit-done](2026/02-21/2026-02-21_daily-top_get-shit-done.png)
 
-### 6. [convert](https://github.com/p2r3/convert)
+### 6. [open-mercato](https://github.com/open-mercato/open-mercato)
 
 > 🤖 **推荐理由**  
-> *Convert.to.it is a versatile online file converter that supports a wide range of formats beyond traditional constraints, enabling conversions like AVI to PDF. Designed for privacy, it avoids server uploads, ensuring user data security. The platform features an intuitive interface for easy file uploads and format selections, aiming to deliver reliable outputs even when expectations are not met. With a collaborative approach, users can contribute by suggesting new formats, provided they follow specific guidelines. The project is built in TypeScript and welcomes contributions to expand its capabilities.*
+> *Open Mercato is an AI-supportive, modular CRM/ERP framework designed for enterprise-grade applications. Built with TypeScript and Next.js, it enables teams to customize workflows, manage customer relationships, and handle orders efficiently. Key features include a flexible architecture, multi-tenant support, encrypted data management, and a built-in AI Assistant for schema and API discovery. With strong defaults for CRM, ERP, and commerce backends, Open Mercato allows users to start with 80% of their needs met and customize the remaining 20%.*
 
-- ⭐ 1730 stars
+- ⭐ 886 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-20
+- 📅 Updated: 2026-02-21
 
-![convert](2026/02-20/2026-02-20_daily-top_convert.png)
+![open-mercato](2026/02-21/2026-02-21_daily-top_open-mercato.png)
 
-### 7. [qwen-code](https://github.com/QwenLM/qwen-code)
+### 7. [gemini-cli](https://github.com/google-gemini/gemini-cli)
 
 > 🤖 **推荐理由**  
-> *Qwen Code is an open-source AI agent designed for terminal use, optimized for code understanding and automation. Key features include multi-protocol support for OpenAI, Anthropic, and Gemini APIs, along with a free tier via Qwen OAuth. It offers a rich agentic workflow with built-in tools and is IDE-friendly, integrating with VS Code, Zed, and JetBrains. Users can operate in interactive or headless modes, and configure via settings.json or environment variables. With over 19,000 stars, Qwen Code is a powerful tool for developers seeking efficiency and enhanced productivity in coding tasks.*
+> *Gemini CLI is an open-source AI agent designed to integrate Gemini's capabilities directly into your terminal. With over 95,000 stars on GitHub, it offers a free tier of 60 requests/min and advanced features like powerful Gemini 3 models, built-in tools for Google Search, and automation capabilities. Users can customize workflows with the Model Context Protocol (MCP), enabling seamless integration into GitHub for code reviews and issue triage. Quick installation is available via npx, npm, or Homebrew, making it accessible for developers who prefer terminal-first solutions.*
 
-- ⭐ 19079 stars
+- ⭐ 95096 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-20
+- 📅 Updated: 2026-02-21
 
-![qwen-code](2026/02-20/2026-02-20_daily-top_qwen-code.png)
+![gemini-cli](2026/02-21/2026-02-21_daily-top_gemini-cli.png)
 
-### 8. [opencti](https://github.com/OpenCTI-Platform/opencti)
+### 8. [hyperswitch](https://github.com/juspay/hyperswitch)
 
 > 🤖 **推荐理由**  
-> *OpenCTI is an open-source Cyber Threat Intelligence Platform designed to manage and visualize cyber threat data. Built with TypeScript, it supports the STIX2 standard for data structuring and offers a user-friendly web application with a GraphQL API. Key features include integration with tools like MISP and MITRE ATT&CK, automated data import/export in various formats, and a dual-edition model (Community and Enterprise). OpenCTI enables organizations to link and analyze technical and non-technical threat information, facilitating informed decision-making.*
+> *Hyperswitch is an open-source payments infrastructure built in Rust, designed for fast, reliable, and affordable transactions. With over 40,300 stars on GitHub, it offers a modular architecture allowing businesses to integrate only necessary components without vendor lock-in. Key features include cost observability, revenue recovery, a PCI-compliant vault, intelligent routing, and easy integration of alternate payment methods. Hyperswitch supports various global payment methods and provides a visual workflow builder for enhanced control, making it a robust solution for modern payment processing needs.*
 
-- ⭐ 8812 stars
+- ⭐ 40308 stars
+- 💻 Rust
+- 📅 Updated: 2026-02-21
+
+![hyperswitch](2026/02-21/2026-02-21_daily-top_hyperswitch.png)
+
+### 9. [awesome-copilot](https://github.com/github/awesome-copilot)
+
+> 🤖 **推荐理由**  
+> *Awesome GitHub Copilot is a community-driven repository that enhances your GitHub Copilot experience. With over 21,900 stars, it offers a rich toolkit, including specialized agents, task-specific prompts, comprehensive instructions, automated hooks, and curated plugins. Key features include the MCP server for easy installation of customizations, a cookbook of practical code snippets, and a structured overview for Large Language Models. This project empowers developers with productivity tools, best practices, and specialized assistance, fostering continuous learning and collaboration.*
+
+- ⭐ 21903 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-02-21
+
+![awesome-copilot](2026/02-21/2026-02-21_daily-top_awesome-copilot.png)
+
+### 10. [convert](https://github.com/p2r3/convert)
+
+> 🤖 **推荐理由**  
+> *Convert.to.it is a versatile online file converter that supports a wide range of file format transformations, breaking the limitations of traditional converters that restrict conversions within the same medium. Users can effortlessly convert files, such as AVI to PDF, without compromising privacy by uploading to servers. The tool is designed for flexibility and aims to provide reliable outputs. Developed in TypeScript, it encourages community contributions for additional format support and offers local and Docker deployment options for developers.*
+
+- ⭐ 1828 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-20
+- 📅 Updated: 2026-02-21
 
-![opencti](2026/02-20/2026-02-20_daily-top_opencti.png)
-
-### 9. [composio](https://github.com/ComposioHQ/composio)
-
-> 🤖 **推荐理由**  
-> *Composio is a powerful SDK that enables the creation of AI agents by leveraging over 1000 toolkits, offering features like tool search, context management, and authentication. It provides seamless integration for both TypeScript and Python, allowing developers to build agents that convert user intent into actionable tasks. Notable highlights include support for major AI frameworks such as OpenAI and Anthropic, and the Rube platform, which connects AI tools to 500+ applications. With 26,886 stars on GitHub, Composio stands out as a versatile solution for AI development.*
-
-- ⭐ 26886 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-20
-
-![composio](2026/02-20/2026-02-20_daily-top_composio.png)
-
-### 10. [llama.cpp](https://github.com/ggml-org/llama.cpp)
-
-> 🤖 **推荐理由**  
-> *llama.cpp is a high-performance library for large language model (LLM) inference implemented in C/C++. It supports various architectures, including optimized ARM for Apple Silicon and AVX for x86. Key features include extensive model quantization options, a lightweight HTTP server compatible with OpenAI APIs, and multimodal capabilities. Users can easily install via package managers or Docker, run models locally or from Hugging Face, and utilize a command-line interface for streamlined interactions. With over 95,000 stars, it serves as a robust playground for LLM development and experimentation.*
-
-- ⭐ 95401 stars
-- 💻 C++
-- 📅 Updated: 2026-02-20
-
-![llama.cpp](2026/02-20/2026-02-20_daily-top_llama.cpp.png)
+![convert](2026/02-21/2026-02-21_daily-top_convert.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-20 02:41:52 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-21 02:35:16 UTC

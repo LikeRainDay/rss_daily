@@ -27,7 +27,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-21
 
-![pentagi](2026/02-21/2026-02-21_daily-top_pentagi.png)
+![pentagi](2026-02-21_daily-top_pentagi.png)
 
 ### 2. [pyrite64](https://github.com/HailToDodongo/pyrite64)
 
@@ -38,7 +38,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-21
 
-![pyrite64](2026/02-21/2026-02-21_daily-top_pyrite64.png)
+![pyrite64](2026-02-21_daily-top_pyrite64.png)
 
 ### 3. [electrobun](https://github.com/blackboardsh/electrobun)
 
@@ -49,7 +49,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-21
 
-![electrobun](2026/02-21/2026-02-21_daily-top_electrobun.png)
+![electrobun](2026-02-21_daily-top_electrobun.png)
 
 ### 4. [cs249r_book](https://github.com/harvard-edge/cs249r_book)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-21
 
-![cs249r_book](2026/02-21/2026-02-21_daily-top_cs249r_book.png)
+![cs249r_book](2026-02-21_daily-top_cs249r_book.png)
 
 ### 5. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-21
 
-![get-shit-done](2026/02-21/2026-02-21_daily-top_get-shit-done.png)
+![get-shit-done](2026-02-21_daily-top_get-shit-done.png)
 
 ### 6. [open-mercato](https://github.com/open-mercato/open-mercato)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-21
 
-![open-mercato](2026/02-21/2026-02-21_daily-top_open-mercato.png)
+![open-mercato](2026-02-21_daily-top_open-mercato.png)
 
 ### 7. [gemini-cli](https://github.com/google-gemini/gemini-cli)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-21
 
-![gemini-cli](2026/02-21/2026-02-21_daily-top_gemini-cli.png)
+![gemini-cli](2026-02-21_daily-top_gemini-cli.png)
 
 ### 8. [hyperswitch](https://github.com/juspay/hyperswitch)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-21
 
-![hyperswitch](2026/02-21/2026-02-21_daily-top_hyperswitch.png)
+![hyperswitch](2026-02-21_daily-top_hyperswitch.png)
 
 ### 9. [awesome-copilot](https://github.com/github/awesome-copilot)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-21
 
-![awesome-copilot](2026/02-21/2026-02-21_daily-top_awesome-copilot.png)
+![awesome-copilot](2026-02-21_daily-top_awesome-copilot.png)
 
 ### 10. [convert](https://github.com/p2r3/convert)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-21
 
-![convert](2026/02-21/2026-02-21_daily-top_convert.png)
+![convert](2026-02-21_daily-top_convert.png)
 
 ---
 
