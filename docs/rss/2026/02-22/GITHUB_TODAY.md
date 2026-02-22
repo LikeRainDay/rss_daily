@@ -27,7 +27,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-22
 
-![pentagi](2026/02-22/2026-02-22_daily-top_pentagi.png)
+![pentagi](2026-02-22_daily-top_pentagi.png)
 
 ### 2. [electrobun](https://github.com/blackboardsh/electrobun)
 
@@ -38,7 +38,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-22
 
-![electrobun](2026/02-22/2026-02-22_daily-top_electrobun.png)
+![electrobun](2026-02-22_daily-top_electrobun.png)
 
 ### 3. [stremio-web](https://github.com/Stremio/stremio-web)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-22
 
-![stremio-web](2026/02-22/2026-02-22_daily-top_stremio-web.png)
+![stremio-web](2026-02-22_daily-top_stremio-web.png)
 
 ### 4. [pyrite64](https://github.com/HailToDodongo/pyrite64)
 
@@ -60,7 +60,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-22
 
-![pyrite64](2026/02-22/2026-02-22_daily-top_pyrite64.png)
+![pyrite64](2026-02-22_daily-top_pyrite64.png)
 
 ### 5. [gemini-cli](https://github.com/google-gemini/gemini-cli)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-22
 
-![gemini-cli](2026/02-22/2026-02-22_daily-top_gemini-cli.png)
+![gemini-cli](2026-02-22_daily-top_gemini-cli.png)
 
 ### 6. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-22
 
-![GitNexus](2026/02-22/2026-02-22_daily-top_GitNexus.png)
+![GitNexus](2026-02-22_daily-top_GitNexus.png)
 
 ### 7. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-22
 
-![clash-verge-rev](2026/02-22/2026-02-22_daily-top_clash-verge-rev.png)
+![clash-verge-rev](2026-02-22_daily-top_clash-verge-rev.png)
 
 ### 8. [hyperswitch](https://github.com/juspay/hyperswitch)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-22
 
-![hyperswitch](2026/02-22/2026-02-22_daily-top_hyperswitch.png)
+![hyperswitch](2026-02-22_daily-top_hyperswitch.png)
 
 ### 9. [awesome-copilot](https://github.com/github/awesome-copilot)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-22
 
-![awesome-copilot](2026/02-22/2026-02-22_daily-top_awesome-copilot.png)
+![awesome-copilot](2026-02-22_daily-top_awesome-copilot.png)
 
 ### 10. [trivy](https://github.com/aquasecurity/trivy)
 
@@ -126,7 +126,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-22
 
-![trivy](2026/02-22/2026-02-22_daily-top_trivy.png)
+![trivy](2026-02-22_daily-top_trivy.png)
 
 ---
 
