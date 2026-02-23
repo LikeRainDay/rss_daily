@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-02-22
+# 📊 🌟 GitHub Trending Daily - 2026-02-23
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **312663** ⭐ | **30740** 🍴
+**10** Projects | **277521** ⭐ | **24812** 🍴
 
-**Top Languages:** `TypeScript` (3) · `Go` (2) · `C++` (2)
+**Top Languages:** `TypeScript` (6) · `C++` (2) · `JavaScript` (1)
 
-**Updated:** 2026-02-22 02:47 UTC
+**Updated:** 2026-02-23 02:47 UTC
 
 **Categories:**
 
@@ -21,112 +21,112 @@
 ### 1. [pentagi](https://github.com/vxcontrol/pentagi)
 
 > 🤖 **Why Recommend**  
-> *PentAGI is a cutting-edge autonomous AI agent system designed for comprehensive penetration testing. Key features include a secure sandboxed environment, a suite of 20+ professional pentesting tools, a smart memory system for storing findings, and integration with advanced search APIs. It offers detailed reporting, REST/GraphQL APIs for automation, and a modern web interface. Users can leverage its scalable architecture for seamless deployment and monitoring. Join a vibrant community of ethical hackers and security researchers to enhance your testing capabilities.*
+> *PentAGI is a fully autonomous AI agents system designed for complex penetration testing tasks, utilizing advanced AI technologies. Key features include a secure Docker environment, a suite of 20+ professional security tools, a smart memory system for long-term knowledge retention, and comprehensive APIs for integration. The system supports multiple LLM providers, ensuring flexibility and scalability. With detailed reporting, real-time monitoring via Grafana, and a modern web UI, PentAGI streamlines penetration testing for security professionals, researchers, and ethical hackers.*
 
-- ⭐ 5664 stars
+- ⭐ 7118 stars
 - 💻 Go
-- 📅 Updated: 2026-02-22
+- 📅 Updated: 2026-02-23
 
-![pentagi](2026/02-22/2026-02-22_daily-top_pentagi.png)
+![pentagi](2026/02-23/2026-02-23_daily-top_pentagi.png)
 
-### 2. [electrobun](https://github.com/blackboardsh/electrobun)
+### 2. [zvec](https://github.com/alibaba/zvec)
 
 > 🤖 **Why Recommend**  
-> *Electrobun is a powerful framework for creating ultra-fast, lightweight, and cross-platform desktop applications using TypeScript. With features like seamless TypeScript integration for both main and webview processes, small self-extracting app bundles (~12MB), and minimal update sizes (as small as 14KB), it streamlines the development and distribution workflow. Built on Bun and Zig, Electrobun ensures easy RPC communication and rapid setup. Notable applications include Audio TTS and Co(lab). Explore documentation and templates at electrobun.dev.*
+> *Zvec is a lightweight, in-process vector database designed for high-performance similarity searches. Built on Alibaba's Proxima engine, it offers lightning-fast querying of billions of vectors with minimal setup. Key features include support for both dense and sparse vectors, hybrid search capabilities, and seamless integration into applications across various platforms (Linux, macOS). With a simple installation process for Python and Node.js, Zvec ensures efficient performance for demanding workloads while maintaining a user-friendly interface. Join the community for support and updates.*
 
-- ⭐ 6361 stars
+- ⭐ 7032 stars
 - 💻 C++
-- 📅 Updated: 2026-02-22
+- 📅 Updated: 2026-02-23
 
-![electrobun](2026/02-22/2026-02-22_daily-top_electrobun.png)
+![zvec](2026/02-23/2026-02-23_daily-top_zvec.png)
 
-### 3. [stremio-web](https://github.com/Stremio/stremio-web)
+### 3. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
 > 🤖 **Why Recommend**  
-> *Stremio is a modern media center that offers users the freedom to discover, watch, and organize video content through easily installable addons. With over 9,475 stars on GitHub, this JavaScript-based project provides a seamless experience for video entertainment. Key features include a user-friendly interface for content discovery, detailed metadata views, and support for development with tools like Node.js and Docker. Stremio is open-source and available under the GPLv2 license, encouraging community contributions and enhancements.*
+> *GitNexus is a zero-server code intelligence engine that creates a client-side knowledge graph from your codebase, running entirely in the browser. Users can analyze GitHub repositories or ZIP files to generate interactive graphs, enabling efficient code exploration. Key features include a Web UI for quick chats and visual exploration, a CLI with a Model Context Protocol (MCP) for deep integration with AI agents, and tools for impact analysis, change detection, and multi-file renaming. GitNexus supports multiple languages and prioritizes privacy, processing everything locally or in-browser.*
 
-- ⭐ 9475 stars
+- ⭐ 1546 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-23
+
+![GitNexus](2026/02-23/2026-02-23_daily-top_GitNexus.png)
+
+### 4. [claude-mem](https://github.com/thedotmack/claude-mem)
+
+> 🤖 **Why Recommend**  
+> *Claude-Mem is a TypeScript plugin for Claude Code that enhances coding sessions by automatically capturing activities, generating AI-compressed summaries, and maintaining contextual continuity across sessions. Key features include persistent memory, skill-based search, a web viewer UI, and privacy controls. With automatic operation and citations for past observations, users can efficiently manage project context. Additionally, it offers integration with OpenClaw gateways for seamless setup. This tool is designed to optimize workflow and knowledge retention in programming environments.*
+
+- ⭐ 30234 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-23
+
+![claude-mem](2026/02-23/2026-02-23_daily-top_claude-mem.png)
+
+### 5. [FossFLOW](https://github.com/stan-smith/FossFLOW)
+
+> 🤖 **Why Recommend**  
+> *FossFLOW is a powerful open-source Progressive Web App (PWA) designed for creating stunning isometric infrastructure diagrams. Built with TypeScript and React, it features an intuitive drag-and-drop interface, allowing users to easily add and connect components. Key highlights include offline support, session and JSON-based storage options, and a Docker deployment option for persistent storage. FossFLOW promotes collaboration with a welcoming contribution guide. With over 18,200 stars, it stands out as a popular choice for diagramming needs in the tech community.*
+
+- ⭐ 18200 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-23
+
+![FossFLOW](2026/02-23/2026-02-23_daily-top_FossFLOW.png)
+
+### 6. [agents](https://github.com/cloudflare/agents)
+
+> 🤖 **Why Recommend**  
+> *Cloudflare Agents is a TypeScript-based framework that enables the creation and deployment of stateful AI agents on Cloudflare, utilizing Durable Objects. With 3,764 stars, it provides features such as persistent state synchronization, callable methods via RPC, real-time WebSocket communication, scheduling for tasks, and AI chat capabilities. Agents can hibernate when idle, allowing for scalable, cost-effective solutions. Additional services include workflows, email routing, and SQL queries. The project supports integrations with React and vanilla JavaScript, making it versatile for various applications.*
+
+- ⭐ 3764 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-23
+
+![agents](2026/02-23/2026-02-23_daily-top_agents.png)
+
+### 7. [stremio-web](https://github.com/Stremio/stremio-web)
+
+> 🤖 **Why Recommend**  
+> *Stremio is a modern media center that empowers users to discover, watch, and organize video content seamlessly through easily installable addons. With a focus on user experience, it provides a comprehensive platform for video entertainment. Key features include a user-friendly interface, extensive content discovery options, and support for Docker deployment. Built with JavaScript, the project has garnered significant community interest, reflected in its 9729 stars on GitHub. Stremio is open-source under the GPLv2 license, encouraging collaboration and enhancement.*
+
+- ⭐ 9729 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-02-22
+- 📅 Updated: 2026-02-23
 
-![stremio-web](2026/02-22/2026-02-22_daily-top_stremio-web.png)
+![stremio-web](2026/02-23/2026-02-23_daily-top_stremio-web.png)
 
-### 4. [pyrite64](https://github.com/HailToDodongo/pyrite64)
+### 8. [electrobun](https://github.com/blackboardsh/electrobun)
 
 > 🤖 **Why Recommend**  
-> *Pyrite64 is an open-source N64 game engine and editor built with libdragon and tiny3d, enabling the creation of 3D games for real N64 consoles and accurate emulators. Key features include automatic toolchain installation on Windows, 3D model import (GLTF) with material support, HDR and bloom rendering, and big-texture rendering (256x256). The runtime engine manages scene management, collision, audio, and global asset management. A node-graph editor facilitates basic scripting. As the project is in early development, documentation and features are ongoing.*
+> *Electrobun is a powerful framework for creating ultra-fast, lightweight, cross-platform desktop applications using TypeScript. It simplifies the development process by enabling developers to write TypeScript for both the main process and webviews, ensuring a seamless RPC communication. Key features include small self-extracting app bundles (~12MB) and efficient updates as small as 14KB. Electrobun provides a complete development workflow with quick setup through templates, making it easy to start coding in minutes. Notable applications built with Electrobun include Audio TTS and Co(lab).*
 
-- ⭐ 2283 stars
+- ⭐ 6518 stars
 - 💻 C++
-- 📅 Updated: 2026-02-22
+- 📅 Updated: 2026-02-23
 
-![pyrite64](2026/02-22/2026-02-22_daily-top_pyrite64.png)
+![electrobun](2026/02-23/2026-02-23_daily-top_electrobun.png)
 
-### 5. [gemini-cli](https://github.com/google-gemini/gemini-cli)
+### 9. [gemini-cli](https://github.com/google-gemini/gemini-cli)
 
 > 🤖 **Why Recommend**  
-> *Gemini CLI is an open-source AI agent that integrates the power of Gemini directly into your terminal. With a generous free tier of 60 requests/min and 1,000 requests/day, it supports advanced features like powerful Gemini 3 models, built-in tools for Google Search, file operations, and shell commands. The CLI is designed for developers, offering automation capabilities, GitHub integration for code review and issue triage, and extensibility through custom integrations. It supports various authentication methods, ensuring flexibility for individual and enterprise users.*
+> *Gemini CLI is an open-source AI agent that integrates Gemini's capabilities into your terminal, designed for developers. It offers a free tier with 60 requests/min and features powerful Gemini 3 models with a 1M token context window. Key functionalities include code understanding and generation, automation of operational tasks, Google Search grounding, and extensibility via Model Context Protocol (MCP). Integration with GitHub workflows allows for automated code reviews and issue triaging. Installation is straightforward via npm or Homebrew, making it accessible for all users.*
 
-- ⭐ 95214 stars
+- ⭐ 95327 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-22
+- 📅 Updated: 2026-02-23
 
-![gemini-cli](2026/02-22/2026-02-22_daily-top_gemini-cli.png)
+![gemini-cli](2026/02-23/2026-02-23_daily-top_gemini-cli.png)
 
-### 6. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+### 10. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
 > 🤖 **Why Recommend**  
-> *GitNexus is a zero-server code intelligence engine that creates a comprehensive knowledge graph from any GitHub repository or ZIP file, all within your browser. It offers two primary interfaces: a CLI for local indexing and AI integration via the Model Context Protocol (MCP), and a browser-based Web UI for interactive code exploration. Key features include dependency mapping, call chain tracing, and impact analysis, making it ideal for enhancing AI agent performance. With support for multiple programming languages, GitNexus democratizes code analysis, ensuring reliability and contextual awareness for developers.*
+> *Clash Verge Rev is a modern GUI client built on Tauri, providing a tailored proxy experience across Windows, macOS, and Linux. With over 98,000 stars, it features a user-friendly interface with customizable themes and advanced configuration management. Key functionalities include support for Clash.Meta, system proxy management, visual node editing, and WebDav backup. The project emphasizes high performance, offering 12-hour customer support and competitive pricing for VPN services, including unique features like QUIC protocol support for enhanced speed.*
 
-- ⭐ 1072 stars
+- ⭐ 98053 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-22
+- 📅 Updated: 2026-02-23
 
-![GitNexus](2026/02-22/2026-02-22_daily-top_GitNexus.png)
-
-### 7. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-
-> 🤖 **Why Recommend**  
-> *Clash Verge Rev is a modern GUI client built on Tauri, designed for Windows, macOS, and Linux, offering a tailored proxy experience. With over 97,944 stars, it features a sleek user interface that supports custom themes, configuration management, and a built-in Clash.Meta kernel. Key highlights include system proxy support, visual node and rule editing, and WebDav backup. The application ensures high performance with Rust, while providing options for stable, alpha, and auto-build releases. Seamlessly unlock streaming and AI services with advanced protocols like QUIC.*
-
-- ⭐ 97944 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-22
-
-![clash-verge-rev](2026/02-22/2026-02-22_daily-top_clash-verge-rev.png)
-
-### 8. [hyperswitch](https://github.com/juspay/hyperswitch)
-
-> 🤖 **Why Recommend**  
-> *Hyperswitch is an open-source payments switch built in Rust, designed for speed, reliability, and affordability. It offers a modular payments infrastructure, allowing businesses to integrate only the necessary components, such as cost observability, intelligent routing, revenue recovery, and vault services. Key highlights include a hosted sandbox for easy testing, cloud deployment options on AWS, GCP, or Azure, and a visual workflow builder. With over 40,000 stars, Hyperswitch emphasizes payment diversity, community-driven development, and high standards for performance and security.*
-
-- ⭐ 40443 stars
-- 💻 Rust
-- 📅 Updated: 2026-02-22
-
-![hyperswitch](2026/02-22/2026-02-22_daily-top_hyperswitch.png)
-
-### 9. [awesome-copilot](https://github.com/github/awesome-copilot)
-
-> 🤖 **Why Recommend**  
-> *Awesome GitHub Copilot is a community-driven repository designed to enhance your GitHub Copilot experience. With over 22,000 stars, it offers specialized resources including custom agents, task-specific prompts, coding instructions, automated hooks, and plugins organized by themes. Key highlights include an MCP server for easy customization installations, curated plugins for streamlined workflows, and an extensive collection of real-world coding examples. This project empowers developers to improve productivity and adhere to best practices through expert-level guidance and community contributions.*
-
-- ⭐ 22037 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-02-22
-
-![awesome-copilot](2026/02-22/2026-02-22_daily-top_awesome-copilot.png)
-
-### 10. [trivy](https://github.com/aquasecurity/trivy)
-
-> 🤖 **Why Recommend**  
-> *Trivy is an open-source security scanner designed to identify vulnerabilities, misconfigurations, secrets, and Software Bill of Materials (SBOM) in various targets, including container images, filesystems, Git repositories, virtual machines, and Kubernetes. With over 32,000 stars, it supports multiple programming languages and integrates seamlessly with platforms like GitHub Actions and Kubernetes operators. Key features include support for known vulnerabilities (CVEs), IaC issues, and sensitive data detection. For installation and detailed documentation, visit the Trivy homepage.*
-
-- ⭐ 32170 stars
-- 💻 Go
-- 📅 Updated: 2026-02-22
-
-![trivy](2026/02-22/2026-02-22_daily-top_trivy.png)
+![clash-verge-rev](2026/02-23/2026-02-23_daily-top_clash-verge-rev.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-22 02:47:13 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-23 02:47:26 UTC

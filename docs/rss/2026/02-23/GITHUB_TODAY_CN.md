@@ -27,7 +27,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-23
 
-![pentagi](2026/02-23/2026-02-23_daily-top_pentagi.png)
+![pentagi](2026-02-23_daily-top_pentagi.png)
 
 ### 2. [zvec](https://github.com/alibaba/zvec)
 
@@ -38,7 +38,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-23
 
-![zvec](2026/02-23/2026-02-23_daily-top_zvec.png)
+![zvec](2026-02-23_daily-top_zvec.png)
 
 ### 3. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-23
 
-![GitNexus](2026/02-23/2026-02-23_daily-top_GitNexus.png)
+![GitNexus](2026-02-23_daily-top_GitNexus.png)
 
 ### 4. [claude-mem](https://github.com/thedotmack/claude-mem)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-23
 
-![claude-mem](2026/02-23/2026-02-23_daily-top_claude-mem.png)
+![claude-mem](2026-02-23_daily-top_claude-mem.png)
 
 ### 5. [FossFLOW](https://github.com/stan-smith/FossFLOW)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-23
 
-![FossFLOW](2026/02-23/2026-02-23_daily-top_FossFLOW.png)
+![FossFLOW](2026-02-23_daily-top_FossFLOW.png)
 
 ### 6. [agents](https://github.com/cloudflare/agents)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-23
 
-![agents](2026/02-23/2026-02-23_daily-top_agents.png)
+![agents](2026-02-23_daily-top_agents.png)
 
 ### 7. [stremio-web](https://github.com/Stremio/stremio-web)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-23
 
-![stremio-web](2026/02-23/2026-02-23_daily-top_stremio-web.png)
+![stremio-web](2026-02-23_daily-top_stremio-web.png)
 
 ### 8. [electrobun](https://github.com/blackboardsh/electrobun)
 
@@ -104,7 +104,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-23
 
-![electrobun](2026/02-23/2026-02-23_daily-top_electrobun.png)
+![electrobun](2026-02-23_daily-top_electrobun.png)
 
 ### 9. [gemini-cli](https://github.com/google-gemini/gemini-cli)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-23
 
-![gemini-cli](2026/02-23/2026-02-23_daily-top_gemini-cli.png)
+![gemini-cli](2026-02-23_daily-top_gemini-cli.png)
 
 ### 10. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-23
 
-![clash-verge-rev](2026/02-23/2026-02-23_daily-top_clash-verge-rev.png)
+![clash-verge-rev](2026-02-23_daily-top_clash-verge-rev.png)
 
 ---
 
