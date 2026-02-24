@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-02-23
+# 📊 🌟 GitHub Trending Daily - 2026-02-24
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **277521** ⭐ | **24812** 🍴
+**10** 个项目 | **295780** ⭐ | **27041** 🍴
 
-**热门语言:** `TypeScript` (6) · `C++` (2) · `JavaScript` (1)
+**热门语言:** `TypeScript` (6) · `JavaScript` (2) · `C++` (1)
 
-**更新时间:** 2026-02-23 02:47 UTC
+**更新时间:** 2026-02-24 02:46 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [pentagi](https://github.com/vxcontrol/pentagi)
 
 > 🤖 **推荐理由**  
-> *PentAGI is a fully autonomous AI agents system designed for complex penetration testing tasks, utilizing advanced AI technologies. Key features include a secure Docker environment, a suite of 20+ professional security tools, a smart memory system for long-term knowledge retention, and comprehensive APIs for integration. The system supports multiple LLM providers, ensuring flexibility and scalability. With detailed reporting, real-time monitoring via Grafana, and a modern web UI, PentAGI streamlines penetration testing for security professionals, researchers, and ethical hackers.*
+> *PentAGI is a fully autonomous AI agents system designed for complex penetration testing, built with Go and boasting over 7,800 stars on GitHub. Key features include a secure Docker environment, a suite of 20+ professional security tools, a smart memory system for storing research findings, and comprehensive monitoring through Grafana and Prometheus. It integrates advanced search APIs and supports multiple LLM providers for flexible deployment. With a modern web UI and robust REST/GraphQL APIs, PentAGI streamlines automated security testing for professionals and researchers.*
 
-- ⭐ 7118 stars
+- ⭐ 7823 stars
 - 💻 Go
-- 📅 Updated: 2026-02-23
+- 📅 Updated: 2026-02-24
 
-![pentagi](2026/02-23/2026-02-23_daily-top_pentagi.png)
+![pentagi](2026/02-24/2026-02-24_daily-top_pentagi.png)
 
-### 2. [zvec](https://github.com/alibaba/zvec)
+### 2. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
 > 🤖 **推荐理由**  
-> *Zvec is a lightweight, in-process vector database designed for high-performance similarity searches. Built on Alibaba's Proxima engine, it offers lightning-fast querying of billions of vectors with minimal setup. Key features include support for both dense and sparse vectors, hybrid search capabilities, and seamless integration into applications across various platforms (Linux, macOS). With a simple installation process for Python and Node.js, Zvec ensures efficient performance for demanding workloads while maintaining a user-friendly interface. Join the community for support and updates.*
+> *get-shit-done (GSD) is a lightweight, meta-prompting and context engineering system for Claude Code, OpenCode, Gemini CLI, and Codex, designed to combat context rot in AI-driven development. With over 18,600 stars, it streamlines the spec-driven development process through a series of structured commands: initialize projects, discuss and plan phases, execute tasks in parallel, and verify results—all while maintaining a fresh context. GSD facilitates atomic commits, ensuring clarity in version control, and is trusted by engineers at top tech companies. It enhances productivity by allowing users to focus on their vision without the complexities of traditional workflows.*
 
-- ⭐ 7032 stars
+- ⭐ 18628 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-02-24
+
+![get-shit-done](2026/02-24/2026-02-24_daily-top_get-shit-done.png)
+
+### 3. [zvec](https://github.com/alibaba/zvec)
+
+> 🤖 **推荐理由**  
+> *Zvec is a lightweight, in-process vector database designed for high-performance similarity search, capable of handling billions of vectors in milliseconds. Built on Alibaba's Proxima engine, it supports both dense and sparse vectors, offers hybrid search capabilities, and requires minimal setup. Zvec can be easily integrated into applications across various platforms, including Linux and macOS. Key features include rapid installation, multi-vector query support, and exceptional scalability, making it ideal for demanding production workloads. Join the community for updates and support.*
+
+- ⭐ 7524 stars
 - 💻 C++
-- 📅 Updated: 2026-02-23
+- 📅 Updated: 2026-02-24
 
-![zvec](2026/02-23/2026-02-23_daily-top_zvec.png)
+![zvec](2026/02-24/2026-02-24_daily-top_zvec.png)
 
-### 3. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
-
-> 🤖 **推荐理由**  
-> *GitNexus is a zero-server code intelligence engine that creates a client-side knowledge graph from your codebase, running entirely in the browser. Users can analyze GitHub repositories or ZIP files to generate interactive graphs, enabling efficient code exploration. Key features include a Web UI for quick chats and visual exploration, a CLI with a Model Context Protocol (MCP) for deep integration with AI agents, and tools for impact analysis, change detection, and multi-file renaming. GitNexus supports multiple languages and prioritizes privacy, processing everything locally or in-browser.*
-
-- ⭐ 1546 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-23
-
-![GitNexus](2026/02-23/2026-02-23_daily-top_GitNexus.png)
-
-### 4. [claude-mem](https://github.com/thedotmack/claude-mem)
+### 4. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
 > 🤖 **推荐理由**  
-> *Claude-Mem is a TypeScript plugin for Claude Code that enhances coding sessions by automatically capturing activities, generating AI-compressed summaries, and maintaining contextual continuity across sessions. Key features include persistent memory, skill-based search, a web viewer UI, and privacy controls. With automatic operation and citations for past observations, users can efficiently manage project context. Additionally, it offers integration with OpenClaw gateways for seamless setup. This tool is designed to optimize workflow and knowledge retention in programming environments.*
+> *GitNexus is a client-side code intelligence engine that creates interactive knowledge graphs from GitHub repositories or ZIP files, all within the browser. Key features include a powerful CLI for local indexing, a browser-based UI for quick exploration, and integration with AI agents like Cursor and Claude Code. It offers tools for impact analysis, context retrieval, and documentation generation. With a focus on privacy, all operations occur locally, ensuring code security. GitNexus transforms code understanding through its precomputed relational intelligence, enhancing development efficiency.*
 
-- ⭐ 30234 stars
+- ⭐ 1961 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-23
+- 📅 Updated: 2026-02-24
 
-![claude-mem](2026/02-23/2026-02-23_daily-top_claude-mem.png)
+![GitNexus](2026/02-24/2026-02-24_daily-top_GitNexus.png)
 
 ### 5. [FossFLOW](https://github.com/stan-smith/FossFLOW)
 
 > 🤖 **推荐理由**  
-> *FossFLOW is a powerful open-source Progressive Web App (PWA) designed for creating stunning isometric infrastructure diagrams. Built with TypeScript and React, it features an intuitive drag-and-drop interface, allowing users to easily add and connect components. Key highlights include offline support, session and JSON-based storage options, and a Docker deployment option for persistent storage. FossFLOW promotes collaboration with a welcoming contribution guide. With over 18,200 stars, it stands out as a popular choice for diagramming needs in the tech community.*
+> *FossFLOW is an open-source Progressive Web App (PWA) designed for creating stunning isometric diagrams, built with React and the Isoflow library. It offers offline support, session and JSON file storage options, and an intuitive drag-and-drop interface for adding and connecting components. Key features include quick saving, auto-save functionality, and Docker support for easy deployment. With 18,575 stars on GitHub, FossFLOW is a valuable tool for visualizing infrastructure and network designs, inviting community contributions and continuous improvement.*
 
-- ⭐ 18200 stars
+- ⭐ 18575 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-23
+- 📅 Updated: 2026-02-24
 
-![FossFLOW](2026/02-23/2026-02-23_daily-top_FossFLOW.png)
+![FossFLOW](2026/02-24/2026-02-24_daily-top_FossFLOW.png)
 
-### 6. [agents](https://github.com/cloudflare/agents)
+### 6. [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
 
 > 🤖 **推荐理由**  
-> *Cloudflare Agents is a TypeScript-based framework that enables the creation and deployment of stateful AI agents on Cloudflare, utilizing Durable Objects. With 3,764 stars, it provides features such as persistent state synchronization, callable methods via RPC, real-time WebSocket communication, scheduling for tasks, and AI chat capabilities. Agents can hibernate when idle, allowing for scalable, cost-effective solutions. Additional services include workflows, email routing, and SQL queries. The project supports integrations with React and vanilla JavaScript, making it versatile for various applications.*
+> *Oh My OpenCode is a powerful, free, and open-source agent harness designed for seamless orchestration of multiple AI models in software development. Key features include the `ultrawork` command for streamlined task execution, Discipline Agents for parallel processing, and a unique Hash-Anchored Edit Tool to ensure code accuracy. Integrated tools like LSP, AST-Grep, and built-in MCPs enhance productivity, while Prometheus aids in strategic planning. With over 33,500 stars on GitHub, it's a favored choice among developers seeking efficient, multi-model workflows.*
 
-- ⭐ 3764 stars
+- ⭐ 33548 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-23
+- 📅 Updated: 2026-02-24
 
-![agents](2026/02-23/2026-02-23_daily-top_agents.png)
+![oh-my-opencode](2026/02-24/2026-02-24_daily-top_oh-my-opencode.png)
 
-### 7. [stremio-web](https://github.com/Stremio/stremio-web)
+### 7. [agents](https://github.com/cloudflare/agents)
 
 > 🤖 **推荐理由**  
-> *Stremio is a modern media center that empowers users to discover, watch, and organize video content seamlessly through easily installable addons. With a focus on user experience, it provides a comprehensive platform for video entertainment. Key features include a user-friendly interface, extensive content discovery options, and support for Docker deployment. Built with JavaScript, the project has garnered significant community interest, reflected in its 9729 stars on GitHub. Stremio is open-source under the GPLv2 license, encouraging collaboration and enhancement.*
+> *The Cloudflare Agents project enables the creation and deployment of stateful AI agents using TypeScript and Cloudflare Durable Objects. With over 4,000 stars, it offers persistent state management, real-time communication via WebSockets, and callable methods for seamless integration. Key features include scheduling, AI chat support, multi-channel communication, and SQL integration. The SDK supports both React and vanilla JavaScript environments, making it versatile for various applications. Extensive documentation and examples are provided for easy onboarding.*
 
-- ⭐ 9729 stars
+- ⭐ 4033 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-24
+
+![agents](2026/02-24/2026-02-24_daily-top_agents.png)
+
+### 8. [stremio-web](https://github.com/Stremio/stremio-web)
+
+> 🤖 **推荐理由**  
+> *Stremio is a modern media center that empowers users to discover, watch, and organize video content seamlessly through easy-to-install addons. With over 9,965 stars on GitHub, it offers a user-friendly interface and features like a content discovery board and detailed metadata views. The project supports development with Node.js and pnpm, and can be easily run in production using Docker. Stremio is open-source, licensed under GPLv2, making it a versatile solution for video entertainment. Explore more at the [GitHub Page](https://stremio.github.io/stremio-web/development).*
+
+- ⭐ 9965 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-02-23
+- 📅 Updated: 2026-02-24
 
-![stremio-web](2026/02-23/2026-02-23_daily-top_stremio-web.png)
+![stremio-web](2026/02-24/2026-02-24_daily-top_stremio-web.png)
 
-### 8. [electrobun](https://github.com/blackboardsh/electrobun)
-
-> 🤖 **推荐理由**  
-> *Electrobun is a powerful framework for creating ultra-fast, lightweight, cross-platform desktop applications using TypeScript. It simplifies the development process by enabling developers to write TypeScript for both the main process and webviews, ensuring a seamless RPC communication. Key features include small self-extracting app bundles (~12MB) and efficient updates as small as 14KB. Electrobun provides a complete development workflow with quick setup through templates, making it easy to start coding in minutes. Notable applications built with Electrobun include Audio TTS and Co(lab).*
-
-- ⭐ 6518 stars
-- 💻 C++
-- 📅 Updated: 2026-02-23
-
-![electrobun](2026/02-23/2026-02-23_daily-top_electrobun.png)
-
-### 9. [gemini-cli](https://github.com/google-gemini/gemini-cli)
+### 9. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
 > 🤖 **推荐理由**  
-> *Gemini CLI is an open-source AI agent that integrates Gemini's capabilities into your terminal, designed for developers. It offers a free tier with 60 requests/min and features powerful Gemini 3 models with a 1M token context window. Key functionalities include code understanding and generation, automation of operational tasks, Google Search grounding, and extensibility via Model Context Protocol (MCP). Integration with GitHub workflows allows for automated code reviews and issue triaging. Installation is straightforward via npm or Homebrew, making it accessible for all users.*
+> *Clash Verge Rev is a modern GUI client built on Tauri, designed for Windows, macOS, and Linux, offering a tailored proxy experience. Key features include a sleek, customizable interface with theme support, configuration management, and enhanced proxy capabilities like TUN mode and WebDav backups. It integrates the powerful Clash.Meta core, ensuring high performance and security. With over 98,000 stars on GitHub, it provides extensive language support and a dedicated community, making it an ideal choice for users seeking a reliable proxy solution.*
 
-- ⭐ 95327 stars
+- ⭐ 98281 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-23
+- 📅 Updated: 2026-02-24
 
-![gemini-cli](2026/02-23/2026-02-23_daily-top_gemini-cli.png)
+![clash-verge-rev](2026/02-24/2026-02-24_daily-top_clash-verge-rev.png)
 
-### 10. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+### 10. [gemini-cli](https://github.com/google-gemini/gemini-cli)
 
 > 🤖 **推荐理由**  
-> *Clash Verge Rev is a modern GUI client built on Tauri, providing a tailored proxy experience across Windows, macOS, and Linux. With over 98,000 stars, it features a user-friendly interface with customizable themes and advanced configuration management. Key functionalities include support for Clash.Meta, system proxy management, visual node editing, and WebDav backup. The project emphasizes high performance, offering 12-hour customer support and competitive pricing for VPN services, including unique features like QUIC protocol support for enhanced speed.*
+> *Gemini CLI is an open-source AI agent that integrates the power of Gemini into your terminal, offering developers streamlined access to advanced AI capabilities. With features like powerful Gemini 3 models, automated code reviews, and built-in tools for Google Search and file operations, it enhances productivity. Users can enjoy a free tier of 60 requests/min and 1,000 requests/day, along with extensibility through the Model Context Protocol (MCP). Designed for terminal use, it supports various authentication methods and GitHub integration for enhanced workflows.*
 
-- ⭐ 98053 stars
+- ⭐ 95442 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-23
+- 📅 Updated: 2026-02-24
 
-![clash-verge-rev](2026/02-23/2026-02-23_daily-top_clash-verge-rev.png)
+![gemini-cli](2026/02-24/2026-02-24_daily-top_gemini-cli.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-23 02:47:26 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-24 02:46:10 UTC

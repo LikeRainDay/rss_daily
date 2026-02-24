@@ -27,7 +27,7 @@
 - 💻 Go
 - 📅 Updated: 2026-02-24
 
-![pentagi](2026/02-24/2026-02-24_daily-top_pentagi.png)
+![pentagi](2026-02-24_daily-top_pentagi.png)
 
 ### 2. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-24
 
-![get-shit-done](2026/02-24/2026-02-24_daily-top_get-shit-done.png)
+![get-shit-done](2026-02-24_daily-top_get-shit-done.png)
 
 ### 3. [zvec](https://github.com/alibaba/zvec)
 
@@ -49,7 +49,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-24
 
-![zvec](2026/02-24/2026-02-24_daily-top_zvec.png)
+![zvec](2026-02-24_daily-top_zvec.png)
 
 ### 4. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-24
 
-![GitNexus](2026/02-24/2026-02-24_daily-top_GitNexus.png)
+![GitNexus](2026-02-24_daily-top_GitNexus.png)
 
 ### 5. [FossFLOW](https://github.com/stan-smith/FossFLOW)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-24
 
-![FossFLOW](2026/02-24/2026-02-24_daily-top_FossFLOW.png)
+![FossFLOW](2026-02-24_daily-top_FossFLOW.png)
 
 ### 6. [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-24
 
-![oh-my-opencode](2026/02-24/2026-02-24_daily-top_oh-my-opencode.png)
+![oh-my-opencode](2026-02-24_daily-top_oh-my-opencode.png)
 
 ### 7. [agents](https://github.com/cloudflare/agents)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-24
 
-![agents](2026/02-24/2026-02-24_daily-top_agents.png)
+![agents](2026-02-24_daily-top_agents.png)
 
 ### 8. [stremio-web](https://github.com/Stremio/stremio-web)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-24
 
-![stremio-web](2026/02-24/2026-02-24_daily-top_stremio-web.png)
+![stremio-web](2026-02-24_daily-top_stremio-web.png)
 
 ### 9. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-24
 
-![clash-verge-rev](2026/02-24/2026-02-24_daily-top_clash-verge-rev.png)
+![clash-verge-rev](2026-02-24_daily-top_clash-verge-rev.png)
 
 ### 10. [gemini-cli](https://github.com/google-gemini/gemini-cli)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-24
 
-![gemini-cli](2026/02-24/2026-02-24_daily-top_gemini-cli.png)
+![gemini-cli](2026-02-24_daily-top_gemini-cli.png)
 
 ---
 
