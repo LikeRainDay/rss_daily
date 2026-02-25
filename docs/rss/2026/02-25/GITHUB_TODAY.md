@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-25
 
-![get-shit-done](2026/02-25/2026-02-25_daily-top_get-shit-done.png)
+![get-shit-done](2026-02-25_daily-top_get-shit-done.png)
 
 ### 2. [pi-mono](https://github.com/badlogic/pi-mono)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-25
 
-![pi-mono](2026/02-25/2026-02-25_daily-top_pi-mono.png)
+![pi-mono](2026-02-25_daily-top_pi-mono.png)
 
 ### 3. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-25
 
-![GitNexus](2026/02-25/2026-02-25_daily-top_GitNexus.png)
+![GitNexus](2026-02-25_daily-top_GitNexus.png)
 
 ### 4. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-25
 
-![clash-verge-rev](2026/02-25/2026-02-25_daily-top_clash-verge-rev.png)
+![clash-verge-rev](2026-02-25_daily-top_clash-verge-rev.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-25
 
-![cc-switch](2026/02-25/2026-02-25_daily-top_cc-switch.png)
+![cc-switch](2026-02-25_daily-top_cc-switch.png)
 
 ### 6. [claudecodeui](https://github.com/siteboon/claudecodeui)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-25
 
-![claudecodeui](2026/02-25/2026-02-25_daily-top_claudecodeui.png)
+![claudecodeui](2026-02-25_daily-top_claudecodeui.png)
 
 ### 7. [agents](https://github.com/cloudflare/agents)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-25
 
-![agents](2026/02-25/2026-02-25_daily-top_agents.png)
+![agents](2026-02-25_daily-top_agents.png)
 
 ### 8. [ai-guide](https://github.com/liyupi/ai-guide)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-25
 
-![ai-guide](2026/02-25/2026-02-25_daily-top_ai-guide.png)
+![ai-guide](2026-02-25_daily-top_ai-guide.png)
 
 ### 9. [ladybird](https://github.com/LadybirdBrowser/ladybird)
 
@@ -115,7 +115,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-25
 
-![ladybird](2026/02-25/2026-02-25_daily-top_ladybird.png)
+![ladybird](2026-02-25_daily-top_ladybird.png)
 
 ### 10. [runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)
 
@@ -126,7 +126,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-25
 
-![runanywhere-sdks](2026/02-25/2026-02-25_daily-top_runanywhere-sdks.png)
+![runanywhere-sdks](2026-02-25_daily-top_runanywhere-sdks.png)
 
 ---
 

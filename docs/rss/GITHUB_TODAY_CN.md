@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-02-24
+# 📊 🌟 GitHub Trending Daily - 2026-02-25
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **295780** ⭐ | **27041** 🍴
+**10** 个项目 | **244193** ⭐ | **17141** 🍴
 
-**热门语言:** `TypeScript` (6) · `JavaScript` (2) · `C++` (1)
+**热门语言:** `TypeScript` (4) · `JavaScript` (3) · `C++` (2)
 
-**更新时间:** 2026-02-24 02:46 UTC
+**更新时间:** 2026-02-25 02:45 UTC
 
 **分类分布:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [pentagi](https://github.com/vxcontrol/pentagi)
+### 1. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
 > 🤖 **推荐理由**  
-> *PentAGI is a fully autonomous AI agents system designed for complex penetration testing, built with Go and boasting over 7,800 stars on GitHub. Key features include a secure Docker environment, a suite of 20+ professional security tools, a smart memory system for storing research findings, and comprehensive monitoring through Grafana and Prometheus. It integrates advanced search APIs and supports multiple LLM providers for flexible deployment. With a modern web UI and robust REST/GraphQL APIs, PentAGI streamlines automated security testing for professionals and researchers.*
+> *Get Shit Done (GSD) is a lightweight, robust development system designed for Claude Code, OpenCode, Gemini CLI, and Codex, addressing context degradation in AI-generated code. With over 19,500 stars, GSD streamlines the development process through meta-prompting and context engineering, enabling users to define their project vision, requirements, and roadmap efficiently. Key features include automated planning, execution in parallel waves, atomic Git commits, and seamless verification of deliverables. GSD is trusted by engineers at top tech firms, ensuring high-quality, consistent results.*
 
-- ⭐ 7823 stars
-- 💻 Go
-- 📅 Updated: 2026-02-24
-
-![pentagi](2026/02-24/2026-02-24_daily-top_pentagi.png)
-
-### 2. [get-shit-done](https://github.com/gsd-build/get-shit-done)
-
-> 🤖 **推荐理由**  
-> *get-shit-done (GSD) is a lightweight, meta-prompting and context engineering system for Claude Code, OpenCode, Gemini CLI, and Codex, designed to combat context rot in AI-driven development. With over 18,600 stars, it streamlines the spec-driven development process through a series of structured commands: initialize projects, discuss and plan phases, execute tasks in parallel, and verify results—all while maintaining a fresh context. GSD facilitates atomic commits, ensuring clarity in version control, and is trusted by engineers at top tech companies. It enhances productivity by allowing users to focus on their vision without the complexities of traditional workflows.*
-
-- ⭐ 18628 stars
+- ⭐ 19537 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-02-24
+- 📅 Updated: 2026-02-25
 
-![get-shit-done](2026/02-24/2026-02-24_daily-top_get-shit-done.png)
+![get-shit-done](2026/02-25/2026-02-25_daily-top_get-shit-done.png)
 
-### 3. [zvec](https://github.com/alibaba/zvec)
-
-> 🤖 **推荐理由**  
-> *Zvec is a lightweight, in-process vector database designed for high-performance similarity search, capable of handling billions of vectors in milliseconds. Built on Alibaba's Proxima engine, it supports both dense and sparse vectors, offers hybrid search capabilities, and requires minimal setup. Zvec can be easily integrated into applications across various platforms, including Linux and macOS. Key features include rapid installation, multi-vector query support, and exceptional scalability, making it ideal for demanding production workloads. Join the community for updates and support.*
-
-- ⭐ 7524 stars
-- 💻 C++
-- 📅 Updated: 2026-02-24
-
-![zvec](2026/02-24/2026-02-24_daily-top_zvec.png)
-
-### 4. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+### 2. [pi-mono](https://github.com/badlogic/pi-mono)
 
 > 🤖 **推荐理由**  
-> *GitNexus is a client-side code intelligence engine that creates interactive knowledge graphs from GitHub repositories or ZIP files, all within the browser. Key features include a powerful CLI for local indexing, a browser-based UI for quick exploration, and integration with AI agents like Cursor and Claude Code. It offers tools for impact analysis, context retrieval, and documentation generation. With a focus on privacy, all operations occur locally, ensuring code security. GitNexus transforms code understanding through its precomputed relational intelligence, enhancing development efficiency.*
+> *pi-mono is an AI agent toolkit designed for building and managing AI agents and LLM deployments. It features a unified LLM API supporting multiple providers (OpenAI, Anthropic, Google), an interactive coding agent CLI, a Slack bot for message delegation, and libraries for terminal and web UIs. The toolkit includes CLI tools for managing vLLM deployments on GPU pods. With 15,936 stars, pi-mono provides essential tools for developers looking to integrate AI capabilities into their applications. Contributions are currently paused until March 2026.*
 
-- ⭐ 1961 stars
+- ⭐ 15936 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-24
+- 📅 Updated: 2026-02-25
 
-![GitNexus](2026/02-24/2026-02-24_daily-top_GitNexus.png)
+![pi-mono](2026/02-25/2026-02-25_daily-top_pi-mono.png)
 
-### 5. [FossFLOW](https://github.com/stan-smith/FossFLOW)
-
-> 🤖 **推荐理由**  
-> *FossFLOW is an open-source Progressive Web App (PWA) designed for creating stunning isometric diagrams, built with React and the Isoflow library. It offers offline support, session and JSON file storage options, and an intuitive drag-and-drop interface for adding and connecting components. Key features include quick saving, auto-save functionality, and Docker support for easy deployment. With 18,575 stars on GitHub, FossFLOW is a valuable tool for visualizing infrastructure and network designs, inviting community contributions and continuous improvement.*
-
-- ⭐ 18575 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-24
-
-![FossFLOW](2026/02-24/2026-02-24_daily-top_FossFLOW.png)
-
-### 6. [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+### 3. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
 > 🤖 **推荐理由**  
-> *Oh My OpenCode is a powerful, free, and open-source agent harness designed for seamless orchestration of multiple AI models in software development. Key features include the `ultrawork` command for streamlined task execution, Discipline Agents for parallel processing, and a unique Hash-Anchored Edit Tool to ensure code accuracy. Integrated tools like LSP, AST-Grep, and built-in MCPs enhance productivity, while Prometheus aids in strategic planning. With over 33,500 stars on GitHub, it's a favored choice among developers seeking efficient, multi-model workflows.*
+> *GitNexus is a zero-server code intelligence engine that creates a client-side knowledge graph from GitHub repositories or ZIP files directly in your browser. Key features include a Web UI for quick code exploration and a CLI with Model Context Protocol (MCP) for integrating AI agents, offering deep insights into dependencies, call chains, and execution flows. With support for multiple programming languages and advanced tools for impact analysis, refactoring, and documentation generation, GitNexus enhances code understanding while ensuring privacy through local processing.*
 
-- ⭐ 33548 stars
+- ⭐ 2887 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-24
+- 📅 Updated: 2026-02-25
 
-![oh-my-opencode](2026/02-24/2026-02-24_daily-top_oh-my-opencode.png)
+![GitNexus](2026/02-25/2026-02-25_daily-top_GitNexus.png)
+
+### 4. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+
+> 🤖 **推荐理由**  
+> *Clash Verge Rev is a modern GUI client built on Tauri, designed for a tailored proxy experience across Windows, macOS, and Linux. With nearly 99,000 stars, it offers a sleek interface with customizable themes, robust configuration management, and visual node editing. Key features include support for the Clash.Meta kernel, TUN mode, and WebDav backup. It emphasizes high performance with a focus on security and usability. The project supports multiple languages and encourages community contributions, making it a versatile tool for users seeking an efficient proxy solution.*
+
+- ⭐ 98578 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-02-25
+
+![clash-verge-rev](2026/02-25/2026-02-25_daily-top_clash-verge-rev.png)
+
+### 5. [cc-switch](https://github.com/farion1231/cc-switch)
+
+> 🤖 **推荐理由**  
+> *cc-switch is a cross-platform desktop assistant tool for interacting with Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. With over 19,800 stars, it offers seamless provider management, skills and prompts systems, and multi-endpoint configuration. Key features include a dual-layer architecture for data storage, a modern UI, and support for auto-launch on startup. The tool integrates with various API relay services, enhancing productivity and offering discounts for users. It supports English, Chinese, and Japanese, making it accessible to a broader audience.*
+
+- ⭐ 19804 stars
+- 💻 Rust
+- 📅 Updated: 2026-02-25
+
+![cc-switch](2026/02-25/2026-02-25_daily-top_cc-switch.png)
+
+### 6. [claudecodeui](https://github.com/siteboon/claudecodeui)
+
+> 🤖 **推荐理由**  
+> *Cloud CLI (Claude Code UI) is a versatile, open-source web interface for managing Claude Code, Cursor CLI, and Codex sessions on both mobile and desktop. It features a responsive design for seamless access, an interactive chat interface, and an integrated shell terminal for direct CLI access. Users can navigate projects with a live file explorer, manage Git operations, and utilize AI-driven task management with optional TaskMaster AI integration. With support for multiple languages and easy setup, it enhances productivity for developers working remotely.*
+
+- ⭐ 6812 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-02-25
+
+![claudecodeui](2026/02-25/2026-02-25_daily-top_claudecodeui.png)
 
 ### 7. [agents](https://github.com/cloudflare/agents)
 
 > 🤖 **推荐理由**  
-> *The Cloudflare Agents project enables the creation and deployment of stateful AI agents using TypeScript and Cloudflare Durable Objects. With over 4,000 stars, it offers persistent state management, real-time communication via WebSockets, and callable methods for seamless integration. Key features include scheduling, AI chat support, multi-channel communication, and SQL integration. The SDK supports both React and vanilla JavaScript environments, making it versatile for various applications. Extensive documentation and examples are provided for easy onboarding.*
+> *Cloudflare Agents is a TypeScript SDK enabling the creation and deployment of stateful AI agents on Cloudflare's infrastructure. With 4,189 stars, it offers persistent state management, callable methods, real-time communication, and scheduling capabilities. Agents can hibernate when inactive, allowing for efficient resource use. Key features include AI chat integration, workflows, email handling, and SQLite support. The SDK also provides React hooks for easy frontend integration. Comprehensive documentation and examples are available for developers to get started quickly.*
 
-- ⭐ 4033 stars
+- ⭐ 4189 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-24
+- 📅 Updated: 2026-02-25
 
-![agents](2026/02-24/2026-02-24_daily-top_agents.png)
+![agents](2026/02-25/2026-02-25_daily-top_agents.png)
 
-### 8. [stremio-web](https://github.com/Stremio/stremio-web)
+### 8. [ai-guide](https://github.com/liyupi/ai-guide)
 
 > 🤖 **推荐理由**  
-> *Stremio is a modern media center that empowers users to discover, watch, and organize video content seamlessly through easy-to-install addons. With over 9,965 stars on GitHub, it offers a user-friendly interface and features like a content discovery board and detailed metadata views. The project supports development with Node.js and pnpm, and can be easily run in production using Docker. Stremio is open-source, licensed under GPLv2, making it a versatile solution for video entertainment. Explore more at the [GitHub Page](https://stremio.github.io/stremio-web/development).*
+> *ai-guide is a comprehensive, open-source platform focusing on AI knowledge sharing. It features a wide array of resources, including guides on model selection (DeepSeek, GPT, Gemini), AI programming tutorials, practical applications, and monetization strategies. The standout "Vibe Coding" course enables users, even with no background, to create and launch AI-driven products. With over 7,400 stars on GitHub, it fosters community engagement and aims to democratize AI technology for all. Explore the wealth of information at [ai.codefather.cn](https://ai.codefather.cn).*
 
-- ⭐ 9965 stars
+- ⭐ 7432 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-02-24
+- 📅 Updated: 2026-02-25
 
-![stremio-web](2026/02-24/2026-02-24_daily-top_stremio-web.png)
+![ai-guide](2026/02-25/2026-02-25_daily-top_ai-guide.png)
 
-### 9. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-
-> 🤖 **推荐理由**  
-> *Clash Verge Rev is a modern GUI client built on Tauri, designed for Windows, macOS, and Linux, offering a tailored proxy experience. Key features include a sleek, customizable interface with theme support, configuration management, and enhanced proxy capabilities like TUN mode and WebDav backups. It integrates the powerful Clash.Meta core, ensuring high performance and security. With over 98,000 stars on GitHub, it provides extensive language support and a dedicated community, making it an ideal choice for users seeking a reliable proxy solution.*
-
-- ⭐ 98281 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-24
-
-![clash-verge-rev](2026/02-24/2026-02-24_daily-top_clash-verge-rev.png)
-
-### 10. [gemini-cli](https://github.com/google-gemini/gemini-cli)
+### 9. [ladybird](https://github.com/LadybirdBrowser/ladybird)
 
 > 🤖 **推荐理由**  
-> *Gemini CLI is an open-source AI agent that integrates the power of Gemini into your terminal, offering developers streamlined access to advanced AI capabilities. With features like powerful Gemini 3 models, automated code reviews, and built-in tools for Google Search and file operations, it enhances productivity. Users can enjoy a free tier of 60 requests/min and 1,000 requests/day, along with extensibility through the Model Context Protocol (MCP). Designed for terminal use, it supports various authentication methods and GitHub integration for enhanced workflows.*
+> *Ladybird is an independent web browser in pre-alpha development, designed using a novel engine based on web standards. It features a multi-process architecture for enhanced security, with each tab running in its own sandboxed renderer process. Core components are derived from SerenityOS, including LibWeb for rendering, LibJS for JavaScript execution, and LibCrypto for security protocols. Ladybird supports Linux, macOS, Windows (WSL2), and other UNIX-like systems. Developers are encouraged to participate via Discord and contribute following the provided guidelines.*
 
-- ⭐ 95442 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-24
+- ⭐ 59128 stars
+- 💻 C++
+- 📅 Updated: 2026-02-25
 
-![gemini-cli](2026/02-24/2026-02-24_daily-top_gemini-cli.png)
+![ladybird](2026/02-25/2026-02-25_daily-top_ladybird.png)
+
+### 10. [runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)
+
+> 🤖 **推荐理由**  
+> *RunAnywhere is a production-ready toolkit for running AI locally across various platforms, enabling on-device capabilities for LLM chat, speech-to-text, and text-to-speech. Key features include offline operation, fast performance, and privacy, as no data leaves the device. Supported SDKs for Swift (iOS/macOS), Kotlin (Android), Web, React Native, and Flutter facilitate easy integration. With over 9,890 stars on GitHub, it offers robust capabilities like voice assistants and visual language models, making it ideal for developers seeking privacy-first AI solutions.*
+
+- ⭐ 9890 stars
+- 💻 C++
+- 📅 Updated: 2026-02-25
+
+![runanywhere-sdks](2026/02-25/2026-02-25_daily-top_runanywhere-sdks.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-24 02:46:10 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-25 02:45:54 UTC
