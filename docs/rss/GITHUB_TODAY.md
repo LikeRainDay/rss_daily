@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-02-25
+# 📊 🌟 GitHub Trending Daily - 2026-02-26
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **244193** ⭐ | **17141** 🍴
+**10** Projects | **208631** ⭐ | **11861** 🍴
 
-**Top Languages:** `TypeScript` (4) · `JavaScript` (3) · `C++` (2)
+**Top Languages:** `Rust` (4) · `TypeScript` (3) · `C++` (1)
 
-**Updated:** 2026-02-25 02:45 UTC
+**Updated:** 2026-02-26 02:40 UTC
 
 **Categories:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [get-shit-done](https://github.com/gsd-build/get-shit-done)
+### 1. [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
 
 > 🤖 **Why Recommend**  
-> *Get Shit Done (GSD) is a lightweight, robust development system designed for Claude Code, OpenCode, Gemini CLI, and Codex, addressing context degradation in AI-generated code. With over 19,500 stars, GSD streamlines the development process through meta-prompting and context engineering, enabling users to define their project vision, requirements, and roadmap efficiently. Key features include automated planning, execution in parallel waves, atomic Git commits, and seamless verification of deliverables. GSD is trusted by engineers at top tech firms, ensuring high-quality, consistent results.*
+> *SpacetimeDB is a high-performance relational database system built in Rust, designed for real-time applications like games and collaboration tools. It enables developers to upload application logic directly into the database through stored procedures called "modules," eliminating the need for intermediary servers. Key features include in-memory state management for low latency, support for multiple programming languages (Rust, C#, TypeScript), and seamless installation via CLI or Docker. With 20,422 stars on GitHub, SpacetimeDB is optimized for speed, making it ideal for applications requiring instant data processing.*
 
-- ⭐ 19537 stars
+- ⭐ 20422 stars
+- 💻 Rust
+- 📅 Updated: 2026-02-26
+
+![SpacetimeDB](2026/02-26/2026-02-26_daily-top_SpacetimeDB.png)
+
+### 2. [get-shit-done](https://github.com/gsd-build/get-shit-done)
+
+> 🤖 **Why Recommend**  
+> *get-shit-done is a lightweight meta-prompting and context engineering system designed for Claude Code, OpenCode, Gemini CLI, and Codex. It addresses context rot, ensuring high-quality code generation. Key features include streamlined project initialization, phase-based execution, automated verification, and atomic Git commits, enhancing project management and reliability. GSD is trusted by engineers from Amazon, Google, and Shopify, making it an effective tool for developers who want to efficiently build and deliver software without complex workflows.*
+
+- ⭐ 20344 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-02-25
+- 📅 Updated: 2026-02-26
 
-![get-shit-done](2026/02-25/2026-02-25_daily-top_get-shit-done.png)
-
-### 2. [pi-mono](https://github.com/badlogic/pi-mono)
-
-> 🤖 **Why Recommend**  
-> *pi-mono is an AI agent toolkit designed for building and managing AI agents and LLM deployments. It features a unified LLM API supporting multiple providers (OpenAI, Anthropic, Google), an interactive coding agent CLI, a Slack bot for message delegation, and libraries for terminal and web UIs. The toolkit includes CLI tools for managing vLLM deployments on GPU pods. With 15,936 stars, pi-mono provides essential tools for developers looking to integrate AI capabilities into their applications. Contributions are currently paused until March 2026.*
-
-- ⭐ 15936 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-02-25
-
-![pi-mono](2026/02-25/2026-02-25_daily-top_pi-mono.png)
+![get-shit-done](2026/02-26/2026-02-26_daily-top_get-shit-done.png)
 
 ### 3. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
 > 🤖 **Why Recommend**  
-> *GitNexus is a zero-server code intelligence engine that creates a client-side knowledge graph from GitHub repositories or ZIP files directly in your browser. Key features include a Web UI for quick code exploration and a CLI with Model Context Protocol (MCP) for integrating AI agents, offering deep insights into dependencies, call chains, and execution flows. With support for multiple programming languages and advanced tools for impact analysis, refactoring, and documentation generation, GitNexus enhances code understanding while ensuring privacy through local processing.*
+> *GitNexus is a zero-server code intelligence engine that creates a client-side knowledge graph for GitHub repositories or ZIP files, enhancing code exploration. Key features include a web UI for interactive graph exploration and a CLI with a Model Context Protocol (MCP) for deep integration with AI agents like Cursor and Claude Code. It provides comprehensive insights into code relationships, dependencies, and execution flows, enabling efficient impact analysis and refactoring. With support for multiple languages and a focus on privacy, GitNexus transforms code understanding by precomputing structure for reliable AI interactions.*
 
-- ⭐ 2887 stars
+- ⭐ 3806 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-25
+- 📅 Updated: 2026-02-26
 
-![GitNexus](2026/02-25/2026-02-25_daily-top_GitNexus.png)
+![GitNexus](2026/02-26/2026-02-26_daily-top_GitNexus.png)
 
-### 4. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+### 4. [pi-mono](https://github.com/badlogic/pi-mono)
 
 > 🤖 **Why Recommend**  
-> *Clash Verge Rev is a modern GUI client built on Tauri, designed for a tailored proxy experience across Windows, macOS, and Linux. With nearly 99,000 stars, it offers a sleek interface with customizable themes, robust configuration management, and visual node editing. Key features include support for the Clash.Meta kernel, TUN mode, and WebDav backup. It emphasizes high performance with a focus on security and usability. The project supports multiple languages and encourages community contributions, making it a versatile tool for users seeking an efficient proxy solution.*
+> *pi-mono is an AI agent toolkit designed for building and managing AI agents and LLM deployments. Key features include a unified LLM API for multiple providers, an interactive coding agent CLI, Slack bot integration, and TUI/web UI libraries for creating AI chat interfaces. The project offers tools for tool calling and state management, alongside a CLI for managing vLLM deployments on GPU pods. With 16,665 stars on GitHub, pi-mono is a robust solution for developers looking to leverage AI capabilities in their applications.*
 
-- ⭐ 98578 stars
+- ⭐ 16665 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-25
+- 📅 Updated: 2026-02-26
 
-![clash-verge-rev](2026/02-25/2026-02-25_daily-top_clash-verge-rev.png)
+![pi-mono](2026/02-26/2026-02-26_daily-top_pi-mono.png)
 
-### 5. [cc-switch](https://github.com/farion1231/cc-switch)
+### 5. [moonshine](https://github.com/moonshine-ai/moonshine)
 
 > 🤖 **Why Recommend**  
-> *cc-switch is a cross-platform desktop assistant tool for interacting with Claude Code, Codex, and Gemini CLI, built with Rust and Tauri. With over 19,800 stars, it offers seamless provider management, skills and prompts systems, and multi-endpoint configuration. Key features include a dual-layer architecture for data storage, a modern UI, and support for auto-launch on startup. The tool integrates with various API relay services, enhancing productivity and offering discounts for users. It supports English, Chinese, and Japanese, making it accessible to a broader audience.*
+> *Moonshine Voice is an open-source automatic speech recognition (ASR) toolkit designed for real-time voice applications on edge devices. It operates entirely on-device for speed and privacy, eliminating the need for accounts or API keys. Notable features include low-latency responses, support for multiple languages, and high-level APIs for tasks like transcription and intent recognition. Moonshine's models outperform Whisper's in accuracy and efficiency, especially for live speech. The library is cross-platform, supporting Python, iOS, Android, and more, making it accessible for developers to integrate voice interfaces seamlessly.*
 
-- ⭐ 19804 stars
+- ⭐ 4905 stars
+- 💻 C
+- 📅 Updated: 2026-02-26
+
+![moonshine](2026/02-26/2026-02-26_daily-top_moonshine.png)
+
+### 6. [ruvector](https://github.com/ruvnet/ruvector)
+
+> 🤖 **Why Recommend**  
+> *RuVector is a high-performance, real-time, self-learning vector graph neural network and database implemented in Rust. It supports advanced features like local LLM execution, dynamic graph queries, and self-booting microservices. RuVector learns from every query, optimizing search results over time. Key capabilities include cryptographically secure audit trails, offline operation, sublinear solvers, and the ability to run in various environments (browsers, IoT). It integrates seamlessly with AI orchestration platforms, making it ideal for complex data-driven applications.*
+
+- ⭐ 1223 stars
 - 💻 Rust
-- 📅 Updated: 2026-02-25
+- 📅 Updated: 2026-02-26
 
-![cc-switch](2026/02-25/2026-02-25_daily-top_cc-switch.png)
+![ruvector](2026/02-26/2026-02-26_daily-top_ruvector.png)
 
-### 6. [claudecodeui](https://github.com/siteboon/claudecodeui)
-
-> 🤖 **Why Recommend**  
-> *Cloud CLI (Claude Code UI) is a versatile, open-source web interface for managing Claude Code, Cursor CLI, and Codex sessions on both mobile and desktop. It features a responsive design for seamless access, an interactive chat interface, and an integrated shell terminal for direct CLI access. Users can navigate projects with a live file explorer, manage Git operations, and utilize AI-driven task management with optional TaskMaster AI integration. With support for multiple languages and easy setup, it enhances productivity for developers working remotely.*
-
-- ⭐ 6812 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-02-25
-
-![claudecodeui](2026/02-25/2026-02-25_daily-top_claudecodeui.png)
-
-### 7. [agents](https://github.com/cloudflare/agents)
+### 7. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *Cloudflare Agents is a TypeScript SDK enabling the creation and deployment of stateful AI agents on Cloudflare's infrastructure. With 4,189 stars, it offers persistent state management, callable methods, real-time communication, and scheduling capabilities. Agents can hibernate when inactive, allowing for efficient resource use. Key features include AI chat integration, workflows, email handling, and SQLite support. The SDK also provides React hooks for easy frontend integration. Comprehensive documentation and examples are available for developers to get started quickly.*
+> *cc-switch is a cross-platform desktop assistant tool for managing Claude Code, Codex, and Gemini CLI, built with TypeScript and Tauri. It boasts over 20,000 stars and features a user-friendly interface, SQLite data management, and multi-language support (English, Chinese, Japanese). Key functionalities include provider management, API switching, skills management, and customizable prompts. The tool integrates multiple AI services and offers a range of sponsored API relay service options, ensuring users have efficient access to advanced AI coding capabilities.*
 
-- ⭐ 4189 stars
+- ⭐ 20151 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-02-25
+- 📅 Updated: 2026-02-26
 
-![agents](2026/02-25/2026-02-25_daily-top_agents.png)
+![cc-switch](2026/02-26/2026-02-26_daily-top_cc-switch.png)
 
-### 8. [ai-guide](https://github.com/liyupi/ai-guide)
-
-> 🤖 **Why Recommend**  
-> *ai-guide is a comprehensive, open-source platform focusing on AI knowledge sharing. It features a wide array of resources, including guides on model selection (DeepSeek, GPT, Gemini), AI programming tutorials, practical applications, and monetization strategies. The standout "Vibe Coding" course enables users, even with no background, to create and launch AI-driven products. With over 7,400 stars on GitHub, it fosters community engagement and aims to democratize AI technology for all. Explore the wealth of information at [ai.codefather.cn](https://ai.codefather.cn).*
-
-- ⭐ 7432 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-02-25
-
-![ai-guide](2026/02-25/2026-02-25_daily-top_ai-guide.png)
-
-### 9. [ladybird](https://github.com/LadybirdBrowser/ladybird)
+### 8. [ladybird](https://github.com/LadybirdBrowser/ladybird)
 
 > 🤖 **Why Recommend**  
-> *Ladybird is an independent web browser in pre-alpha development, designed using a novel engine based on web standards. It features a multi-process architecture for enhanced security, with each tab running in its own sandboxed renderer process. Core components are derived from SerenityOS, including LibWeb for rendering, LibJS for JavaScript execution, and LibCrypto for security protocols. Ladybird supports Linux, macOS, Windows (WSL2), and other UNIX-like systems. Developers are encouraged to participate via Discord and contribute following the provided guidelines.*
+> *Ladybird is an independent web browser currently in pre-alpha, designed for developers. It features a multi-process architecture for enhanced security, with separate processes for UI, rendering, image decoding, and network requests. Core components include LibWeb for rendering, LibJS for JavaScript, and LibCrypto for security. Ladybird supports multiple platforms, including Linux, macOS, and Windows (WSL2). The project welcomes contributions and offers comprehensive documentation for setup and development. Join the community on Discord to participate in discussions.*
 
-- ⭐ 59128 stars
+- ⭐ 59694 stars
 - 💻 C++
-- 📅 Updated: 2026-02-25
+- 📅 Updated: 2026-02-26
 
-![ladybird](2026/02-25/2026-02-25_daily-top_ladybird.png)
+![ladybird](2026/02-26/2026-02-26_daily-top_ladybird.png)
 
-### 10. [runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)
+### 9. [vaultwarden](https://github.com/dani-garcia/vaultwarden)
 
 > 🤖 **Why Recommend**  
-> *RunAnywhere is a production-ready toolkit for running AI locally across various platforms, enabling on-device capabilities for LLM chat, speech-to-text, and text-to-speech. Key features include offline operation, fast performance, and privacy, as no data leaves the device. Supported SDKs for Swift (iOS/macOS), Kotlin (Android), Web, React Native, and Flutter facilitate easy integration. With over 9,890 stars on GitHub, it offers robust capabilities like voice assistants and visual language models, making it ideal for developers seeking privacy-first AI solutions.*
+> *Vaultwarden is an unofficial, lightweight server implementation of the Bitwarden Client API, written in Rust, ideal for self-hosting. With over 55,800 stars on GitHub, it offers features such as a Personal Vault, Send functionality, multi-factor authentication, and organization management, including password sharing and event logs. Vaultwarden supports Docker deployment for easy installation and provides an admin backend for management. It is suitable for individuals, families, and small organizations seeking a resource-efficient alternative to the official Bitwarden server.*
 
-- ⭐ 9890 stars
-- 💻 C++
-- 📅 Updated: 2026-02-25
+- ⭐ 55825 stars
+- 💻 Rust
+- 📅 Updated: 2026-02-26
 
-![runanywhere-sdks](2026/02-25/2026-02-25_daily-top_runanywhere-sdks.png)
+![vaultwarden](2026/02-26/2026-02-26_daily-top_vaultwarden.png)
+
+### 10. [plano](https://github.com/katanemo/plano)
+
+> 🤖 **Why Recommend**  
+> *Plano is an AI-native proxy and data plane designed for agentic applications, streamlining the delivery process by handling orchestration, model management, and observability. Key features include low-latency agent orchestration, flexible model routing, zero-code capture of agentic signals, and built-in moderation hooks. Built on Rust and Envoy, Plano allows developers to focus on core application logic while providing automatic tracing and the ability to integrate any AI framework. With comprehensive documentation and community support, Plano enhances the speed and safety of deploying agentic solutions.*
+
+- ⭐ 5596 stars
+- 💻 Rust
+- 📅 Updated: 2026-02-26
+
+![plano](2026/02-26/2026-02-26_daily-top_plano.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-25 02:45:54 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-02-26 02:40:56 UTC

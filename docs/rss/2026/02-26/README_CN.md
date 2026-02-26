@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-26
 
-![SpacetimeDB](2026/02-26/2026-02-26_daily-top_SpacetimeDB.png)
+![SpacetimeDB](2026-02-26_daily-top_SpacetimeDB.png)
 
 ### 2. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-26
 
-![get-shit-done](2026/02-26/2026-02-26_daily-top_get-shit-done.png)
+![get-shit-done](2026-02-26_daily-top_get-shit-done.png)
 
 ### 3. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-26
 
-![GitNexus](2026/02-26/2026-02-26_daily-top_GitNexus.png)
+![GitNexus](2026-02-26_daily-top_GitNexus.png)
 
 ### 4. [pi-mono](https://github.com/badlogic/pi-mono)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-26
 
-![pi-mono](2026/02-26/2026-02-26_daily-top_pi-mono.png)
+![pi-mono](2026-02-26_daily-top_pi-mono.png)
 
 ### 5. [moonshine](https://github.com/moonshine-ai/moonshine)
 
@@ -71,7 +71,7 @@
 - 💻 C
 - 📅 Updated: 2026-02-26
 
-![moonshine](2026/02-26/2026-02-26_daily-top_moonshine.png)
+![moonshine](2026-02-26_daily-top_moonshine.png)
 
 ### 6. [ruvector](https://github.com/ruvnet/ruvector)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-26
 
-![ruvector](2026/02-26/2026-02-26_daily-top_ruvector.png)
+![ruvector](2026-02-26_daily-top_ruvector.png)
 
 ### 7. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-26
 
-![cc-switch](2026/02-26/2026-02-26_daily-top_cc-switch.png)
+![cc-switch](2026-02-26_daily-top_cc-switch.png)
 
 ### 8. [ladybird](https://github.com/LadybirdBrowser/ladybird)
 
@@ -104,7 +104,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-26
 
-![ladybird](2026/02-26/2026-02-26_daily-top_ladybird.png)
+![ladybird](2026-02-26_daily-top_ladybird.png)
 
 ### 9. [vaultwarden](https://github.com/dani-garcia/vaultwarden)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-26
 
-![vaultwarden](2026/02-26/2026-02-26_daily-top_vaultwarden.png)
+![vaultwarden](2026-02-26_daily-top_vaultwarden.png)
 
 ### 10. [plano](https://github.com/katanemo/plano)
 
@@ -126,7 +126,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-26
 
-![plano](2026/02-26/2026-02-26_daily-top_plano.png)
+![plano](2026-02-26_daily-top_plano.png)
 
 ---
 
