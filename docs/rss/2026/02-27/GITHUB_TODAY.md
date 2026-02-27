@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-27
 
-![openclaw](2026/02-27/2026-02-27_daily-top_openclaw.png)
+![openclaw](2026-02-27_daily-top_openclaw.png)
 
 ### 2. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-27
 
-![GitNexus](2026/02-27/2026-02-27_daily-top_GitNexus.png)
+![GitNexus](2026-02-27_daily-top_GitNexus.png)
 
 ### 3. [ladybird](https://github.com/LadybirdBrowser/ladybird)
 
@@ -49,7 +49,7 @@
 - 💻 C++
 - 📅 Updated: 2026-02-27
 
-![ladybird](2026/02-27/2026-02-27_daily-top_ladybird.png)
+![ladybird](2026-02-27_daily-top_ladybird.png)
 
 ### 4. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-27
 
-![get-shit-done](2026/02-27/2026-02-27_daily-top_get-shit-done.png)
+![get-shit-done](2026-02-27_daily-top_get-shit-done.png)
 
 ### 5. [deer-flow](https://github.com/bytedance/deer-flow)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-27
 
-![deer-flow](2026/02-27/2026-02-27_daily-top_deer-flow.png)
+![deer-flow](2026-02-27_daily-top_deer-flow.png)
 
 ### 6. [pi-mono](https://github.com/badlogic/pi-mono)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-02-27
 
-![pi-mono](2026/02-27/2026-02-27_daily-top_pi-mono.png)
+![pi-mono](2026-02-27_daily-top_pi-mono.png)
 
 ### 7. [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-27
 
-![SpacetimeDB](2026/02-27/2026-02-27_daily-top_SpacetimeDB.png)
+![SpacetimeDB](2026-02-27_daily-top_SpacetimeDB.png)
 
 ### 8. [ruvector](https://github.com/ruvnet/ruvector)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-27
 
-![ruvector](2026/02-27/2026-02-27_daily-top_ruvector.png)
+![ruvector](2026-02-27_daily-top_ruvector.png)
 
 ### 9. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-02-27
 
-![cc-switch](2026/02-27/2026-02-27_daily-top_cc-switch.png)
+![cc-switch](2026-02-27_daily-top_cc-switch.png)
 
 ### 10. [ai-guide](https://github.com/liyupi/ai-guide)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-02-27
 
-![ai-guide](2026/02-27/2026-02-27_daily-top_ai-guide.png)
+![ai-guide](2026-02-27_daily-top_ai-guide.png)
 
 ---
 
