@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-02
 
-![wifi-densepose](2026/03-02/2026-03-02_daily-top_wifi-densepose.png)
+![wifi-densepose](2026-03-02_daily-top_wifi-densepose.png)
 
 ### 2. [openclaw](https://github.com/openclaw/openclaw)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-02
 
-![openclaw](2026/03-02/2026-03-02_daily-top_openclaw.png)
+![openclaw](2026-03-02_daily-top_openclaw.png)
 
 ### 3. [ruflo](https://github.com/ruvnet/ruflo)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-02
 
-![ruflo](2026/03-02/2026-03-02_daily-top_ruflo.png)
+![ruflo](2026-03-02_daily-top_ruflo.png)
 
 ### 4. [airi](https://github.com/moeru-ai/airi)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-02
 
-![airi](2026/03-02/2026-03-02_daily-top_airi.png)
+![airi](2026-03-02_daily-top_airi.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-02
 
-![cc-switch](2026/03-02/2026-03-02_daily-top_cc-switch.png)
+![cc-switch](2026-03-02_daily-top_cc-switch.png)
 
 ### 6. [superset](https://github.com/superset-sh/superset)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-02
 
-![superset](2026/03-02/2026-03-02_daily-top_superset.png)
+![superset](2026-03-02_daily-top_superset.png)
 
 ### 7. [moonshine](https://github.com/moonshine-ai/moonshine)
 
@@ -93,7 +93,7 @@
 - 💻 C
 - 📅 Updated: 2026-03-02
 
-![moonshine](2026/03-02/2026-03-02_daily-top_moonshine.png)
+![moonshine](2026-03-02_daily-top_moonshine.png)
 
 ### 8. [platform](https://github.com/hcengineering/platform)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-02
 
-![platform](2026/03-02/2026-03-02_daily-top_platform.png)
+![platform](2026-03-02_daily-top_platform.png)
 
 ### 9. [Github-Store](https://github.com/rainxchzed/Github-Store)
 
@@ -116,7 +116,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-03-02
 
-![Github-Store](2026/03-02/2026-03-02_daily-top_Github-Store.png)
+![Github-Store](2026-03-02_daily-top_Github-Store.png)
 
 ### 10. [beads](https://github.com/steveyegge/beads)
 
@@ -127,7 +127,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-02
 
-![beads](2026/03-02/2026-03-02_daily-top_beads.png)
+![beads](2026-03-02_daily-top_beads.png)
 
 ---
 
