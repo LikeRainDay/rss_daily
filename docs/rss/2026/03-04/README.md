@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-04
 
-![openclaw](2026/03-04/2026-03-04_daily-top_openclaw.png)
+![openclaw](2026-03-04_daily-top_openclaw.png)
 
 ### 2. [RuView](https://github.com/ruvnet/RuView)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-04
 
-![RuView](2026/03-04/2026-03-04_daily-top_RuView.png)
+![RuView](2026-03-04_daily-top_RuView.png)
 
 ### 3. [airi](https://github.com/moeru-ai/airi)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-04
 
-![airi](2026/03-04/2026-03-04_daily-top_airi.png)
+![airi](2026-03-04_daily-top_airi.png)
 
 ### 4. [ruflo](https://github.com/ruvnet/ruflo)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-04
 
-![ruflo](2026/03-04/2026-03-04_daily-top_ruflo.png)
+![ruflo](2026-03-04_daily-top_ruflo.png)
 
 ### 5. [superset](https://github.com/superset-sh/superset)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-04
 
-![superset](2026/03-04/2026-03-04_daily-top_superset.png)
+![superset](2026-03-04_daily-top_superset.png)
 
 ### 6. [qmd](https://github.com/tobi/qmd)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-04
 
-![qmd](2026/03-04/2026-03-04_daily-top_qmd.png)
+![qmd](2026-03-04_daily-top_qmd.png)
 
 ### 7. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-04
 
-![learn-claude-code](2026/03-04/2026-03-04_daily-top_learn-claude-code.png)
+![learn-claude-code](2026-03-04_daily-top_learn-claude-code.png)
 
 ### 8. [servo](https://github.com/servo/servo)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-04
 
-![servo](2026/03-04/2026-03-04_daily-top_servo.png)
+![servo](2026-03-04_daily-top_servo.png)
 
 ### 9. [trivy](https://github.com/aquasecurity/trivy)
 
@@ -115,7 +115,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-04
 
-![trivy](2026/03-04/2026-03-04_daily-top_trivy.png)
+![trivy](2026-03-04_daily-top_trivy.png)
 
 ### 10. [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
 
@@ -126,7 +126,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-04
 
-![xiaohongshu-mcp](2026/03-04/2026-03-04_daily-top_xiaohongshu-mcp.png)
+![xiaohongshu-mcp](2026-03-04_daily-top_xiaohongshu-mcp.png)
 
 ---
 

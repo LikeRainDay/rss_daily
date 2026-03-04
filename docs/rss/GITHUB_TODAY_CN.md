@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-03-02
+# 📊 🌟 GitHub Trending Daily - 2026-03-04
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **380976** ⭐ | **58045** 🍴
+**10** 个项目 | **404894** ⭐ | **66424** 🍴
 
-**热门语言:** `TypeScript` (6) · `C` (1) · `Kotlin` (1)
+**热门语言:** `TypeScript` (6) · `Go` (2) · `Rust` (2)
 
-**更新时间:** 2026-03-02 02:42 UTC
+**更新时间:** 2026-03-04 02:37 UTC
 
 **分类分布:**
 
@@ -18,116 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [wifi-densepose](https://github.com/ruvnet/wifi-densepose)
+### 1. [openclaw](https://github.com/openclaw/openclaw)
 
 > 🤖 **推荐理由**  
-> *WiFi DensePose transforms commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection without cameras. Leveraging Channel State Information (CSI), it analyzes signal disturbances to reconstruct body positions and monitor vital signs like breathing and heartbeat. Key features include multi-person tracking, through-wall sensing, and disaster response capabilities. Built in Rust for performance, it supports Docker deployment and offers a guided installer for easy setup. Ideal for healthcare, security, and smart environments, it prioritizes privacy by using only radio waves.*
+> *OpenClaw is a versatile personal AI assistant available on any OS and platform, designed to integrate seamlessly with popular messaging services like WhatsApp, Telegram, Slack, and Discord. Key features include a local-first gateway, multi-channel inbox, and voice wake capabilities. Users can interact through a command-line interface or companion apps for macOS, iOS, and Android. With an onboarding wizard for setup, OpenClaw emphasizes user privacy and security, making it a powerful tool for personalized assistance across various devices and channels.*
 
-- ⭐ 17980 stars
+- ⭐ 254870 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-04
+
+![openclaw](2026/03-04/2026-03-04_daily-top_openclaw.png)
+
+### 2. [RuView](https://github.com/ruvnet/RuView)
+
+> 🤖 **推荐理由**  
+> *RuView is an innovative project that utilizes WiFi DensePose technology to enable real-time human pose estimation, vital sign monitoring, and presence detection without cameras or wearables. Key features include privacy-first tracking through WiFi signals, multi-person detection, and functionality through walls, making it ideal for healthcare, disaster response, and smart building applications. The system operates on low-cost hardware like the ESP32-S3 and integrates edge intelligence with fast processing (54K fps) to deliver vital insights instantly.*
+
+- ⭐ 25504 stars
 - 💻 Rust
-- 📅 Updated: 2026-03-02
+- 📅 Updated: 2026-03-04
 
-![wifi-densepose](2026/03-02/2026-03-02_daily-top_wifi-densepose.png)
+![RuView](2026/03-04/2026-03-04_daily-top_RuView.png)
 
-### 2. [openclaw](https://github.com/openclaw/openclaw)
+### 3. [airi](https://github.com/moeru-ai/airi)
 
 > 🤖 **推荐理由**  
-> *OpenClaw is a personal AI assistant designed for various platforms, allowing seamless integration across messaging services like WhatsApp, Telegram, Discord, and more. With features such as a local-first gateway, multi-channel inbox, and voice wake capabilities, it provides a fast and always-on experience. Users can control the assistant via a command line interface or companion apps on macOS, iOS, and Android. Additional tools include a live canvas, automation via cron jobs, and a skills registry, making it versatile for personal and professional use.*
+> *AIRI is a self-hosted, user-owned virtual companion project inspired by Neuro-sama, designed to bring AI waifus and cyber beings into everyday life. Key features include real-time voice chat, support for popular games like Minecraft and Factorio, and compatibility across web, macOS, and Windows platforms. Built with TypeScript, AIRI leverages advanced web technologies for performance and flexibility. The project actively encourages community contributions and offers a range of tools for developers, including memory systems and graphics support, making it an innovative solution for interactive AI experiences.*
 
-- ⭐ 243506 stars
+- ⭐ 22233 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-02
+- 📅 Updated: 2026-03-04
 
-![openclaw](2026/03-02/2026-03-02_daily-top_openclaw.png)
+![airi](2026/03-04/2026-03-04_daily-top_airi.png)
 
-### 3. [ruflo](https://github.com/ruvnet/ruflo)
+### 4. [ruflo](https://github.com/ruvnet/ruflo)
 
 > 🤖 **推荐理由**  
-> *Ruflo is a leading agent orchestration platform for Claude, enabling the deployment of intelligent multi-agent swarms and autonomous workflows for building conversational AI systems. Key features include enterprise-grade architecture, 60+ specialized agents, coordinated swarm operation, fault-tolerant consensus, and native integration with Claude Code. It employs self-learning mechanisms via the Reasoning Bank, supports various LLMs, and offers a robust security framework against threats. With 17,378 stars, Ruflo is designed for scalable and efficient AI development.*
+> *Ruflo is an advanced agent orchestration platform for Claude, facilitating the deployment of intelligent multi-agent swarms and autonomous workflows. Key features include enterprise-grade architecture, 60+ specialized agents for tasks like coding and testing, and a robust security framework against vulnerabilities. Ruflo integrates seamlessly with various LLMs, offering intelligent routing for optimal task execution. Its self-learning capabilities enhance performance over time, while a decentralized plugin system allows for extensibility. Ideal for complex AI-driven projects, Ruflo streamlines collaboration and boosts efficiency.*
 
-- ⭐ 17378 stars
+- ⭐ 18566 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-02
+- 📅 Updated: 2026-03-04
 
-![ruflo](2026/03-02/2026-03-02_daily-top_ruflo.png)
+![ruflo](2026/03-04/2026-03-04_daily-top_ruflo.png)
 
-### 4. [airi](https://github.com/moeru-ai/airi)
+### 5. [superset](https://github.com/superset-sh/superset)
 
 > 🤖 **推荐理由**  
-> *Project AIRI is a self-hosted AI companion that brings virtual characters, inspired by Neuro-sama, to life. It supports real-time voice chat and can play popular games like Minecraft and Factorio. Compatible with web, macOS, and Windows, AIRI leverages modern web technologies for enhanced performance. Key features include speech recognition, voice synthesis, and support for VRM and Live2D models. The project also encourages community contributions and offers various sub-projects to extend its capabilities, aiming to empower users with their own digital companions.*
+> *Superset is an innovative IDE designed for the AI Agents Era, enabling users to run multiple CLI coding agents like Claude Code and OpenAI Codex simultaneously. Key features include parallel execution, worktree isolation, agent monitoring, and a built-in diff viewer, all aimed at enhancing productivity. The tool supports any CLI agent, making it versatile for diverse workflows. With a focus on minimizing context switching and automating environment setups, Superset empowers developers to streamline their coding processes and improve efficiency.*
 
-- ⭐ 20382 stars
+- ⭐ 4239 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-02
+- 📅 Updated: 2026-03-04
 
-![airi](2026/03-02/2026-03-02_daily-top_airi.png)
+![superset](2026/03-04/2026-03-04_daily-top_superset.png)
 
-### 5. [cc-switch](https://github.com/farion1231/cc-switch)
+### 6. [qmd](https://github.com/tobi/qmd)
 
 > 🤖 **推荐理由**  
-> *cc-switch is a cross-platform desktop assistant tool designed for Claude Code, Codex, and Gemini CLI, featuring a sleek UI and powerful management capabilities. Key features include seamless provider switching, integrated skills and prompts management, and support for AWS Bedrock. The app utilizes a dual-layer SQLite and JSON architecture for data storage and offers auto-launch on startup, environment variable conflict detection, and robust API endpoint speed testing. It supports multiple languages and includes extensive customization options, making it ideal for optimizing AI coding workflows.*
+> *QMD (Query Markup Documents) is a powerful local CLI search engine designed for indexing and searching markdown documents, meeting notes, and knowledge bases. It employs advanced techniques like BM25 full-text search, vector semantic search, and LLM re-ranking to deliver precise search results. With features such as context management for enhanced relevance, hybrid search capabilities, and an MCP server for integration with AI agents, QMD streamlines information retrieval. Ideal for personal and professional use, it supports seamless collection management and various output formats for flexibility.*
 
-- ⭐ 22231 stars
+- ⭐ 12170 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-02
+- 📅 Updated: 2026-03-04
 
-![cc-switch](2026/03-02/2026-03-02_daily-top_cc-switch.png)
+![qmd](2026/03-04/2026-03-04_daily-top_qmd.png)
 
-### 6. [superset](https://github.com/superset-sh/superset)
+### 7. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 
 > 🤖 **推荐理由**  
-> *Superset is a powerful IDE designed for the AI Agents Era, enabling users to run multiple CLI coding agents like Claude Code and OpenAI Codex simultaneously. Key features include parallel execution, task isolation using git worktrees, comprehensive agent monitoring, and a built-in diff viewer for quick change reviews. Superset simplifies development workflows by allowing users to automate environment setups and switch contexts effortlessly. Compatible with any CLI agent, it enhances productivity by minimizing context switching and centralizing agent management.*
+> *Learn Claude Code is a TypeScript-based project that teaches the fundamentals of building a nano Claude Code-like agent from scratch. With 12 progressive sessions, it introduces essential mechanisms such as tool handling, task management, and team collaboration, all centered around a core agent loop. Key features include background task execution, persistent task graphs, and isolated work environments for subagents. The project also offers an interactive web platform for visual learning and a CLI and SDK for embedding agent capabilities in applications. License: MIT.*
 
-- ⭐ 2944 stars
+- ⭐ 20907 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-02
+- 📅 Updated: 2026-03-04
 
-![superset](2026/03-02/2026-03-02_daily-top_superset.png)
+![learn-claude-code](2026/03-04/2026-03-04_daily-top_learn-claude-code.png)
 
-### 7. [moonshine](https://github.com/moonshine-ai/moonshine)
-
-> 🤖 **推荐理由**  
-> *Moonshine is an open-source automatic speech recognition (ASR) toolkit designed for real-time voice applications on edge devices. It operates entirely on-device, ensuring fast and private performance without the need for accounts or API keys. Key features include low-latency processing optimized for live streaming, support for multiple languages, and high-level APIs for tasks like transcription and intent recognition. Moonshine outperforms Whisper models in accuracy and response time, making it ideal for developers aiming to create efficient voice interfaces across platforms including Python, iOS, Android, and Raspberry Pi.*
-
-- ⭐ 6508 stars
-- 💻 C
-- 📅 Updated: 2026-03-02
-
-![moonshine](2026/03-02/2026-03-02_daily-top_moonshine.png)
-
-### 8. [platform](https://github.com/hcengineering/platform)
+### 8. [servo](https://github.com/servo/servo)
 
 > 🤖 **推荐理由**  
-> *Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion). popular project, actively maintained, recently updated*
+> *Servo is a high-performance web browser engine prototype developed in Rust, designed for embedding web technologies into applications. It supports multiple platforms, including macOS, Linux, Windows, Android, and OpenHarmony. Key features include a lightweight architecture, extensive documentation through the Servo Book, and active community engagement via GitHub Issues and Zulip. The project encourages contributions and provides detailed build instructions for various environments, making it accessible for developers looking to enhance their applications with modern web capabilities.*
 
-- ⭐ 24748 stars
-- 🍴 1733 forks
-- 💻 TypeScript
-- 📅 Updated: 2026-03-02
+- ⭐ 35852 stars
+- 💻 Rust
+- 📅 Updated: 2026-03-04
 
-![platform](2026/03-02/2026-03-02_daily-top_platform.png)
+![servo](2026/03-04/2026-03-04_daily-top_servo.png)
 
-### 9. [Github-Store](https://github.com/rainxchzed/Github-Store)
-
-> 🤖 **推荐理由**  
-> *GitHub Store is a free, open-source app store for GitHub releases, built with Kotlin and Compose Multiplatform, supporting Android and Desktop (Linux, macOS, Windows). With 7,499 stars, it simplifies the discovery and installation of open-source apps by automatically detecting installable binaries and offering one-click installation. Key features include smart discovery of trending apps, a rich detail screen with version info and release notes, and cross-platform support for seamless user experience. The app tracks installations and updates, ensuring users always access the latest releases effortlessly.*
-
-- ⭐ 7499 stars
-- 💻 Kotlin
-- 📅 Updated: 2026-03-02
-
-![Github-Store](2026/03-02/2026-03-02_daily-top_Github-Store.png)
-
-### 10. [beads](https://github.com/steveyegge/beads)
+### 9. [trivy](https://github.com/aquasecurity/trivy)
 
 > 🤖 **推荐理由**  
-> *Beads is a distributed, git-backed graph issue tracker designed for AI agents, providing a structured memory system to enhance coding workflows. Key features include a Dolt-powered SQL database for version control, dependency tracking for tasks, and hash-based IDs to prevent merge conflicts in multi-agent environments. It supports hierarchical task IDs and offers commands for task creation, updates, and management. Beads is compatible with macOS, Linux, Windows, and FreeBSD, making it a versatile tool for developers seeking improved task tracking and collaboration within projects.*
+> *Trivy is a powerful open-source security scanner designed to identify vulnerabilities, misconfigurations, and secrets across a variety of targets, including container images, Kubernetes, and code repositories. Key features include scanning for OS packages, known vulnerabilities (CVEs), Infrastructure as Code (IaC) issues, and sensitive information. Trivy supports multiple programming languages and integrates with popular platforms like GitHub Actions and Kubernetes. With over 570 stars, it's a robust tool for enhancing security in cloud-native environments. For more details, visit the Trivy documentation.*
 
-- ⭐ 17800 stars
+- ⭐ 570 stars
 - 💻 Go
-- 📅 Updated: 2026-03-02
+- 📅 Updated: 2026-03-04
 
-![beads](2026/03-02/2026-03-02_daily-top_beads.png)
+![trivy](2026/03-04/2026-03-04_daily-top_trivy.png)
+
+### 10. [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
+
+> 🤖 **推荐理由**  
+> *xiaohongshu-mcp is an open-source Go project with nearly 10,000 stars, designed for automating operations on xiaohongshu.com. Key features include user login management, content publishing (text, images, and videos), content searching, and retrieving user profiles and post details. It supports local and HTTP image uploads, with a focus on stability and ease of use. The project also allows integration with various AI clients via the Model Context Protocol (MCP), making it accessible for developers and non-technical users alike. Contributions are directed towards charitable donations, emphasizing community support.*
+
+- ⭐ 9983 stars
+- 💻 Go
+- 📅 Updated: 2026-03-04
+
+![xiaohongshu-mcp](2026/03-04/2026-03-04_daily-top_xiaohongshu-mcp.png)
 
 ---
 
@@ -141,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-02 02:42:22 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-04 02:37:13 UTC
