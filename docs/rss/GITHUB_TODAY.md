@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-03-04
+# 📊 🌟 GitHub Trending Daily - 2026-03-05
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **404894** ⭐ | **66424** 🍴
+**10** Projects | **399051** ⭐ | **63680** 🍴
 
-**Top Languages:** `TypeScript` (6) · `Rust` (2) · `Go` (2)
+**Top Languages:** `TypeScript` (7) · `Rust` (2) · `Go` (1)
 
-**Updated:** 2026-03-04 02:37 UTC
+**Updated:** 2026-03-05 02:41 UTC
 
 **Categories:**
 
@@ -21,112 +21,112 @@
 ### 1. [openclaw](https://github.com/openclaw/openclaw)
 
 > 🤖 **Why Recommend**  
-> *OpenClaw is a versatile personal AI assistant available on any OS and platform, designed to integrate seamlessly with popular messaging services like WhatsApp, Telegram, Slack, and Discord. Key features include a local-first gateway, multi-channel inbox, and voice wake capabilities. Users can interact through a command-line interface or companion apps for macOS, iOS, and Android. With an onboarding wizard for setup, OpenClaw emphasizes user privacy and security, making it a powerful tool for personalized assistance across various devices and channels.*
+> *OpenClaw is a versatile personal AI assistant that operates across multiple platforms and messaging services, including WhatsApp, Telegram, Discord, and more. Built with TypeScript, it features a local-first Gateway for managing sessions and channels, multi-channel integration, and voice capabilities like Voice Wake and Talk Mode. Users can customize their experience through a wizard-driven setup, with support for various AI models. Additional services include a live Canvas for visual tasks, browser control, and companion apps for macOS, iOS, and Android, making it a comprehensive solution for personal productivity.*
 
-- ⭐ 254870 stars
+- ⭐ 260845 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-04
+- 📅 Updated: 2026-03-05
 
-![openclaw](2026/03-04/2026-03-04_daily-top_openclaw.png)
+![openclaw](2026/03-05/2026-03-05_daily-top_openclaw.png)
 
 ### 2. [RuView](https://github.com/ruvnet/RuView)
 
 > 🤖 **Why Recommend**  
-> *RuView is an innovative project that utilizes WiFi DensePose technology to enable real-time human pose estimation, vital sign monitoring, and presence detection without cameras or wearables. Key features include privacy-first tracking through WiFi signals, multi-person detection, and functionality through walls, making it ideal for healthcare, disaster response, and smart building applications. The system operates on low-cost hardware like the ESP32-S3 and integrates edge intelligence with fast processing (54K fps) to deliver vital insights instantly.*
+> *RuView is a cutting-edge project that utilizes commodity WiFi signals for real-time human pose estimation, vital sign monitoring, and presence detection without cameras or wearables. Key features include high-speed pose tracking at 54,000 fps, vital sign detection (breathing and heart rate), and through-wall sensing capabilities. The system operates on low-cost ESP32 hardware, enabling edge intelligence with instant response times. With a focus on privacy, RuView maintains data locally, supports multi-person tracking, and adapts seamlessly to different environments via self-learning AI and advanced signal processing techniques.*
 
-- ⭐ 25504 stars
+- ⭐ 27228 stars
 - 💻 Rust
-- 📅 Updated: 2026-03-04
+- 📅 Updated: 2026-03-05
 
-![RuView](2026/03-04/2026-03-04_daily-top_RuView.png)
+![RuView](2026/03-05/2026-03-05_daily-top_RuView.png)
 
-### 3. [airi](https://github.com/moeru-ai/airi)
+### 3. [shannon](https://github.com/KeygraphHQ/shannon)
 
 > 🤖 **Why Recommend**  
-> *AIRI is a self-hosted, user-owned virtual companion project inspired by Neuro-sama, designed to bring AI waifus and cyber beings into everyday life. Key features include real-time voice chat, support for popular games like Minecraft and Factorio, and compatibility across web, macOS, and Windows platforms. Built with TypeScript, AIRI leverages advanced web technologies for performance and flexibility. The project actively encourages community contributions and offers a range of tools for developers, including memory systems and graphics support, making it an innovative solution for interactive AI experiences.*
+> *Shannon Lite is an autonomous AI pentester designed for web applications and APIs, achieving 96.15% on the XBOW benchmark. It conducts white-box security testing by analyzing source code to identify vulnerabilities, then executing real exploits to confirm findings. Key features include fully autonomous operation, reproducible proof-of-concept exploits, OWASP vulnerability coverage, and integrated security tooling. Shannon is part of the Keygraph Security and Compliance Platform, offering on-demand testing to close security gaps between traditional penetration tests. Available in AGPL-3.0 and commercial editions.*
 
-- ⭐ 22233 stars
+- ⭐ 30556 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-04
+- 📅 Updated: 2026-03-05
 
-![airi](2026/03-04/2026-03-04_daily-top_airi.png)
+![shannon](2026/03-05/2026-03-05_daily-top_shannon.png)
 
-### 4. [ruflo](https://github.com/ruvnet/ruflo)
+### 4. [airi](https://github.com/moeru-ai/airi)
 
 > 🤖 **Why Recommend**  
-> *Ruflo is an advanced agent orchestration platform for Claude, facilitating the deployment of intelligent multi-agent swarms and autonomous workflows. Key features include enterprise-grade architecture, 60+ specialized agents for tasks like coding and testing, and a robust security framework against vulnerabilities. Ruflo integrates seamlessly with various LLMs, offering intelligent routing for optimal task execution. Its self-learning capabilities enhance performance over time, while a decentralized plugin system allows for extensibility. Ideal for complex AI-driven projects, Ruflo streamlines collaboration and boosts efficiency.*
+> *AIRI is a self-hosted AI companion project inspired by Neuro-sama, allowing users to own and interact with their digital waifus or virtual characters. Key features include real-time voice chat, support for playing games like Minecraft and Factorio, and compatibility across web, macOS, and Windows platforms. The project leverages modern web technologies, enabling seamless interactions and rich animations. With over 25,000 stars on GitHub, AIRI focuses on community contributions, offering a range of sub-projects and tools for developers interested in AI and virtual interactions.*
 
-- ⭐ 18566 stars
+- ⭐ 25026 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-04
+- 📅 Updated: 2026-03-05
 
-![ruflo](2026/03-04/2026-03-04_daily-top_ruflo.png)
+![airi](2026/03-05/2026-03-05_daily-top_airi.png)
 
-### 5. [superset](https://github.com/superset-sh/superset)
+### 5. [Perplexica](https://github.com/ItzCrazyKns/Perplexica)
 
 > 🤖 **Why Recommend**  
-> *Superset is an innovative IDE designed for the AI Agents Era, enabling users to run multiple CLI coding agents like Claude Code and OpenAI Codex simultaneously. Key features include parallel execution, worktree isolation, agent monitoring, and a built-in diff viewer, all aimed at enhancing productivity. The tool supports any CLI agent, making it versatile for diverse workflows. With a focus on minimizing context switching and automating environment setups, Superset empowers developers to streamline their coding processes and improve efficiency.*
+> *Perplexica is a privacy-focused AI answering engine that runs on your hardware, combining local LLMs and cloud providers like OpenAI and Claude. It offers smart search modes, supports multiple sources, and features widgets for quick info. Users can conduct web, image, and video searches, upload documents for queries, and limit searches to specific domains. With intelligent suggestions and saved search history, Perplexica enhances research efficiency. The project is open-source, actively developed, and has a vibrant community for support and feedback.*
 
-- ⭐ 4239 stars
+- ⭐ 30905 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-04
+- 📅 Updated: 2026-03-05
 
-![superset](2026/03-04/2026-03-04_daily-top_superset.png)
+![Perplexica](2026/03-05/2026-03-05_daily-top_Perplexica.png)
 
-### 6. [qmd](https://github.com/tobi/qmd)
+### 6. [superset](https://github.com/superset-sh/superset)
 
 > 🤖 **Why Recommend**  
-> *QMD (Query Markup Documents) is a powerful local CLI search engine designed for indexing and searching markdown documents, meeting notes, and knowledge bases. It employs advanced techniques like BM25 full-text search, vector semantic search, and LLM re-ranking to deliver precise search results. With features such as context management for enhanced relevance, hybrid search capabilities, and an MCP server for integration with AI agents, QMD streamlines information retrieval. Ideal for personal and professional use, it supports seamless collection management and various output formats for flexibility.*
+> *Superset is an advanced IDE designed for the AI Agents Era, enabling users to run multiple CLI coding agents like Claude Code and OpenAI Codex simultaneously. Key features include parallel execution, worktree isolation for task management, agent monitoring, and a built-in diff viewer for quick change reviews. It supports automation for environment setups and integrates seamlessly with various editors. Ideal for macOS, Superset enhances development workflows, allowing developers to ship code faster while efficiently managing multiple coding tasks.*
 
-- ⭐ 12170 stars
+- ⭐ 4829 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-04
+- 📅 Updated: 2026-03-05
 
-![qmd](2026/03-04/2026-03-04_daily-top_qmd.png)
+![superset](2026/03-05/2026-03-05_daily-top_superset.png)
 
-### 7. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+### 7. [qmd](https://github.com/tobi/qmd)
 
 > 🤖 **Why Recommend**  
-> *Learn Claude Code is a TypeScript-based project that teaches the fundamentals of building a nano Claude Code-like agent from scratch. With 12 progressive sessions, it introduces essential mechanisms such as tool handling, task management, and team collaboration, all centered around a core agent loop. Key features include background task execution, persistent task graphs, and isolated work environments for subagents. The project also offers an interactive web platform for visual learning and a CLI and SDK for embedding agent capabilities in applications. License: MIT.*
+> *QMD is a powerful local CLI search engine designed for managing and retrieving information from markdown notes, meeting transcripts, and documentation. It employs advanced search techniques, including BM25 full-text search, vector semantic search, and LLM re-ranking, all optimized for on-device use. Key features include context management for enhanced search relevance, hybrid search capabilities, and an MCP server for integration with AI agents. With an intuitive command structure, users can easily index collections, generate embeddings, and perform efficient searches using keywords or natural language.*
 
-- ⭐ 20907 stars
+- ⭐ 12514 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-04
+- 📅 Updated: 2026-03-05
 
-![learn-claude-code](2026/03-04/2026-03-04_daily-top_learn-claude-code.png)
+![qmd](2026/03-05/2026-03-05_daily-top_qmd.png)
 
-### 8. [servo](https://github.com/servo/servo)
+### 8. [trivy](https://github.com/aquasecurity/trivy)
 
 > 🤖 **Why Recommend**  
-> *Servo is a high-performance web browser engine prototype developed in Rust, designed for embedding web technologies into applications. It supports multiple platforms, including macOS, Linux, Windows, Android, and OpenHarmony. Key features include a lightweight architecture, extensive documentation through the Servo Book, and active community engagement via GitHub Issues and Zulip. The project encourages contributions and provides detailed build instructions for various environments, making it accessible for developers looking to enhance their applications with modern web capabilities.*
+> *Trivy is a powerful open-source security scanner designed to detect vulnerabilities, misconfigurations, secrets, and SBOM in various targets, including container images, Kubernetes, and code repositories. Key features include support for OS packages, known vulnerabilities (CVEs), Infrastructure as Code (IaC) issues, and software licenses. Trivy seamlessly integrates with popular platforms like GitHub Actions and Kubernetes. With over 882 stars on GitHub, it offers extensive scanning coverage, making it a versatile tool for enhancing security in modern software development environments.*
 
-- ⭐ 35852 stars
+- ⭐ 882 stars
+- 💻 Go
+- 📅 Updated: 2026-03-05
+
+![trivy](2026/03-05/2026-03-05_daily-top_trivy.png)
+
+### 9. [codebuff](https://github.com/CodebuffAI/codebuff)
+
+> 🤖 **Why Recommend**  
+> *Codebuff is an open-source AI coding assistant designed to enhance your codebase through natural language commands. Unlike single-model tools, it employs a multi-agent system, including File Picker, Planner, Editor, and Reviewer Agents, to make precise changes and validate them. With over 3,500 stars, it excels in 175+ coding tasks, outperforming competitors like Claude Code. Users can easily install it via npm, create custom agents, and integrate with applications using the SDK. Codebuff supports various models and fosters community contributions through its Agent Store and extensive documentation.*
+
+- ⭐ 3589 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-05
+
+![codebuff](2026/03-05/2026-03-05_daily-top_codebuff.png)
+
+### 10. [worktrunk](https://github.com/max-sixty/worktrunk)
+
+> 🤖 **Why Recommend**  
+> *Worktrunk is a Rust-based CLI tool for managing Git worktrees, optimized for executing parallel AI agent workflows. With over 2,600 stars on GitHub, it simplifies worktree operations, allowing users to create, switch, and manage worktrees as easily as branches. Key features include workflow automation via hooks, LLM-generated commit messages, an interactive picker for worktrees, and a streamlined merge process. Worktrunk enhances productivity for developers leveraging multiple agents, making it a powerful addition to any Git workflow. For full documentation, visit worktrunk.dev.*
+
+- ⭐ 2677 stars
 - 💻 Rust
-- 📅 Updated: 2026-03-04
+- 📅 Updated: 2026-03-05
 
-![servo](2026/03-04/2026-03-04_daily-top_servo.png)
-
-### 9. [trivy](https://github.com/aquasecurity/trivy)
-
-> 🤖 **Why Recommend**  
-> *Trivy is a powerful open-source security scanner designed to identify vulnerabilities, misconfigurations, and secrets across a variety of targets, including container images, Kubernetes, and code repositories. Key features include scanning for OS packages, known vulnerabilities (CVEs), Infrastructure as Code (IaC) issues, and sensitive information. Trivy supports multiple programming languages and integrates with popular platforms like GitHub Actions and Kubernetes. With over 570 stars, it's a robust tool for enhancing security in cloud-native environments. For more details, visit the Trivy documentation.*
-
-- ⭐ 570 stars
-- 💻 Go
-- 📅 Updated: 2026-03-04
-
-![trivy](2026/03-04/2026-03-04_daily-top_trivy.png)
-
-### 10. [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
-
-> 🤖 **Why Recommend**  
-> *xiaohongshu-mcp is an open-source Go project with nearly 10,000 stars, designed for automating operations on xiaohongshu.com. Key features include user login management, content publishing (text, images, and videos), content searching, and retrieving user profiles and post details. It supports local and HTTP image uploads, with a focus on stability and ease of use. The project also allows integration with various AI clients via the Model Context Protocol (MCP), making it accessible for developers and non-technical users alike. Contributions are directed towards charitable donations, emphasizing community support.*
-
-- ⭐ 9983 stars
-- 💻 Go
-- 📅 Updated: 2026-03-04
-
-![xiaohongshu-mcp](2026/03-04/2026-03-04_daily-top_xiaohongshu-mcp.png)
+![worktrunk](2026/03-05/2026-03-05_daily-top_worktrunk.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-04 02:37:13 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-05 02:41:03 UTC

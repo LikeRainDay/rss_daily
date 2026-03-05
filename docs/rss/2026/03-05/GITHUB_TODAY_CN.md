@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-05
 
-![openclaw](2026/03-05/2026-03-05_daily-top_openclaw.png)
+![openclaw](2026-03-05_daily-top_openclaw.png)
 
 ### 2. [RuView](https://github.com/ruvnet/RuView)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-05
 
-![RuView](2026/03-05/2026-03-05_daily-top_RuView.png)
+![RuView](2026-03-05_daily-top_RuView.png)
 
 ### 3. [shannon](https://github.com/KeygraphHQ/shannon)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-05
 
-![shannon](2026/03-05/2026-03-05_daily-top_shannon.png)
+![shannon](2026-03-05_daily-top_shannon.png)
 
 ### 4. [airi](https://github.com/moeru-ai/airi)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-05
 
-![airi](2026/03-05/2026-03-05_daily-top_airi.png)
+![airi](2026-03-05_daily-top_airi.png)
 
 ### 5. [Perplexica](https://github.com/ItzCrazyKns/Perplexica)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-05
 
-![Perplexica](2026/03-05/2026-03-05_daily-top_Perplexica.png)
+![Perplexica](2026-03-05_daily-top_Perplexica.png)
 
 ### 6. [superset](https://github.com/superset-sh/superset)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-05
 
-![superset](2026/03-05/2026-03-05_daily-top_superset.png)
+![superset](2026-03-05_daily-top_superset.png)
 
 ### 7. [qmd](https://github.com/tobi/qmd)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-05
 
-![qmd](2026/03-05/2026-03-05_daily-top_qmd.png)
+![qmd](2026-03-05_daily-top_qmd.png)
 
 ### 8. [trivy](https://github.com/aquasecurity/trivy)
 
@@ -104,7 +104,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-05
 
-![trivy](2026/03-05/2026-03-05_daily-top_trivy.png)
+![trivy](2026-03-05_daily-top_trivy.png)
 
 ### 9. [codebuff](https://github.com/CodebuffAI/codebuff)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-05
 
-![codebuff](2026/03-05/2026-03-05_daily-top_codebuff.png)
+![codebuff](2026-03-05_daily-top_codebuff.png)
 
 ### 10. [worktrunk](https://github.com/max-sixty/worktrunk)
 
@@ -126,7 +126,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-05
 
-![worktrunk](2026/03-05/2026-03-05_daily-top_worktrunk.png)
+![worktrunk](2026-03-05_daily-top_worktrunk.png)
 
 ---
 
