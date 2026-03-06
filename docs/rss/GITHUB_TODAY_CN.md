@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-03-05
+# 📊 🌟 GitHub Trending Daily - 2026-03-06
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **399051** ⭐ | **63680** 🍴
+**10** 个项目 | **489512** ⭐ | **96863** 🍴
 
-**热门语言:** `TypeScript` (7) · `Rust` (2) · `Go` (1)
+**热门语言:** `TypeScript` (6) · `Go` (2) · `JavaScript` (1)
 
-**更新时间:** 2026-03-05 02:41 UTC
+**更新时间:** 2026-03-06 02:37 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [openclaw](https://github.com/openclaw/openclaw)
 
 > 🤖 **推荐理由**  
-> *OpenClaw is a versatile personal AI assistant that operates across multiple platforms and messaging services, including WhatsApp, Telegram, Discord, and more. Built with TypeScript, it features a local-first Gateway for managing sessions and channels, multi-channel integration, and voice capabilities like Voice Wake and Talk Mode. Users can customize their experience through a wizard-driven setup, with support for various AI models. Additional services include a live Canvas for visual tasks, browser control, and companion apps for macOS, iOS, and Android, making it a comprehensive solution for personal productivity.*
+> *OpenClaw is a personal AI assistant that operates on any platform, providing a seamless experience across various messaging channels such as WhatsApp, Telegram, Discord, and more. With features like voice wake functionality, a live canvas for interaction, and multi-agent routing, it allows for efficient management of tasks and communication. The onboarding wizard simplifies setup, and it supports various tools for automation and interaction. OpenClaw is built with a focus on security, ensuring private and reliable operation on personal devices.*
 
-- ⭐ 260845 stars
+- ⭐ 266004 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-05
+- 📅 Updated: 2026-03-06
 
-![openclaw](2026/03-05/2026-03-05_daily-top_openclaw.png)
+![openclaw](2026/03-06/2026-03-06_daily-top_openclaw.png)
 
-### 2. [RuView](https://github.com/ruvnet/RuView)
+### 2. [airi](https://github.com/moeru-ai/airi)
 
 > 🤖 **推荐理由**  
-> *RuView is a cutting-edge project that utilizes commodity WiFi signals for real-time human pose estimation, vital sign monitoring, and presence detection without cameras or wearables. Key features include high-speed pose tracking at 54,000 fps, vital sign detection (breathing and heart rate), and through-wall sensing capabilities. The system operates on low-cost ESP32 hardware, enabling edge intelligence with instant response times. With a focus on privacy, RuView maintains data locally, supports multi-person tracking, and adapts seamlessly to different environments via self-learning AI and advanced signal processing techniques.*
+> *AIRI is a self-hosted, open-source digital companion designed to recreate Neuro-sama, featuring real-time voice chat and the ability to play games like Minecraft and Factorio. Compatible with web, macOS, and Windows, it supports advanced interactions using modern web technologies. Core features include speech recognition, voice synthesis, and VRM/Live2D model support for animated characters. With a focus on user ownership of their digital experiences, AIRI enables seamless gaming and social interactions, making it a versatile platform for developers and users alike.*
 
-- ⭐ 27228 stars
-- 💻 Rust
-- 📅 Updated: 2026-03-05
+- ⭐ 27558 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-06
 
-![RuView](2026/03-05/2026-03-05_daily-top_RuView.png)
+![airi](2026/03-06/2026-03-06_daily-top_airi.png)
 
 ### 3. [shannon](https://github.com/KeygraphHQ/shannon)
 
 > 🤖 **推荐理由**  
-> *Shannon Lite is an autonomous AI pentester designed for web applications and APIs, achieving 96.15% on the XBOW benchmark. It conducts white-box security testing by analyzing source code to identify vulnerabilities, then executing real exploits to confirm findings. Key features include fully autonomous operation, reproducible proof-of-concept exploits, OWASP vulnerability coverage, and integrated security tooling. Shannon is part of the Keygraph Security and Compliance Platform, offering on-demand testing to close security gaps between traditional penetration tests. Available in AGPL-3.0 and commercial editions.*
+> *Shannon Lite is an autonomous AI pentester by Keygraph, designed for web applications and APIs. It achieves a 96.15% success rate on the XBOW benchmark. Key features include fully automated penetration testing, proof-of-concept exploits, and OWASP vulnerability coverage (Injection, XSS, SSRF, Authentication). Shannon analyzes source code for attack vectors, executes real exploits, and generates actionable reports. Available in AGPL-3.0 for local testing, Shannon Pro offers a comprehensive AppSec platform with CI/CD integration, static analysis, and enhanced dynamic testing capabilities.*
 
-- ⭐ 30556 stars
+- ⭐ 31856 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-05
+- 📅 Updated: 2026-03-06
 
-![shannon](2026/03-05/2026-03-05_daily-top_shannon.png)
+![shannon](2026/03-06/2026-03-06_daily-top_shannon.png)
 
-### 4. [airi](https://github.com/moeru-ai/airi)
+### 4. [canopy](https://github.com/canopy-network/canopy)
 
 > 🤖 **推荐理由**  
-> *AIRI is a self-hosted AI companion project inspired by Neuro-sama, allowing users to own and interact with their digital waifus or virtual characters. Key features include real-time voice chat, support for playing games like Minecraft and Factorio, and compatibility across web, macOS, and Windows platforms. The project leverages modern web technologies, enabling seamless interactions and rich animations. With over 25,000 stars on GitHub, AIRI focuses on community contributions, offering a range of sub-projects and tools for developers interested in AI and virtual interactions.*
+> *Canopy is the official Go implementation of the Canopy Network protocol, designed for building decentralized blockchains through a recursive framework. Key features include a Byzantine Fault Tolerant (BFT) consensus mechanism, a robust peer-to-peer networking system, and efficient state management through a Finite State Machine (FSM). Currently in Betanet, Canopy offers a comprehensive documentation and testing environment. Contributions are encouraged via its open-source platform. For more details, visit [canopynetwork.org](https://canopynetwork.org).*
 
-- ⭐ 25026 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-05
+- ⭐ 2408 stars
+- 💻 Go
+- 📅 Updated: 2026-03-06
 
-![airi](2026/03-05/2026-03-05_daily-top_airi.png)
+![canopy](2026/03-06/2026-03-06_daily-top_canopy.png)
 
 ### 5. [Perplexica](https://github.com/ItzCrazyKns/Perplexica)
 
 > 🤖 **推荐理由**  
-> *Perplexica is a privacy-focused AI answering engine that runs on your hardware, combining local LLMs and cloud providers like OpenAI and Claude. It offers smart search modes, supports multiple sources, and features widgets for quick info. Users can conduct web, image, and video searches, upload documents for queries, and limit searches to specific domains. With intelligent suggestions and saved search history, Perplexica enhances research efficiency. The project is open-source, actively developed, and has a vibrant community for support and feedback.*
+> *Perplexica is a privacy-focused AI answering engine that operates on your hardware, offering seamless integration with local LLMs (Ollama) and cloud providers (OpenAI, Claude, Groq). Key features include smart search modes for quick and in-depth answers, support for diverse sources including web and academic content, and the ability to upload files for analysis. With widgets for relevant information, intelligent search suggestions, and a rich discovery feature for trending articles, Perplexica enhances your search experience while ensuring complete privacy. The project has gained significant traction, boasting over 31,000 stars on GitHub.*
 
-- ⭐ 30905 stars
+- ⭐ 31324 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-05
+- 📅 Updated: 2026-03-06
 
-![Perplexica](2026/03-05/2026-03-05_daily-top_Perplexica.png)
+![Perplexica](2026/03-06/2026-03-06_daily-top_Perplexica.png)
 
-### 6. [superset](https://github.com/superset-sh/superset)
+### 6. [cs249r_book](https://github.com/harvard-edge/cs249r_book)
 
 > 🤖 **推荐理由**  
-> *Superset is an advanced IDE designed for the AI Agents Era, enabling users to run multiple CLI coding agents like Claude Code and OpenAI Codex simultaneously. Key features include parallel execution, worktree isolation for task management, agent monitoring, and a built-in diff viewer for quick change reviews. It supports automation for environment setups and integrates seamlessly with various editors. Ideal for macOS, Superset enhances development workflows, allowing developers to ship code faster while efficiently managing multiple coding tasks.*
+> *The cs249r_book project is an open-source resource for learning AI engineering principles, focusing on designing, building, and evaluating machine learning systems. It includes a comprehensive textbook, the TinyTorch framework for hands-on coding, and hardware kits for deploying projects on devices like Arduino and Raspberry Pi. The initiative aims to establish AI engineering as a foundational discipline, connecting theory with practical applications. With over 22,000 stars, it encourages community engagement and contributions to enhance AI education globally.*
 
-- ⭐ 4829 stars
+- ⭐ 22227 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-03-06
+
+![cs249r_book](2026/03-06/2026-03-06_daily-top_cs249r_book.png)
+
+### 7. [Flowise](https://github.com/FlowiseAI/Flowise)
+
+> 🤖 **推荐理由**  
+> *Flowise is a powerful platform for building AI agents visually, utilizing TypeScript. With over 50,000 stars on GitHub, it features a user-friendly interface and supports Docker deployments. Key components include a Node.js backend, a React frontend, and third-party integration nodes. Users can self-host on multiple cloud providers or opt for Flowise Cloud. The project offers comprehensive documentation and active community support through Discord. With seamless installation and setup, Flowise is ideal for developers looking to create and manage AI workflows efficiently.*
+
+- ⭐ 50404 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-05
+- 📅 Updated: 2026-03-06
 
-![superset](2026/03-05/2026-03-05_daily-top_superset.png)
+![Flowise](2026/03-06/2026-03-06_daily-top_Flowise.png)
 
-### 7. [qmd](https://github.com/tobi/qmd)
-
-> 🤖 **推荐理由**  
-> *QMD is a powerful local CLI search engine designed for managing and retrieving information from markdown notes, meeting transcripts, and documentation. It employs advanced search techniques, including BM25 full-text search, vector semantic search, and LLM re-ranking, all optimized for on-device use. Key features include context management for enhanced search relevance, hybrid search capabilities, and an MCP server for integration with AI agents. With an intuitive command structure, users can easily index collections, generate embeddings, and perform efficient searches using keywords or natural language.*
-
-- ⭐ 12514 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-05
-
-![qmd](2026/03-05/2026-03-05_daily-top_qmd.png)
-
-### 8. [trivy](https://github.com/aquasecurity/trivy)
+### 8. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 
 > 🤖 **推荐理由**  
-> *Trivy is a powerful open-source security scanner designed to detect vulnerabilities, misconfigurations, secrets, and SBOM in various targets, including container images, Kubernetes, and code repositories. Key features include support for OS packages, known vulnerabilities (CVEs), Infrastructure as Code (IaC) issues, and software licenses. Trivy seamlessly integrates with popular platforms like GitHub Actions and Kubernetes. With over 882 stars on GitHub, it offers extensive scanning coverage, making it a versatile tool for enhancing security in modern software development environments.*
+> *NautilusTrader is a high-performance, open-source algorithmic trading platform built in Rust, designed for quantitative traders. It offers a robust event-driven backtester and enables seamless deployment of strategies from backtesting to live trading. Key features include high-frequency trading support across various asset classes, modular API integrations, advanced order types, and customizable components. The platform prioritizes performance and safety, utilizing Rust's capabilities for reliability. It provides a Python-native environment, ensuring consistency in trading strategies and facilitating AI training for trading agents.*
 
-- ⭐ 882 stars
-- 💻 Go
-- 📅 Updated: 2026-03-05
-
-![trivy](2026/03-05/2026-03-05_daily-top_trivy.png)
-
-### 9. [codebuff](https://github.com/CodebuffAI/codebuff)
-
-> 🤖 **推荐理由**  
-> *Codebuff is an open-source AI coding assistant designed to enhance your codebase through natural language commands. Unlike single-model tools, it employs a multi-agent system, including File Picker, Planner, Editor, and Reviewer Agents, to make precise changes and validate them. With over 3,500 stars, it excels in 175+ coding tasks, outperforming competitors like Claude Code. Users can easily install it via npm, create custom agents, and integrate with applications using the SDK. Codebuff supports various models and fosters community contributions through its Agent Store and extensive documentation.*
-
-- ⭐ 3589 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-05
-
-![codebuff](2026/03-05/2026-03-05_daily-top_codebuff.png)
-
-### 10. [worktrunk](https://github.com/max-sixty/worktrunk)
-
-> 🤖 **推荐理由**  
-> *Worktrunk is a Rust-based CLI tool for managing Git worktrees, optimized for executing parallel AI agent workflows. With over 2,600 stars on GitHub, it simplifies worktree operations, allowing users to create, switch, and manage worktrees as easily as branches. Key features include workflow automation via hooks, LLM-generated commit messages, an interactive picker for worktrees, and a streamlined merge process. Worktrunk enhances productivity for developers leveraging multiple agents, making it a powerful addition to any Git workflow. For full documentation, visit worktrunk.dev.*
-
-- ⭐ 2677 stars
+- ⭐ 20943 stars
 - 💻 Rust
-- 📅 Updated: 2026-03-05
+- 📅 Updated: 2026-03-06
 
-![worktrunk](2026/03-05/2026-03-05_daily-top_worktrunk.png)
+![nautilus_trader](2026/03-06/2026-03-06_daily-top_nautilus_trader.png)
+
+### 9. [trivy](https://github.com/aquasecurity/trivy)
+
+> 🤖 **推荐理由**  
+> *Trivy is an open-source security scanner that identifies vulnerabilities, misconfigurations, and sensitive information across various targets such as container images, filesystems, Git repositories, virtual machine images, and Kubernetes. It detects known vulnerabilities (CVEs), OS packages, IaC issues, and software licenses, supporting multiple programming languages and platforms. With over 32,000 stars on GitHub, Trivy integrates with popular tools like GitHub Actions and Kubernetes operators, making it a versatile solution for enhancing security in cloud-native environments. For more information, visit the Trivy documentation.*
+
+- ⭐ 32899 stars
+- 💻 Go
+- 📅 Updated: 2026-03-06
+
+![trivy](2026/03-06/2026-03-06_daily-top_trivy.png)
+
+### 10. [codebuff](https://github.com/CodebuffAI/codebuff)
+
+> 🤖 **推荐理由**  
+> *Codebuff is an open-source AI coding assistant that enables developers to edit their codebases using natural language commands. With a unique multi-agent architecture, it leverages specialized agents for file selection, planning, editing, and reviewing, ensuring accurate and context-aware modifications. Users can easily install it via CLI and create custom agents for tailored workflows. Codebuff supports various AI models through OpenRouter and offers an SDK for integration into applications. With 3,889 stars, it stands out as a powerful tool for enhancing coding efficiency.*
+
+- ⭐ 3889 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-06
+
+![codebuff](2026/03-06/2026-03-06_daily-top_codebuff.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-05 02:41:03 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-06 02:37:56 UTC

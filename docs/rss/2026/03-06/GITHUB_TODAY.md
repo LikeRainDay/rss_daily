@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-06
 
-![openclaw](2026/03-06/2026-03-06_daily-top_openclaw.png)
+![openclaw](2026-03-06_daily-top_openclaw.png)
 
 ### 2. [airi](https://github.com/moeru-ai/airi)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-06
 
-![airi](2026/03-06/2026-03-06_daily-top_airi.png)
+![airi](2026-03-06_daily-top_airi.png)
 
 ### 3. [shannon](https://github.com/KeygraphHQ/shannon)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-06
 
-![shannon](2026/03-06/2026-03-06_daily-top_shannon.png)
+![shannon](2026-03-06_daily-top_shannon.png)
 
 ### 4. [canopy](https://github.com/canopy-network/canopy)
 
@@ -60,7 +60,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-06
 
-![canopy](2026/03-06/2026-03-06_daily-top_canopy.png)
+![canopy](2026-03-06_daily-top_canopy.png)
 
 ### 5. [Perplexica](https://github.com/ItzCrazyKns/Perplexica)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-06
 
-![Perplexica](2026/03-06/2026-03-06_daily-top_Perplexica.png)
+![Perplexica](2026-03-06_daily-top_Perplexica.png)
 
 ### 6. [cs249r_book](https://github.com/harvard-edge/cs249r_book)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-06
 
-![cs249r_book](2026/03-06/2026-03-06_daily-top_cs249r_book.png)
+![cs249r_book](2026-03-06_daily-top_cs249r_book.png)
 
 ### 7. [Flowise](https://github.com/FlowiseAI/Flowise)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-06
 
-![Flowise](2026/03-06/2026-03-06_daily-top_Flowise.png)
+![Flowise](2026-03-06_daily-top_Flowise.png)
 
 ### 8. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-06
 
-![nautilus_trader](2026/03-06/2026-03-06_daily-top_nautilus_trader.png)
+![nautilus_trader](2026-03-06_daily-top_nautilus_trader.png)
 
 ### 9. [trivy](https://github.com/aquasecurity/trivy)
 
@@ -115,7 +115,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-06
 
-![trivy](2026/03-06/2026-03-06_daily-top_trivy.png)
+![trivy](2026-03-06_daily-top_trivy.png)
 
 ### 10. [codebuff](https://github.com/CodebuffAI/codebuff)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-06
 
-![codebuff](2026/03-06/2026-03-06_daily-top_codebuff.png)
+![codebuff](2026-03-06_daily-top_codebuff.png)
 
 ---
 
