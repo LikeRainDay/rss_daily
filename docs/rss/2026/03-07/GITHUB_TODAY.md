@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-07
 
-![openclaw](2026/03-07/2026-03-07_daily-top_openclaw.png)
+![openclaw](2026-03-07_daily-top_openclaw.png)
 
 ### 2. [airi](https://github.com/moeru-ai/airi)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-07
 
-![airi](2026/03-07/2026-03-07_daily-top_airi.png)
+![airi](2026-03-07_daily-top_airi.png)
 
 ### 3. [shannon](https://github.com/KeygraphHQ/shannon)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-07
 
-![shannon](2026/03-07/2026-03-07_daily-top_shannon.png)
+![shannon](2026-03-07_daily-top_shannon.png)
 
 ### 4. [AFFiNE](https://github.com/toeverything/AFFiNE)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-07
 
-![AFFiNE](2026/03-07/2026-03-07_daily-top_AFFiNE.png)
+![AFFiNE](2026-03-07_daily-top_AFFiNE.png)
 
 ### 5. [react-grab](https://github.com/aidenybai/react-grab)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-07
 
-![react-grab](2026/03-07/2026-03-07_daily-top_react-grab.png)
+![react-grab](2026-03-07_daily-top_react-grab.png)
 
 ### 6. [canopy](https://github.com/canopy-network/canopy)
 
@@ -83,7 +83,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-07
 
-![canopy](2026/03-07/2026-03-07_daily-top_canopy.png)
+![canopy](2026-03-07_daily-top_canopy.png)
 
 ### 7. [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-07
 
-![gemini-voyager](2026/03-07/2026-03-07_daily-top_gemini-voyager.png)
+![gemini-voyager](2026-03-07_daily-top_gemini-voyager.png)
 
 ### 8. [codex](https://github.com/openai/codex)
 
@@ -105,7 +105,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-07
 
-![codex](2026/03-07/2026-03-07_daily-top_codex.png)
+![codex](2026-03-07_daily-top_codex.png)
 
 ### 9. [codebuff](https://github.com/CodebuffAI/codebuff)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-07
 
-![codebuff](2026/03-07/2026-03-07_daily-top_codebuff.png)
+![codebuff](2026-03-07_daily-top_codebuff.png)
 
 ### 10. [Perplexica](https://github.com/ItzCrazyKns/Perplexica)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-07
 
-![Perplexica](2026/03-07/2026-03-07_daily-top_Perplexica.png)
+![Perplexica](2026-03-07_daily-top_Perplexica.png)
 
 ---
 
