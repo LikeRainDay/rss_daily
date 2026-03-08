@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-03-07
+# 📊 🌟 GitHub Trending Daily - 2026-03-08
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **515770** ⭐ | **83205** 🍴
+**10** 个项目 | **425990** ⭐ | **73920** 🍴
 
-**热门语言:** `TypeScript` (8) · `Rust` (1) · `Go` (1)
+**热门语言:** `TypeScript` (6) · `Go` (3) · `JavaScript` (1)
 
-**更新时间:** 2026-03-07 02:31 UTC
+**更新时间:** 2026-03-08 02:44 UTC
 
 **分类分布:**
 
@@ -21,113 +21,114 @@
 ### 1. [openclaw](https://github.com/openclaw/openclaw)
 
 > 🤖 **推荐理由**  
-> *OpenClaw is a versatile personal AI assistant that operates across various platforms, including macOS, iOS, Android, and numerous messaging services like WhatsApp, Telegram, and Discord. It features a local-first architecture with multi-channel support, enabling seamless communication through a unified inbox. Key highlights include voice activation, a live Canvas for visual tasks, and a CLI onboarding wizard for easy setup. The platform also offers extensive customization through skills and tools, ensuring a tailored user experience. OpenClaw is open-source and community-driven, fostering collaboration and innovation.*
+> *OpenClaw is a personal AI assistant that operates across various platforms, allowing users to engage through popular messaging channels like WhatsApp, Telegram, Discord, and more. Key features include a local-first gateway for session management, multi-channel integration, and voice capabilities on macOS/iOS/Android. It supports a variety of tools, including a live Canvas, browser control, and automation options. With a guided onboarding wizard, OpenClaw ensures a seamless setup for users seeking a fast, always-on assistant tailored to their needs.*
 
-- ⭐ 271317 stars
+- ⭐ 275978 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-07
+- 📅 Updated: 2026-03-08
 
-![openclaw](2026/03-07/2026-03-07_daily-top_openclaw.png)
+![openclaw](2026/03-08/2026-03-08_daily-top_openclaw.png)
 
 ### 2. [airi](https://github.com/moeru-ai/airi)
 
 > 🤖 **推荐理由**  
-> *AIRI is a self-hosted AI companion project designed to recreate Neuro-sama, offering a unique blend of interactive experiences with virtual characters (waifus). It supports real-time voice chat and gameplay in popular titles like Minecraft and Factorio. Built with TypeScript, it functions across web, macOS, and Windows platforms. Key features include audio input/output, VRM and Live2D model animations, and a memory system for enhanced interaction. AIRI empowers users to own their digital companions and enables a variety of integrations, making it a versatile tool for developers and gamers alike.*
+> *Project AIRI is a self-hosted AI companion designed to recreate the experience of Neuro-sama, offering users their own digital waifu or virtual character. Key features include real-time voice chat, gameplay capabilities for Minecraft and Factorio, and support for multiple platforms (Web, macOS, Windows). Built with TypeScript, AIRI leverages advanced web technologies for enhanced performance. Users can engage in conversations, utilize a memory system, and customize their experience with VRM and Live2D models. AIRI invites developers and artists to contribute to its ongoing development and expansion.*
 
-- ⭐ 29602 stars
+- ⭐ 30606 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-07
+- 📅 Updated: 2026-03-08
 
-![airi](2026/03-07/2026-03-07_daily-top_airi.png)
+![airi](2026/03-08/2026-03-08_daily-top_airi.png)
 
-### 3. [shannon](https://github.com/KeygraphHQ/shannon)
+### 3. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 
 > 🤖 **推荐理由**  
-> *Shannon Lite is an autonomous AI pentester designed for web applications and APIs, achieving 96.15% effectiveness on the XBOW benchmark. It combines source code analysis with live exploitation to identify vulnerabilities like injection attacks and XSS, generating comprehensive reports with reproducible proofs of concept. Key features include fully automated operation, parallel processing, and integration with tools like Nmap and Subfinder. Shannon Lite is ideal for local testing, while Shannon Pro offers a complete AppSec platform with CI/CD integration and advanced security testing capabilities.*
+> *Learn Claude Code is a TypeScript project designed to build a nano Claude Code-like AI agent from scratch. It features a progressive learning path across 12 sessions, introducing core mechanisms such as task delegation, tool handling, and context management. Users can interact with an agent loop that efficiently manages messages and tool execution. The project also offers a web platform for interactive visualizations and documentation in multiple languages. Additionally, it provides a Kode Agent CLI and SDK for embedding agent capabilities in applications, facilitating both coding and task management.*
 
-- ⭐ 32364 stars
+- ⭐ 23230 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-07
+- 📅 Updated: 2026-03-08
 
-![shannon](2026/03-07/2026-03-07_daily-top_shannon.png)
+![learn-claude-code](2026/03-08/2026-03-08_daily-top_learn-claude-code.png)
 
-### 4. [AFFiNE](https://github.com/toeverything/AFFiNE)
+### 4. [electrobun](https://github.com/blackboardsh/electrobun)
 
 > 🤖 **推荐理由**  
-> *AFFiNE is a next-gen, open-source knowledge base that combines planning, creation, and organization in a privacy-focused, local-first environment. With over 64,000 stars on GitHub, it offers a seamless canvas for rich text, sticky notes, and multi-view databases. Key features include real-time collaboration, multimodal AI integration for enhanced creativity, and self-hosting capabilities. AFFiNE serves as a versatile alternative to Notion and Miro, making it ideal for creative minds seeking a unified platform for documentation, project management, and brainstorming.*
+> *Electrobun is a powerful framework for creating ultra-fast, tiny, cross-platform desktop applications using TypeScript. With over 8,700 stars, it simplifies development by allowing you to write TypeScript for both the main process and webviews seamlessly. Key features include small app bundles (~12MB), efficient updates (as small as 14KB), and robust inter-process communication. Built on the Bun runtime and with native Zig bindings, Electrobun enables rapid app deployment in minutes. Explore its capabilities through example apps like Audio TTS and Co(lab), and access comprehensive documentation at electrobun.dev.*
 
-- ⭐ 64278 stars
+- ⭐ 8724 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-07
+- 📅 Updated: 2026-03-08
 
-![AFFiNE](2026/03-07/2026-03-07_daily-top_AFFiNE.png)
+![electrobun](2026/03-08/2026-03-08_daily-top_electrobun.png)
 
-### 5. [react-grab](https://github.com/aidenybai/react-grab)
+### 5. [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
+
+> 🤖 **推荐理由**  
+> *CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-base. popular project, actively maintained, recently updated*
+
+- ⭐ 1964 stars
+- 🍴 361 forks
+- 💻 Go
+- 📅 Updated: 2026-03-08
+
+![CyberStrikeAI](2026/03-08/2026-03-08_daily-top_CyberStrikeAI.png)
+
+### 6. [react-grab](https://github.com/aidenybai/react-grab)
 
 > 🤖 **推荐理由**  
 > *Select context for coding agents directly from your website. popular project, actively maintained, recently updated*
 
-- ⭐ 6029 stars
-- 🍴 276 forks
+- ⭐ 6233 stars
+- 🍴 287 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-03-07
+- 📅 Updated: 2026-03-08
 
-![react-grab](2026/03-07/2026-03-07_daily-top_react-grab.png)
+![react-grab](2026/03-08/2026-03-08_daily-top_react-grab.png)
 
-### 6. [canopy](https://github.com/canopy-network/canopy)
+### 7. [AFFiNE](https://github.com/toeverything/AFFiNE)
 
 > 🤖 **推荐理由**  
-> *Canopy is the official Go implementation of the Canopy Network protocol, designed to facilitate a peer-to-peer blockchain ecosystem. With 2,747 stars on GitHub, it offers a recursive framework for building interconnected blockchains, enhancing utility and security. Core features include a Byzantine Fault Tolerant consensus mechanism, a Finite State Machine for transaction logic, and secure peer-to-peer networking. The project is currently in Betanet phase, with comprehensive documentation available. Contributions are encouraged from the community. For more details, visit [canopynetwork.org](https://canopynetwork.org).*
+> *AFFiNE is an open-source, privacy-focused knowledge base that seamlessly integrates planning, sorting, and creation in one platform, offering a unique alternative to Notion and Miro. Key features include a flexible edgeless canvas for various content types, real-time collaboration, and local-first data ownership. With a multimodal AI partner for creative tasks and the ability to self-host or customize, AFFiNE caters to diverse user needs. Its rich ecosystem includes community-driven templates and extensive documentation, making it an ideal choice for creative minds.*
 
-- ⭐ 2747 stars
+- ⭐ 64725 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-08
+
+![AFFiNE](2026/03-08/2026-03-08_daily-top_AFFiNE.png)
+
+### 8. [canopy](https://github.com/canopy-network/canopy)
+
+> 🤖 **推荐理由**  
+> *Canopy is the official Go implementation of the Canopy Network protocol, designed for building blockchains through a recursive architecture. Key features include a centralized controller for system communication, a Finite State Machine for transaction logic, Byzantine Fault Tolerance for consensus, and secure peer-to-peer networking. It supports Docker for easy deployment and is currently in Betanet. The project invites community contributions and offers comprehensive documentation through its wiki. For more details, visit the Canopy Network website.*
+
+- ⭐ 3053 stars
 - 💻 Go
-- 📅 Updated: 2026-03-07
+- 📅 Updated: 2026-03-08
 
-![canopy](2026/03-07/2026-03-07_daily-top_canopy.png)
+![canopy](2026/03-08/2026-03-08_daily-top_canopy.png)
 
-### 7. [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager)
-
-> 🤖 **推荐理由**  
-> *Gemini Voyager is a comprehensive enhancement suite for Google Gemini and AI Studio, boasting over 10,000 stars on GitHub. Key features include elegant timeline navigation, folder management for organizing chats, a prompt vault for saving and reusing prompts, and versatile chat export options (JSON, Markdown, PDF). Additional capabilities like cloud sync, Mermaid rendering, and bulk deletion enhance user experience. Designed for researchers and developers, it transforms Gemini into a more structured and productive platform, making conversations accessible and organized.*
-
-- ⭐ 10137 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-07
-
-![gemini-voyager](2026/03-07/2026-03-07_daily-top_gemini-voyager.png)
-
-### 8. [codex](https://github.com/openai/codex)
+### 9. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **推荐理由**  
-> *Codex is a lightweight coding agent by OpenAI that runs locally in your terminal, designed for seamless integration into your development workflow. With over 63,560 stars on GitHub, it can be installed globally via npm or Homebrew. Key features include local execution, support for IDEs like VS Code, and a desktop app experience. Users can enhance functionality by signing in with their ChatGPT account for additional plan benefits. Comprehensive documentation and open-source contributions are available, making Codex a versatile tool for developers.*
+> *Impeccable is a JavaScript design language enhancing AI-driven frontend design. With 869 stars, it offers a comprehensive skill set that includes 7 domain-specific references and 17 steering commands for tasks like auditing, polishing, and optimizing designs. Notably, it provides curated anti-patterns to prevent common design mistakes. Users can quickly start using Impeccable by downloading bundles from impeccable.style. It supports popular tools like Cursor and Codex CLI, enabling seamless integration into various projects for improved UI/UX outcomes.*
 
-- ⭐ 63560 stars
-- 💻 Rust
-- 📅 Updated: 2026-03-07
+- ⭐ 869 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-03-08
 
-![codex](2026/03-07/2026-03-07_daily-top_codex.png)
+![impeccable](2026/03-08/2026-03-08_daily-top_impeccable.png)
 
-### 9. [codebuff](https://github.com/CodebuffAI/codebuff)
-
-> 🤖 **推荐理由**  
-> *Codebuff is an open-source AI coding assistant that allows users to generate and edit code through natural language commands directly from the terminal. With over 4,000 stars, it leverages a multi-agent system, including File Picker, Planner, Editor, and Reviewer Agents, to ensure accurate modifications across codebases. Users can install it via `npm install -g codebuff` and easily ask for tasks like fixing vulnerabilities or adding features. Codebuff also supports custom agent creation and integration through its SDK, offering flexibility in workflows and model usage.*
-
-- ⭐ 4030 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-07
-
-![codebuff](2026/03-07/2026-03-07_daily-top_codebuff.png)
-
-### 10. [Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+### 10. [gh-dash](https://github.com/dlvhdr/gh-dash)
 
 > 🤖 **推荐理由**  
-> *Perplexica is a privacy-focused AI answering engine that combines knowledge from the internet with support for local and cloud-based LLMs, including OpenAI and Claude. Key features include smart search modes, source selection, image and video search, and document uploads. Users can choose from various AI providers, utilize widgets for quick information, and access a history of searches. Perplexica runs on your hardware, ensuring complete privacy, and is actively developed with community input. Join the Discord for updates and feedback.*
+> *gh-dash is a terminal UI for GitHub designed to enhance productivity without interrupting your workflow. With over 10,600 stars, it offers user-defined PRs and issues sections, customizable vim-style hotkeys, and the ability to perform all GitHub actions like diffing, commenting, and pushing. Configuration is managed through a YAML file, and extensive documentation is available at gh-dash.dev. Built using technologies like Bubble Tea and Cobra, gh-dash also features an active Discord community for support and collaboration.*
 
-- ⭐ 31706 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-07
+- ⭐ 10608 stars
+- 💻 Go
+- 📅 Updated: 2026-03-08
 
-![Perplexica](2026/03-07/2026-03-07_daily-top_Perplexica.png)
+![gh-dash](2026/03-08/2026-03-08_daily-top_gh-dash.png)
 
 ---
 
@@ -141,4 +142,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-07 02:31:37 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-08 02:44:17 UTC

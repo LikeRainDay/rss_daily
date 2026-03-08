@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-08
 
-![openclaw](2026/03-08/2026-03-08_daily-top_openclaw.png)
+![openclaw](2026-03-08_daily-top_openclaw.png)
 
 ### 2. [airi](https://github.com/moeru-ai/airi)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-08
 
-![airi](2026/03-08/2026-03-08_daily-top_airi.png)
+![airi](2026-03-08_daily-top_airi.png)
 
 ### 3. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-08
 
-![learn-claude-code](2026/03-08/2026-03-08_daily-top_learn-claude-code.png)
+![learn-claude-code](2026-03-08_daily-top_learn-claude-code.png)
 
 ### 4. [electrobun](https://github.com/blackboardsh/electrobun)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-08
 
-![electrobun](2026/03-08/2026-03-08_daily-top_electrobun.png)
+![electrobun](2026-03-08_daily-top_electrobun.png)
 
 ### 5. [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
 
@@ -72,7 +72,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-08
 
-![CyberStrikeAI](2026/03-08/2026-03-08_daily-top_CyberStrikeAI.png)
+![CyberStrikeAI](2026-03-08_daily-top_CyberStrikeAI.png)
 
 ### 6. [react-grab](https://github.com/aidenybai/react-grab)
 
@@ -84,7 +84,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-08
 
-![react-grab](2026/03-08/2026-03-08_daily-top_react-grab.png)
+![react-grab](2026-03-08_daily-top_react-grab.png)
 
 ### 7. [AFFiNE](https://github.com/toeverything/AFFiNE)
 
@@ -95,7 +95,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-08
 
-![AFFiNE](2026/03-08/2026-03-08_daily-top_AFFiNE.png)
+![AFFiNE](2026-03-08_daily-top_AFFiNE.png)
 
 ### 8. [canopy](https://github.com/canopy-network/canopy)
 
@@ -106,7 +106,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-08
 
-![canopy](2026/03-08/2026-03-08_daily-top_canopy.png)
+![canopy](2026-03-08_daily-top_canopy.png)
 
 ### 9. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -117,7 +117,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-08
 
-![impeccable](2026/03-08/2026-03-08_daily-top_impeccable.png)
+![impeccable](2026-03-08_daily-top_impeccable.png)
 
 ### 10. [gh-dash](https://github.com/dlvhdr/gh-dash)
 
@@ -128,7 +128,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-08
 
-![gh-dash](2026/03-08/2026-03-08_daily-top_gh-dash.png)
+![gh-dash](2026-03-08_daily-top_gh-dash.png)
 
 ---
 
