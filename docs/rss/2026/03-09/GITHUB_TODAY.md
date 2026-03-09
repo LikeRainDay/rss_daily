@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-09
 
-![openclaw](2026/03-09/2026-03-09_daily-top_openclaw.png)
+![openclaw](2026-03-09_daily-top_openclaw.png)
 
 ### 2. [page-agent](https://github.com/alibaba/page-agent)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-09
 
-![page-agent](2026/03-09/2026-03-09_daily-top_page-agent.png)
+![page-agent](2026-03-09_daily-top_page-agent.png)
 
 ### 3. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-09
 
-![learn-claude-code](2026/03-09/2026-03-09_daily-top_learn-claude-code.png)
+![learn-claude-code](2026-03-09_daily-top_learn-claude-code.png)
 
 ### 4. [AFFiNE](https://github.com/toeverything/AFFiNE)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-09
 
-![AFFiNE](2026/03-09/2026-03-09_daily-top_AFFiNE.png)
+![AFFiNE](2026-03-09_daily-top_AFFiNE.png)
 
 ### 5. [ui](https://github.com/shadcn-ui/ui)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-09
 
-![ui](2026/03-09/2026-03-09_daily-top_ui.png)
+![ui](2026-03-09_daily-top_ui.png)
 
 ### 6. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -83,7 +83,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-09
 
-![impeccable](2026/03-09/2026-03-09_daily-top_impeccable.png)
+![impeccable](2026-03-09_daily-top_impeccable.png)
 
 ### 7. [electrobun](https://github.com/blackboardsh/electrobun)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-09
 
-![electrobun](2026/03-09/2026-03-09_daily-top_electrobun.png)
+![electrobun](2026-03-09_daily-top_electrobun.png)
 
 ### 8. [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
 
@@ -105,7 +105,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-09
 
-![SpacetimeDB](2026/03-09/2026-03-09_daily-top_SpacetimeDB.png)
+![SpacetimeDB](2026-03-09_daily-top_SpacetimeDB.png)
 
 ### 9. [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
 
@@ -117,7 +117,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-09
 
-![CyberStrikeAI](2026/03-09/2026-03-09_daily-top_CyberStrikeAI.png)
+![CyberStrikeAI](2026-03-09_daily-top_CyberStrikeAI.png)
 
 ### 10. [codex](https://github.com/openai/codex)
 
@@ -128,7 +128,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-09
 
-![codex](2026/03-09/2026-03-09_daily-top_codex.png)
+![codex](2026-03-09_daily-top_codex.png)
 
 ---
 
