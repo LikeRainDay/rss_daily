@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-03-09
+# 📊 🌟 GitHub Trending Daily - 2026-03-10
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **582001** ⭐ | **81029** 🍴
+**10** Projects | **636838** ⭐ | **83256** 🍴
 
-**Top Languages:** `TypeScript` (6) · `Rust` (2) · `JavaScript` (1)
+**Top Languages:** `TypeScript` (6) · `JavaScript` (2) · `Go` (2)
 
-**Updated:** 2026-03-09 02:46 UTC
+**Updated:** 2026-03-10 02:37 UTC
 
 **Categories:**
 
@@ -21,114 +21,113 @@
 ### 1. [openclaw](https://github.com/openclaw/openclaw)
 
 > 🤖 **Why Recommend**  
-> *OpenClaw is a versatile personal AI assistant designed for any OS and platform, built with TypeScript. It seamlessly integrates with various messaging channels like WhatsApp, Telegram, Discord, and more, providing a local, fast, and always-on experience. Key features include a local-first control plane, multi-channel inbox, voice wake capabilities, live canvas for visual tasks, and a robust onboarding wizard. OpenClaw also supports various tools and automation features, ensuring a customizable and secure user experience. With over 281,000 stars on GitHub, it has garnered a vibrant community and strong support, making it a compelling choice for personal AI assistance.*
+> *OpenClaw is a personal AI assistant designed to run on any device, offering seamless integration with popular messaging platforms like WhatsApp, Telegram, Slack, and Discord. Key features include a local-first gateway for session control, multi-channel support, voice activation, and a live canvas for agent-driven interactions. The onboarding wizard simplifies setup across macOS, Linux, and Windows, while companion apps enhance functionality on mobile devices. With a focus on user privacy and security, OpenClaw provides a fast, responsive assistant experience tailored to individual needs.*
 
-- ⭐ 281912 stars
+- ⭐ 291117 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-09
+- 📅 Updated: 2026-03-10
 
-![openclaw](2026/03-09/2026-03-09_daily-top_openclaw.png)
+![openclaw](2026/03-10/2026-03-10_daily-top_openclaw.png)
 
-### 2. [page-agent](https://github.com/alibaba/page-agent)
+### 2. [impeccable](https://github.com/pbakaus/impeccable)
+
+> 🤖 **Why Recommend**  
+> *Impeccable is a JavaScript design language tool that enhances AI-generated UI designs. With 3,037 stars, it features an advanced frontend-design skill comprising 7 domain-specific references and 17 steering commands to audit, critique, and optimize design elements. Impeccable also offers curated anti-patterns to help avoid common design pitfalls. Users can quickly start by downloading bundles from impeccable.style. It's compatible with tools like Cursor, Claude Code, Gemini CLI, and Codex CLI, making it a versatile solution for improving frontend design quality.*
+
+- ⭐ 3037 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-03-10
+
+![impeccable](2026/03-10/2026-03-10_daily-top_impeccable.png)
+
+### 3. [neko](https://github.com/m1k1o/neko)
+
+> 🤖 **Why Recommend**  
+> *Neko is a self-hosted virtual browser that runs in Docker, utilizing WebRTC technology for secure and private internet access. With over 19,000 stars, it enables multiple users to collaborate in real-time, making it ideal for watch parties, interactive presentations, and shared browsing experiences. Neko supports various applications, including popular browsers and desktop environments, allowing for versatile use cases like personal workspaces and automated tasks. Its unique features include smooth video streaming, multi-participant control, and a zero-knowledge installation option, ensuring privacy and ease of use.*
+
+- ⭐ 19272 stars
+- 💻 Go
+- 📅 Updated: 2026-03-10
+
+![neko](2026/03-10/2026-03-10_daily-top_neko.png)
+
+### 4. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+
+> 🤖 **Why Recommend**  
+> *Learn Claude Code is a TypeScript project designed to build a nano Claude Code-like agent from scratch. It features a minimal agent loop that integrates tool execution with messaging, progressing through 12 sessions that introduce mechanisms for planning, task management, and team collaboration. Key highlights include background task processing, subagent isolation, and a file-based task dependency system. The repository provides interactive visualizations and documentation in multiple languages, along with a web platform for enhanced learning. The project emphasizes practical implementation and is equipped with CLI and SDK options for embedding agent capabilities into applications.*
+
+- ⭐ 24562 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-10
+
+![learn-claude-code](2026/03-10/2026-03-10_daily-top_learn-claude-code.png)
+
+### 5. [firecrawl](https://github.com/firecrawl/firecrawl)
+
+> 🤖 **Why Recommend**  
+> *Firecrawl is a powerful web data API designed to transform entire websites into LLM-ready markdown or structured data. Key features include exceptional reliability with over 80% coverage in benchmark tests, support for scraping dynamic content, batch processing for thousands of URLs, and customizable crawling options. It offers various output formats like markdown, HTML, and JSON, along with advanced actions such as click and scroll before scraping. Firecrawl also provides an AI agent for autonomous data gathering and integrates with popular platforms, making it versatile for developers and businesses.*
+
+- ⭐ 90294 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-10
+
+![firecrawl](2026/03-10/2026-03-10_daily-top_firecrawl.png)
+
+### 6. [get-shit-done](https://github.com/gsd-build/get-shit-done)
+
+> 🤖 **Why Recommend**  
+> *Get Shit Done (GSD) is a lightweight meta-prompting and context engineering system designed for Claude Code, OpenCode, Gemini CLI, and Codex. With over 27,000 stars, GSD addresses context degradation by efficiently managing project workflows. Key features include streamlined project initialization, phase-based discussions, planning, execution in parallel waves, and automated verification. It enables users to build software with precision while ensuring clean Git histories and modular adaptability. GSD is trusted by engineers at major companies like Amazon and Google, simplifying spec-driven development without unnecessary complexities.*
+
+- ⭐ 27106 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-03-10
+
+![get-shit-done](2026/03-10/2026-03-10_daily-top_get-shit-done.png)
+
+### 7. [ui](https://github.com/shadcn-ui/ui)
+
+> 🤖 **Why Recommend**  
+> *shadcn/ui is an open-source library offering a collection of beautifully designed, accessible components built with TypeScript. It allows users to customize, extend, and create their own component libraries, making it versatile for various frameworks. With over 109,000 stars, it emphasizes usability and aesthetics. Comprehensive documentation is available at ui.shadcn.com/docs, and contributions are welcomed per the contributing guide. The project is licensed under the MIT license, promoting collaboration and innovation in UI development.*
+
+- ⭐ 109096 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-10
+
+![ui](2026/03-10/2026-03-10_daily-top_ui.png)
+
+### 8. [AFFiNE](https://github.com/toeverything/AFFiNE)
+
+> 🤖 **Why Recommend**  
+> *AFFiNE is an open-source, privacy-focused knowledge base that combines planning, sorting, and creativity into one platform. It offers a unique canvas for diverse content types, including text, sticky notes, and databases, enabling real-time collaboration. Users can leverage its multimodal AI for tasks like report writing and mind mapping, all while maintaining local data ownership. AFFiNE supports self-hosting and customization, making it a versatile alternative to Notion and Miro. With over 65,000 stars, it’s designed for creative minds seeking an innovative workspace.*
+
+- ⭐ 65621 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-10
+
+![AFFiNE](2026/03-10/2026-03-10_daily-top_AFFiNE.png)
+
+### 9. [sub2api](https://github.com/Wei-Shaw/sub2api)
+
+> 🤖 **Why Recommend**  
+> *Sub2API is an open-source AI API gateway platform that simplifies subscription management for AI services like Claude, OpenAI, and Gemini. Key features include multi-account management, API key distribution, precise billing with token-level tracking, smart scheduling, concurrency control, and configurable rate limiting. The platform offers a user-friendly admin dashboard for monitoring and management. Built with Go, Vue, PostgreSQL, and Redis, Sub2API supports one-click installation and Docker deployment, making it efficient for developers seeking a unified solution for managing AI service quotas.*
+
+- ⭐ 4067 stars
+- 💻 Go
+- 📅 Updated: 2026-03-10
+
+![sub2api](2026/03-10/2026-03-10_daily-top_sub2api.png)
+
+### 10. [page-agent](https://github.com/alibaba/page-agent)
 
 > 🤖 **Why Recommend**  
 > *JavaScript in-page GUI agent. Control web interfaces with natural language.. popular project, actively maintained, recently updated*
 
-- ⭐ 1989 stars
-- 🍴 164 forks
+- ⭐ 2666 stars
+- 🍴 208 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-03-09
+- 📅 Updated: 2026-03-10
 
-![page-agent](2026/03-09/2026-03-09_daily-top_page-agent.png)
-
-### 3. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
-
-> 🤖 **Why Recommend**  
-> *Learn Claude Code is a TypeScript project designed to build a nano Claude Code-like agent from the ground up. With 12 progressive sessions, it teaches key concepts like agent loops, task management, and team collaboration while emphasizing modular design and tool integration. Key features include a simple agent loop structure, independent subagent contexts, background task processing, and a JSONL mailbox protocol for team communication. The project also offers an interactive web platform for visual learning and documentation in multiple languages, making it an invaluable resource for developers looking to create AI coding agents.*
-
-- ⭐ 23980 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-09
-
-![learn-claude-code](2026/03-09/2026-03-09_daily-top_learn-claude-code.png)
-
-### 4. [AFFiNE](https://github.com/toeverything/AFFiNE)
-
-> 🤖 **Why Recommend**  
-> *AFFiNE is a next-gen, privacy-focused, open-source knowledge base designed to integrate planning, sorting, and creative tasks in one platform, serving as a versatile alternative to Notion and Miro. Key features include a unique edgeless canvas for diverse content types, real-time collaboration, and local-first data ownership. AFFiNE also offers a multimodal AI assistant for enhanced productivity and customization options for self-hosting. With a growing community and rich template library, AFFiNE is ideal for creative minds seeking a comprehensive workspace.*
-
-- ⭐ 65267 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-09
-
-![AFFiNE](2026/03-09/2026-03-09_daily-top_AFFiNE.png)
-
-### 5. [ui](https://github.com/shadcn-ui/ui)
-
-> 🤖 **Why Recommend**  
-> *shadcn/ui is an open-source library of beautifully designed, customizable, and accessible UI components built with TypeScript. It seamlessly integrates with popular frameworks, allowing developers to create their own component libraries. Key features include extensive documentation and a focus on extendability. With over 108,000 stars, shadcn/ui emphasizes community contributions and collaboration. For detailed usage and guidelines, visit the documentation at https://ui.shadcn.com/docs. The project is licensed under the MIT license.*
-
-- ⭐ 108746 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-09
-
-![ui](2026/03-09/2026-03-09_daily-top_ui.png)
-
-### 6. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **Why Recommend**  
-> *Impeccable is a JavaScript project designed to enhance AI-driven frontend design. With 1 skill, 17 commands, and curated anti-patterns, it empowers AI models like Claude to produce superior UI designs. Key features include an extensive skill set covering typography, color, spatial, motion, interaction, responsive design, and UX writing. The 17 commands offer functions for auditing, critiquing, normalizing, and optimizing designs. Impeccable also provides clear guidance on design pitfalls to avoid. Visit [impeccable.style](https://impeccable.style) for a quick start and case studies.*
-
-- ⭐ 1888 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-03-09
-
-![impeccable](2026/03-09/2026-03-09_daily-top_impeccable.png)
-
-### 7. [electrobun](https://github.com/blackboardsh/electrobun)
-
-> 🤖 **Why Recommend**  
-> *Electrobun is a powerful framework for building ultra-fast, lightweight, cross-platform desktop applications using TypeScript. With features like seamless TypeScript integration for both main and webview processes, fast RPC communication, and minimal app sizes (~12MB), it streamlines the development and distribution process. Developers can easily initialize projects with `npx electrobun init` and benefit from small update sizes (as low as 14KB). Notable applications built with Electrobun include Audio TTS, Co(lab), and a unique DOOM implementation. Visit the documentation at electrobun.dev for more details.*
-
-- ⭐ 9000 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-09
-
-![electrobun](2026/03-09/2026-03-09_daily-top_electrobun.png)
-
-### 8. [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
-
-> 🤖 **Why Recommend**  
-> *SpacetimeDB is a high-performance relational database that integrates application logic directly within the database, eliminating the need for a separate server. It supports development in Rust, C#, TypeScript, and C++, allowing seamless real-time synchronization with connected clients. With ACID compliance and in-memory data handling for speed, SpacetimeDB simplifies deployment by enabling application delivery as a single binary. Key features include module-based schemas, direct client connections, and extensive SDK support. For more details, visit spacetimedb.com.*
-
-- ⭐ 22974 stars
-- 💻 Rust
-- 📅 Updated: 2026-03-09
-
-![SpacetimeDB](2026/03-09/2026-03-09_daily-top_SpacetimeDB.png)
-
-### 9. [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
-
-> 🤖 **Why Recommend**  
-> *CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-base. popular project, actively maintained, recently updated*
-
-- ⭐ 2303 stars
-- 🍴 394 forks
-- 💻 Go
-- 📅 Updated: 2026-03-09
-
-![CyberStrikeAI](2026/03-09/2026-03-09_daily-top_CyberStrikeAI.png)
-
-### 10. [codex](https://github.com/openai/codex)
-
-> 🤖 **Why Recommend**  
-> *Codex is a lightweight coding agent from OpenAI that runs locally in your terminal, built in Rust. With over 63,000 stars on GitHub, it offers seamless integration with IDEs like VS Code and a dedicated desktop app. Users can install Codex via npm or Homebrew, and it supports signing in with a ChatGPT account for enhanced functionality. Key services include the Codex CLI, cloud-based Codex Web, and extensive documentation for installation and usage. Explore the project further on its GitHub page for comprehensive guides and contributions.*
-
-- ⭐ 63942 stars
-- 💻 Rust
-- 📅 Updated: 2026-03-09
-
-![codex](2026/03-09/2026-03-09_daily-top_codex.png)
+![page-agent](2026/03-10/2026-03-10_daily-top_page-agent.png)
 
 ---
 
@@ -142,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-09 02:46:33 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-10 02:37:00 UTC
