@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-11
 
-![openclaw](2026/03-11/2026-03-11_daily-top_openclaw.png)
+![openclaw](2026-03-11_daily-top_openclaw.png)
 
 ### 2. [RuView](https://github.com/ruvnet/RuView)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-11
 
-![RuView](2026/03-11/2026-03-11_daily-top_RuView.png)
+![RuView](2026-03-11_daily-top_RuView.png)
 
 ### 3. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-11
 
-![impeccable](2026/03-11/2026-03-11_daily-top_impeccable.png)
+![impeccable](2026-03-11_daily-top_impeccable.png)
 
 ### 4. [page-agent](https://github.com/alibaba/page-agent)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-11
 
-![page-agent](2026/03-11/2026-03-11_daily-top_page-agent.png)
+![page-agent](2026-03-11_daily-top_page-agent.png)
 
 ### 5. [promptfoo](https://github.com/promptfoo/promptfoo)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-11
 
-![promptfoo](2026/03-11/2026-03-11_daily-top_promptfoo.png)
+![promptfoo](2026-03-11_daily-top_promptfoo.png)
 
 ### 6. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -83,7 +83,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-11
 
-![get-shit-done](2026/03-11/2026-03-11_daily-top_get-shit-done.png)
+![get-shit-done](2026-03-11_daily-top_get-shit-done.png)
 
 ### 7. [sub2api](https://github.com/Wei-Shaw/sub2api)
 
@@ -94,7 +94,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-11
 
-![sub2api](2026/03-11/2026-03-11_daily-top_sub2api.png)
+![sub2api](2026-03-11_daily-top_sub2api.png)
 
 ### 8. [neko](https://github.com/m1k1o/neko)
 
@@ -105,7 +105,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-11
 
-![neko](2026/03-11/2026-03-11_daily-top_neko.png)
+![neko](2026-03-11_daily-top_neko.png)
 
 ### 9. [codex](https://github.com/openai/codex)
 
@@ -116,7 +116,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-11
 
-![codex](2026/03-11/2026-03-11_daily-top_codex.png)
+![codex](2026-03-11_daily-top_codex.png)
 
 ### 10. [IPED](https://github.com/sepinf-inc/IPED)
 
@@ -127,7 +127,7 @@
 - 💻 Java
 - 📅 Updated: 2026-03-11
 
-![IPED](2026/03-11/2026-03-11_daily-top_IPED.png)
+![IPED](2026-03-11_daily-top_IPED.png)
 
 ---
 
