@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-12
 
-![openclaw](2026/03-12/2026-03-12_daily-top_openclaw.png)
+![openclaw](2026-03-12_daily-top_openclaw.png)
 
 ### 2. [page-agent](https://github.com/alibaba/page-agent)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-12
 
-![page-agent](2026/03-12/2026-03-12_daily-top_page-agent.png)
+![page-agent](2026-03-12_daily-top_page-agent.png)
 
 ### 3. [promptfoo](https://github.com/promptfoo/promptfoo)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-12
 
-![promptfoo](2026/03-12/2026-03-12_daily-top_promptfoo.png)
+![promptfoo](2026-03-12_daily-top_promptfoo.png)
 
 ### 4. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -61,7 +61,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-12
 
-![get-shit-done](2026/03-12/2026-03-12_daily-top_get-shit-done.png)
+![get-shit-done](2026-03-12_daily-top_get-shit-done.png)
 
 ### 5. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -72,7 +72,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-12
 
-![impeccable](2026/03-12/2026-03-12_daily-top_impeccable.png)
+![impeccable](2026-03-12_daily-top_impeccable.png)
 
 ### 6. [dify](https://github.com/langgenius/dify)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-12
 
-![dify](2026/03-12/2026-03-12_daily-top_dify.png)
+![dify](2026-03-12_daily-top_dify.png)
 
 ### 7. [neko](https://github.com/m1k1o/neko)
 
@@ -94,7 +94,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-12
 
-![neko](2026/03-12/2026-03-12_daily-top_neko.png)
+![neko](2026-03-12_daily-top_neko.png)
 
 ### 8. [codex](https://github.com/openai/codex)
 
@@ -105,7 +105,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-12
 
-![codex](2026/03-12/2026-03-12_daily-top_codex.png)
+![codex](2026-03-12_daily-top_codex.png)
 
 ### 9. [IPED](https://github.com/sepinf-inc/IPED)
 
@@ -116,7 +116,7 @@
 - 💻 Java
 - 📅 Updated: 2026-03-12
 
-![IPED](2026/03-12/2026-03-12_daily-top_IPED.png)
+![IPED](2026-03-12_daily-top_IPED.png)
 
 ### 10. [sub2api](https://github.com/Wei-Shaw/sub2api)
 
@@ -127,7 +127,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-12
 
-![sub2api](2026/03-12/2026-03-12_daily-top_sub2api.png)
+![sub2api](2026-03-12_daily-top_sub2api.png)
 
 ---
 
