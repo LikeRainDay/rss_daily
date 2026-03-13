@@ -28,7 +28,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-13
 
-![page-agent](2026/03-13/2026-03-13_daily-top_page-agent.png)
+![page-agent](2026-03-13_daily-top_page-agent.png)
 
 ### 2. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-13
 
-![firecrawl](2026/03-13/2026-03-13_daily-top_firecrawl.png)
+![firecrawl](2026-03-13_daily-top_firecrawl.png)
 
 ### 3. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -50,7 +50,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-13
 
-![get-shit-done](2026/03-13/2026-03-13_daily-top_get-shit-done.png)
+![get-shit-done](2026-03-13_daily-top_get-shit-done.png)
 
 ### 4. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -61,7 +61,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-13
 
-![cc-switch](2026/03-13/2026-03-13_daily-top_cc-switch.png)
+![cc-switch](2026-03-13_daily-top_cc-switch.png)
 
 ### 5. [promptfoo](https://github.com/promptfoo/promptfoo)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-13
 
-![promptfoo](2026/03-13/2026-03-13_daily-top_promptfoo.png)
+![promptfoo](2026-03-13_daily-top_promptfoo.png)
 
 ### 6. [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-13
 
-![gemini-voyager](2026/03-13/2026-03-13_daily-top_gemini-voyager.png)
+![gemini-voyager](2026-03-13_daily-top_gemini-voyager.png)
 
 ### 7. [InsForge](https://github.com/InsForge/InsForge)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-13
 
-![InsForge](2026/03-13/2026-03-13_daily-top_InsForge.png)
+![InsForge](2026-03-13_daily-top_InsForge.png)
 
 ### 8. [gastown](https://github.com/steveyegge/gastown)
 
@@ -105,7 +105,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-13
 
-![gastown](2026/03-13/2026-03-13_daily-top_gastown.png)
+![gastown](2026-03-13_daily-top_gastown.png)
 
 ### 9. [codex](https://github.com/openai/codex)
 
@@ -116,7 +116,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-13
 
-![codex](2026/03-13/2026-03-13_daily-top_codex.png)
+![codex](2026-03-13_daily-top_codex.png)
 
 ### 10. [A2UI](https://github.com/google/A2UI)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-13
 
-![A2UI](2026/03-13/2026-03-13_daily-top_A2UI.png)
+![A2UI](2026-03-13_daily-top_A2UI.png)
 
 ---
 
