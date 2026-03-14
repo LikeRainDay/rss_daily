@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-14
 
-![promptfoo](2026/03-14/2026-03-14_daily-top_promptfoo.png)
+![promptfoo](2026-03-14_daily-top_promptfoo.png)
 
 ### 2. [page-agent](https://github.com/alibaba/page-agent)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-14
 
-![page-agent](2026/03-14/2026-03-14_daily-top_page-agent.png)
+![page-agent](2026-03-14_daily-top_page-agent.png)
 
 ### 3. [InsForge](https://github.com/InsForge/InsForge)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-14
 
-![InsForge](2026/03-14/2026-03-14_daily-top_InsForge.png)
+![InsForge](2026-03-14_daily-top_InsForge.png)
 
 ### 4. [A2UI](https://github.com/google/A2UI)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-14
 
-![A2UI](2026/03-14/2026-03-14_daily-top_A2UI.png)
+![A2UI](2026-03-14_daily-top_A2UI.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -72,7 +72,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-14
 
-![cc-switch](2026/03-14/2026-03-14_daily-top_cc-switch.png)
+![cc-switch](2026-03-14_daily-top_cc-switch.png)
 
 ### 6. [daytona](https://github.com/daytonaio/daytona)
 
@@ -84,7 +84,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-14
 
-![daytona](2026/03-14/2026-03-14_daily-top_daytona.png)
+![daytona](2026-03-14_daily-top_daytona.png)
 
 ### 7. [openui](https://github.com/thesysdev/openui)
 
@@ -95,7 +95,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-14
 
-![openui](2026/03-14/2026-03-14_daily-top_openui.png)
+![openui](2026-03-14_daily-top_openui.png)
 
 ### 8. [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager)
 
@@ -106,7 +106,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-14
 
-![gemini-voyager](2026/03-14/2026-03-14_daily-top_gemini-voyager.png)
+![gemini-voyager](2026-03-14_daily-top_gemini-voyager.png)
 
 ### 9. [sub2api](https://github.com/Wei-Shaw/sub2api)
 
@@ -117,7 +117,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-14
 
-![sub2api](2026/03-14/2026-03-14_daily-top_sub2api.png)
+![sub2api](2026-03-14_daily-top_sub2api.png)
 
 ### 10. [arnis](https://github.com/louis-e/arnis)
 
@@ -128,7 +128,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-14
 
-![arnis](2026/03-14/2026-03-14_daily-top_arnis.png)
+![arnis](2026-03-14_daily-top_arnis.png)
 
 ---
 

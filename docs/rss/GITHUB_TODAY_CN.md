@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-03-13
+# 📊 🌟 GitHub Trending Daily - 2026-03-14
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **272664** ⭐ | **23515** 🍴
+**10** 个项目 | **159439** ⭐ | **12136** 🍴
 
-**热门语言:** `TypeScript` (6) · `Rust` (2) · `JavaScript` (1)
+**热门语言:** `TypeScript` (7) · `Rust` (2) · `Go` (1)
 
-**更新时间:** 2026-03-13 02:40 UTC
+**更新时间:** 2026-03-14 02:38 UTC
 
 **分类分布:**
 
@@ -18,116 +18,117 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [page-agent](https://github.com/alibaba/page-agent)
+### 1. [promptfoo](https://github.com/promptfoo/promptfoo)
+
+> 🤖 **推荐理由**  
+> *Promptfoo is a powerful CLI tool and library designed for evaluating and securing AI applications. It enables users to test prompts and models across various LLM providers like GPT, Claude, and Llama, facilitating automated evaluations and red teaming for vulnerability scanning. With simple declarative configurations, it integrates seamlessly into CI/CD pipelines, allowing for code scanning and compliance checks. Designed for developers, it runs evaluations locally, ensuring privacy while providing actionable insights and performance comparisons. Open source and community-driven, Promptfoo fosters secure and reliable AI development.*
+
+- ⭐ 15332 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-14
+
+![promptfoo](2026/03-14/2026-03-14_daily-top_promptfoo.png)
+
+### 2. [page-agent](https://github.com/alibaba/page-agent)
 
 > 🤖 **推荐理由**  
 > *JavaScript in-page GUI agent. Control web interfaces with natural language.. popular project, actively maintained, recently updated*
 
-- ⭐ 6217 stars
-- 🍴 483 forks
+- ⭐ 7611 stars
+- 🍴 582 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-03-13
+- 📅 Updated: 2026-03-14
 
-![page-agent](2026/03-13/2026-03-13_daily-top_page-agent.png)
+![page-agent](2026/03-14/2026-03-14_daily-top_page-agent.png)
 
-### 2. [firecrawl](https://github.com/firecrawl/firecrawl)
+### 3. [InsForge](https://github.com/InsForge/InsForge)
 
 > 🤖 **推荐理由**  
-> *Firecrawl is a powerful API designed to convert entire websites into LLM-ready markdown or structured data, enhancing AI applications with real-time web context. Core features include LLM-ready output in various formats, industry-leading reliability, proxy handling, and dynamic content scraping. It supports batch processing, change tracking, and media parsing, enabling users to automate data extraction and web browsing securely. With robust SDKs in Python, Node.js, and Java, plus integrations with AI tools, Firecrawl streamlines web data extraction for diverse applications.*
+> *InsForge is a backend development platform designed for AI coding agents, providing essential tools for creating fullstack applications. Key features include a semantic layer for backend context engineering, enabling agents to fetch documentation, configure primitives, and inspect backend states. Core services encompass user authentication, a Postgres database, S3-compatible storage, a model gateway for LLM APIs, edge functions, and site deployment. With a community-driven approach, InsForge simplifies backend operations for developers using TypeScript.*
 
-- ⭐ 92127 stars
+- ⭐ 3660 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-13
+- 📅 Updated: 2026-03-14
 
-![firecrawl](2026/03-13/2026-03-13_daily-top_firecrawl.png)
+![InsForge](2026/03-14/2026-03-14_daily-top_InsForge.png)
 
-### 3. [get-shit-done](https://github.com/gsd-build/get-shit-done)
-
-> 🤖 **推荐理由**  
-> *get-shit-done is a lightweight, powerful meta-prompting and context engineering system designed for Claude Code, OpenCode, Gemini CLI, and Codex. With over 28,000 stars on GitHub, it effectively addresses context rot, ensuring high-quality outputs as it utilizes advanced context management, XML prompt formatting, and multi-agent orchestration. Key features include streamlined project initialization, phase-based planning, parallel execution, and automated verification. Trusted by engineers at major companies, GSD simplifies spec-driven development, allowing users to transform ideas into reliable code efficiently.*
-
-- ⭐ 28857 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-03-13
-
-![get-shit-done](2026/03-13/2026-03-13_daily-top_get-shit-done.png)
-
-### 4. [cc-switch](https://github.com/farion1231/cc-switch)
+### 4. [A2UI](https://github.com/google/A2UI)
 
 > 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop tool that simplifies management of multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 27,000 stars on GitHub, it provides a unified interface for quick provider switching without manual edits, featuring 50+ built-in presets, cloud sync options, and a system tray for instant access. Key functionalities include unified MCP & Skills management, a usage dashboard, and session tracking. Built with Rust and Tauri, CC Switch supports Windows, macOS, and Linux, making AI development more efficient.*
+> *A2UI is an open-source project designed to enable agents to generate rich, interactive user interfaces through a secure, declarative JSON format. With over 13,000 stars, it allows for framework-agnostic rendering across platforms, ensuring safety by using pre-approved UI components. Key features include incremental updates for responsive designs, dynamic data collection forms, and adaptive workflows. Currently in public preview (v0.8), A2UI invites collaboration to finalize specifications and expand renderer support, enhancing the future of agent-driven UI development.*
 
-- ⭐ 27354 stars
+- ⭐ 13071 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-14
+
+![A2UI](2026/03-14/2026-03-14_daily-top_A2UI.png)
+
+### 5. [cc-switch](https://github.com/farion1231/cc-switch)
+
+> 🤖 **推荐理由**  
+> *cc-switch is a cross-platform desktop assistant tool designed to manage five AI CLI tools: Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 27,000 stars on GitHub, it simplifies API provider management through a visual interface, eliminating manual configuration edits. Key features include 50+ provider presets, unified management of MCP and Skills, quick-switching from the system tray, and cloud sync capabilities. Built with Rust and Tauri, it supports Windows, macOS, and Linux, ensuring seamless integration and efficient workflow for developers.*
+
+- ⭐ 27834 stars
 - 💻 Rust
-- 📅 Updated: 2026-03-13
+- 📅 Updated: 2026-03-14
 
-![cc-switch](2026/03-13/2026-03-13_daily-top_cc-switch.png)
+![cc-switch](2026/03-14/2026-03-14_daily-top_cc-switch.png)
 
-### 5. [promptfoo](https://github.com/promptfoo/promptfoo)
+### 6. [daytona](https://github.com/daytonaio/daytona)
 
 > 🤖 **推荐理由**  
-> *Promptfoo is a powerful CLI and library designed for testing and securing AI applications. It enables automated evaluations of prompts, red teaming for vulnerability scanning, and side-by-side comparisons of various LLM models like GPT and Claude. With simple declarative configurations, it integrates seamlessly into CI/CD pipelines and allows for code scanning to identify LLM-related security issues. Key features include local execution for privacy, flexibility with any LLM API, and a focus on developer efficiency. Open-source and community-driven, Promptfoo empowers developers to create secure, reliable AI applications.*
+> *Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code. popular project, actively maintained, recently updated*
 
-- ⭐ 13849 stars
+- ⭐ 64541 stars
+- 🍴 5071 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-03-13
+- 📅 Updated: 2026-03-14
 
-![promptfoo](2026/03-13/2026-03-13_daily-top_promptfoo.png)
+![daytona](2026/03-14/2026-03-14_daily-top_daytona.png)
 
-### 6. [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager)
+### 7. [openui](https://github.com/thesysdev/openui)
 
 > 🤖 **推荐理由**  
-> *Gemini Voyager is a comprehensive enhancement suite for Google Gemini and AI Studio, featuring an elegant timeline for navigation, robust folder management, and a versatile prompt vault. Key highlights include chat export to various formats, cloud sync with Google Drive, and personalized visual effects for an enriched user experience. Designed for efficiency, it supports bulk actions and offers tools like Mermaid rendering and Markdown fixes. With over 11,500 stars on GitHub, it stands out as an essential tool for organizing AI conversations and improving productivity.*
+> *OpenUI is a full-stack Generative UI framework that utilizes OpenUI Lang, a compact, streaming-first language for structured UI generation. With built-in component libraries for charts, forms, and more, it offers up to 67% greater token efficiency than JSON. Core features include prompt generation from component libraries, a streaming renderer for progressive UI updates, and ready-to-use chat interfaces. The project simplifies app development with a robust CLI and provides a foundation for assistants and interactive products. Visit [openui.com](https://openui.com) for documentation and examples.*
 
-- ⭐ 11594 stars
+- ⭐ 1600 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-13
+- 📅 Updated: 2026-03-14
 
-![gemini-voyager](2026/03-13/2026-03-13_daily-top_gemini-voyager.png)
+![openui](2026/03-14/2026-03-14_daily-top_openui.png)
 
-### 7. [InsForge](https://github.com/InsForge/InsForge)
+### 8. [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager)
 
 > 🤖 **推荐理由**  
-> *InsForge is a powerful backend development platform designed for AI coding agents, enabling seamless fullstack app deployment. It provides a semantic layer that simplifies interactions with backend primitives such as authentication, databases, storage, and serverless edge functions. Key features include context fetching, configuration of backend services, and inspection of backend states. With support for PostgreSQL and an OpenAI-compatible model gateway, InsForge caters to modern development needs. Easy setup via Docker and cloud hosting options make it accessible for developers.*
+> *Gemini Voyager is a powerful enhancement suite for Google Gemini & AI Studio, featuring comprehensive tools for timeline navigation, folder management, a prompt library, and chat export. Key highlights include organized chat folders, cloud sync, and visual effects, alongside exclusive functions like timeline navigation for easy message access, export options in various formats, and tools for managing conversations efficiently. With over 11,800 stars, it provides a structured and personalized experience for users looking to optimize their AI interactions.*
 
-- ⭐ 3153 stars
+- ⭐ 11824 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-13
+- 📅 Updated: 2026-03-14
 
-![InsForge](2026/03-13/2026-03-13_daily-top_InsForge.png)
+![gemini-voyager](2026/03-14/2026-03-14_daily-top_gemini-voyager.png)
 
-### 8. [gastown](https://github.com/steveyegge/gastown)
+### 9. [sub2api](https://github.com/Wei-Shaw/sub2api)
 
 > 🤖 **推荐理由**  
-> *Gas Town is a multi-agent workspace manager designed for seamless coordination of Claude Code agents. With persistent work tracking using git-backed hooks, it eliminates context loss on agent restarts. Key features include the Mayor as an AI coordinator, project Rigs, and Polecats as worker agents that maintain persistent identity. It supports scaling to 20-30 agents, simplifying manual coordination with built-in mailboxes and tracking units called Convoys. The system integrates Beads for structured issue tracking, providing a robust solution for complex workflows.*
+> *Sub2API is an open-source AI API gateway designed for efficient management and distribution of subscription quotas from various AI services like Claude, OpenAI, and Gemini. It features multi-account management, API key generation, precise billing, smart scheduling, and concurrency control. The platform offers an admin dashboard for monitoring and management, supporting seamless integration with tools such as Docker and PostgreSQL. With over 5,000 stars on GitHub, Sub2API streamlines API access and cost-sharing, making it ideal for developers and teams looking to optimize their AI service usage.*
 
-- ⭐ 11911 stars
+- ⭐ 5185 stars
 - 💻 Go
-- 📅 Updated: 2026-03-13
+- 📅 Updated: 2026-03-14
 
-![gastown](2026/03-13/2026-03-13_daily-top_gastown.png)
+![sub2api](2026/03-14/2026-03-14_daily-top_sub2api.png)
 
-### 9. [codex](https://github.com/openai/codex)
+### 10. [arnis](https://github.com/louis-e/arnis)
 
 > 🤖 **推荐理由**  
-> *Codex is a lightweight coding agent by OpenAI that runs locally in your terminal, designed to enhance coding efficiency. With over 64,000 stars on GitHub, it supports installation via npm or Homebrew. Users can integrate Codex into popular IDEs like VS Code or use it as a desktop app. The CLI allows for easy access to coding assistance, with options for signing in via a ChatGPT account or using an API key. Comprehensive documentation and contribution guidelines are available to support user engagement and development.*
+> *Arnis is an open-source project that allows users to generate highly detailed Minecraft worlds based on real-world locations, utilizing geographic data from OpenStreetMap and elevation data for accurate terrain and architecture representation. Compatible with Minecraft Java Edition (1.17+) and Bedrock Edition, Arnis supports large-scale data processing and offers customization options for world generation. Users can easily select areas on a map and initiate generation through a user-friendly GUI. The project emphasizes modularity, performance, and cross-platform support, welcoming community contributions.*
 
-- ⭐ 64933 stars
+- ⭐ 8781 stars
 - 💻 Rust
-- 📅 Updated: 2026-03-13
+- 📅 Updated: 2026-03-14
 
-![codex](2026/03-13/2026-03-13_daily-top_codex.png)
-
-### 10. [A2UI](https://github.com/google/A2UI)
-
-> 🤖 **推荐理由**  
-> *A2UI is an open-source framework enabling agents to generate rich, interactive UIs using a declarative JSON format. Currently in public preview (v0.8), it prioritizes security by allowing agents to request only pre-approved UI components. A2UI is framework-agnostic, facilitating cross-platform UI rendering, and supports incremental updates for responsive interactions. Key use cases include dynamic data collection and adaptive workflows. The project invites collaboration to enhance its capabilities, with plans for more renderers and improved specifications.*
-
-- ⭐ 12669 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-13
-
-![A2UI](2026/03-13/2026-03-13_daily-top_A2UI.png)
+![arnis](2026/03-14/2026-03-14_daily-top_arnis.png)
 
 ---
 
@@ -141,4 +142,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-13 02:40:48 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-14 02:38:23 UTC
