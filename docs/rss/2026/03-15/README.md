@@ -28,7 +28,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-15
 
-![page-agent](2026/03-15/2026-03-15_daily-top_page-agent.png)
+![page-agent](2026-03-15_daily-top_page-agent.png)
 
 ### 2. [promptfoo](https://github.com/promptfoo/promptfoo)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-15
 
-![promptfoo](2026/03-15/2026-03-15_daily-top_promptfoo.png)
+![promptfoo](2026-03-15_daily-top_promptfoo.png)
 
 ### 3. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -50,7 +50,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-15
 
-![get-shit-done](2026/03-15/2026-03-15_daily-top_get-shit-done.png)
+![get-shit-done](2026-03-15_daily-top_get-shit-done.png)
 
 ### 4. [InsForge](https://github.com/InsForge/InsForge)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-15
 
-![InsForge](2026/03-15/2026-03-15_daily-top_InsForge.png)
+![InsForge](2026-03-15_daily-top_InsForge.png)
 
 ### 5. [pi-mono](https://github.com/badlogic/pi-mono)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-15
 
-![pi-mono](2026/03-15/2026-03-15_daily-top_pi-mono.png)
+![pi-mono](2026-03-15_daily-top_pi-mono.png)
 
 ### 6. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -83,7 +83,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-15
 
-![cc-switch](2026/03-15/2026-03-15_daily-top_cc-switch.png)
+![cc-switch](2026-03-15_daily-top_cc-switch.png)
 
 ### 7. [dolt](https://github.com/dolthub/dolt)
 
@@ -95,7 +95,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-15
 
-![dolt](2026/03-15/2026-03-15_daily-top_dolt.png)
+![dolt](2026-03-15_daily-top_dolt.png)
 
 ### 8. [A2UI](https://github.com/google/A2UI)
 
@@ -106,7 +106,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-15
 
-![A2UI](2026/03-15/2026-03-15_daily-top_A2UI.png)
+![A2UI](2026-03-15_daily-top_A2UI.png)
 
 ### 9. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -118,7 +118,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-15
 
-![project-nomad](2026/03-15/2026-03-15_daily-top_project-nomad.png)
+![project-nomad](2026-03-15_daily-top_project-nomad.png)
 
 ### 10. [ccg-workflow](https://github.com/fengshao1227/ccg-workflow)
 
@@ -129,7 +129,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-15
 
-![ccg-workflow](2026/03-15/2026-03-15_daily-top_ccg-workflow.png)
+![ccg-workflow](2026-03-15_daily-top_ccg-workflow.png)
 
 ---
 
