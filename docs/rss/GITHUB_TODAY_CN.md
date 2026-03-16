@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-03-15
+# 📊 🌟 GitHub Trending Daily - 2026-03-16
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **149399** ⭐ | **11233** 🍴
+**10** 个项目 | **152307** ⭐ | **15212** 🍴
 
-**热门语言:** `TypeScript` (6) · `Go` (2) · `JavaScript` (1)
+**热门语言:** `TypeScript` (6) · `JavaScript` (2) · `Rust` (2)
 
-**更新时间:** 2026-03-15 02:58 UTC
+**更新时间:** 2026-03-16 02:59 UTC
 
 **分类分布:**
 
@@ -18,118 +18,117 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [page-agent](https://github.com/alibaba/page-agent)
+### 1. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+
+> 🤖 **推荐理由**  
+> *Learn Claude Code is a TypeScript project that guides users in building a nano AI agent from scratch. It features a structured learning path through 12 progressive sessions, each introducing new mechanisms like tool handling, autonomous tasking, and team collaboration. The core agent loop allows for message processing and tool execution while maintaining a clean context. Additional services include a web platform for interactive learning and the Kode agent CLI/SDK for practical implementation. The project is designed for educational purposes, focusing on agent development fundamentals.*
+
+- ⭐ 28137 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-16
+
+![learn-claude-code](2026/03-16/2026-03-16_daily-top_learn-claude-code.png)
+
+### 2. [impeccable](https://github.com/pbakaus/impeccable)
+
+> 🤖 **推荐理由**  
+> *Impeccable is a powerful design language aimed at enhancing frontend design for AI systems. It features an expanded skill set with 7 domain-specific references and offers 17 commands for tasks like auditing, critiquing, and polishing designs. The project addresses common design pitfalls with curated anti-patterns, ensuring better UI practices. Users can quickly implement Impeccable by downloading bundles from impeccable.style, making it compatible with various AI tools like Cursor and Claude Code. With over 8,795 stars, it stands out as a valuable resource for developers seeking superior design guidance.*
+
+- ⭐ 8795 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-03-16
+
+![impeccable](2026/03-16/2026-03-16_daily-top_impeccable.png)
+
+### 3. [page-agent](https://github.com/alibaba/page-agent)
 
 > 🤖 **推荐理由**  
 > *JavaScript in-page GUI agent. Control web interfaces with natural language.. popular project, actively maintained, recently updated*
 
-- ⭐ 8398 stars
-- 🍴 658 forks
+- ⭐ 8951 stars
+- 🍴 708 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-03-15
+- 📅 Updated: 2026-03-16
 
-![page-agent](2026/03-15/2026-03-15_daily-top_page-agent.png)
-
-### 2. [promptfoo](https://github.com/promptfoo/promptfoo)
-
-> 🤖 **推荐理由**  
-> *Promptfoo is a powerful CLI and library designed for evaluating and red-teaming LLM applications. It enables users to test prompts, perform automated evaluations, and conduct vulnerability scans to ensure secure AI applications. With support for major LLM providers like OpenAI and Anthropic, users can compare model performance side-by-side. Promptfoo integrates seamlessly with CI/CD workflows and allows for local evaluations, safeguarding privacy. Its developer-friendly features and open-source nature make it a valuable tool for optimizing AI reliability and security.*
-
-- ⭐ 15955 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-15
-
-![promptfoo](2026/03-15/2026-03-15_daily-top_promptfoo.png)
-
-### 3. [get-shit-done](https://github.com/gsd-build/get-shit-done)
-
-> 🤖 **推荐理由**  
-> *Get Shit Done (GSD) is a lightweight meta-prompting and context engineering system designed for efficient development with Claude Code, OpenCode, Gemini CLI, and Codex. With over 30,000 stars on GitHub, GSD addresses "context rot" by enabling users to define projects through structured commands. Key features include project initialization, phased planning, execution in parallel waves, and automated verification. It supports multiple runtimes, ensuring high-quality code generation while maintaining clarity and organization. GSD is trusted by engineers at major companies like Amazon and Google.*
-
-- ⭐ 30108 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-03-15
-
-![get-shit-done](2026/03-15/2026-03-15_daily-top_get-shit-done.png)
+![page-agent](2026/03-16/2026-03-16_daily-top_page-agent.png)
 
 ### 4. [InsForge](https://github.com/InsForge/InsForge)
 
 > 🤖 **推荐理由**  
-> *InsForge is a backend development platform designed for AI coding agents, enabling seamless fullstack app deployment. It offers core services like user authentication, a Postgres database, S3-compatible storage, and serverless edge functions. The platform's semantic layer allows agents to fetch, configure, and inspect backend primitives effortlessly. With over 4,200 stars, InsForge supports both cloud-hosted and self-hosted setups via Docker. Comprehensive documentation and community support are available for users seeking assistance.*
+> *InsForge is a robust backend development platform designed for AI coding agents, facilitating the creation of fullstack applications. Key features include a semantic layer for backend primitives (databases, authentication, storage, and functions), enabling agents to understand and manipulate backend systems seamlessly. The platform supports essential services like PostgreSQL databases, S3-compatible storage, and serverless edge functions. With over 4,600 stars on GitHub, InsForge offers both cloud-hosted and self-hosted options, making it accessible for diverse development needs.*
 
-- ⭐ 4228 stars
+- ⭐ 4627 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-15
+- 📅 Updated: 2026-03-16
 
-![InsForge](2026/03-15/2026-03-15_daily-top_InsForge.png)
+![InsForge](2026/03-16/2026-03-16_daily-top_InsForge.png)
 
-### 5. [pi-mono](https://github.com/badlogic/pi-mono)
+### 5. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
 > 🤖 **推荐理由**  
-> *pi-mono is an AI agent toolkit that simplifies the development and management of AI agents and LLM deployments. Key features include a unified API for multiple LLM providers, an interactive coding agent CLI, a Slack bot for message delegation, and libraries for TUI and web UI components. Additionally, it offers tools for managing vLLM deployments on GPU pods. With over 23,800 stars, pi-mono is designed for developers looking to integrate advanced AI capabilities into their applications efficiently. Contributions and community support are encouraged.*
+> *get-shit-done (GSD) is a lightweight, powerful system for meta-prompting, context engineering, and spec-driven development tailored for Claude Code, OpenCode, Codex, and more. It effectively combats context rot, ensuring consistent quality in AI-generated code. Key features include a streamlined workflow for project initialization, phase discussion, planning, execution, and verification, all while maintaining fresh contexts. Trusted by engineers at major tech firms, GSD enhances productivity by automating complex tasks with minimal overhead, making it ideal for individual developers and small teams.*
 
-- ⭐ 23806 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-15
+- ⭐ 30614 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-03-16
 
-![pi-mono](2026/03-15/2026-03-15_daily-top_pi-mono.png)
+![get-shit-done](2026/03-16/2026-03-16_daily-top_get-shit-done.png)
 
-### 6. [cc-switch](https://github.com/farion1231/cc-switch)
+### 6. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
 > 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop assistant tool designed to manage AI CLI tools like Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 28,000 stars on GitHub, it offers a unified interface, eliminating the need for manual configuration edits. Key features include 50+ built-in provider presets, unified MCP and Skills management, instant switching from a system tray, and cloud sync capabilities. Built with Rust and Tauri, it ensures a reliable user experience across Windows, macOS, and Linux, making AI-powered coding more efficient and accessible.*
+> *GitNexus is a client-side knowledge graph engine for code analysis, running entirely in-browser. Users can drop in GitHub repos or ZIP files to generate interactive knowledge graphs, enhancing code exploration and AI agent integration. Key features include a CLI for deep indexing, enabling powerful tools for impact analysis, process tracing, and multi-repo support. The Web UI offers an intuitive graph explorer and AI chat without server dependencies. GitNexus ensures privacy and efficiency by processing everything locally, making it ideal for developers seeking robust code intelligence.*
 
-- ⭐ 28166 stars
+- ⭐ 14465 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-16
+
+![GitNexus](2026/03-16/2026-03-16_daily-top_GitNexus.png)
+
+### 7. [pi-mono](https://github.com/badlogic/pi-mono)
+
+> 🤖 **推荐理由**  
+> *pi-mono is an AI agent toolkit built in TypeScript, featuring a unified multi-provider LLM API, an interactive coding agent CLI, and various UI libraries for terminal and web applications. Key components include the Slack bot for message delegation, a runtime for agent state management, and tools for managing vLLM deployments on GPU pods. With over 24,200 stars, it provides versatile solutions for building and deploying AI agents, making it a valuable resource for developers looking to leverage AI capabilities in their projects.*
+
+- ⭐ 24237 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-16
+
+![pi-mono](2026/03-16/2026-03-16_daily-top_pi-mono.png)
+
+### 8. [agent-browser](https://github.com/vercel-labs/agent-browser)
+
+> 🤖 **推荐理由**  
+> *Browser automation CLI for AI agents. popular project, actively maintained, recently updated*
+
+- ⭐ 22440 stars
+- 🍴 1319 forks
 - 💻 Rust
-- 📅 Updated: 2026-03-15
+- 📅 Updated: 2026-03-16
 
-![cc-switch](2026/03-15/2026-03-15_daily-top_cc-switch.png)
+![agent-browser](2026/03-16/2026-03-16_daily-top_agent-browser.png)
 
-### 7. [dolt](https://github.com/dolthub/dolt)
-
-> 🤖 **推荐理由**  
-> *Dolt – Git for Data. popular project, actively maintained, recently updated*
-
-- ⭐ 21309 stars
-- 🍴 691 forks
-- 💻 Go
-- 📅 Updated: 2026-03-15
-
-![dolt](2026/03-15/2026-03-15_daily-top_dolt.png)
-
-### 8. [A2UI](https://github.com/google/A2UI)
+### 9. [vite-plus](https://github.com/voidzero-dev/vite-plus)
 
 > 🤖 **推荐理由**  
-> *A2UI is an open-source framework designed for agents to generate rich, interactive user interfaces using a secure, declarative JSON format. With 13,188 stars, it ensures safety by allowing clients to render only pre-approved components, fostering cross-platform compatibility. A2UI supports dynamic data collection, adaptive workflows, and remote sub-agent interactions, making it versatile for various applications. Currently in early public preview (v0.8), it aims to stabilize specifications and expand renderer support for frameworks like React and SwiftUI. Contributions are welcome to enhance the ecosystem.*
+> *Vite+ is a unified toolchain for web development, seamlessly integrating runtime management, package handling, and a robust frontend stack. Key features include dependency management with automatic package detection, a fast ESM dev server, and comprehensive commands for building, testing, and linting—all from a single configuration file. With commands like `vp create`, `vp migrate`, and cache-aware task execution, Vite+ simplifies the development lifecycle. Fully open-source under the MIT license, it enhances productivity across Vite's ecosystem, making it an essential tool for modern web developers.*
 
-- ⭐ 13188 stars
+- ⭐ 1789 stars
+- 💻 Rust
+- 📅 Updated: 2026-03-16
+
+![vite-plus](2026/03-16/2026-03-16_daily-top_vite-plus.png)
+
+### 10. [openscreen](https://github.com/siddharthvaddem/openscreen)
+
+> 🤖 **推荐理由**  
+> *OpenScreen is a free, open-source tool for creating product demos and walkthroughs, serving as a simplified alternative to Screen Studio. With over 8,250 stars on GitHub, it allows users to record their screens, add customizable zooms, capture microphone and system audio, and incorporate annotations. Users can trim clips, adjust speeds, and choose various backgrounds. OpenScreen is fully free for personal and commercial use, with no subscriptions or watermarks. Built with TypeScript, Electron, and React, it welcomes community contributions while still in beta.*
+
+- ⭐ 8252 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-15
+- 📅 Updated: 2026-03-16
 
-![A2UI](2026/03-15/2026-03-15_daily-top_A2UI.png)
-
-### 9. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-
-> 🤖 **推荐理由**  
-> *Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—a. recently updated*
-
-- ⭐ 618 stars
-- 🍴 77 forks
-- 💻 TypeScript
-- 📅 Updated: 2026-03-15
-
-![project-nomad](2026/03-15/2026-03-15_daily-top_project-nomad.png)
-
-### 10. [ccg-workflow](https://github.com/fengshao1227/ccg-workflow)
-
-> 🤖 **推荐理由**  
-> *ccg-workflow is a multi-model collaboration development system integrating Claude, Codex, and Gemini, streamlining the development process with 27 commands for planning, execution, and code review. Key features include zero-config model routing, security through patch reviews, and spec-driven development using OPSX to clarify requirements. The system supports both frontend and backend tasks, allowing seamless collaboration across models. With installation via a single command, it offers an efficient setup for developers looking to enhance their workflows.*
-
-- ⭐ 3623 stars
-- 💻 Go
-- 📅 Updated: 2026-03-15
-
-![ccg-workflow](2026/03-15/2026-03-15_daily-top_ccg-workflow.png)
+![openscreen](2026/03-16/2026-03-16_daily-top_openscreen.png)
 
 ---
 
@@ -143,4 +142,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-15 02:58:42 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-16 02:59:12 UTC

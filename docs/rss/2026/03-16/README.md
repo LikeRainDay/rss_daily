@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-16
 
-![learn-claude-code](2026/03-16/2026-03-16_daily-top_learn-claude-code.png)
+![learn-claude-code](2026-03-16_daily-top_learn-claude-code.png)
 
 ### 2. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-16
 
-![impeccable](2026/03-16/2026-03-16_daily-top_impeccable.png)
+![impeccable](2026-03-16_daily-top_impeccable.png)
 
 ### 3. [page-agent](https://github.com/alibaba/page-agent)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-16
 
-![page-agent](2026/03-16/2026-03-16_daily-top_page-agent.png)
+![page-agent](2026-03-16_daily-top_page-agent.png)
 
 ### 4. [InsForge](https://github.com/InsForge/InsForge)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-16
 
-![InsForge](2026/03-16/2026-03-16_daily-top_InsForge.png)
+![InsForge](2026-03-16_daily-top_InsForge.png)
 
 ### 5. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -72,7 +72,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-16
 
-![get-shit-done](2026/03-16/2026-03-16_daily-top_get-shit-done.png)
+![get-shit-done](2026-03-16_daily-top_get-shit-done.png)
 
 ### 6. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-16
 
-![GitNexus](2026/03-16/2026-03-16_daily-top_GitNexus.png)
+![GitNexus](2026-03-16_daily-top_GitNexus.png)
 
 ### 7. [pi-mono](https://github.com/badlogic/pi-mono)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-16
 
-![pi-mono](2026/03-16/2026-03-16_daily-top_pi-mono.png)
+![pi-mono](2026-03-16_daily-top_pi-mono.png)
 
 ### 8. [agent-browser](https://github.com/vercel-labs/agent-browser)
 
@@ -106,7 +106,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-16
 
-![agent-browser](2026/03-16/2026-03-16_daily-top_agent-browser.png)
+![agent-browser](2026-03-16_daily-top_agent-browser.png)
 
 ### 9. [vite-plus](https://github.com/voidzero-dev/vite-plus)
 
@@ -117,7 +117,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-16
 
-![vite-plus](2026/03-16/2026-03-16_daily-top_vite-plus.png)
+![vite-plus](2026-03-16_daily-top_vite-plus.png)
 
 ### 10. [openscreen](https://github.com/siddharthvaddem/openscreen)
 
@@ -128,7 +128,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-16
 
-![openscreen](2026/03-16/2026-03-16_daily-top_openscreen.png)
+![openscreen](2026-03-16_daily-top_openscreen.png)
 
 ---
 
