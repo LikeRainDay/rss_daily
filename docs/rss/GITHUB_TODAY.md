@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-03-16
+# 📊 🌟 GitHub Trending Daily - 2026-03-17
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **152307** ⭐ | **15212** 🍴
+**10** Projects | **159258** ⭐ | **15405** 🍴
 
-**Top Languages:** `TypeScript` (6) · `Rust` (2) · `JavaScript` (2)
+**Top Languages:** `TypeScript` (6) · `Rust` (2) · `Go` (2)
 
-**Updated:** 2026-03-16 02:59 UTC
+**Updated:** 2026-03-17 02:42 UTC
 
 **Categories:**
 
@@ -18,117 +18,117 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+### 1. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
 > 🤖 **Why Recommend**  
-> *Learn Claude Code is a TypeScript project that guides users in building a nano AI agent from scratch. It features a structured learning path through 12 progressive sessions, each introducing new mechanisms like tool handling, autonomous tasking, and team collaboration. The core agent loop allows for message processing and tool execution while maintaining a clean context. Additional services include a web platform for interactive learning and the Kode agent CLI/SDK for practical implementation. The project is designed for educational purposes, focusing on agent development fundamentals.*
+> *GitNexus is a zero-server code intelligence engine that creates client-side knowledge graphs directly in your browser. Users can index GitHub repositories or ZIP files to visualize relationships, dependencies, and execution flows with an interactive graph. Key features include a powerful CLI for deep analysis and a browser-based UI for quick exploration. GitNexus enhances AI agent performance by precomputing code structure, providing reliable context and insights. It supports various languages, ensuring comprehensive project understanding while maintaining privacy and security.*
 
-- ⭐ 28137 stars
+- ⭐ 15696 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-16
+- 📅 Updated: 2026-03-17
 
-![learn-claude-code](2026/03-16/2026-03-16_daily-top_learn-claude-code.png)
+![GitNexus](2026/03-17/2026-03-17_daily-top_GitNexus.png)
 
-### 2. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **Why Recommend**  
-> *Impeccable is a powerful design language aimed at enhancing frontend design for AI systems. It features an expanded skill set with 7 domain-specific references and offers 17 commands for tasks like auditing, critiquing, and polishing designs. The project addresses common design pitfalls with curated anti-patterns, ensuring better UI practices. Users can quickly implement Impeccable by downloading bundles from impeccable.style, making it compatible with various AI tools like Cursor and Claude Code. With over 8,795 stars, it stands out as a valuable resource for developers seeking superior design guidance.*
-
-- ⭐ 8795 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-03-16
-
-![impeccable](2026/03-16/2026-03-16_daily-top_impeccable.png)
-
-### 3. [page-agent](https://github.com/alibaba/page-agent)
+### 2. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 
 > 🤖 **Why Recommend**  
-> *JavaScript in-page GUI agent. Control web interfaces with natural language.. popular project, actively maintained, recently updated*
+> *Learn Claude Code is a TypeScript project designed to build a nano Claude Code-like agent from the ground up. It features a minimal agent loop that integrates tool usage and planning across 12 progressive sessions, each introducing a unique mechanism for enhanced functionality. Key highlights include task decomposition, background operations, team collaboration through JSONL mailboxes, and worktree isolation. An interactive web platform provides visualizations and documentation in multiple languages. The project serves as a foundational learning resource for developing AI coding agents, with capabilities for CLI and SDK integration.*
 
-- ⭐ 8951 stars
-- 🍴 708 forks
+- ⭐ 29424 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-16
+- 📅 Updated: 2026-03-17
 
-![page-agent](2026/03-16/2026-03-16_daily-top_page-agent.png)
+![learn-claude-code](2026/03-17/2026-03-17_daily-top_learn-claude-code.png)
 
-### 4. [InsForge](https://github.com/InsForge/InsForge)
+### 3. [claude-mem](https://github.com/thedotmack/claude-mem)
 
 > 🤖 **Why Recommend**  
-> *InsForge is a robust backend development platform designed for AI coding agents, facilitating the creation of fullstack applications. Key features include a semantic layer for backend primitives (databases, authentication, storage, and functions), enabling agents to understand and manipulate backend systems seamlessly. The platform supports essential services like PostgreSQL databases, S3-compatible storage, and serverless edge functions. With over 4,600 stars on GitHub, InsForge offers both cloud-hosted and self-hosted options, making it accessible for diverse development needs.*
+> *Claude-Mem is a TypeScript plugin for Claude Code that enhances coding sessions by automatically capturing and compressing context for future use. Key features include persistent memory that survives across sessions, skill-based search for project history, and a web viewer for real-time memory streaming. It supports fine-grained context configuration and automatic operation, ensuring seamless integration. Additional functionalities like privacy control, citation referencing, and experimental beta features enhance user experience, making coding more efficient and context-aware.*
 
-- ⭐ 4627 stars
+- ⭐ 36944 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-16
+- 📅 Updated: 2026-03-17
 
-![InsForge](2026/03-16/2026-03-16_daily-top_InsForge.png)
+![claude-mem](2026/03-17/2026-03-17_daily-top_claude-mem.png)
 
-### 5. [get-shit-done](https://github.com/gsd-build/get-shit-done)
-
-> 🤖 **Why Recommend**  
-> *get-shit-done (GSD) is a lightweight, powerful system for meta-prompting, context engineering, and spec-driven development tailored for Claude Code, OpenCode, Codex, and more. It effectively combats context rot, ensuring consistent quality in AI-generated code. Key features include a streamlined workflow for project initialization, phase discussion, planning, execution, and verification, all while maintaining fresh contexts. Trusted by engineers at major tech firms, GSD enhances productivity by automating complex tasks with minimal overhead, making it ideal for individual developers and small teams.*
-
-- ⭐ 30614 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-03-16
-
-![get-shit-done](2026/03-16/2026-03-16_daily-top_get-shit-done.png)
-
-### 6. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+### 4. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
 > 🤖 **Why Recommend**  
-> *GitNexus is a client-side knowledge graph engine for code analysis, running entirely in-browser. Users can drop in GitHub repos or ZIP files to generate interactive knowledge graphs, enhancing code exploration and AI agent integration. Key features include a CLI for deep indexing, enabling powerful tools for impact analysis, process tracing, and multi-repo support. The Web UI offers an intuitive graph explorer and AI chat without server dependencies. GitNexus ensures privacy and efficiency by processing everything locally, making it ideal for developers seeking robust code intelligence.*
+> *Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—a. popular project, actively maintained, recently updated*
 
-- ⭐ 14465 stars
+- ⭐ 1880 stars
+- 🍴 171 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-03-16
+- 📅 Updated: 2026-03-17
 
-![GitNexus](2026/03-16/2026-03-16_daily-top_GitNexus.png)
+![project-nomad](2026/03-17/2026-03-17_daily-top_project-nomad.png)
 
-### 7. [pi-mono](https://github.com/badlogic/pi-mono)
+### 5. [vite-plus](https://github.com/voidzero-dev/vite-plus)
 
 > 🤖 **Why Recommend**  
-> *pi-mono is an AI agent toolkit built in TypeScript, featuring a unified multi-provider LLM API, an interactive coding agent CLI, and various UI libraries for terminal and web applications. Key components include the Slack bot for message delegation, a runtime for agent state management, and tools for managing vLLM deployments on GPU pods. With over 24,200 stars, it provides versatile solutions for building and deploying AI agents, making it a valuable resource for developers looking to leverage AI capabilities in their projects.*
+> *Vite+ is a unified toolchain for web development, combining runtime and package management with a zero-config setup. It integrates essential tools like Vite, Vitest, and Oxlint, allowing developers to create, develop, check, test, build, and manage monorepo tasks seamlessly. Key features include `vp env` for Node.js management, `vp dev` for fast development servers, and `vp build` for production-ready applications. Fully open-source under the MIT license, Vite+ simplifies the development lifecycle, making it easy to scaffold new projects or migrate existing ones efficiently.*
 
-- ⭐ 24237 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-16
+- ⭐ 2288 stars
+- 💻 Rust
+- 📅 Updated: 2026-03-17
 
-![pi-mono](2026/03-16/2026-03-16_daily-top_pi-mono.png)
+![vite-plus](2026/03-17/2026-03-17_daily-top_vite-plus.png)
 
-### 8. [agent-browser](https://github.com/vercel-labs/agent-browser)
+### 6. [agent-browser](https://github.com/vercel-labs/agent-browser)
 
 > 🤖 **Why Recommend**  
 > *Browser automation CLI for AI agents. popular project, actively maintained, recently updated*
 
-- ⭐ 22440 stars
-- 🍴 1319 forks
+- ⭐ 22785 stars
+- 🍴 1339 forks
 - 💻 Rust
-- 📅 Updated: 2026-03-16
+- 📅 Updated: 2026-03-17
 
-![agent-browser](2026/03-16/2026-03-16_daily-top_agent-browser.png)
+![agent-browser](2026/03-17/2026-03-17_daily-top_agent-browser.png)
 
-### 9. [vite-plus](https://github.com/voidzero-dev/vite-plus)
+### 7. [InsForge](https://github.com/InsForge/InsForge)
 
 > 🤖 **Why Recommend**  
-> *Vite+ is a unified toolchain for web development, seamlessly integrating runtime management, package handling, and a robust frontend stack. Key features include dependency management with automatic package detection, a fast ESM dev server, and comprehensive commands for building, testing, and linting—all from a single configuration file. With commands like `vp create`, `vp migrate`, and cache-aware task execution, Vite+ simplifies the development lifecycle. Fully open-source under the MIT license, it enhances productivity across Vite's ecosystem, making it an essential tool for modern web developers.*
+> *InsForge is a TypeScript-based backend platform designed for AI coding agents, streamlining the development of full-stack applications. It features a semantic layer that connects agents to backend primitives including authentication, PostgreSQL databases, S3-compatible storage, and serverless edge functions. Key highlights include easy configuration and inspection of backend states, along with seamless integration capabilities. Users can set up InsForge via Docker or deploy it on cloud platforms like Railway and Zeabur, making it versatile for various development environments.*
 
-- ⭐ 1789 stars
-- 💻 Rust
-- 📅 Updated: 2026-03-16
-
-![vite-plus](2026/03-16/2026-03-16_daily-top_vite-plus.png)
-
-### 10. [openscreen](https://github.com/siddharthvaddem/openscreen)
-
-> 🤖 **Why Recommend**  
-> *OpenScreen is a free, open-source tool for creating product demos and walkthroughs, serving as a simplified alternative to Screen Studio. With over 8,250 stars on GitHub, it allows users to record their screens, add customizable zooms, capture microphone and system audio, and incorporate annotations. Users can trim clips, adjust speeds, and choose various backgrounds. OpenScreen is fully free for personal and commercial use, with no subscriptions or watermarks. Built with TypeScript, Electron, and React, it welcomes community contributions while still in beta.*
-
-- ⭐ 8252 stars
+- ⭐ 4797 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-16
+- 📅 Updated: 2026-03-17
 
-![openscreen](2026/03-16/2026-03-16_daily-top_openscreen.png)
+![InsForge](2026/03-17/2026-03-17_daily-top_InsForge.png)
+
+### 8. [sub2api](https://github.com/Wei-Shaw/sub2api)
+
+> 🤖 **Why Recommend**  
+> *Sub2API is an open-source AI API gateway platform that streamlines the management of API quotas from services like Claude, OpenAI, and Gemini. Key features include multi-account management, API key distribution, precise billing, and smart scheduling. The platform supports concurrency control and rate limiting, all managed through an intuitive admin dashboard. Users can also leverage the PinCC relay service for hassle-free access to AI models. Built with Go and Vue, Sub2API offers deployment options via Docker and a one-click installation script, making it accessible for developers and teams alike.*
+
+- ⭐ 6040 stars
+- 💻 Go
+- 📅 Updated: 2026-03-17
+
+![sub2api](2026/03-17/2026-03-17_daily-top_sub2api.png)
+
+### 9. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
+> 🤖 **Why Recommend**  
+> *Chrome DevTools MCP is a TypeScript-based tool enabling AI coding agents like Gemini and Copilot to control and inspect a live Chrome browser. With over 29,500 stars on GitHub, it offers features such as performance insights through tracing, advanced debugging capabilities, and reliable automation using Puppeteer. Users can analyze network requests, take screenshots, and access the browser console. The server connects to Chrome, allowing seamless interaction for automation and debugging, while maintaining user privacy and data security.*
+
+- ⭐ 29522 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-17
+
+![chrome-devtools-mcp](2026/03-17/2026-03-17_daily-top_chrome-devtools-mcp.png)
+
+### 10. [pentagi](https://github.com/vxcontrol/pentagi)
+
+> 🤖 **Why Recommend**  
+> *PentAGI is a fully autonomous AI agent system designed for complex penetration testing tasks. It features a suite of 20+ professional security tools, operates in a secure Docker environment, and employs advanced AI for intelligent task planning and execution. Key highlights include a smart memory system for storing results, a knowledge graph for contextual understanding, and comprehensive APIs for automation. The system supports multiple LLM providers and offers detailed reporting, logging, and monitoring capabilities, making it an invaluable tool for security professionals and researchers.*
+
+- ⭐ 9882 stars
+- 💻 Go
+- 📅 Updated: 2026-03-17
+
+![pentagi](2026/03-17/2026-03-17_daily-top_pentagi.png)
 
 ---
 
@@ -142,4 +142,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-16 02:59:12 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-17 02:42:55 UTC

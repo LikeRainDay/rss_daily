@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-17
 
-![GitNexus](2026/03-17/2026-03-17_daily-top_GitNexus.png)
+![GitNexus](2026-03-17_daily-top_GitNexus.png)
 
 ### 2. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-17
 
-![learn-claude-code](2026/03-17/2026-03-17_daily-top_learn-claude-code.png)
+![learn-claude-code](2026-03-17_daily-top_learn-claude-code.png)
 
 ### 3. [claude-mem](https://github.com/thedotmack/claude-mem)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-17
 
-![claude-mem](2026/03-17/2026-03-17_daily-top_claude-mem.png)
+![claude-mem](2026-03-17_daily-top_claude-mem.png)
 
 ### 4. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-17
 
-![project-nomad](2026/03-17/2026-03-17_daily-top_project-nomad.png)
+![project-nomad](2026-03-17_daily-top_project-nomad.png)
 
 ### 5. [vite-plus](https://github.com/voidzero-dev/vite-plus)
 
@@ -72,7 +72,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-17
 
-![vite-plus](2026/03-17/2026-03-17_daily-top_vite-plus.png)
+![vite-plus](2026-03-17_daily-top_vite-plus.png)
 
 ### 6. [agent-browser](https://github.com/vercel-labs/agent-browser)
 
@@ -84,7 +84,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-17
 
-![agent-browser](2026/03-17/2026-03-17_daily-top_agent-browser.png)
+![agent-browser](2026-03-17_daily-top_agent-browser.png)
 
 ### 7. [InsForge](https://github.com/InsForge/InsForge)
 
@@ -95,7 +95,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-17
 
-![InsForge](2026/03-17/2026-03-17_daily-top_InsForge.png)
+![InsForge](2026-03-17_daily-top_InsForge.png)
 
 ### 8. [sub2api](https://github.com/Wei-Shaw/sub2api)
 
@@ -106,7 +106,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-17
 
-![sub2api](2026/03-17/2026-03-17_daily-top_sub2api.png)
+![sub2api](2026-03-17_daily-top_sub2api.png)
 
 ### 9. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
@@ -117,7 +117,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-17
 
-![chrome-devtools-mcp](2026/03-17/2026-03-17_daily-top_chrome-devtools-mcp.png)
+![chrome-devtools-mcp](2026-03-17_daily-top_chrome-devtools-mcp.png)
 
 ### 10. [pentagi](https://github.com/vxcontrol/pentagi)
 
@@ -128,7 +128,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-17
 
-![pentagi](2026/03-17/2026-03-17_daily-top_pentagi.png)
+![pentagi](2026-03-17_daily-top_pentagi.png)
 
 ---
 
