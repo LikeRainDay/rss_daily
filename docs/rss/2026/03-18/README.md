@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-18
 
-![everything-claude-code](2026/03-18/2026-03-18_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-03-18_daily-top_everything-claude-code.png)
 
 ### 2. [claude-mem](https://github.com/thedotmack/claude-mem)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-18
 
-![claude-mem](2026/03-18/2026-03-18_daily-top_claude-mem.png)
+![claude-mem](2026-03-18_daily-top_claude-mem.png)
 
 ### 3. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-18
 
-![learn-claude-code](2026/03-18/2026-03-18_daily-top_learn-claude-code.png)
+![learn-claude-code](2026-03-18_daily-top_learn-claude-code.png)
 
 ### 4. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-18
 
-![GitNexus](2026/03-18/2026-03-18_daily-top_GitNexus.png)
+![GitNexus](2026-03-18_daily-top_GitNexus.png)
 
 ### 5. [shadPS4](https://github.com/shadps4-emu/shadPS4)
 
@@ -71,7 +71,7 @@
 - 💻 C++
 - 📅 Updated: 2026-03-18
 
-![shadPS4](2026/03-18/2026-03-18_daily-top_shadPS4.png)
+![shadPS4](2026-03-18_daily-top_shadPS4.png)
 
 ### 6. [gofr](https://github.com/gofr-dev/gofr)
 
@@ -82,7 +82,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-18
 
-![gofr](2026/03-18/2026-03-18_daily-top_gofr.png)
+![gofr](2026-03-18_daily-top_gofr.png)
 
 ### 7. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-18
 
-![project-nomad](2026/03-18/2026-03-18_daily-top_project-nomad.png)
+![project-nomad](2026-03-18_daily-top_project-nomad.png)
 
 ### 8. [claude-hud](https://github.com/jarrodwatts/claude-hud)
 
@@ -105,7 +105,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-18
 
-![claude-hud](2026/03-18/2026-03-18_daily-top_claude-hud.png)
+![claude-hud](2026-03-18_daily-top_claude-hud.png)
 
 ### 9. [claudian](https://github.com/YishenTu/claudian)
 
@@ -117,7 +117,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-18
 
-![claudian](2026/03-18/2026-03-18_daily-top_claudian.png)
+![claudian](2026-03-18_daily-top_claudian.png)
 
 ### 10. [vite-plus](https://github.com/voidzero-dev/vite-plus)
 
@@ -128,7 +128,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-18
 
-![vite-plus](2026/03-18/2026-03-18_daily-top_vite-plus.png)
+![vite-plus](2026-03-18_daily-top_vite-plus.png)
 
 ---
 
