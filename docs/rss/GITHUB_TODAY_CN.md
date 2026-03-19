@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-03-18
+# 📊 🌟 GitHub Trending Daily - 2026-03-19
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **230568** ⭐ | **25175** 🍴
+**10** 个项目 | **229614** ⭐ | **27116** 🍴
 
-**热门语言:** `TypeScript` (5) · `JavaScript` (2) · `Rust` (1)
+**热门语言:** `JavaScript` (5) · `TypeScript` (2) · `Go` (1)
 
-**更新时间:** 2026-03-18 02:49 UTC
+**更新时间:** 2026-03-19 02:50 UTC
 
 **分类分布:**
 
@@ -18,117 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+### 1. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
 > 🤖 **推荐理由**  
-> *"Everything Claude Code" is a powerful performance optimization system for AI agents, designed for Claude Code, Codex, Cursor, and more. With over 83,000 stars, it offers a comprehensive suite of 25 agents, 108 skills, and 57 commands, enabling seamless continuous learning, memory optimization, and security scanning. Key features include cross-platform support, advanced hooks for automation, and customizable rules. Winner of the Anthropic Hackathon, it emphasizes research-first development, making it a vital tool for enhancing productivity in AI-driven coding environments.*
+> *Get Shit Done (GSD) is a lightweight JavaScript-based meta-prompting and context engineering system designed for Claude Code and other platforms. With 34,898 stars, it addresses context rot by maintaining high-quality outputs through structured workflows. Key features include project initialization, phased planning, execution in parallel waves, and automated verification. GSD facilitates a smooth development process by allowing users to focus on their vision without the complexities of traditional development tools. It is trusted by engineers at top companies like Amazon and Google.*
 
-- ⭐ 83358 stars
+- ⭐ 34898 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-03-18
+- 📅 Updated: 2026-03-19
 
-![everything-claude-code](2026/03-18/2026-03-18_daily-top_everything-claude-code.png)
+![get-shit-done](2026/03-19/2026-03-19_daily-top_get-shit-done.png)
 
-### 2. [claude-mem](https://github.com/thedotmack/claude-mem)
+### 2. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
 > 🤖 **推荐理由**  
-> *Claude-Mem is a TypeScript plugin for Claude Code that enhances coding sessions by automatically capturing user interactions and contextual information. Key features include persistent memory that retains context across sessions, skill-based search capabilities, a web viewer for real-time memory access, and privacy controls to exclude sensitive data. The plugin allows for seamless integration with platforms like OpenClaw and supports intelligent memory retrieval through a structured workflow. With 37,711 stars on GitHub, it is designed to improve project continuity and efficiency.*
+> *Everything Claude Code is a powerful performance optimization system for AI agents, designed to enhance productivity with skills, instincts, memory optimization, and security scanning. This project supports multiple platforms, including Claude Code, Codex, Cursor, and OpenCode, offering 25 agents, 108 skills, and 57 commands. Key features include continuous learning, token optimization, and a comprehensive security audit tool (AgentShield). Winner of the Anthropic hackathon, it provides guides for setup and advanced usage, making it an essential resource for developers.*
 
-- ⭐ 37711 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-18
+- ⭐ 85847 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-03-19
 
-![claude-mem](2026/03-18/2026-03-18_daily-top_claude-mem.png)
+![everything-claude-code](2026/03-19/2026-03-19_daily-top_everything-claude-code.png)
 
 ### 3. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 
 > 🤖 **推荐理由**  
-> *Learn Claude Code is a TypeScript-based repository focused on harness engineering for AI agents. It emphasizes that the agent is a trained model, while the harness provides the necessary environment for its operation. Key features include a modular architecture for building agent tools, on-demand knowledge loading, context management, and task systems. The project consists of 12 progressive sessions that teach developers to create effective harnesses for various domains, from coding to agriculture, enabling intelligent automation. With 30,763 stars, it serves as a masterclass in building robust AI agent environments.*
+> *Learn Claude Code is a TypeScript-based project focused on harness engineering for AI agents, emphasizing that an agent is fundamentally a trained model, not merely a code framework. With over 32,000 stars, it offers a masterclass in building effective agent harnesses through 12 progressive sessions. Key features include tool integration, context management, task systems, and team coordination. The repository provides a comprehensive learning path, interactive visualizations, and a web platform for hands-on experience, aiming to empower developers to create intelligent solutions across various domains.*
 
-- ⭐ 30763 stars
+- ⭐ 32366 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-18
+- 📅 Updated: 2026-03-19
 
-![learn-claude-code](2026/03-18/2026-03-18_daily-top_learn-claude-code.png)
+![learn-claude-code](2026/03-19/2026-03-19_daily-top_learn-claude-code.png)
 
 ### 4. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
 > 🤖 **推荐理由**  
-> *GitNexus is a client-side code intelligence engine that creates interactive knowledge graphs from GitHub repositories or ZIP files, running entirely in the browser. Key features include a powerful CLI for local indexing, a web UI for quick code exploration, and integration with AI agents via the Model Context Protocol (MCP). It supports multiple languages, enabling impact analysis, process tracking, and multi-repo management. GitNexus enhances AI tools with precomputed code relationships, ensuring reliable context and efficient querying for developers.*
+> *GitNexus is a zero-server code intelligence engine that creates a client-side knowledge graph for GitHub repositories or ZIP files, running entirely in the browser. Key features include a Web UI for interactive code exploration and a CLI for deep integration with AI agents like Cursor and Claude Code. The tool indexes dependencies, call chains, and execution flows, enhancing code understanding and reliability. It supports multiple languages, offers impact analysis, and facilitates multi-repo management, all while ensuring local privacy and security.*
 
-- ⭐ 16811 stars
+- ⭐ 17534 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-18
+- 📅 Updated: 2026-03-19
 
-![GitNexus](2026/03-18/2026-03-18_daily-top_GitNexus.png)
+![GitNexus](2026/03-19/2026-03-19_daily-top_GitNexus.png)
 
-### 5. [shadPS4](https://github.com/shadps4-emu/shadPS4)
-
-> 🤖 **推荐理由**  
-> *shadPS4 is an early-stage PlayStation 4 emulator for Windows, Linux, and macOS, developed in C++. It boasts compatibility with popular titles like Bloodborne and Yakuza 0, though it currently lacks a graphical user interface (GUI). Users can download the QtLauncher for a more user-friendly experience. Key features include keyboard and mouse mappings, support for PlayStation 4 firmware files, and a robust community on Discord for support and collaboration. The project is open-source under the GPL-2.0 license, encouraging contributions and continuous development.*
-
-- ⭐ 29487 stars
-- 💻 C++
-- 📅 Updated: 2026-03-18
-
-![shadPS4](2026/03-18/2026-03-18_daily-top_shadPS4.png)
-
-### 6. [gofr](https://github.com/gofr-dev/gofr)
+### 5. [claude-hud](https://github.com/jarrodwatts/claude-hud)
 
 > 🤖 **推荐理由**  
-> *GoFr is an opinionated GoLang framework designed to accelerate microservice development, featuring built-in support for databases and observability. Key highlights include a simple API syntax, REST standards, inbuilt authentication middleware, gRPC support, and observability tools for logs, traces, and metrics. GoFr also offers circuit breaker support, health checks, database migration, cron jobs, and Swagger documentation. With a focus on Kubernetes deployment, GoFr simplifies the creation of robust microservices, making it ideal for developers seeking efficiency and scalability.*
+> *Claude HUD is a JavaScript plugin for Claude Code that enhances user insights during coding sessions by displaying context usage, active tools, running agents, and todo progress in a persistent HUD. Key features include real-time context health monitoring, tool activity tracking, and customizable display options. Users can configure the HUD using presets and manual settings, ensuring a tailored experience. With support for displaying git status and usage limits, Claude HUD streamlines workflow and improves project visibility. Install easily within Claude Code for immediate access.*
 
-- ⭐ 17433 stars
-- 💻 Go
-- 📅 Updated: 2026-03-18
-
-![gofr](2026/03-18/2026-03-18_daily-top_gofr.png)
-
-### 7. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-
-> 🤖 **推荐理由**  
-> *Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—a. popular project, actively maintained, recently updated*
-
-- ⭐ 2200 stars
-- 🍴 199 forks
-- 💻 TypeScript
-- 📅 Updated: 2026-03-18
-
-![project-nomad](2026/03-18/2026-03-18_daily-top_project-nomad.png)
-
-### 8. [claude-hud](https://github.com/jarrodwatts/claude-hud)
-
-> 🤖 **推荐理由**  
-> *Claude HUD is a powerful plugin for Claude Code, designed to enhance user experience by providing real-time insights into context usage, active tools, running agents, and todo progress. It displays essential information directly below your input, including project paths and context health. Key features include customizable layouts, agent tracking, and usage metrics for Pro/Max subscribers. The plugin updates every 300ms, ensuring users are always informed about their coding environment. Easy installation and configuration make it accessible for all users.*
-
-- ⭐ 5743 stars
+- ⭐ 7277 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-03-18
+- 📅 Updated: 2026-03-19
 
-![claude-hud](2026/03-18/2026-03-18_daily-top_claude-hud.png)
+![claude-hud](2026/03-19/2026-03-19_daily-top_claude-hud.png)
 
-### 9. [claudian](https://github.com/YishenTu/claudian)
-
-> 🤖 **推荐理由**  
-> *An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault. popular project, actively maintained, recently updated*
-
-- ⭐ 4471 stars
-- 🍴 257 forks
-- 💻 TypeScript
-- 📅 Updated: 2026-03-18
-
-![claudian](2026/03-18/2026-03-18_daily-top_claudian.png)
-
-### 10. [vite-plus](https://github.com/voidzero-dev/vite-plus)
+### 6. [context-hub](https://github.com/andrewyng/context-hub)
 
 > 🤖 **推荐理由**  
-> *Vite+ is a comprehensive toolchain for web development, unifying runtime and package management, and streamlining tasks like creation, development, testing, and building. Built in Rust, it integrates Vite, Vitest, Oxlint, Oxfmt, and more into a zero-config setup. Key features include `vp env` for Node.js management, `vp install` for dependency installation, `vp dev` for a fast ESM dev server, and `vp build` for production-ready applications. Vite+ simplifies project workflows, supports monorepos, and is open-source under the MIT license.*
+> *Context Hub is a powerful tool designed to enhance coding agents by providing curated, versioned API documentation and learning capabilities. With over 10,000 stars, it allows agents to search, fetch, and annotate documentation with ease, improving their performance over time. Key features include incremental fetching of documents, local annotations that persist across sessions, and a feedback system for continuous improvement. Content is maintained in markdown format, making contributions from the community straightforward. This ensures agents become smarter and more efficient with each task.*
 
-- ⭐ 2591 stars
-- 💻 Rust
-- 📅 Updated: 2026-03-18
+- ⭐ 10249 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-03-19
 
-![vite-plus](2026/03-18/2026-03-18_daily-top_vite-plus.png)
+![context-hub](2026/03-19/2026-03-19_daily-top_context-hub.png)
+
+### 7. [Maestro](https://github.com/mobile-dev-inc/Maestro)
+
+> 🤖 **推荐理由**  
+> *Maestro is an open-source framework for painless end-to-end testing of Android, iOS, and web applications, enabling users to write tests in YAML and execute them seamlessly on various platforms. Key features include human-readable YAML flows, resilience with smart waiting, and rapid installation. The project also offers Maestro Studio, a visual test IDE for easy test design, and Maestro Cloud for scalable parallel execution. With over 11,996 stars, Maestro simplifies cross-platform testing while fostering community collaboration through resources and support channels.*
+
+- ⭐ 11996 stars
+- 💻 Kotlin
+- 📅 Updated: 2026-03-19
+
+![Maestro](2026/03-19/2026-03-19_daily-top_Maestro.png)
+
+### 8. [sub2api](https://github.com/Wei-Shaw/sub2api)
+
+> 🤖 **推荐理由**  
+> *Sub2API is an open-source AI API gateway designed for efficient subscription quota distribution across services like Claude, OpenAI, and Gemini. Key features include multi-account management, API key generation, precise billing, smart scheduling, and configurable rate limits. The platform offers an admin dashboard for monitoring and integrates with external systems for enhanced functionality. Users can opt for the official relay service, PinCC, for hassle-free access. Built with Go, Vue, and PostgreSQL, Sub2API supports Docker deployment for easy setup.*
+
+- ⭐ 6847 stars
+- 💻 Go
+- 📅 Updated: 2026-03-19
+
+![sub2api](2026/03-19/2026-03-19_daily-top_sub2api.png)
+
+### 9. [marketingskills](https://github.com/coreyhaines31/marketingskills)
+
+> 🤖 **推荐理由**  
+> *The "marketingskills" GitHub project provides a set of AI agent skills tailored for marketing tasks, ideal for technical marketers and founders. Key features include capabilities in conversion optimization, copywriting, SEO, analytics, and growth engineering, with compatibility across various AI platforms like Claude Code and OpenAI Codex. The repository offers a rich library of skills, enabling agents to execute specialized marketing functions. Additional services include hands-on support through Conversion Factory, marketing insights via Swipe Files, and autonomous management through Magister. Contributions are encouraged to enhance skill offerings.*
+
+- ⭐ 14638 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-03-19
+
+![marketingskills](2026/03-19/2026-03-19_daily-top_marketingskills.png)
+
+### 10. [workerd](https://github.com/cloudflare/workerd)
+
+> 🤖 **推荐理由**  
+> *`workerd` is Cloudflare's JavaScript/Wasm runtime, facilitating the self-hosting of applications designed for Cloudflare Workers. Key features include a server-first architecture, standard-based APIs, and nanoservices that enhance performance and composability. It supports local development and testing, functions as a programmable HTTP proxy, and ensures backward compatibility with JavaScript code. Designed for POSIX systems, it requires specific dependencies for building and running. `workerd` is not a hardened sandbox, necessitating secure environments for potentially malicious code.*
+
+- ⭐ 7962 stars
+- 💻 C++
+- 📅 Updated: 2026-03-19
+
+![workerd](2026/03-19/2026-03-19_daily-top_workerd.png)
 
 ---
 
@@ -142,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-18 02:49:00 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-19 02:50:22 UTC

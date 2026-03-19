@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-19
 
-![get-shit-done](2026/03-19/2026-03-19_daily-top_get-shit-done.png)
+![get-shit-done](2026-03-19_daily-top_get-shit-done.png)
 
 ### 2. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-19
 
-![everything-claude-code](2026/03-19/2026-03-19_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-03-19_daily-top_everything-claude-code.png)
 
 ### 3. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-19
 
-![learn-claude-code](2026/03-19/2026-03-19_daily-top_learn-claude-code.png)
+![learn-claude-code](2026-03-19_daily-top_learn-claude-code.png)
 
 ### 4. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-19
 
-![GitNexus](2026/03-19/2026-03-19_daily-top_GitNexus.png)
+![GitNexus](2026-03-19_daily-top_GitNexus.png)
 
 ### 5. [claude-hud](https://github.com/jarrodwatts/claude-hud)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-19
 
-![claude-hud](2026/03-19/2026-03-19_daily-top_claude-hud.png)
+![claude-hud](2026-03-19_daily-top_claude-hud.png)
 
 ### 6. [context-hub](https://github.com/andrewyng/context-hub)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-19
 
-![context-hub](2026/03-19/2026-03-19_daily-top_context-hub.png)
+![context-hub](2026-03-19_daily-top_context-hub.png)
 
 ### 7. [Maestro](https://github.com/mobile-dev-inc/Maestro)
 
@@ -93,7 +93,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-03-19
 
-![Maestro](2026/03-19/2026-03-19_daily-top_Maestro.png)
+![Maestro](2026-03-19_daily-top_Maestro.png)
 
 ### 8. [sub2api](https://github.com/Wei-Shaw/sub2api)
 
@@ -104,7 +104,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-19
 
-![sub2api](2026/03-19/2026-03-19_daily-top_sub2api.png)
+![sub2api](2026-03-19_daily-top_sub2api.png)
 
 ### 9. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-19
 
-![marketingskills](2026/03-19/2026-03-19_daily-top_marketingskills.png)
+![marketingskills](2026-03-19_daily-top_marketingskills.png)
 
 ### 10. [workerd](https://github.com/cloudflare/workerd)
 
@@ -126,7 +126,7 @@
 - 💻 C++
 - 📅 Updated: 2026-03-19
 
-![workerd](2026/03-19/2026-03-19_daily-top_workerd.png)
+![workerd](2026-03-19_daily-top_workerd.png)
 
 ---
 
