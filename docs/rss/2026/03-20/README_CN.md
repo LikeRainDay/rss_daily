@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-20
 
-![everything-claude-code](2026/03-20/2026-03-20_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-03-20_daily-top_everything-claude-code.png)
 
 ### 2. [claude-hud](https://github.com/jarrodwatts/claude-hud)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-20
 
-![claude-hud](2026/03-20/2026-03-20_daily-top_claude-hud.png)
+![claude-hud](2026-03-20_daily-top_claude-hud.png)
 
 ### 3. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-20
 
-![get-shit-done](2026/03-20/2026-03-20_daily-top_get-shit-done.png)
+![get-shit-done](2026-03-20_daily-top_get-shit-done.png)
 
 ### 4. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-20
 
-![learn-claude-code](2026/03-20/2026-03-20_daily-top_learn-claude-code.png)
+![learn-claude-code](2026-03-20_daily-top_learn-claude-code.png)
 
 ### 5. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 
@@ -71,7 +71,7 @@
 - 💻 Java
 - 📅 Updated: 2026-03-20
 
-![opendataloader-pdf](2026/03-20/2026-03-20_daily-top_opendataloader-pdf.png)
+![opendataloader-pdf](2026-03-20_daily-top_opendataloader-pdf.png)
 
 ### 6. [arnis](https://github.com/louis-e/arnis)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-20
 
-![arnis](2026/03-20/2026-03-20_daily-top_arnis.png)
+![arnis](2026-03-20_daily-top_arnis.png)
 
 ### 7. [genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-20
 
-![genlayer-project-boilerplate](2026/03-20/2026-03-20_daily-top_genlayer-project-boilerplate.png)
+![genlayer-project-boilerplate](2026-03-20_daily-top_genlayer-project-boilerplate.png)
 
 ### 8. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-20
 
-![cc-switch](2026/03-20/2026-03-20_daily-top_cc-switch.png)
+![cc-switch](2026-03-20_daily-top_cc-switch.png)
 
 ### 9. [gofr](https://github.com/gofr-dev/gofr)
 
@@ -115,7 +115,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-20
 
-![gofr](2026/03-20/2026-03-20_daily-top_gofr.png)
+![gofr](2026-03-20_daily-top_gofr.png)
 
 ### 10. [Maestro](https://github.com/mobile-dev-inc/Maestro)
 
@@ -126,7 +126,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-03-20
 
-![Maestro](2026/03-20/2026-03-20_daily-top_Maestro.png)
+![Maestro](2026-03-20_daily-top_Maestro.png)
 
 ---
 
