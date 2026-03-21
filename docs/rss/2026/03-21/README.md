@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-21
 
-![everything-claude-code](2026/03-21/2026-03-21_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-03-21_daily-top_everything-claude-code.png)
 
 ### 2. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 
@@ -38,7 +38,7 @@
 - 💻 Java
 - 📅 Updated: 2026-03-21
 
-![opendataloader-pdf](2026/03-21/2026-03-21_daily-top_opendataloader-pdf.png)
+![opendataloader-pdf](2026-03-21_daily-top_opendataloader-pdf.png)
 
 ### 3. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-21
 
-![get-shit-done](2026/03-21/2026-03-21_daily-top_get-shit-done.png)
+![get-shit-done](2026-03-21_daily-top_get-shit-done.png)
 
 ### 4. [claude-hud](https://github.com/jarrodwatts/claude-hud)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-21
 
-![claude-hud](2026/03-21/2026-03-21_daily-top_claude-hud.png)
+![claude-hud](2026-03-21_daily-top_claude-hud.png)
 
 ### 5. [arnis](https://github.com/louis-e/arnis)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-21
 
-![arnis](2026/03-21/2026-03-21_daily-top_arnis.png)
+![arnis](2026-03-21_daily-top_arnis.png)
 
 ### 6. [opencode](https://github.com/anomalyco/opencode)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-21
 
-![opencode](2026/03-21/2026-03-21_daily-top_opencode.png)
+![opencode](2026-03-21_daily-top_opencode.png)
 
 ### 7. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-21
 
-![cc-switch](2026/03-21/2026-03-21_daily-top_cc-switch.png)
+![cc-switch](2026-03-21_daily-top_cc-switch.png)
 
 ### 8. [Maestro](https://github.com/mobile-dev-inc/Maestro)
 
@@ -104,7 +104,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-03-21
 
-![Maestro](2026/03-21/2026-03-21_daily-top_Maestro.png)
+![Maestro](2026-03-21_daily-top_Maestro.png)
 
 ### 9. [cockpit](https://github.com/cockpit-project/cockpit)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-21
 
-![cockpit](2026/03-21/2026-03-21_daily-top_cockpit.png)
+![cockpit](2026-03-21_daily-top_cockpit.png)
 
 ### 10. [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-21
 
-![oh-my-openagent](2026/03-21/2026-03-21_daily-top_oh-my-openagent.png)
+![oh-my-openagent](2026-03-21_daily-top_oh-my-openagent.png)
 
 ---
 
