@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-23
 
-![everything-claude-code](2026/03-23/2026-03-23_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-03-23_daily-top_everything-claude-code.png)
 
 ### 2. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-23
 
-![project-nomad](2026/03-23/2026-03-23_daily-top_project-nomad.png)
+![project-nomad](2026-03-23_daily-top_project-nomad.png)
 
 ### 3. [pentagi](https://github.com/vxcontrol/pentagi)
 
@@ -50,7 +50,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-23
 
-![pentagi](2026/03-23/2026-03-23_daily-top_pentagi.png)
+![pentagi](2026-03-23_daily-top_pentagi.png)
 
 ### 4. [claude-hud](https://github.com/jarrodwatts/claude-hud)
 
@@ -61,7 +61,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-23
 
-![claude-hud](2026/03-23/2026-03-23_daily-top_claude-hud.png)
+![claude-hud](2026-03-23_daily-top_claude-hud.png)
 
 ### 5. [opencode](https://github.com/anomalyco/opencode)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-23
 
-![opencode](2026/03-23/2026-03-23_daily-top_opencode.png)
+![opencode](2026-03-23_daily-top_opencode.png)
 
 ### 6. [arnis](https://github.com/louis-e/arnis)
 
@@ -83,7 +83,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-23
 
-![arnis](2026/03-23/2026-03-23_daily-top_arnis.png)
+![arnis](2026-03-23_daily-top_arnis.png)
 
 ### 7. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 
@@ -94,7 +94,7 @@
 - 💻 Java
 - 📅 Updated: 2026-03-23
 
-![opendataloader-pdf](2026/03-23/2026-03-23_daily-top_opendataloader-pdf.png)
+![opendataloader-pdf](2026-03-23_daily-top_opendataloader-pdf.png)
 
 ### 8. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -105,7 +105,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-23
 
-![impeccable](2026/03-23/2026-03-23_daily-top_impeccable.png)
+![impeccable](2026-03-23_daily-top_impeccable.png)
 
 ### 9. [systemd](https://github.com/systemd/systemd)
 
@@ -116,7 +116,7 @@
 - 💻 C
 - 📅 Updated: 2026-03-23
 
-![systemd](2026/03-23/2026-03-23_daily-top_systemd.png)
+![systemd](2026-03-23_daily-top_systemd.png)
 
 ### 10. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-23
 
-![clash-verge-rev](2026/03-23/2026-03-23_daily-top_clash-verge-rev.png)
+![clash-verge-rev](2026-03-23_daily-top_clash-verge-rev.png)
 
 ---
 
