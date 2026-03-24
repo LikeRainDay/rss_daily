@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-24
 
-![everything-claude-code](2026/03-24/2026-03-24_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-03-24_daily-top_everything-claude-code.png)
 
 ### 2. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-24
 
-![project-nomad](2026/03-24/2026-03-24_daily-top_project-nomad.png)
+![project-nomad](2026-03-24_daily-top_project-nomad.png)
 
 ### 3. [editor](https://github.com/pascalorg/editor)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-24
 
-![editor](2026/03-24/2026-03-24_daily-top_editor.png)
+![editor](2026-03-24_daily-top_editor.png)
 
 ### 4. [pentagi](https://github.com/vxcontrol/pentagi)
 
@@ -61,7 +61,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-24
 
-![pentagi](2026/03-24/2026-03-24_daily-top_pentagi.png)
+![pentagi](2026-03-24_daily-top_pentagi.png)
 
 ### 5. [RuView](https://github.com/ruvnet/RuView)
 
@@ -72,7 +72,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-24
 
-![RuView](2026/03-24/2026-03-24_daily-top_RuView.png)
+![RuView](2026-03-24_daily-top_RuView.png)
 
 ### 6. [supermemory](https://github.com/supermemoryai/supermemory)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-24
 
-![supermemory](2026/03-24/2026-03-24_daily-top_supermemory.png)
+![supermemory](2026-03-24_daily-top_supermemory.png)
 
 ### 7. [arnis](https://github.com/louis-e/arnis)
 
@@ -94,7 +94,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-24
 
-![arnis](2026/03-24/2026-03-24_daily-top_arnis.png)
+![arnis](2026-03-24_daily-top_arnis.png)
 
 ### 8. [gofr](https://github.com/gofr-dev/gofr)
 
@@ -105,7 +105,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-24
 
-![gofr](2026/03-24/2026-03-24_daily-top_gofr.png)
+![gofr](2026-03-24_daily-top_gofr.png)
 
 ### 9. [trivy](https://github.com/aquasecurity/trivy)
 
@@ -116,7 +116,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-24
 
-![trivy](2026/03-24/2026-03-24_daily-top_trivy.png)
+![trivy](2026-03-24_daily-top_trivy.png)
 
 ### 10. [systemd](https://github.com/systemd/systemd)
 
@@ -127,7 +127,7 @@
 - 💻 C
 - 📅 Updated: 2026-03-24
 
-![systemd](2026/03-24/2026-03-24_daily-top_systemd.png)
+![systemd](2026-03-24_daily-top_systemd.png)
 
 ---
 

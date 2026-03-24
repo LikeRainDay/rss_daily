@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-03-23
+# 📊 🌟 GitHub Trending Daily - 2026-03-24
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **414655** ⭐ | **43479** 🍴
+**10** 个项目 | **273969** ⭐ | **31454** 🍴
 
-**热门语言:** `JavaScript` (3) · `TypeScript` (3) · `Java` (1)
+**热门语言:** `Go` (3) · `TypeScript` (3) · `Rust` (2)
 
-**更新时间:** 2026-03-23 02:51 UTC
+**更新时间:** 2026-03-24 02:42 UTC
 
 **分类分布:**
 
@@ -21,113 +21,113 @@
 ### 1. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
 > 🤖 **推荐理由**  
-> *Everything Claude Code is a powerful AI performance optimization system that enhances agent capabilities across Claude Code, Codex, Cursor, and more. With over 98,000 stars, it features a comprehensive suite of 28 agents and 116 skills for tasks such as coding standards enforcement, security scanning, and continuous learning. This plugin supports multi-language projects, offers selective installs, and integrates seamlessly with popular development environments. Key highlights include advanced memory optimization, session management, and a robust security framework, making it ideal for production-ready AI solutions.*
+> *Everything Claude Code is a comprehensive performance optimization system for AI agents, supporting Claude Code, Codex, Cursor, and more. It offers a robust set of features including skills, instincts, memory optimization, and continuous learning. Key highlights include 28 specialized agents, 119 skills, and 60 commands for efficient workflows. The project is community-driven, with extensive documentation, cross-platform support, and advanced security auditing via AgentShield. Recognized as an Anthropic Hackathon winner, it boasts over 102,000 stars on GitHub.*
 
-- ⭐ 98448 stars
+- ⭐ 102223 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-03-23
+- 📅 Updated: 2026-03-24
 
-![everything-claude-code](2026/03-23/2026-03-23_daily-top_everything-claude-code.png)
+![everything-claude-code](2026/03-24/2026-03-24_daily-top_everything-claude-code.png)
 
 ### 2. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
 > 🤖 **推荐理由**  
 > *Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—a. popular project, actively maintained, recently updated*
 
-- ⭐ 10421 stars
-- 🍴 979 forks
+- ⭐ 13518 stars
+- 🍴 1278 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-03-23
+- 📅 Updated: 2026-03-24
 
-![project-nomad](2026/03-23/2026-03-23_daily-top_project-nomad.png)
+![project-nomad](2026/03-24/2026-03-24_daily-top_project-nomad.png)
 
-### 3. [pentagi](https://github.com/vxcontrol/pentagi)
+### 3. [editor](https://github.com/pascalorg/editor)
 
 > 🤖 **推荐理由**  
-> *PentAGI is a powerful, fully autonomous AI agent system designed for complex penetration testing tasks, built with Go. Key features include a suite of over 20 professional pentesting tools, smart memory for storing research results, and a knowledge graph for advanced context understanding. It operates in a secure Docker environment and integrates with multiple LLM providers for flexible AI capabilities. With comprehensive REST and GraphQL APIs, detailed reporting, and a modern web interface, PentAGI streamlines the penetration testing process, making it ideal for security professionals and researchers.*
+> *Pascal Editor is a sophisticated 3D building editor built with React Three Fiber and WebGPU. It features a modular architecture with a Turborepo monorepo, including core packages for state management, schema definitions, and 3D rendering. Key functionalities include interactive tools for selecting and manipulating nodes in a hierarchical scene, alongside advanced geometry generation systems. The editor utilizes Zustand for state management, supports undo/redo operations, and offers a spatial grid manager for precise placement validation, making it ideal for detailed 3D scene creation and editing.*
 
-- ⭐ 12138 stars
+- ⭐ 3654 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-24
+
+![editor](2026/03-24/2026-03-24_daily-top_editor.png)
+
+### 4. [pentagi](https://github.com/vxcontrol/pentagi)
+
+> 🤖 **推荐理由**  
+> *Pentagi is a fully autonomous AI agents system designed for complex penetration testing tasks, leveraging cutting-edge AI technology. Key features include a suite of 20+ professional pentesting tools, secure operations in Docker containers, a smart memory system for result storage, and knowledge graph integration for enhanced context understanding. The platform supports various LLM providers, offers REST and GraphQL APIs, and provides detailed reporting and monitoring capabilities. With over 13,000 stars on GitHub, it serves as a powerful tool for security professionals and researchers.*
+
+- ⭐ 13065 stars
 - 💻 Go
-- 📅 Updated: 2026-03-23
+- 📅 Updated: 2026-03-24
 
-![pentagi](2026/03-23/2026-03-23_daily-top_pentagi.png)
+![pentagi](2026/03-24/2026-03-24_daily-top_pentagi.png)
 
-### 4. [claude-hud](https://github.com/jarrodwatts/claude-hud)
-
-> 🤖 **推荐理由**  
-> *Claude HUD is a JavaScript plugin for Claude Code that enhances user experience by providing real-time insights into context usage, active tools, running agents, and todo progress directly below your input. Key features include a customizable status line, project path display, context health monitoring, and agent tracking. With support for various layouts and advanced configuration options, users can tailor the HUD to their needs. It updates every 300ms and supports up to 1M-context sessions, making it an essential tool for efficient coding workflows.*
-
-- ⭐ 11318 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-03-23
-
-![claude-hud](2026/03-23/2026-03-23_daily-top_claude-hud.png)
-
-### 5. [opencode](https://github.com/anomalyco/opencode)
+### 5. [RuView](https://github.com/ruvnet/RuView)
 
 > 🤖 **推荐理由**  
-> *OpenCode is an open-source AI coding agent designed to assist developers with various tasks. Featuring a dual-agent system, users can switch between a full-access development agent and a read-only exploration agent. The platform supports multiple programming models, ensuring flexibility and provider-agnostic usage. It offers a terminal user interface (TUI) optimized for neovim users and supports installation across various operating systems. With a strong community presence on Discord and comprehensive documentation, OpenCode aims to enhance coding productivity and collaboration.*
+> *RuView is an advanced edge AI system that leverages WiFi signals for real-time human pose estimation, vital sign monitoring, and presence detection, without the need for cameras or wearables. Built on Rust, it processes Channel State Information (CSI) to accurately reconstruct body positions and detect breathing and heart rates, achieving over 54,000 frames per second. Key features include multi-person tracking, through-wall sensing, and self-learning capabilities, enabling deployments in various environments from healthcare to disaster response. The system is designed for low-cost, low-power hardware like ESP32 nodes.*
 
-- ⭐ 128139 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-23
-
-![opencode](2026/03-23/2026-03-23_daily-top_opencode.png)
-
-### 6. [arnis](https://github.com/louis-e/arnis)
-
-> 🤖 **推荐理由**  
-> *Arnis is an open-source tool that generates detailed Minecraft worlds from real-world locations using Rust. It supports both Minecraft Java (1.17+) and Bedrock editions, allowing users to create complex terrains and architectures based on geospatial data from OpenStreetMap and elevation datasets. With a user-friendly interface, Arnis enables customization of world settings and scales. Additionally, users can access MapSmith for browser-based generation. The project emphasizes modularity, performance, and comprehensive documentation, making it a valuable resource for gamers and developers alike.*
-
-- ⭐ 12782 stars
+- ⭐ 40338 stars
 - 💻 Rust
-- 📅 Updated: 2026-03-23
+- 📅 Updated: 2026-03-24
 
-![arnis](2026/03-23/2026-03-23_daily-top_arnis.png)
+![RuView](2026/03-24/2026-03-24_daily-top_RuView.png)
 
-### 7. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
-
-> 🤖 **推荐理由**  
-> *OpenDataLoader PDF is an open-source PDF parser designed for AI-ready data extraction and automated PDF accessibility. It excels in converting PDFs to structured formats like Markdown, JSON, and Tagged PDF, achieving benchmark accuracy of 0.90 overall and 0.93 for table extraction. Key features include a deterministic extraction mode, a hybrid mode for complex layouts, built-in OCR for scanned documents, and auto-tagging to comply with accessibility standards. The tool supports Java, Python, and Node.js, making it versatile for various applications.*
-
-- ⭐ 8335 stars
-- 💻 Java
-- 📅 Updated: 2026-03-23
-
-![opendataloader-pdf](2026/03-23/2026-03-23_daily-top_opendataloader-pdf.png)
-
-### 8. [impeccable](https://github.com/pbakaus/impeccable)
+### 6. [supermemory](https://github.com/supermemoryai/supermemory)
 
 > 🤖 **推荐理由**  
-> *Impeccable is a JavaScript project designed to enhance AI's frontend design capabilities. It builds on Anthropic's frontend-design skill, providing deeper expertise and control. Key features include 20 commands for auditing, critiquing, and polishing UI designs, alongside 7 domain-specific reference files covering typography, color, spatial, motion, interaction, responsive design, and UX writing. Impeccable also offers curated anti-patterns to help avoid common design mistakes. Visit [impeccable.style](https://impeccable.style) for installation and usage details.*
+> *Supermemory is a high-performance memory engine and API designed for AI applications, offering persistent context across conversations. It excels in extracting facts, managing user profiles, and integrating seamlessly with external services like Google Drive and Notion. Key features include hybrid search combining retrieval-augmented generation (RAG) with memory, automatic forgetting of outdated information, and multi-modal document processing. With over 18,000 stars on GitHub, Supermemory is the top choice for AI memory solutions, providing a comprehensive context stack for developers and users alike.*
 
-- ⭐ 12415 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-03-23
-
-![impeccable](2026/03-23/2026-03-23_daily-top_impeccable.png)
-
-### 9. [systemd](https://github.com/systemd/systemd)
-
-> 🤖 **推荐理由**  
-> *systemd is a powerful system and service manager for Linux, designed to enhance boot performance and manage services efficiently. With over 16,000 stars on GitHub, it integrates features like parallel service startup, on-demand service activation, and dependency management. The project emphasizes security, boasting a bug bounty program and extensive testing through CI/CD practices. Comprehensive documentation is available, along with community support via mailing lists and IRC. Stable branches and packages are readily accessible, ensuring robust deployment and maintenance.*
-
-- ⭐ 16017 stars
-- 💻 C
-- 📅 Updated: 2026-03-23
-
-![systemd](2026/03-23/2026-03-23_daily-top_systemd.png)
-
-### 10. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-
-> 🤖 **推荐理由**  
-> *Clash Verge Rev is a modern GUI client built on Tauri, providing a tailored proxy experience across Windows, macOS, and Linux. It boasts a sleek interface with customizable themes, advanced configuration management, and support for the Clash.Meta kernel. Key features include system proxy settings, visual node editing, and WebDav backup/sync. With robust performance from Rust and Tauri, users benefit from a powerful tool for managing proxy connections. The project has garnered over 104,000 stars, reflecting its popularity and reliability in the community.*
-
-- ⭐ 104642 stars
+- ⭐ 18040 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-23
+- 📅 Updated: 2026-03-24
 
-![clash-verge-rev](2026/03-23/2026-03-23_daily-top_clash-verge-rev.png)
+![supermemory](2026/03-24/2026-03-24_daily-top_supermemory.png)
+
+### 7. [arnis](https://github.com/louis-e/arnis)
+
+> 🤖 **推荐理由**  
+> *Arnis is an open-source project that enables users to generate detailed Minecraft worlds based on real-world locations. Supporting both Java (1.17+) and Bedrock Editions, it utilizes geospatial data from OpenStreetMap and elevation data to create accurate terrain and architecture representations. With over 13,000 stars, it features a user-friendly GUI for easy map selection and generation, customizable settings, and cross-platform support. Additionally, users can access the web-based MapSmith for mobile and larger map generation. Comprehensive documentation and community contributions are encouraged.*
+
+- ⭐ 13054 stars
+- 💻 Rust
+- 📅 Updated: 2026-03-24
+
+![arnis](2026/03-24/2026-03-24_daily-top_arnis.png)
+
+### 8. [gofr](https://github.com/gofr-dev/gofr)
+
+> 🤖 **推荐理由**  
+> *GoFr is an opinionated GoLang framework designed for accelerated microservice development, boasting built-in support for databases and observability. Key features include a simple API syntax, REST standards, configuration management, inbuilt authentication middleware, gRPC support, and observability tools (logs, traces, metrics). It also offers HTTP services with circuit breaker support, Pub/Sub systems, health checks, database migrations, and cron jobs. With over 20,000 stars, GoFr simplifies Kubernetes deployment while ensuring robust performance and maintainability.*
+
+- ⭐ 20098 stars
+- 💻 Go
+- 📅 Updated: 2026-03-24
+
+![gofr](2026/03-24/2026-03-24_daily-top_gofr.png)
+
+### 9. [trivy](https://github.com/aquasecurity/trivy)
+
+> 🤖 **推荐理由**  
+> *Trivy is an open-source security scanner designed to identify vulnerabilities, misconfigurations, secrets, and software bill of materials (SBOM) across various targets, including container images, Kubernetes, and code repositories. With over 33,000 stars on GitHub, it supports multiple programming languages and platforms. Key features include scanning for OS packages, known vulnerabilities (CVEs), IaC issues, and sensitive information. Trivy integrates seamlessly with popular tools like GitHub Actions and Kubernetes, making it a versatile choice for enhancing security in DevOps workflows. For more details, visit the Trivy documentation.*
+
+- ⭐ 33861 stars
+- 💻 Go
+- 📅 Updated: 2026-03-24
+
+![trivy](2026/03-24/2026-03-24_daily-top_trivy.png)
+
+### 10. [systemd](https://github.com/systemd/systemd)
+
+> 🤖 **推荐理由**  
+> *systemd is a powerful system and service manager for Linux, designed to streamline the boot process and manage system services. Key features include parallel service startup, on-demand service activation, and dependency-based service control. It supports advanced logging through the journal, improved service monitoring, and socket-based activation. With over 16,000 stars on GitHub, systemd emphasizes stability and security, featuring a bug bounty program and extensive documentation. Developers can contribute via GitHub, mailing lists, and IRC channels, ensuring a collaborative development environment.*
+
+- ⭐ 16118 stars
+- 💻 C
+- 📅 Updated: 2026-03-24
+
+![systemd](2026/03-24/2026-03-24_daily-top_systemd.png)
 
 ---
 
@@ -141,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-23 02:51:02 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-24 02:42:17 UTC
