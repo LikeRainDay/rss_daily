@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-25
 
-![everything-claude-code](2026/03-25/2026-03-25_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-03-25_daily-top_everything-claude-code.png)
 
 ### 2. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-25
 
-![project-nomad](2026/03-25/2026-03-25_daily-top_project-nomad.png)
+![project-nomad](2026-03-25_daily-top_project-nomad.png)
 
 ### 3. [editor](https://github.com/pascalorg/editor)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-25
 
-![editor](2026/03-25/2026-03-25_daily-top_editor.png)
+![editor](2026-03-25_daily-top_editor.png)
 
 ### 4. [ruflo](https://github.com/ruvnet/ruflo)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-25
 
-![ruflo](2026/03-25/2026-03-25_daily-top_ruflo.png)
+![ruflo](2026-03-25_daily-top_ruflo.png)
 
 ### 5. [RuView](https://github.com/ruvnet/RuView)
 
@@ -72,7 +72,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-25
 
-![RuView](2026/03-25/2026-03-25_daily-top_RuView.png)
+![RuView](2026-03-25_daily-top_RuView.png)
 
 ### 6. [pentagi](https://github.com/vxcontrol/pentagi)
 
@@ -83,7 +83,7 @@
 - 💻 Go
 - 📅 Updated: 2026-03-25
 
-![pentagi](2026/03-25/2026-03-25_daily-top_pentagi.png)
+![pentagi](2026-03-25_daily-top_pentagi.png)
 
 ### 7. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -94,7 +94,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-25
 
-![cc-switch](2026/03-25/2026-03-25_daily-top_cc-switch.png)
+![cc-switch](2026-03-25_daily-top_cc-switch.png)
 
 ### 8. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -105,7 +105,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-25
 
-![impeccable](2026/03-25/2026-03-25_daily-top_impeccable.png)
+![impeccable](2026-03-25_daily-top_impeccable.png)
 
 ### 9. [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-25
 
-![n8n-mcp](2026/03-25/2026-03-25_daily-top_n8n-mcp.png)
+![n8n-mcp](2026-03-25_daily-top_n8n-mcp.png)
 
 ### 10. [supermemory](https://github.com/supermemoryai/supermemory)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-25
 
-![supermemory](2026/03-25/2026-03-25_daily-top_supermemory.png)
+![supermemory](2026-03-25_daily-top_supermemory.png)
 
 ---
 
