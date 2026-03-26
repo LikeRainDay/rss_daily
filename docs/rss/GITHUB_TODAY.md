@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-03-25
+# 📊 🌟 GitHub Trending Daily - 2026-03-26
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **287269** ⭐ | **33075** 🍴
+**10** Projects | **383851** ⭐ | **38537** 🍴
 
-**Top Languages:** `TypeScript` (5) · `JavaScript` (2) · `Rust` (2)
+**Top Languages:** `TypeScript` (6) · `Rust` (2) · `JavaScript` (2)
 
-**Updated:** 2026-03-25 02:47 UTC
+**Updated:** 2026-03-26 02:54 UTC
 
 **Categories:**
 
@@ -21,113 +21,113 @@
 ### 1. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
 > 🤖 **Why Recommend**  
-> *The Everything Claude Code project is a comprehensive performance optimization system for AI agents, integrating skills, instincts, memory optimization, continuous learning, and security scanning. It supports multiple platforms including Claude Code, Codex, Cursor, and OpenCode, enabling seamless development across various environments. Key features include 28 specialized agents, 125 skills, and 60 commands for tasks like code review, security audits, and TDD. Recognized as an Anthropic Hackathon winner, it emphasizes research-first development and is built for real-world applications.*
+> *Everything Claude Code is a powerful performance optimization system for AI agents, designed to enhance skills, instincts, memory, security, and continuous learning. With over 108,000 stars, it supports multiple platforms, including Claude Code, Codex, and OpenCode. Key features include 28 specialized agents, 125 skills, and 60 commands for tasks like code review, end-to-end testing, and security scanning. This Anthropic hackathon-winning project also offers extensive guides for setup and usage, ensuring robust development practices across various languages and workflows.*
 
-- ⭐ 105190 stars
+- ⭐ 108264 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-03-25
+- 📅 Updated: 2026-03-26
 
-![everything-claude-code](2026/03-25/2026-03-25_daily-top_everything-claude-code.png)
+![everything-claude-code](2026/03-26/2026-03-26_daily-top_everything-claude-code.png)
 
-### 2. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+### 2. [editor](https://github.com/pascalorg/editor)
+
+> 🤖 **Why Recommend**  
+> *Pascal Editor is a sophisticated 3D architectural project editor built with React Three Fiber and WebGPU, enabling users to create and share detailed building designs. It features a modular monorepo architecture with core packages for state management, 3D rendering, and UI components. Key functionalities include a custom selection manager, interactive editing tools (e.g., wall and item placement), and a robust event bus for inter-component communication. The application leverages Zustand for state management and offers an intuitive user experience through a seamless development setup and advanced geometry generation systems.*
+
+- ⭐ 6909 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-26
+
+![editor](2026/03-26/2026-03-26_daily-top_editor.png)
+
+### 3. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
 > 🤖 **Why Recommend**  
 > *Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—a. popular project, actively maintained, recently updated*
 
-- ⭐ 15440 stars
-- 🍴 1471 forks
+- ⭐ 16720 stars
+- 🍴 1591 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-03-25
+- 📅 Updated: 2026-03-26
 
-![project-nomad](2026/03-25/2026-03-25_daily-top_project-nomad.png)
-
-### 3. [editor](https://github.com/pascalorg/editor)
-
-> 🤖 **Why Recommend**  
-> *Pascal Editor is a 3D building editor developed with React Three Fiber and WebGPU, featuring a modular architecture in a Turborepo monorepo. It consists of three main packages: a core package for schema definitions and state management, a viewer for 3D rendering, and an editor application with UI components and tools. Key highlights include node-based scene management, real-time editing capabilities, and an event-driven architecture. The editor supports various tools for wall and item placement, selection management, and custom camera controls, providing a comprehensive environment for 3D modeling.*
-
-- ⭐ 5436 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-25
-
-![editor](2026/03-25/2026-03-25_daily-top_editor.png)
+![project-nomad](2026/03-26/2026-03-26_daily-top_project-nomad.png)
 
 ### 4. [ruflo](https://github.com/ruvnet/ruflo)
 
 > 🤖 **Why Recommend**  
-> *RuFlo is an advanced agent orchestration platform for Claude, enabling the deployment of intelligent multi-agent swarms and seamless coordination of autonomous workflows. Key features include 60+ specialized agents, enterprise-grade architecture, self-learning capabilities via SONA, HNSW indexing for rapid vector search, and robust security measures against threats and vulnerabilities. RuFlo integrates with various LLM providers, supports RAG, and offers an extensible plugin system, making it ideal for building conversational AI systems and optimizing complex software engineering tasks.*
+> *RuFlo is a cutting-edge agent orchestration platform for Claude, designed for deploying intelligent multi-agent swarms and coordinating autonomous workflows. Key features include over 100 specialized agents, enterprise-grade architecture, real-time learning through ReasoningBank, and HNSW indexing for fast vector search. It seamlessly integrates with various LLM providers like Claude and GPT, supports adaptive routing, and ensures robust security with AIDefence. With a powerful CLI and extensive plugin ecosystem, RuFlo enhances collaborative AI system development, making it ideal for complex software engineering tasks.*
 
-- ⭐ 25175 stars
+- ⭐ 26296 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-25
+- 📅 Updated: 2026-03-26
 
-![ruflo](2026/03-25/2026-03-25_daily-top_ruflo.png)
+![ruflo](2026/03-26/2026-03-26_daily-top_ruflo.png)
 
 ### 5. [RuView](https://github.com/ruvnet/RuView)
 
 > 🤖 **Why Recommend**  
-> *RuView is an innovative edge AI system that utilizes WiFi signals for real-time human pose estimation, vital sign monitoring, and presence detection, all without cameras or wearables. Key features include self-learning capabilities, allowing the system to adapt to its environment without labeled data, and the ability to operate on low-cost hardware like the ESP32. It offers privacy-first tracking through walls, multiple-person detection, and vital sign analysis (breathing and heart rate). Built on Rust, RuView ensures high performance, with up to 54,000 frames per second processing speed. Ideal for healthcare, retail, and safety applications, it combines advanced signal processing with AI to transform ordinary spaces into intelligent environments.*
+> *RuView is an edge AI system that utilizes WiFi signals for real-time human pose estimation, vital sign monitoring, and presence detection without cameras or wearables. It leverages Channel State Information (CSI) to reconstruct body positions, breathing rates, and heart rates, operating entirely on low-cost ESP32 hardware. Key features include privacy-first monitoring, self-learning capabilities, and multi-person tracking through walls. With a robust architecture based on RuVector, RuView continuously adapts to its environment, making it suitable for diverse applications like healthcare and disaster response.*
 
-- ⭐ 41384 stars
+- ⭐ 42379 stars
 - 💻 Rust
-- 📅 Updated: 2026-03-25
+- 📅 Updated: 2026-03-26
 
-![RuView](2026/03-25/2026-03-25_daily-top_RuView.png)
+![RuView](2026/03-26/2026-03-26_daily-top_RuView.png)
 
-### 6. [pentagi](https://github.com/vxcontrol/pentagi)
-
-> 🤖 **Why Recommend**  
-> *Pentagi is a cutting-edge, fully autonomous AI agents system designed for advanced penetration testing. Built with Go, it streamlines complex security assessments by automating various testing tasks, significantly enhancing efficiency and accuracy. Key features include customizable agent configurations, real-time vulnerability detection, and comprehensive reporting capabilities. With over 13,463 stars, Pentagi is gaining recognition for its ability to adapt to diverse environments and provide robust security solutions, making it an essential tool for cybersecurity professionals.*
-
-- ⭐ 13463 stars
-- 💻 Go
-- 📅 Updated: 2026-03-25
-
-![pentagi](2026/03-25/2026-03-25_daily-top_pentagi.png)
-
-### 7. [cc-switch](https://github.com/farion1231/cc-switch)
+### 6. [supermemory](https://github.com/supermemoryai/supermemory)
 
 > 🤖 **Why Recommend**  
-> *CC Switch is a cross-platform desktop assistant tool designed to manage multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw, all from a single interface. Key features include over 50 provider presets for easy switching, unified management of MCP and Skills, and quick access via system tray. It supports cloud syncing, has built-in utilities for enhanced functionality, and is built using Rust and Tauri for seamless performance across Windows, macOS, and Linux. With 32,942 stars, it offers a comprehensive solution for AI development workflows.*
+> *Supermemory is a high-performance memory engine and API designed for AI applications, enabling them to retain and utilize context across conversations. It excels in extracting facts, managing user profiles, and providing hybrid search capabilities that combine retrieval-augmented generation (RAG) with personalized context. Key features include automatic memory management (forgetting and updating), support for multi-modal data, and seamless integration with platforms like Google Drive and Notion. With over 19,000 stars, Supermemory leads in major AI memory benchmarks, offering a comprehensive solution for developers and users alike.*
 
-- ⭐ 32942 stars
+- ⭐ 19273 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-26
+
+![supermemory](2026/03-26/2026-03-26_daily-top_supermemory.png)
+
+### 7. [firecrawl](https://github.com/firecrawl/firecrawl)
+
+> 🤖 **Why Recommend**  
+> *Firecrawl is a powerful Web Data API that transforms entire websites into LLM-ready markdown or structured data, enhancing AI applications with real-time web context. Key features include reliable scraping of dynamic content, customizable crawling parameters, and media parsing. It supports batch processing, change tracking, and various output formats such as JSON, HTML, and markdown. Additionally, Firecrawl offers an intuitive agent for autonomous data gathering and integrates seamlessly with AI coding tools. Sign up at firecrawl.dev to start leveraging its capabilities.*
+
+- ⭐ 98324 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-26
+
+![firecrawl](2026/03-26/2026-03-26_daily-top_firecrawl.png)
+
+### 8. [cc-switch](https://github.com/farion1231/cc-switch)
+
+> 🤖 **Why Recommend**  
+> *CC Switch is a cross-platform desktop assistant tool that simplifies managing multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. Key features include a unified interface for seamless switching between over 50 provider presets, no manual config editing, and centralized management of MCP and Skills. It supports cloud synchronization and offers a user-friendly system tray for quick access. Built with Tauri in Rust, CC Switch ensures reliable data handling and enhanced productivity for developers using AI tools, making it an essential resource for modern coding workflows.*
+
+- ⭐ 33477 stars
 - 💻 Rust
-- 📅 Updated: 2026-03-25
+- 📅 Updated: 2026-03-26
 
-![cc-switch](2026/03-25/2026-03-25_daily-top_cc-switch.png)
+![cc-switch](2026/03-26/2026-03-26_daily-top_cc-switch.png)
 
-### 8. [impeccable](https://github.com/pbakaus/impeccable)
+### 9. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **Why Recommend**  
-> *Impeccable is a JavaScript-based design language that enhances AI capabilities in frontend design. With over 13,000 stars, it offers 20 commands for auditing, reviewing, and polishing designs, along with 7 domain-specific reference files covering typography, color, spatial design, and more. Impeccable also includes curated anti-patterns to avoid common design pitfalls. Users can quickly start by downloading bundles from impeccable.style, making it a robust tool for improving UI/UX across various platforms like Cursor, Claude Code, and Gemini CLI.*
+> *Impeccable is a design language toolkit for enhancing AI-driven frontend design, offering 13,593 stars on GitHub. It provides a comprehensive skillset with 20 commands for auditing, polishing, and improving user experience. Key features include domain-specific references on typography, color, spatial, motion, interaction, responsive design, and UX writing, along with curated anti-patterns to avoid common design mistakes. Installation can be done via [impeccable.style](https://impeccable.style), and it supports various AI tools like Cursor and Claude Code.*
 
-- ⭐ 13310 stars
+- ⭐ 13593 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-03-25
+- 📅 Updated: 2026-03-26
 
-![impeccable](2026/03-25/2026-03-25_daily-top_impeccable.png)
+![impeccable](2026/03-26/2026-03-26_daily-top_impeccable.png)
 
-### 9. [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
-
-> 🤖 **Why Recommend**  
-> *n8n-mcp is a Model Context Protocol server designed to enhance AI assistants like Claude with in-depth access to n8n's workflow automation capabilities. With support for over 1,084 nodes (537 core, 547 community), it provides comprehensive documentation, node properties, and real-world examples. Key features include smart node search, configuration validation, and a library of 2,709 workflow templates. Users can quickly deploy n8n-mcp via hosted services or self-hosting options like Docker. This project empowers developers to create and validate workflows efficiently, ensuring optimal automation performance.*
-
-- ⭐ 16288 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-25
-
-![n8n-mcp](2026/03-25/2026-03-25_daily-top_n8n-mcp.png)
-
-### 10. [supermemory](https://github.com/supermemoryai/supermemory)
+### 10. [dexter](https://github.com/virattt/dexter)
 
 > 🤖 **Why Recommend**  
-> *Supermemory is a high-performance memory engine and API designed for AI applications, enabling persistent memory across conversations. It excels in AI benchmarks, offering features like automatic fact extraction, user profile maintenance, hybrid search (combining memory and retrieval-augmented generation), and real-time connectors for platforms like Google Drive and Notion. The system also processes various file types and manages contradictions while auto-forgetting expired information. Supermemory simplifies integration for developers with a unified API, making it ideal for building smarter AI tools.*
+> *Dexter is an autonomous financial research agent designed to analyze complex financial questions using real-time market data. Key features include intelligent task planning that breaks down queries, autonomous execution of data-gathering tasks, and self-validation for accuracy. It supports integration with financial datasets and can be interacted with via WhatsApp. Built-in safety measures prevent runaway processes. With over 18,000 stars on GitHub, Dexter empowers users to derive data-backed insights efficiently, making advanced financial research accessible and systematic.*
 
-- ⭐ 18641 stars
+- ⭐ 18616 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-25
+- 📅 Updated: 2026-03-26
 
-![supermemory](2026/03-25/2026-03-25_daily-top_supermemory.png)
+![dexter](2026/03-26/2026-03-26_daily-top_dexter.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-25 02:47:49 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-26 02:54:53 UTC

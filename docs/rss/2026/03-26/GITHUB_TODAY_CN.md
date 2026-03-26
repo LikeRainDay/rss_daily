@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-26
 
-![everything-claude-code](2026/03-26/2026-03-26_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-03-26_daily-top_everything-claude-code.png)
 
 ### 2. [editor](https://github.com/pascalorg/editor)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-26
 
-![editor](2026/03-26/2026-03-26_daily-top_editor.png)
+![editor](2026-03-26_daily-top_editor.png)
 
 ### 3. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-26
 
-![project-nomad](2026/03-26/2026-03-26_daily-top_project-nomad.png)
+![project-nomad](2026-03-26_daily-top_project-nomad.png)
 
 ### 4. [ruflo](https://github.com/ruvnet/ruflo)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-26
 
-![ruflo](2026/03-26/2026-03-26_daily-top_ruflo.png)
+![ruflo](2026-03-26_daily-top_ruflo.png)
 
 ### 5. [RuView](https://github.com/ruvnet/RuView)
 
@@ -72,7 +72,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-26
 
-![RuView](2026/03-26/2026-03-26_daily-top_RuView.png)
+![RuView](2026-03-26_daily-top_RuView.png)
 
 ### 6. [supermemory](https://github.com/supermemoryai/supermemory)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-26
 
-![supermemory](2026/03-26/2026-03-26_daily-top_supermemory.png)
+![supermemory](2026-03-26_daily-top_supermemory.png)
 
 ### 7. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-26
 
-![firecrawl](2026/03-26/2026-03-26_daily-top_firecrawl.png)
+![firecrawl](2026-03-26_daily-top_firecrawl.png)
 
 ### 8. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -105,7 +105,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-26
 
-![cc-switch](2026/03-26/2026-03-26_daily-top_cc-switch.png)
+![cc-switch](2026-03-26_daily-top_cc-switch.png)
 
 ### 9. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -116,7 +116,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-26
 
-![impeccable](2026/03-26/2026-03-26_daily-top_impeccable.png)
+![impeccable](2026-03-26_daily-top_impeccable.png)
 
 ### 10. [dexter](https://github.com/virattt/dexter)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-26
 
-![dexter](2026/03-26/2026-03-26_daily-top_dexter.png)
+![dexter](2026-03-26_daily-top_dexter.png)
 
 ---
 
