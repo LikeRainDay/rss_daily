@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-27
 
-![everything-claude-code](2026/03-27/2026-03-27_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-03-27_daily-top_everything-claude-code.png)
 
 ### 2. [RuView](https://github.com/ruvnet/RuView)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-27
 
-![RuView](2026/03-27/2026-03-27_daily-top_RuView.png)
+![RuView](2026-03-27_daily-top_RuView.png)
 
 ### 3. [ruflo](https://github.com/ruvnet/ruflo)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-27
 
-![ruflo](2026/03-27/2026-03-27_daily-top_ruflo.png)
+![ruflo](2026-03-27_daily-top_ruflo.png)
 
 ### 4. [editor](https://github.com/pascalorg/editor)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-27
 
-![editor](2026/03-27/2026-03-27_daily-top_editor.png)
+![editor](2026-03-27_daily-top_editor.png)
 
 ### 5. [carbonyl](https://github.com/fathyb/carbonyl)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-27
 
-![carbonyl](2026/03-27/2026-03-27_daily-top_carbonyl.png)
+![carbonyl](2026-03-27_daily-top_carbonyl.png)
 
 ### 6. [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-27
 
-![oh-my-claudecode](2026/03-27/2026-03-27_daily-top_oh-my-claudecode.png)
+![oh-my-claudecode](2026-03-27_daily-top_oh-my-claudecode.png)
 
 ### 7. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-27
 
-![firecrawl](2026/03-27/2026-03-27_daily-top_firecrawl.png)
+![firecrawl](2026-03-27_daily-top_firecrawl.png)
 
 ### 8. [claude-subconscious](https://github.com/letta-ai/claude-subconscious)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-27
 
-![claude-subconscious](2026/03-27/2026-03-27_daily-top_claude-subconscious.png)
+![claude-subconscious](2026-03-27_daily-top_claude-subconscious.png)
 
 ### 9. [supermemory](https://github.com/supermemoryai/supermemory)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-27
 
-![supermemory](2026/03-27/2026-03-27_daily-top_supermemory.png)
+![supermemory](2026-03-27_daily-top_supermemory.png)
 
 ### 10. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-27
 
-![marketingskills](2026/03-27/2026-03-27_daily-top_marketingskills.png)
+![marketingskills](2026-03-27_daily-top_marketingskills.png)
 
 ---
 
