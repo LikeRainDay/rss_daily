@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-28
 
-![oh-my-claudecode](2026/03-28/2026-03-28_daily-top_oh-my-claudecode.png)
+![oh-my-claudecode](2026-03-28_daily-top_oh-my-claudecode.png)
 
 ### 2. [RuView](https://github.com/ruvnet/RuView)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-28
 
-![RuView](2026/03-28/2026-03-28_daily-top_RuView.png)
+![RuView](2026-03-28_daily-top_RuView.png)
 
 ### 3. [dexter](https://github.com/virattt/dexter)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-28
 
-![dexter](2026/03-28/2026-03-28_daily-top_dexter.png)
+![dexter](2026-03-28_daily-top_dexter.png)
 
 ### 4. [twenty](https://github.com/twentyhq/twenty)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-28
 
-![twenty](2026/03-28/2026-03-28_daily-top_twenty.png)
+![twenty](2026-03-28_daily-top_twenty.png)
 
 ### 5. [OpenSpec](https://github.com/Fission-AI/OpenSpec)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-28
 
-![OpenSpec](2026/03-28/2026-03-28_daily-top_OpenSpec.png)
+![OpenSpec](2026-03-28_daily-top_OpenSpec.png)
 
 ### 6. [carbonyl](https://github.com/fathyb/carbonyl)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-28
 
-![carbonyl](2026/03-28/2026-03-28_daily-top_carbonyl.png)
+![carbonyl](2026-03-28_daily-top_carbonyl.png)
 
 ### 7. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-28
 
-![marketingskills](2026/03-28/2026-03-28_daily-top_marketingskills.png)
+![marketingskills](2026-03-28_daily-top_marketingskills.png)
 
 ### 8. [codex](https://github.com/openai/codex)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-28
 
-![codex](2026/03-28/2026-03-28_daily-top_codex.png)
+![codex](2026-03-28_daily-top_codex.png)
 
 ### 9. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-28
 
-![easy-vibe](2026/03-28/2026-03-28_daily-top_easy-vibe.png)
+![easy-vibe](2026-03-28_daily-top_easy-vibe.png)
 
 ### 10. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -126,7 +126,7 @@
 - 💻 C++
 - 📅 Updated: 2026-03-28
 
-![llama.cpp](2026/03-28/2026-03-28_daily-top_llama.cpp.png)
+![llama.cpp](2026-03-28_daily-top_llama.cpp.png)
 
 ---
 

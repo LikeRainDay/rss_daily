@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-03-27
+# 📊 🌟 GitHub Trending Daily - 2026-03-28
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **355056** ⭐ | **36518** 🍴
+**10** 个项目 | **361088** ⭐ | **45510** 🍴
 
-**热门语言:** `TypeScript` (6) · `Rust` (2) · `JavaScript` (2)
+**热门语言:** `TypeScript` (4) · `Rust` (3) · `JavaScript` (2)
 
-**更新时间:** 2026-03-27 02:56 UTC
+**更新时间:** 2026-03-28 02:47 UTC
 
 **分类分布:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+### 1. [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 
 > 🤖 **推荐理由**  
-> *Everything Claude Code is a robust performance optimization system for AI agents, including Claude Code, Codex, and Cursor. It features a comprehensive suite of 28 agents and 125 skills, facilitating tasks like code review, test-driven development, and security scanning. The system emphasizes continuous learning, memory optimization, and security-first development. Recent updates include selective installation, multi-language support, and enhanced orchestration capabilities. With over 110,000 stars, it is a community-driven project designed for real-world applications.*
+> *oh-my-claudecode is a TypeScript-based multi-agent orchestration tool designed for Claude Code, offering a seamless, teams-first experience. With over 14,000 stars, it features zero configuration, intelligent task distribution, and a natural language interface for effortless command execution. Key functionalities include team orchestration, real-time visibility, smart model routing, and persistent execution. Users can leverage CLI workers, deep interviews for project clarity, and custom skills for efficient problem-solving. Ideal for collaborative development, it optimizes costs and enhances productivity.*
 
-- ⭐ 110515 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-03-27
+- ⭐ 14020 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-28
 
-![everything-claude-code](2026/03-27/2026-03-27_daily-top_everything-claude-code.png)
+![oh-my-claudecode](2026/03-28/2026-03-28_daily-top_oh-my-claudecode.png)
 
 ### 2. [RuView](https://github.com/ruvnet/RuView)
 
 > 🤖 **推荐理由**  
-> *RuView is an edge AI system that leverages WiFi signals for real-time human pose estimation, vital sign monitoring, and presence detection without using cameras or wearables. Key features include multi-person tracking, through-wall capabilities, and privacy-first design, all enabled by a low-cost ESP32 sensor mesh. The system utilizes advanced signal processing algorithms and self-learning techniques to continuously improve its accuracy. With a focus on real-time performance, RuView offers robust applications in healthcare, security, and smart building environments.*
+> *RuView is an innovative edge AI system that transforms WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection without cameras. Key features include multi-person tracking, breathing and heart rate detection, and through-wall capabilities, all powered by the robust RuVector backend. The system operates on low-cost hardware like the ESP32-S3, enabling local analysis and adaptation to environments. With a focus on privacy and adaptability, RuView provides a versatile solution for applications in healthcare, security, and smart environments.*
 
-- ⭐ 43271 stars
+- ⭐ 43883 stars
 - 💻 Rust
-- 📅 Updated: 2026-03-27
+- 📅 Updated: 2026-03-28
 
-![RuView](2026/03-27/2026-03-27_daily-top_RuView.png)
+![RuView](2026/03-28/2026-03-28_daily-top_RuView.png)
 
-### 3. [ruflo](https://github.com/ruvnet/ruflo)
+### 3. [dexter](https://github.com/virattt/dexter)
 
 > 🤖 **推荐理由**  
-> *RuFlo is a leading agent orchestration platform designed for Claude, enabling the deployment of intelligent multi-agent swarms to coordinate autonomous workflows and build conversational AI systems. Key features include enterprise-grade architecture, distributed swarm intelligence, Reinforcement Learning (RL) integration, and native support for Claude Code. With over 27,000 stars on GitHub, RuFlo allows for seamless integration with various LLMs, including Claude and OpenAI, while ensuring security with built-in protections against prompt injection and memory management.*
+> *Dexter is an autonomous financial research agent that intelligently analyzes complex financial queries and generates structured research plans using real-time market data. Key features include intelligent task planning, autonomous execution of data-gathering tools, self-validation of results, and built-in safety mechanisms to prevent runaway tasks. Users can interact with Dexter via WhatsApp, making financial research accessible and streamlined. With robust evaluation tools and debugging capabilities, Dexter is designed for deep financial analysis and continuous learning.*
 
-- ⭐ 27045 stars
+- ⭐ 19720 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-27
+- 📅 Updated: 2026-03-28
 
-![ruflo](2026/03-27/2026-03-27_daily-top_ruflo.png)
+![dexter](2026/03-28/2026-03-28_daily-top_dexter.png)
 
-### 4. [editor](https://github.com/pascalorg/editor)
+### 4. [twenty](https://github.com/twentyhq/twenty)
 
 > 🤖 **推荐理由**  
-> *Pascal Editor is a powerful 3D architectural project editor built with React Three Fiber and WebGPU, allowing users to create and share detailed building designs. With over 7,300 stars on GitHub, it features a sophisticated monorepo architecture, including packages for core functionalities and 3D rendering. Key highlights include an intuitive UI, tools for wall and item placement, a robust state management system using Zustand, and advanced geometry generation capabilities. Users can leverage an event bus for inter-component communication and enjoy features like undo/redo functionality and customizable camera controls.*
+> *Twenty is a community-driven, open-source CRM designed as a modern alternative to Salesforce. With over 42,000 stars on GitHub, it offers features like customizable layouts, role-based permissions, and automated workflows. Users can personalize their experience with kanban and table views, integrate emails and calendar events, and customize data models to fit unique needs. Built with TypeScript and leveraging technologies like NestJS and PostgreSQL, Twenty emphasizes affordability and flexibility, fostering a collaborative ecosystem for developers. Join the growing community on Discord or contribute to the project.*
 
-- ⭐ 7349 stars
+- ⭐ 42043 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-27
+- 📅 Updated: 2026-03-28
 
-![editor](2026/03-27/2026-03-27_daily-top_editor.png)
+![twenty](2026/03-28/2026-03-28_daily-top_twenty.png)
 
-### 5. [carbonyl](https://github.com/fathyb/carbonyl)
+### 5. [OpenSpec](https://github.com/Fission-AI/OpenSpec)
 
 > 🤖 **推荐理由**  
-> *Carbonyl is a terminal-based browser built on Chromium, designed for speed and efficiency. With support for modern web APIs like WebGL and video playback, it boasts a minimal startup time of under one second, maintains 60 FPS, and uses 0% CPU while idle. It operates without a window server, making it suitable for safe-mode consoles and SSH usage. Carbonyl is easy to install via Docker or npm and supports Linux and macOS. Its lightweight design outperforms alternatives like Browsh, making it ideal for terminal users seeking a full-featured web experience.*
+> *OpenSpec is a spec-driven development framework for AI coding assistants, designed to streamline collaboration and enhance predictability in coding. With over 34,000 stars on GitHub, it enables teams to align on specifications before implementation, ensuring organized project management. Key features include an artifact-guided workflow, integration with over 20 AI tools via slash commands, and support for iterative development. It provides a dashboard for project oversight and emphasizes fluidity over rigidity, making it suitable for both personal and enterprise projects.*
 
-- ⭐ 17031 stars
+- ⭐ 34954 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-03-28
+
+![OpenSpec](2026/03-28/2026-03-28_daily-top_OpenSpec.png)
+
+### 6. [carbonyl](https://github.com/fathyb/carbonyl)
+
+> 🤖 **推荐理由**  
+> *Carbonyl is a terminal-based browser powered by Chromium, enabling users to access the web with low resource consumption and high performance. With support for various Web APIs, including WebGL and media playback, it runs at 60 FPS and starts in under a second, even in safe-mode consoles or over SSH. Carbonyl is easy to install via Docker or npm and offers binaries for macOS and Linux. Unlike traditional terminal browsers, it natively renders to terminal resolution, making it significantly more efficient. The project is open for contributions, with a focus on enhancing its core capabilities.*
+
+- ⭐ 17168 stars
 - 💻 Rust
-- 📅 Updated: 2026-03-27
+- 📅 Updated: 2026-03-28
 
-![carbonyl](2026/03-27/2026-03-27_daily-top_carbonyl.png)
+![carbonyl](2026/03-28/2026-03-28_daily-top_carbonyl.png)
 
-### 6. [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
-
-> 🤖 **推荐理由**  
-> *oh-my-claudecode is a TypeScript-based multi-agent orchestration tool designed for Claude Code, offering a teams-first approach with zero configuration. Key features include a natural language interface, automatic parallelization of tasks, and persistent execution until jobs are verified complete. The project supports intelligent orchestration with 32 specialized agents, real-time visibility via HUD, and custom skills for reusability. Users can leverage various modes, including Team orchestration and CLI workers, to optimize workflows and improve development efficiency.*
-
-- ⭐ 12780 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-27
-
-![oh-my-claudecode](2026/03-27/2026-03-27_daily-top_oh-my-claudecode.png)
-
-### 7. [firecrawl](https://github.com/firecrawl/firecrawl)
+### 7. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
 > 🤖 **推荐理由**  
-> *Firecrawl is a powerful web data API designed to transform entire websites into LLM-ready markdown or structured data. With over 98,890 stars on GitHub, it excels in delivering reliable outputs, supporting real-time context for AI applications. Key features include handling dynamic content, batch processing, media parsing, and customizable scraping options. Firecrawl also offers interactive capabilities, enabling users to automate clicks and data extraction. Users can easily integrate the API via SDKs in Python, Node.js, and Java, making it a versatile tool for developers and businesses alike.*
+> *The **marketingskills** project offers a robust collection of AI agent skills tailored for marketing tasks, including conversion optimization, copywriting, SEO, analytics, and growth engineering. Designed for technical marketers and founders, it supports integration with various AI platforms like Claude Code and OpenAI Codex. Key features include specialized markdown skills that enhance AI capabilities in targeted marketing areas. The project is maintained by Corey Haines, who also provides services through Conversion Factory and offers a companion guide for marketers new to coding. Contributions are welcome.*
 
-- ⭐ 98890 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-27
-
-![firecrawl](2026/03-27/2026-03-27_daily-top_firecrawl.png)
-
-### 8. [claude-subconscious](https://github.com/letta-ai/claude-subconscious)
-
-> 🤖 **推荐理由**  
-> *Claude Subconscious is an experimental TypeScript plugin that enhances Claude Code by providing a background agent powered by Letta's memory system. With 1,767 stars, it observes coding sessions, reads codebases, and builds persistent memory across projects. Key features include proactive guidance, session continuity, and real-time context updates without blocking workflows. It supports multiple projects with shared memory and integrates various tools for web searching and file reading. Ideal for developers seeking a memory-first, intelligent coding assistant.*
-
-- ⭐ 1767 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-27
-
-![claude-subconscious](2026/03-27/2026-03-27_daily-top_claude-subconscious.png)
-
-### 9. [supermemory](https://github.com/supermemoryai/supermemory)
-
-> 🤖 **推荐理由**  
-> *Supermemory is a high-performance memory engine and context layer for AI, designed to enhance user interactions by enabling persistent memory across conversations. Key features include automatic fact extraction, user profile maintenance, hybrid search combining memory and retrieval-augmented generation (RAG), and real-time data synchronization with popular platforms like Google Drive and GitHub. It supports multi-modal content processing and offers a comprehensive API for seamless integration. Supermemory excels in major AI memory benchmarks, making it a leading choice for developers and users seeking intelligent, context-aware AI solutions.*
-
-- ⭐ 19585 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-27
-
-![supermemory](2026/03-27/2026-03-27_daily-top_supermemory.png)
-
-### 10. [marketingskills](https://github.com/coreyhaines31/marketingskills)
-
-> 🤖 **推荐理由**  
-> *The **marketingskills** project provides a suite of AI agent skills tailored for marketing tasks, including conversion optimization, copywriting, SEO, analytics, and growth engineering. Designed for technical marketers, it integrates with platforms like Claude Code and OpenAI Codex. Key features include a modular skill structure, enabling agents to handle diverse marketing activities efficiently. Users can install skills via CLI or plugins, and the project encourages contributions. For personalized assistance, Corey's agency, Conversion Factory, and learning resources like Swipe Files are available.*
-
-- ⭐ 16823 stars
+- ⭐ 17037 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-03-27
+- 📅 Updated: 2026-03-28
 
-![marketingskills](2026/03-27/2026-03-27_daily-top_marketingskills.png)
+![marketingskills](2026/03-28/2026-03-28_daily-top_marketingskills.png)
+
+### 8. [codex](https://github.com/openai/codex)
+
+> 🤖 **推荐理由**  
+> *Codex is a lightweight coding agent from OpenAI that operates seamlessly in your terminal, written in Rust and boasting over 68,000 stars on GitHub. Users can easily install it via npm or Homebrew and run it locally with the command `codex`. Codex integrates with popular IDEs and offers a desktop app experience. It also connects with ChatGPT plans for enhanced functionality. Comprehensive documentation and support for API key use are available, making Codex a versatile tool for developers seeking local coding assistance.*
+
+- ⭐ 68023 stars
+- 💻 Rust
+- 📅 Updated: 2026-03-28
+
+![codex](2026/03-28/2026-03-28_daily-top_codex.png)
+
+### 9. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
+
+> 🤖 **推荐理由**  
+> *Easy-Vibe is a comprehensive tutorial platform designed to help beginners transform ideas into functional prototypes, MVPs, and launch-ready products using AI coding techniques. With over 4,600 stars on GitHub, it features a structured learning path that covers frontend and backend development, AI integration, and practical projects. Key highlights include immersive tutorials, interactive coding environments, and a focus on product validation. Ideal for beginners, product managers, and developers, Easy-Vibe empowers users to build applications effortlessly in the AI era.*
+
+- ⭐ 4643 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-03-28
+
+![easy-vibe](2026/03-28/2026-03-28_daily-top_easy-vibe.png)
+
+### 10. [llama.cpp](https://github.com/ggml-org/llama.cpp)
+
+> 🤖 **推荐理由**  
+> *llama.cpp is a C/C++ library for efficient large language model (LLM) inference, boasting nearly 100,000 stars on GitHub. Key features include a dependency-free implementation, advanced quantization options (1.5 to 8-bit), and support for various hardware architectures, including Apple Silicon and NVIDIA GPUs. It offers both a command-line interface and a REST API for seamless integration. Additional highlights include multimodal support, tools for model conversion and hosting, and a range of bindings for multiple programming languages, enhancing accessibility for developers.*
+
+- ⭐ 99597 stars
+- 💻 C++
+- 📅 Updated: 2026-03-28
+
+![llama.cpp](2026/03-28/2026-03-28_daily-top_llama.cpp.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-27 02:56:50 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-28 02:47:31 UTC
