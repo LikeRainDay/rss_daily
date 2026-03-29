@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-29
 
-![learn-claude-code](2026/03-29/2026-03-29_daily-top_learn-claude-code.png)
+![learn-claude-code](2026-03-29_daily-top_learn-claude-code.png)
 
 ### 2. [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-29
 
-![oh-my-claudecode](2026/03-29/2026-03-29_daily-top_oh-my-claudecode.png)
+![oh-my-claudecode](2026-03-29_daily-top_oh-my-claudecode.png)
 
 ### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-29
 
-![firecrawl](2026/03-29/2026-03-29_daily-top_firecrawl.png)
+![firecrawl](2026-03-29_daily-top_firecrawl.png)
 
 ### 4. [dexter](https://github.com/virattt/dexter)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-29
 
-![dexter](2026/03-29/2026-03-29_daily-top_dexter.png)
+![dexter](2026-03-29_daily-top_dexter.png)
 
 ### 5. [twenty](https://github.com/twentyhq/twenty)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-29
 
-![twenty](2026/03-29/2026-03-29_daily-top_twenty.png)
+![twenty](2026-03-29_daily-top_twenty.png)
 
 ### 6. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-29
 
-![cc-switch](2026/03-29/2026-03-29_daily-top_cc-switch.png)
+![cc-switch](2026-03-29_daily-top_cc-switch.png)
 
 ### 7. [claude-mem](https://github.com/thedotmack/claude-mem)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-29
 
-![claude-mem](2026/03-29/2026-03-29_daily-top_claude-mem.png)
+![claude-mem](2026-03-29_daily-top_claude-mem.png)
 
 ### 8. [FreeCAD](https://github.com/FreeCAD/FreeCAD)
 
@@ -104,7 +104,7 @@
 - 💻 C++
 - 📅 Updated: 2026-03-29
 
-![FreeCAD](2026/03-29/2026-03-29_daily-top_FreeCAD.png)
+![FreeCAD](2026-03-29_daily-top_FreeCAD.png)
 
 ### 9. [cmux](https://github.com/manaflow-ai/cmux)
 
@@ -115,7 +115,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-03-29
 
-![cmux](2026/03-29/2026-03-29_daily-top_cmux.png)
+![cmux](2026-03-29_daily-top_cmux.png)
 
 ### 10. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -126,7 +126,7 @@
 - 💻 C++
 - 📅 Updated: 2026-03-29
 
-![llama.cpp](2026/03-29/2026-03-29_daily-top_llama.cpp.png)
+![llama.cpp](2026-03-29_daily-top_llama.cpp.png)
 
 ---
 
