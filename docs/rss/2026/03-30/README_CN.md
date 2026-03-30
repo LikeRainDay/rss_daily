@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-30
 
-![learn-claude-code](2026/03-30/2026-03-30_daily-top_learn-claude-code.png)
+![learn-claude-code](2026-03-30_daily-top_learn-claude-code.png)
 
 ### 2. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-03-30
 
-![get-shit-done](2026/03-30/2026-03-30_daily-top_get-shit-done.png)
+![get-shit-done](2026-03-30_daily-top_get-shit-done.png)
 
 ### 3. [FineTune](https://github.com/ronitsingh10/FineTune)
 
@@ -49,7 +49,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-03-30
 
-![FineTune](2026/03-30/2026-03-30_daily-top_FineTune.png)
+![FineTune](2026-03-30_daily-top_FineTune.png)
 
 ### 4. [twenty](https://github.com/twentyhq/twenty)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-30
 
-![twenty](2026/03-30/2026-03-30_daily-top_twenty.png)
+![twenty](2026-03-30_daily-top_twenty.png)
 
 ### 5. [dexter](https://github.com/virattt/dexter)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-30
 
-![dexter](2026/03-30/2026-03-30_daily-top_dexter.png)
+![dexter](2026-03-30_daily-top_dexter.png)
 
 ### 6. [claude-mem](https://github.com/thedotmack/claude-mem)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-30
 
-![claude-mem](2026/03-30/2026-03-30_daily-top_claude-mem.png)
+![claude-mem](2026-03-30_daily-top_claude-mem.png)
 
 ### 7. [airi](https://github.com/moeru-ai/airi)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-30
 
-![airi](2026/03-30/2026-03-30_daily-top_airi.png)
+![airi](2026-03-30_daily-top_airi.png)
 
 ### 8. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -104,7 +104,7 @@
 - 💻 C++
 - 📅 Updated: 2026-03-30
 
-![llama.cpp](2026/03-30/2026-03-30_daily-top_llama.cpp.png)
+![llama.cpp](2026-03-30_daily-top_llama.cpp.png)
 
 ### 9. [carbonyl](https://github.com/fathyb/carbonyl)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-30
 
-![carbonyl](2026/03-30/2026-03-30_daily-top_carbonyl.png)
+![carbonyl](2026-03-30_daily-top_carbonyl.png)
 
 ### 10. [zellij](https://github.com/zellij-org/zellij)
 
@@ -126,7 +126,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-30
 
-![zellij](2026/03-30/2026-03-30_daily-top_zellij.png)
+![zellij](2026-03-30_daily-top_zellij.png)
 
 ---
 
