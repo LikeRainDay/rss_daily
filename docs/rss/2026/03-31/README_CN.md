@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-31
 
-![TaxHacker](2026/03-31/2026-03-31_daily-top_TaxHacker.png)
+![TaxHacker](2026-03-31_daily-top_TaxHacker.png)
 
 ### 2. [twenty](https://github.com/twentyhq/twenty)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-31
 
-![twenty](2026/03-31/2026-03-31_daily-top_twenty.png)
+![twenty](2026-03-31_daily-top_twenty.png)
 
 ### 3. [airi](https://github.com/moeru-ai/airi)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-31
 
-![airi](2026/03-31/2026-03-31_daily-top_airi.png)
+![airi](2026-03-31_daily-top_airi.png)
 
 ### 4. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-03-31
 
-![freeCodeCamp](2026/03-31/2026-03-31_daily-top_freeCodeCamp.png)
+![freeCodeCamp](2026-03-31_daily-top_freeCodeCamp.png)
 
 ### 5. [ladybird](https://github.com/LadybirdBrowser/ladybird)
 
@@ -71,7 +71,7 @@
 - 💻 C++
 - 📅 Updated: 2026-03-31
 
-![ladybird](2026/03-31/2026-03-31_daily-top_ladybird.png)
+![ladybird](2026-03-31_daily-top_ladybird.png)
 
 ### 6. [hashsigs-rs](https://github.com/QuipNetwork/hashsigs-rs)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-03-31
 
-![hashsigs-rs](2026/03-31/2026-03-31_daily-top_hashsigs-rs.png)
+![hashsigs-rs](2026-03-31_daily-top_hashsigs-rs.png)
 
 ### 7. [cmux](https://github.com/manaflow-ai/cmux)
 
@@ -93,7 +93,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-03-31
 
-![cmux](2026/03-31/2026-03-31_daily-top_cmux.png)
+![cmux](2026-03-31_daily-top_cmux.png)
 
 ### 8. [fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
@@ -104,7 +104,7 @@
 - 💻 C
 - 📅 Updated: 2026-03-31
 
-![fastfetch](2026/03-31/2026-03-31_daily-top_fastfetch.png)
+![fastfetch](2026-03-31_daily-top_fastfetch.png)
 
 ### 9. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 
@@ -115,7 +115,7 @@
 - 💻 Java
 - 📅 Updated: 2026-03-31
 
-![opendataloader-pdf](2026/03-31/2026-03-31_daily-top_opendataloader-pdf.png)
+![opendataloader-pdf](2026-03-31_daily-top_opendataloader-pdf.png)
 
 ### 10. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -126,7 +126,7 @@
 - 💻 C++
 - 📅 Updated: 2026-03-31
 
-![llama.cpp](2026/03-31/2026-03-31_daily-top_llama.cpp.png)
+![llama.cpp](2026-03-31_daily-top_llama.cpp.png)
 
 ---
 

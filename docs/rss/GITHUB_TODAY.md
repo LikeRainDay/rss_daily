@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-03-30
+# 📊 🌟 GitHub Trending Daily - 2026-03-31
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **383478** ⭐ | **42773** 🍴
+**10** Projects | **736976** ⭐ | **75122** 🍴
 
-**Top Languages:** `TypeScript` (5) · `Rust` (2) · `Swift` (1)
+**Top Languages:** `TypeScript` (4) · `C++` (2) · `Java` (1)
 
-**Updated:** 2026-03-30 03:22 UTC
+**Updated:** 2026-03-31 02:55 UTC
 
 **Categories:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+### 1. [TaxHacker](https://github.com/vas3k/TaxHacker)
 
 > 🤖 **Why Recommend**  
-> *Learn Claude Code is a TypeScript project focused on harness engineering for AI agents, emphasizing that the agent itself is a trained model, not just code or prompts. With over 42,000 stars, it offers a structured learning path through 12 sessions, teaching users how to build effective agent harnesses that provide tools, knowledge, and context. Key features include task management, background processing, and team coordination, showcasing how to create adaptable environments for agents across various domains. The project aims to empower developers to create intelligent systems by mastering harness design.*
+> *TaxHacker is a self-hosted AI accounting app designed for freelancers and small businesses, enabling efficient expense and income tracking. Key features include AI-driven analysis of receipts and invoices, automatic currency conversion (including crypto), and customizable categories and fields for tailored data organization. Users can filter and export transaction histories effortlessly. The app prioritizes data privacy with self-hosting capabilities and supports multiple LLM providers. With over 3,398 stars on GitHub, TaxHacker is a robust solution for managing financial data securely and efficiently.*
 
-- ⭐ 42913 stars
+- ⭐ 3398 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-30
+- 📅 Updated: 2026-03-31
 
-![learn-claude-code](2026/03-30/2026-03-30_daily-top_learn-claude-code.png)
+![TaxHacker](2026/03-31/2026-03-31_daily-top_TaxHacker.png)
 
-### 2. [get-shit-done](https://github.com/gsd-build/get-shit-done)
-
-> 🤖 **Why Recommend**  
-> *Get Shit Done (GSD) is a lightweight meta-prompting and context engineering system designed for Claude Code and other AI coding platforms. With 44,750 stars on GitHub, it effectively combats context rot, ensuring high-quality outputs. GSD features a streamlined workflow that includes project initialization, phase discussion, planning, execution, and verification, all while maintaining fresh context. It supports multiple runtimes, automates tasks, and offers atomic Git commits for clear project history. Trusted by engineers at major tech companies, GSD simplifies the development process for creators.*
-
-- ⭐ 44750 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-03-30
-
-![get-shit-done](2026/03-30/2026-03-30_daily-top_get-shit-done.png)
-
-### 3. [FineTune](https://github.com/ronitsingh10/FineTune)
+### 2. [twenty](https://github.com/twentyhq/twenty)
 
 > 🤖 **Why Recommend**  
-> *FineTune is a free and open-source macOS menu bar app designed for per-app volume control, audio routing, and a 10-band equalizer. Key features include independent volume sliders for each app, volume boost options (up to 4x), multi-device audio output, and headphone correction with a comprehensive EQ. Users can manage Bluetooth devices, monitor microphone levels, and automate settings via URL schemes. With over 5,000 stars on GitHub, FineTune provides a powerful alternative to SoundSource, enhancing audio control on macOS.*
+> *Twenty is an open-source CRM designed as a modern alternative to Salesforce, emphasizing community collaboration. Key features include customizable layouts, object and field management, role-based permissions, and workflow automation. Built with TypeScript, it leverages technologies like NestJS, PostgreSQL, and React. With over 43,000 stars, Twenty aims to offer an affordable, user-friendly experience while fostering an ecosystem through plugins. Join the community on Discord, explore the roadmap, and contribute to its development.*
 
-- ⭐ 5083 stars
-- 💻 Swift
-- 📅 Updated: 2026-03-30
-
-![FineTune](2026/03-30/2026-03-30_daily-top_FineTune.png)
-
-### 4. [twenty](https://github.com/twentyhq/twenty)
-
-> 🤖 **Why Recommend**  
-> *Twenty is an open-source CRM designed as a modern alternative to Salesforce, emphasizing affordability and user empowerment. With 43,002 stars on GitHub, it boasts features like customizable layouts, object management, role-based permissions, and workflow automation. Built using TypeScript, NestJS, and React, it offers a fresh user experience inspired by contemporary tools. The community-driven project allows for plugin development, fostering an ecosystem of collaboration. Key services include self-hosting capabilities, extensive documentation, and an active Discord community for support.*
-
-- ⭐ 43002 stars
+- ⭐ 43291 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-30
+- 📅 Updated: 2026-03-31
 
-![twenty](2026/03-30/2026-03-30_daily-top_twenty.png)
+![twenty](2026/03-31/2026-03-31_daily-top_twenty.png)
 
-### 5. [dexter](https://github.com/virattt/dexter)
+### 3. [airi](https://github.com/moeru-ai/airi)
 
 > 🤖 **Why Recommend**  
-> *Dexter is an autonomous financial research agent designed to analyze complex financial queries using real-time market data. Key features include intelligent task planning, autonomous execution of data-gathering tools, and self-validation to ensure accuracy. It provides access to detailed financial statements and includes safety measures like loop detection. Users can interact with Dexter via WhatsApp for seamless research queries. With over 20,000 stars on GitHub, Dexter offers a robust platform for deep financial research and analysis.*
+> *AIRI is a self-hosted AI companion project designed to bring virtual characters, inspired by Neuro-sama, into users' lives. It supports real-time voice chat and gameplay in popular titles like Minecraft and Factorio, available on web, macOS, and Windows. Key features include speech recognition and synthesis, VRM and Live2D model support, and a growing ecosystem of sub-projects for enhanced functionality. With over 36,000 stars on GitHub, AIRI aims to empower users to own their digital companions, leveraging modern web technologies for seamless interaction.*
 
-- ⭐ 20478 stars
+- ⭐ 36645 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-30
+- 📅 Updated: 2026-03-31
 
-![dexter](2026/03-30/2026-03-30_daily-top_dexter.png)
+![airi](2026/03-31/2026-03-31_daily-top_airi.png)
 
-### 6. [claude-mem](https://github.com/thedotmack/claude-mem)
+### 4. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
 > 🤖 **Why Recommend**  
-> *Claude-Mem is a powerful plugin for Claude Code that enhances coding sessions by automatically capturing tool usage, generating AI-compressed summaries, and injecting relevant context into future sessions. Key features include persistent memory, skill-based search, a web viewer UI for real-time memory access, and privacy controls. It integrates seamlessly with OpenClaw, allowing for easy installation and setup. With functionalities like automatic operation, context configuration, and citation support, Claude-Mem ensures continuity and efficiency in project development. The project is built with TypeScript and has gained significant traction with over 42,000 stars on GitHub.*
+> *freeCodeCamp is an open-source platform offering a comprehensive curriculum to learn coding, math, and computer science for free. With over 439,000 stars on GitHub, it provides self-paced courses covering full-stack web development, machine learning, and language certifications. Students earn verified certifications by completing interactive lessons and projects. The community offers forums, a YouTube channel, and a Discord server for support and collaboration. Founded as a donor-supported charity, freeCodeCamp has helped over 100,000 individuals launch their tech careers.*
 
-- ⭐ 42739 stars
+- ⭐ 439784 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-03-30
+- 📅 Updated: 2026-03-31
 
-![claude-mem](2026/03-30/2026-03-30_daily-top_claude-mem.png)
+![freeCodeCamp](2026/03-31/2026-03-31_daily-top_freeCodeCamp.png)
 
-### 7. [airi](https://github.com/moeru-ai/airi)
-
-> 🤖 **Why Recommend**  
-> *AIRI is a self-hosted AI companion project that recreates Neuro-sama, providing users with a virtual character capable of real-time voice chat and gaming experiences in titles like Minecraft and Factorio. It supports multiple platforms, including web, macOS, and Windows, and allows users to engage in interactive chat and gameplay. Key features include advanced speech recognition, voice synthesis, and memory systems for personalized interactions. With a focus on community development and open-source contributions, AIRI aims to enhance the user experience in the realm of digital companionship.*
-
-- ⭐ 36414 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-03-30
-
-![airi](2026/03-30/2026-03-30_daily-top_airi.png)
-
-### 8. [llama.cpp](https://github.com/ggml-org/llama.cpp)
+### 5. [ladybird](https://github.com/LadybirdBrowser/ladybird)
 
 > 🤖 **Why Recommend**  
-> *llama.cpp is a high-performance C/C++ library for large language model (LLM) inference, boasting over 99,000 stars on GitHub. Key features include minimal setup, multi-platform support (Apple Silicon, x86, RISC-V), and various integer quantization methods for efficiency. It offers a simple CLI, a REST API for OpenAI compatibility, and multimodal capabilities. Users can leverage Hugging Face integration for model management, and it supports numerous backends like CUDA and Vulkan. The project encourages contributions and supports a wide array of models, including LLaMA and GPT variants.*
+> *Ladybird is a truly independent web browser built on a novel engine adhering to web standards. Currently in pre-alpha, it features a multi-process architecture for enhanced security, with separate processes for UI, rendering, image decoding, and network requests. Core libraries are derived from SerenityOS, providing robust web rendering, JavaScript execution, and multimedia support. Ladybird is compatible with Linux, macOS, Windows (via WSL2), and various other UNIX-like systems. Join the development community through Discord for contributions and discussions.*
 
-- ⭐ 99904 stars
+- ⭐ 61897 stars
 - 💻 C++
-- 📅 Updated: 2026-03-30
+- 📅 Updated: 2026-03-31
 
-![llama.cpp](2026/03-30/2026-03-30_daily-top_llama.cpp.png)
+![ladybird](2026/03-31/2026-03-31_daily-top_ladybird.png)
 
-### 9. [carbonyl](https://github.com/fathyb/carbonyl)
-
-> 🤖 **Why Recommend**  
-> *Carbonyl is a terminal-based web browser built on Chromium, designed for fast performance and low resource consumption. It supports a wide range of Web APIs, including WebGL and media playback, and operates without a window server, making it suitable for SSH sessions. Key features include sub-second startup time, 60 FPS rendering, and 0% CPU idle usage. Carbonyl is available for Linux and macOS, with easy installation via Docker or npm. Originally derived from html2svg, it aims to provide a modern browsing experience directly in the terminal.*
-
-- ⭐ 17495 stars
-- 💻 Rust
-- 📅 Updated: 2026-03-30
-
-![carbonyl](2026/03-30/2026-03-30_daily-top_carbonyl.png)
-
-### 10. [zellij](https://github.com/zellij-org/zellij)
+### 6. [hashsigs-rs](https://github.com/QuipNetwork/hashsigs-rs)
 
 > 🤖 **Why Recommend**  
-> *Zellij is a powerful terminal workspace designed for developers and ops professionals, featuring an intuitive user experience with built-in tools. It supports deep customization, personal automation via layouts, and true multiplayer collaboration. Key features include unique UX elements like floating and stacked panes, a plugin system for WebAssembly-based extensions, and a built-in web client. With over 30,700 stars on GitHub, Zellij emphasizes simplicity without sacrificing functionality, making it suitable for both beginners and advanced users. Explore installation, tutorials, and documentation at zellij.dev.*
+> *hashsigs-rs is a Rust implementation of the WOTS+ (Winternitz One-Time Signature) scheme, designed for post-quantum cryptography. It supports Solana program development, enabling secure signature generation for blockchain applications. Key features include easy building and testing with commands for both library and Solana program, as well as comprehensive test vectors. The project demands Rust 1.70 or higher and Solana CLI tools for development. With over 7,795 stars, it showcases a robust structure with core implementation, Solana integration, and testing support. Licensed under AGPL-3.0.*
 
-- ⭐ 30700 stars
+- ⭐ 7795 stars
 - 💻 Rust
-- 📅 Updated: 2026-03-30
+- 📅 Updated: 2026-03-31
 
-![zellij](2026/03-30/2026-03-30_daily-top_zellij.png)
+![hashsigs-rs](2026/03-31/2026-03-31_daily-top_hashsigs-rs.png)
+
+### 7. [cmux](https://github.com/manaflow-ai/cmux)
+
+> 🤖 **Why Recommend**  
+> *cmux is a Ghostty-based macOS terminal featuring vertical tabs and notifications tailored for AI coding agents, boasting over 11,700 stars on GitHub. Key features include a notification system for agent attention, an in-app browser with a scriptable API, and customizable workspaces with vertical and horizontal tabs. Built with Swift for native performance, cmux supports Ghostty configurations and offers a CLI for automation. Its GPU-accelerated rendering ensures smooth operation, making it an efficient tool for developers managing multiple coding sessions.*
+
+- ⭐ 11713 stars
+- 💻 Swift
+- 📅 Updated: 2026-03-31
+
+![cmux](2026/03-31/2026-03-31_daily-top_cmux.png)
+
+### 8. [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+
+> 🤖 **Why Recommend**  
+> *Fastfetch is a performance-oriented system information tool, similar to Neofetch, written in C. It displays system data in a visually appealing manner and is actively maintained with over 21,000 stars on GitHub. Supporting multiple platforms including Linux, macOS, Windows, and various BSDs, it offers extensive customization through JSONC configuration. Key features include module support for various system metrics, a command module for user-defined output, and visually customizable logos. Fastfetch prioritizes speed and accuracy, making it a robust alternative for system information retrieval.*
+
+- ⭐ 21435 stars
+- 💻 C
+- 📅 Updated: 2026-03-31
+
+![fastfetch](2026/03-31/2026-03-31_daily-top_fastfetch.png)
+
+### 9. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+
+> 🤖 **Why Recommend**  
+> *OpenDataLoader PDF is an open-source PDF parser designed for AI-ready data extraction and PDF accessibility automation. It excels in converting PDFs into structured formats like Markdown, JSON, and HTML, achieving #1 benchmark accuracy (0.90 overall) in document parsing. Key features include built-in OCR for scanned PDFs, hybrid processing for complex layouts, and auto-tagging to create Tagged PDFs, compliant with accessibility standards. Available SDKs for Python, Node.js, and Java, the tool is ideal for RAG/LLM pipelines and meets global accessibility regulations.*
+
+- ⭐ 10816 stars
+- 💻 Java
+- 📅 Updated: 2026-03-31
+
+![opendataloader-pdf](2026/03-31/2026-03-31_daily-top_opendataloader-pdf.png)
+
+### 10. [llama.cpp](https://github.com/ggml-org/llama.cpp)
+
+> 🤖 **Why Recommend**  
+> *llama.cpp is a high-performance C/C++ library for large language model (LLM) inference, boasting over 100,000 stars on GitHub. Key features include a pure C/C++ implementation with no dependencies, support for various architectures (x86, ARM, RISC-V), and advanced quantization techniques for faster inference. It offers seamless integration with Hugging Face models and includes a user-friendly CLI and API server for local and cloud deployments. Additional highlights include multimodal support, GPU acceleration, and numerous plugins for enhanced functionality.*
+
+- ⭐ 100202 stars
+- 💻 C++
+- 📅 Updated: 2026-03-31
+
+![llama.cpp](2026/03-31/2026-03-31_daily-top_llama.cpp.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-30 03:22:41 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-03-31 02:55:52 UTC
