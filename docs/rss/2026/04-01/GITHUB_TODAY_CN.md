@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-01
 
-![everything-claude-code](2026/04-01/2026-04-01_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-04-01_daily-top_everything-claude-code.png)
 
 ### 2. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-01
 
-![learn-claude-code](2026/04-01/2026-04-01_daily-top_learn-claude-code.png)
+![learn-claude-code](2026-04-01_daily-top_learn-claude-code.png)
 
 ### 3. [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-01
 
-![oh-my-claudecode](2026/04-01/2026-04-01_daily-top_oh-my-claudecode.png)
+![oh-my-claudecode](2026-04-01_daily-top_oh-my-claudecode.png)
 
 ### 4. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-01
 
-![freeCodeCamp](2026/04-01/2026-04-01_daily-top_freeCodeCamp.png)
+![freeCodeCamp](2026-04-01_daily-top_freeCodeCamp.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-01
 
-![cc-switch](2026/04-01/2026-04-01_daily-top_cc-switch.png)
+![cc-switch](2026-04-01_daily-top_cc-switch.png)
 
 ### 6. [claude-mem](https://github.com/thedotmack/claude-mem)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-01
 
-![claude-mem](2026/04-01/2026-04-01_daily-top_claude-mem.png)
+![claude-mem](2026-04-01_daily-top_claude-mem.png)
 
 ### 7. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -93,7 +93,7 @@
 - 💻 C++
 - 📅 Updated: 2026-04-01
 
-![llama.cpp](2026/04-01/2026-04-01_daily-top_llama.cpp.png)
+![llama.cpp](2026-04-01_daily-top_llama.cpp.png)
 
 ### 8. [koharu](https://github.com/mayocream/koharu)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-01
 
-![koharu](2026/04-01/2026-04-01_daily-top_koharu.png)
+![koharu](2026-04-01_daily-top_koharu.png)
 
 ### 9. [TaxHacker](https://github.com/vas3k/TaxHacker)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-01
 
-![TaxHacker](2026/04-01/2026-04-01_daily-top_TaxHacker.png)
+![TaxHacker](2026-04-01_daily-top_TaxHacker.png)
 
 ### 10. [fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
@@ -126,7 +126,7 @@
 - 💻 C
 - 📅 Updated: 2026-04-01
 
-![fastfetch](2026/04-01/2026-04-01_daily-top_fastfetch.png)
+![fastfetch](2026-04-01_daily-top_fastfetch.png)
 
 ---
 
