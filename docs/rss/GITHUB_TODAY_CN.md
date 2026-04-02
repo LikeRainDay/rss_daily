@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-04-01
+# 📊 🌟 GitHub Trending Daily - 2026-04-02
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **840887** ⭐ | **93195** 🍴
+**10** 个项目 | **869421** ⭐ | **96445** 🍴
 
-**热门语言:** `TypeScript` (5) · `Rust` (2) · `C++` (1)
+**热门语言:** `TypeScript` (6) · `Rust` (2) · `C++` (1)
 
-**更新时间:** 2026-04-01 03:27 UTC
+**更新时间:** 2026-04-02 02:53 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
 > 🤖 **推荐理由**  
-> *Everything Claude Code is a comprehensive performance optimization system designed for AI agents, including Claude Code, Codex, and Cursor. It offers a suite of features such as skill and instinct management, memory optimization, and security scanning. With 36 agents, 142 skills, and 68 commands, this project supports continuous learning and efficient task orchestration. Notably, it has won the Anthropic hackathon, showcasing its practical applications in real-world scenarios. It emphasizes a research-first development approach, ensuring production-ready solutions.*
+> *Everything Claude Code is a performance optimization system for AI agents, notably supporting Claude Code, Codex, and Cursor. Key features include advanced skills, instincts, memory optimization, continuous learning, and security scanning, making it suitable for production-ready agents. The project, with over 131,000 stars and an Anthropic Hackathon win, offers 36 specialized agents and 150 skills for diverse development workflows. It emphasizes a research-first approach, providing comprehensive guides and cross-platform support, ensuring seamless integration across major IDEs and command-line interfaces.*
 
-- ⭐ 127694 stars
+- ⭐ 131363 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-04-01
+- 📅 Updated: 2026-04-02
 
-![everything-claude-code](2026/04-01/2026-04-01_daily-top_everything-claude-code.png)
+![everything-claude-code](2026/04-02/2026-04-02_daily-top_everything-claude-code.png)
 
-### 2. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
-
-> 🤖 **推荐理由**  
-> *Learn Claude Code is a TypeScript-based project focused on harness engineering for AI agents. With over 45,000 stars, it emphasizes that true agents are neural network models, not mere frameworks or scripted workflows. The repository provides a comprehensive guide to building agent harnesses, covering tools, knowledge management, context management, and team coordination. It includes 12 progressive sessions, each adding a mechanism to enhance agent functionality. The project aims to equip engineers with the skills to create effective environments for intelligent agents across various domains.*
-
-- ⭐ 45513 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-01
-
-![learn-claude-code](2026/04-01/2026-04-01_daily-top_learn-claude-code.png)
-
-### 3. [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+### 2. [openscreen](https://github.com/siddharthvaddem/openscreen)
 
 > 🤖 **推荐理由**  
-> *oh-my-claudecode is a powerful TypeScript-based orchestration tool designed for multi-agent collaboration in Claude Code, offering a zero-learning curve experience. Key features include team-first orchestration, automatic parallel task execution, and natural language interface for seamless interactions. With 32 specialized agents, smart model routing, and persistent execution, it optimizes task management and saves costs. Users can leverage tmux CLI workers for real-time collaboration, and customizable skills enhance reusability. The project is open-source with extensive documentation and community support.*
+> *OpenScreen is a free, open-source tool for creating product demos and walkthroughs, serving as a simpler alternative to Screen Studio. Key features include screen recording, customizable zooms, audio capture, video cropping, and annotation tools. Users can customize backgrounds, add motion blur, trim clips, and export in various resolutions. OpenScreen is fully free for personal and commercial use, with no watermarks. Built with TypeScript and Electron, it aims to provide essential functionalities without the cost, making it accessible for everyone.*
 
-- ⭐ 19379 stars
+- ⭐ 13627 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-01
+- 📅 Updated: 2026-04-02
 
-![oh-my-claudecode](2026/04-01/2026-04-01_daily-top_oh-my-claudecode.png)
+![openscreen](2026/04-02/2026-04-02_daily-top_openscreen.png)
 
-### 4. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+### 3. [codex](https://github.com/openai/codex)
 
 > 🤖 **推荐理由**  
-> *freeCodeCamp is an open-source platform providing a comprehensive curriculum for learning programming, math, and computer science for free. With over 440,000 stars on GitHub, it offers certifications in areas like Full-Stack Web Development, JavaScript, and Python. The self-paced learning includes thousands of interactive coding challenges, project requirements for certification, and resources for interview preparation. The community engages through forums, a YouTube channel, and Discord, fostering support and collaboration for learners transitioning into tech careers.*
+> *Codex is a lightweight coding agent from OpenAI that operates directly in your terminal, offering a seamless coding experience. Installable via npm or Homebrew, Codex enhances productivity by integrating with popular IDEs like VS Code and providing a desktop app option. Users can leverage Codex's capabilities through their ChatGPT accounts or API keys. With over 71,885 stars on GitHub, Codex supports local execution and cloud-based services, making it a versatile tool for developers. Comprehensive documentation and community contribution guidelines are available.*
 
-- ⭐ 440263 stars
+- ⭐ 71885 stars
+- 💻 Rust
+- 📅 Updated: 2026-04-02
+
+![codex](2026/04-02/2026-04-02_daily-top_codex.png)
+
+### 4. [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+
+> 🤖 **推荐理由**  
+> *oh-my-claudecode is a powerful multi-agent orchestration tool designed for Claude Code users, featuring a zero-learning curve and seamless integration. Key highlights include team-first orchestration, automatic parallelization, and a natural language interface for task management. Users can leverage intelligent routing among 32 specialized agents for various tasks, from code reviews to UI design. With real-time visibility, persistent execution, and customizable skills, it optimizes workflows while saving costs. Ideal for teams, it simplifies complex projects with minimal setup.*
+
+- ⭐ 21101 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-01
+- 📅 Updated: 2026-04-02
 
-![freeCodeCamp](2026/04-01/2026-04-01_daily-top_freeCodeCamp.png)
+![oh-my-claudecode](2026/04-02/2026-04-02_daily-top_oh-my-claudecode.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop tool designed for managing multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 36,000 stars on GitHub, it offers a unified interface to eliminate manual configuration, supporting 50+ built-in provider presets and seamless provider switching. Key features include cloud sync, a unified MCP and Skills management panel, session history tracking, and system tray quick access. Built with Rust and Tauri, CC Switch enhances productivity for developers leveraging AI in coding workflows.*
+> *CC Switch is a cross-platform desktop assistant tool designed to manage multiple CLI tools including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. Key features include a unified interface with over 50 provider presets for easy switching, cloud sync for provider data, and streamlined management of MCP and Skills. It provides system tray quick access, local proxy support, and detailed usage tracking. Built with Rust and Tauri, CC Switch ensures a seamless experience on Windows, macOS, and Linux, making AI-powered coding more efficient and user-friendly.*
 
-- ⭐ 36478 stars
+- ⭐ 37179 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-01
+- 📅 Updated: 2026-04-02
 
-![cc-switch](2026/04-01/2026-04-01_daily-top_cc-switch.png)
+![cc-switch](2026/04-02/2026-04-02_daily-top_cc-switch.png)
 
-### 6. [claude-mem](https://github.com/thedotmack/claude-mem)
+### 6. [ink](https://github.com/vadimdemedes/ink)
 
 > 🤖 **推荐理由**  
-> *Claude-Mem is a powerful plugin for Claude Code that enhances coding sessions by automatically capturing and compressing tool usage data, preserving context across sessions. Key features include persistent memory, progressive disclosure for memory retrieval, skill-based search, and a web viewer UI for real-time insights. It offers privacy controls, automatic operation, and citation capabilities for past observations. Claude-Mem is built with TypeScript, ensuring seamless integration and flexibility, making it an essential tool for developers seeking to enhance their productivity and project continuity.*
+> *Ink is a powerful TypeScript library that enables developers to create interactive command-line applications using React components. It leverages Yoga for Flexbox layouts, allowing familiar CSS-like styling. Key features include hooks for user input, paste handling, and lifecycle management, alongside components like `<Text>`, `<Box>`, and `<Static>`. Ink supports screen readers and custom accessibility features, making it user-friendly. With over 36,700 stars on GitHub, it’s widely adopted by projects like GitHub Copilot CLI and Cloudflare's Wrangler, enhancing CLI UI experiences.*
 
-- ⭐ 44131 stars
+- ⭐ 36741 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-01
+- 📅 Updated: 2026-04-02
 
-![claude-mem](2026/04-01/2026-04-01_daily-top_claude-mem.png)
+![ink](2026/04-02/2026-04-02_daily-top_ink.png)
 
-### 7. [llama.cpp](https://github.com/ggml-org/llama.cpp)
+### 7. [TaxHacker](https://github.com/vas3k/TaxHacker)
 
 > 🤖 **推荐理由**  
-> *llama.cpp is a C/C++ library for efficient large language model (LLM) inference, boasting over 100,000 stars on GitHub. Key features include a dependency-free implementation, multi-architecture support (including Apple Silicon, AVX, and RISC-V), and advanced quantization techniques for optimized performance. The project supports a variety of models, including LLaMA and Mistral, and offers tools like a CLI, `llama-server` for HTTP API access, and multimodal capabilities. It integrates with Hugging Face for model management and provides extensive documentation for developers.*
+> *TaxHacker is a self-hosted AI accounting app tailored for freelancers and small businesses. It utilizes LLMs to analyze receipts, invoices, and transactions, automatically extracting key data like amounts and dates, while supporting custom prompts and categories. Key features include multi-currency support with historical conversion rates, customizable transaction organization, advanced filtering, and a self-hosted mode for data privacy. TaxHacker enables efficient expense tracking and tax reporting, making financial management simpler and more automated.*
 
-- ⭐ 100448 stars
+- ⭐ 4025 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-02
+
+![TaxHacker](2026/04-02/2026-04-02_daily-top_TaxHacker.png)
+
+### 8. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
+> 🤖 **推荐理由**  
+> *freeCodeCamp is an open-source platform offering free coding education. With over 440,000 stars, it features a full-stack web development and machine learning curriculum, providing interactive coding challenges and certifications in areas like Responsive Web Design, JavaScript, and Python. The community-driven initiative supports learners through forums, a YouTube channel, and a Discord server. FreeCodeCamp also includes resources for job preparation and promotes contributions from volunteers, fostering a collaborative environment for aspiring developers.*
+
+- ⭐ 440426 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-02
+
+![freeCodeCamp](2026/04-02/2026-04-02_daily-top_freeCodeCamp.png)
+
+### 9. [llama.cpp](https://github.com/ggml-org/llama.cpp)
+
+> 🤖 **推荐理由**  
+> *Llama.cpp is a high-performance C/C++ library for large language model (LLM) inference, boasting over 100,000 stars on GitHub. Key features include dependency-free implementation, optimized support for various hardware (Apple Silicon, AVX, RISC-V), and multiple quantization options for speed and memory efficiency. It offers a user-friendly CLI tool and a REST API for easy model deployment. The project supports numerous LLMs, including LLaMA and Mistral, and integrates seamlessly with Hugging Face for model management and conversion.*
+
+- ⭐ 100615 stars
 - 💻 C++
-- 📅 Updated: 2026-04-01
+- 📅 Updated: 2026-04-02
 
-![llama.cpp](2026/04-01/2026-04-01_daily-top_llama.cpp.png)
+![llama.cpp](2026/04-02/2026-04-02_daily-top_llama.cpp.png)
 
-### 8. [koharu](https://github.com/mayocream/koharu)
-
-> 🤖 **推荐理由**  
-> *Koharu is a Rust-based, ML-powered manga translator with 1,640 stars on GitHub. It automates manga translation using object detection, OCR, inpainting, and LLMs, ensuring a seamless workflow. Key features include automatic speech bubble detection, OCR text recognition, inpainting, and vertical text layout for CJK languages. Koharu supports local and remote LLM backends, GPU acceleration, and exports to layered PSD for easy editing. The application prioritizes user privacy, running models locally by default. Comprehensive documentation and community support are available on Discord.*
-
-- ⭐ 1640 stars
-- 💻 Rust
-- 📅 Updated: 2026-04-01
-
-![koharu](2026/04-01/2026-04-01_daily-top_koharu.png)
-
-### 9. [TaxHacker](https://github.com/vas3k/TaxHacker)
+### 10. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
 
 > 🤖 **推荐理由**  
-> *TaxHacker is a self-hosted AI accounting app designed for freelancers and small businesses, facilitating automated expense and income tracking. Key features include AI-powered document analysis for receipts and invoices, automatic currency conversion (including crypto), customizable categories and fields, and advanced filtering for transaction management. Users can self-host for data privacy, with easy setup via Docker. The app supports multi-currency transactions and offers extensive customization of AI prompts, making it adaptable to various business needs.*
+> *The Compound Engineering plugin enhances AI-driven coding workflows for tools like Claude Code and Codex, boasting over 12,000 stars on GitHub. It emphasizes a philosophy where each engineering unit simplifies future tasks. Key features include commands for ideation, planning, execution, and multi-agent code reviews, enabling a streamlined development cycle. The plugin supports conversions for multiple platforms, ensuring versatility across coding environments. Users can sync personal configurations across various AI coding tools, promoting efficiency and consistency in development practices.*
 
-- ⭐ 3796 stars
+- ⭐ 12459 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-01
+- 📅 Updated: 2026-04-02
 
-![TaxHacker](2026/04-01/2026-04-01_daily-top_TaxHacker.png)
-
-### 10. [fastfetch](https://github.com/fastfetch-cli/fastfetch)
-
-> 🤖 **推荐理由**  
-> *Fastfetch is a high-performance, customizable system information tool inspired by Neofetch, written in C. It supports multiple platforms including Linux, macOS, Windows, and various BSDs. Key features include visually appealing output, extensive configurability using JSONC, and the ability to fetch detailed system data with minimal overhead. Fastfetch is actively maintained, faster than alternatives, and offers a range of modules for displaying diverse system information. Installation is straightforward across various package managers, making it accessible for users. With over 21,500 stars on GitHub, it is well-supported by the community.*
-
-- ⭐ 21545 stars
-- 💻 C
-- 📅 Updated: 2026-04-01
-
-![fastfetch](2026/04-01/2026-04-01_daily-top_fastfetch.png)
+![compound-engineering-plugin](2026/04-02/2026-04-02_daily-top_compound-engineering-plugin.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-01 03:27:06 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-02 02:53:04 UTC

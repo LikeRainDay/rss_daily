@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-02
 
-![everything-claude-code](2026/04-02/2026-04-02_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-04-02_daily-top_everything-claude-code.png)
 
 ### 2. [openscreen](https://github.com/siddharthvaddem/openscreen)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-02
 
-![openscreen](2026/04-02/2026-04-02_daily-top_openscreen.png)
+![openscreen](2026-04-02_daily-top_openscreen.png)
 
 ### 3. [codex](https://github.com/openai/codex)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-02
 
-![codex](2026/04-02/2026-04-02_daily-top_codex.png)
+![codex](2026-04-02_daily-top_codex.png)
 
 ### 4. [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-02
 
-![oh-my-claudecode](2026/04-02/2026-04-02_daily-top_oh-my-claudecode.png)
+![oh-my-claudecode](2026-04-02_daily-top_oh-my-claudecode.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-02
 
-![cc-switch](2026/04-02/2026-04-02_daily-top_cc-switch.png)
+![cc-switch](2026-04-02_daily-top_cc-switch.png)
 
 ### 6. [ink](https://github.com/vadimdemedes/ink)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-02
 
-![ink](2026/04-02/2026-04-02_daily-top_ink.png)
+![ink](2026-04-02_daily-top_ink.png)
 
 ### 7. [TaxHacker](https://github.com/vas3k/TaxHacker)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-02
 
-![TaxHacker](2026/04-02/2026-04-02_daily-top_TaxHacker.png)
+![TaxHacker](2026-04-02_daily-top_TaxHacker.png)
 
 ### 8. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-02
 
-![freeCodeCamp](2026/04-02/2026-04-02_daily-top_freeCodeCamp.png)
+![freeCodeCamp](2026-04-02_daily-top_freeCodeCamp.png)
 
 ### 9. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -115,7 +115,7 @@
 - 💻 C++
 - 📅 Updated: 2026-04-02
 
-![llama.cpp](2026/04-02/2026-04-02_daily-top_llama.cpp.png)
+![llama.cpp](2026-04-02_daily-top_llama.cpp.png)
 
 ### 10. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-02
 
-![compound-engineering-plugin](2026/04-02/2026-04-02_daily-top_compound-engineering-plugin.png)
+![compound-engineering-plugin](2026-04-02_daily-top_compound-engineering-plugin.png)
 
 ---
 
