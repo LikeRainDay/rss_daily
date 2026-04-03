@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-03
 
-![everything-claude-code](2026/04-03/2026-04-03_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-04-03_daily-top_everything-claude-code.png)
 
 ### 2. [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-03
 
-![oh-my-codex](2026/04-03/2026-04-03_daily-top_oh-my-codex.png)
+![oh-my-codex](2026-04-03_daily-top_oh-my-codex.png)
 
 ### 3. [openscreen](https://github.com/siddharthvaddem/openscreen)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-03
 
-![openscreen](2026/04-03/2026-04-03_daily-top_openscreen.png)
+![openscreen](2026-04-03_daily-top_openscreen.png)
 
 ### 4. [codex](https://github.com/openai/codex)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-03
 
-![codex](2026/04-03/2026-04-03_daily-top_codex.png)
+![codex](2026-04-03_daily-top_codex.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-03
 
-![cc-switch](2026/04-03/2026-04-03_daily-top_cc-switch.png)
+![cc-switch](2026-04-03_daily-top_cc-switch.png)
 
 ### 6. [forgecode](https://github.com/antinomyhq/forgecode)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-03
 
-![forgecode](2026/04-03/2026-04-03_daily-top_forgecode.png)
+![forgecode](2026-04-03_daily-top_forgecode.png)
 
 ### 7. [axios](https://github.com/axios/axios)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-03
 
-![axios](2026/04-03/2026-04-03_daily-top_axios.png)
+![axios](2026-04-03_daily-top_axios.png)
 
 ### 8. [astron-rpa](https://github.com/iflytek/astron-rpa)
 
@@ -104,7 +104,7 @@
 - 💻 Java
 - 📅 Updated: 2026-04-03
 
-![astron-rpa](2026/04-03/2026-04-03_daily-top_astron-rpa.png)
+![astron-rpa](2026-04-03_daily-top_astron-rpa.png)
 
 ### 9. [cs249r_book](https://github.com/harvard-edge/cs249r_book)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-03
 
-![cs249r_book](2026/04-03/2026-04-03_daily-top_cs249r_book.png)
+![cs249r_book](2026-04-03_daily-top_cs249r_book.png)
 
 ### 10. [open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-03
 
-![open-claude-cowork](2026/04-03/2026-04-03_daily-top_open-claude-cowork.png)
+![open-claude-cowork](2026-04-03_daily-top_open-claude-cowork.png)
 
 ---
 

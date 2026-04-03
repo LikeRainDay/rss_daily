@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-04-02
+# 📊 🌟 GitHub Trending Daily - 2026-04-03
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **869421** ⭐ | **96445** 🍴
+**10** Projects | **421319** ⭐ | **51041** 🍴
 
-**Top Languages:** `TypeScript` (6) · `Rust` (2) · `JavaScript` (1)
+**Top Languages:** `JavaScript` (4) · `Rust` (3) · `TypeScript` (2)
 
-**Updated:** 2026-04-02 02:53 UTC
+**Updated:** 2026-04-03 02:54 UTC
 
 **Categories:**
 
@@ -21,112 +21,113 @@
 ### 1. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
 > 🤖 **Why Recommend**  
-> *Everything Claude Code is a performance optimization system for AI agents, notably supporting Claude Code, Codex, and Cursor. Key features include advanced skills, instincts, memory optimization, continuous learning, and security scanning, making it suitable for production-ready agents. The project, with over 131,000 stars and an Anthropic Hackathon win, offers 36 specialized agents and 150 skills for diverse development workflows. It emphasizes a research-first approach, providing comprehensive guides and cross-platform support, ensuring seamless integration across major IDEs and command-line interfaces.*
+> *Everything Claude Code is a performance optimization system designed for AI agents like Claude Code, Codex, and Cursor. With over 130,000 stars, it offers features such as skills, instincts, memory optimization, security scanning, and continuous learning. The project includes 38 agents and 156 skills for various tasks, from code review to market research. It supports multiple languages and integrates smoothly with major IDEs. The system emphasizes a research-first development approach, ensuring production-ready agents and robust security measures.*
 
-- ⭐ 131363 stars
+- ⭐ 133857 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-04-02
+- 📅 Updated: 2026-04-03
 
-![everything-claude-code](2026/04-02/2026-04-02_daily-top_everything-claude-code.png)
+![everything-claude-code](2026/04-03/2026-04-03_daily-top_everything-claude-code.png)
 
-### 2. [openscreen](https://github.com/siddharthvaddem/openscreen)
+### 2. [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
 
 > 🤖 **Why Recommend**  
-> *OpenScreen is a free, open-source tool for creating product demos and walkthroughs, serving as a simpler alternative to Screen Studio. Key features include screen recording, customizable zooms, audio capture, video cropping, and annotation tools. Users can customize backgrounds, add motion blur, trim clips, and export in various resolutions. OpenScreen is fully free for personal and commercial use, with no watermarks. Built with TypeScript and Electron, it aims to provide essential functionalities without the cost, making it accessible for everyone.*
+> *oh-my-codex (OMX) is a TypeScript-based workflow layer designed to enhance the OpenAI Codex CLI experience. With over 11,999 stars, it allows users to initiate stronger Codex sessions and streamline project workflows. Key features include role-specific commands like `$deep-interview`, `$ralplan`, `$team`, and `$ralph` for task management, as well as durable state tracking in `.omx/`. OMX is ideal for users seeking improved task routing, project guidance, and collaboration in complex coding tasks. Comprehensive documentation and community support are available.*
 
-- ⭐ 13627 stars
+- ⭐ 11999 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-02
+- 📅 Updated: 2026-04-03
 
-![openscreen](2026/04-02/2026-04-02_daily-top_openscreen.png)
+![oh-my-codex](2026/04-03/2026-04-03_daily-top_oh-my-codex.png)
 
-### 3. [codex](https://github.com/openai/codex)
+### 3. [openscreen](https://github.com/siddharthvaddem/openscreen)
 
 > 🤖 **Why Recommend**  
-> *Codex is a lightweight coding agent from OpenAI that operates directly in your terminal, offering a seamless coding experience. Installable via npm or Homebrew, Codex enhances productivity by integrating with popular IDEs like VS Code and providing a desktop app option. Users can leverage Codex's capabilities through their ChatGPT accounts or API keys. With over 71,885 stars on GitHub, Codex supports local execution and cloud-based services, making it a versatile tool for developers. Comprehensive documentation and community contribution guidelines are available.*
+> *OpenScreen is a free, open-source tool for creating stunning product demos and walkthroughs, serving as a simplified alternative to Screen Studio. Key features include screen recording, customizable zooms, microphone and system audio capture, video cropping, and annotation tools. Users can customize backgrounds, apply motion blur, and export in various resolutions. OpenScreen is fully free for personal and commercial use, with no subscriptions or watermarks. Built with TypeScript, Electron, and React, it invites contributions and supports multiple platforms.*
 
-- ⭐ 71885 stars
+- ⭐ 16162 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-03
+
+![openscreen](2026/04-03/2026-04-03_daily-top_openscreen.png)
+
+### 4. [codex](https://github.com/openai/codex)
+
+> 🤖 **Why Recommend**  
+> *Codex is a lightweight coding agent by OpenAI that operates directly in your terminal, designed for seamless integration with your development workflow. With over 72,000 stars on GitHub, it offers easy installation via npm or Homebrew. Codex can be utilized in IDEs like VS Code, or through a dedicated desktop app. Users can enhance functionality by signing in with their ChatGPT account or using an API key. The project is open-source and includes comprehensive documentation for installation and contributions, making it a valuable tool for developers.*
+
+- ⭐ 72664 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-02
+- 📅 Updated: 2026-04-03
 
-![codex](2026/04-02/2026-04-02_daily-top_codex.png)
-
-### 4. [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
-
-> 🤖 **Why Recommend**  
-> *oh-my-claudecode is a powerful multi-agent orchestration tool designed for Claude Code users, featuring a zero-learning curve and seamless integration. Key highlights include team-first orchestration, automatic parallelization, and a natural language interface for task management. Users can leverage intelligent routing among 32 specialized agents for various tasks, from code reviews to UI design. With real-time visibility, persistent execution, and customizable skills, it optimizes workflows while saving costs. Ideal for teams, it simplifies complex projects with minimal setup.*
-
-- ⭐ 21101 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-02
-
-![oh-my-claudecode](2026/04-02/2026-04-02_daily-top_oh-my-claudecode.png)
+![codex](2026/04-03/2026-04-03_daily-top_codex.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *CC Switch is a cross-platform desktop assistant tool designed to manage multiple CLI tools including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. Key features include a unified interface with over 50 provider presets for easy switching, cloud sync for provider data, and streamlined management of MCP and Skills. It provides system tray quick access, local proxy support, and detailed usage tracking. Built with Rust and Tauri, CC Switch ensures a seamless experience on Windows, macOS, and Linux, making AI-powered coding more efficient and user-friendly.*
+> *CC Switch is a cross-platform desktop assistant tool designed for managing five CLI tools: Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. Built with Rust and Tauri, it offers a unified interface to switch between providers without manual configuration, featuring over 50 presets and instant provider switching from the system tray. Key highlights include unified MCP and Skills management, cloud sync capabilities, and built-in utilities for enhanced user experience. With 37,936 stars, CC Switch streamlines AI-powered coding workflows across Windows, macOS, and Linux.*
 
-- ⭐ 37179 stars
+- ⭐ 37936 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-02
+- 📅 Updated: 2026-04-03
 
-![cc-switch](2026/04-02/2026-04-02_daily-top_cc-switch.png)
+![cc-switch](2026/04-03/2026-04-03_daily-top_cc-switch.png)
 
-### 6. [ink](https://github.com/vadimdemedes/ink)
-
-> 🤖 **Why Recommend**  
-> *Ink is a powerful TypeScript library that enables developers to create interactive command-line applications using React components. It leverages Yoga for Flexbox layouts, allowing familiar CSS-like styling. Key features include hooks for user input, paste handling, and lifecycle management, alongside components like `<Text>`, `<Box>`, and `<Static>`. Ink supports screen readers and custom accessibility features, making it user-friendly. With over 36,700 stars on GitHub, it’s widely adopted by projects like GitHub Copilot CLI and Cloudflare's Wrangler, enhancing CLI UI experiences.*
-
-- ⭐ 36741 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-02
-
-![ink](2026/04-02/2026-04-02_daily-top_ink.png)
-
-### 7. [TaxHacker](https://github.com/vas3k/TaxHacker)
+### 6. [forgecode](https://github.com/antinomyhq/forgecode)
 
 > 🤖 **Why Recommend**  
-> *TaxHacker is a self-hosted AI accounting app tailored for freelancers and small businesses. It utilizes LLMs to analyze receipts, invoices, and transactions, automatically extracting key data like amounts and dates, while supporting custom prompts and categories. Key features include multi-currency support with historical conversion rates, customizable transaction organization, advanced filtering, and a self-hosted mode for data privacy. TaxHacker enables efficient expense tracking and tax reporting, making financial management simpler and more automated.*
+> *ForgeCode is an AI-enhanced terminal development environment designed to assist developers using over 300 models, including Claude, GPT, and Gemini. With 5,723 stars on GitHub, it enables seamless integration of AI capabilities into coding workflows. Key features include zero-configuration setup, multi-provider support, and secure shell mode for enhanced safety. Developers can utilize Forge for code understanding, debugging, and refactoring, while the Model Context Protocol (MCP) allows integration with external tools. Join the community on Discord for support and collaboration.*
 
-- ⭐ 4025 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-02
+- ⭐ 5723 stars
+- 💻 Rust
+- 📅 Updated: 2026-04-03
 
-![TaxHacker](2026/04-02/2026-04-02_daily-top_TaxHacker.png)
+![forgecode](2026/04-03/2026-04-03_daily-top_forgecode.png)
 
-### 8. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-
-> 🤖 **Why Recommend**  
-> *freeCodeCamp is an open-source platform offering free coding education. With over 440,000 stars, it features a full-stack web development and machine learning curriculum, providing interactive coding challenges and certifications in areas like Responsive Web Design, JavaScript, and Python. The community-driven initiative supports learners through forums, a YouTube channel, and a Discord server. FreeCodeCamp also includes resources for job preparation and promotes contributions from volunteers, fostering a collaborative environment for aspiring developers.*
-
-- ⭐ 440426 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-02
-
-![freeCodeCamp](2026/04-02/2026-04-02_daily-top_freeCodeCamp.png)
-
-### 9. [llama.cpp](https://github.com/ggml-org/llama.cpp)
+### 7. [axios](https://github.com/axios/axios)
 
 > 🤖 **Why Recommend**  
-> *Llama.cpp is a high-performance C/C++ library for large language model (LLM) inference, boasting over 100,000 stars on GitHub. Key features include dependency-free implementation, optimized support for various hardware (Apple Silicon, AVX, RISC-V), and multiple quantization options for speed and memory efficiency. It offers a user-friendly CLI tool and a REST API for easy model deployment. The project supports numerous LLMs, including LLaMA and Mistral, and integrates seamlessly with Hugging Face for model management and conversion.*
+> *Axios is a popular, promise-based HTTP client for both browser and Node.js environments, boasting over 109,000 stars on GitHub. Key features include support for making XMLHttpRequests and Node.js HTTP requests, automatic JSON handling, request and response interceptors, and request cancellation. Axios simplifies data transformation and serialization into different formats like `application/x-www-form-urlencoded` and `multipart/form-data`. It also provides robust error handling and TypeScript support, making it a versatile choice for developers looking for a reliable HTTP client.*
 
-- ⭐ 100615 stars
-- 💻 C++
-- 📅 Updated: 2026-04-02
+- ⭐ 109003 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-04-03
 
-![llama.cpp](2026/04-02/2026-04-02_daily-top_llama.cpp.png)
+![axios](2026/04-03/2026-04-03_daily-top_axios.png)
 
-### 10. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+### 8. [astron-rpa](https://github.com/iflytek/astron-rpa)
 
 > 🤖 **Why Recommend**  
-> *The Compound Engineering plugin enhances AI-driven coding workflows for tools like Claude Code and Codex, boasting over 12,000 stars on GitHub. It emphasizes a philosophy where each engineering unit simplifies future tasks. Key features include commands for ideation, planning, execution, and multi-agent code reviews, enabling a streamlined development cycle. The plugin supports conversions for multiple platforms, ensuring versatility across coding environments. Users can sync personal configurations across various AI coding tools, promoting efficiency and consistency in development practices.*
+> *AstronRPA is an open-source, enterprise-grade Robotic Process Automation (RPA) desktop application designed for seamless automation of Windows desktop applications and web pages. Key features include a low-code/no-code visual designer, over 300 pre-built automation components, and tight integration with the Astron Agent for intelligent task execution. It offers robust security, team collaboration, and multi-channel trigger integration. Built on a scalable architecture using Java and Python, AstronRPA empowers users to efficiently automate complex business processes.*
 
-- ⭐ 12459 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-02
+- ⭐ 7314 stars
+- 💻 Java
+- 📅 Updated: 2026-04-03
 
-![compound-engineering-plugin](2026/04-02/2026-04-02_daily-top_compound-engineering-plugin.png)
+![astron-rpa](2026/04-03/2026-04-03_daily-top_astron-rpa.png)
+
+### 9. [cs249r_book](https://github.com/harvard-edge/cs249r_book)
+
+> 🤖 **Why Recommend**  
+> *The cs249r_book project, a comprehensive curriculum for Machine Learning Systems, aims to establish AI engineering as a foundational discipline. Key features include a two-volume textbook, interactive labs powered by MLSys·im, TinyTorch for building ML frameworks, hardware kits for real-world deployment, and StaffML for interview preparation. With over 23,000 stars, the project provides educators with resources like syllabi and lecture slides, fostering a community dedicated to training 1 million learners by 2030.*
+
+- ⭐ 23302 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-04-03
+
+![cs249r_book](2026/04-03/2026-04-03_daily-top_cs249r_book.png)
+
+### 10. [open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork)
+
+> 🤖 **Why Recommend**  
+> *Open Source version of Claude Cowork with 500+ SaaS app integrations. popular project, actively maintained, recently updated*
+
+- ⭐ 3359 stars
+- 🍴 455 forks
+- 💻 JavaScript
+- 📅 Updated: 2026-04-03
+
+![open-claude-cowork](2026/04-03/2026-04-03_daily-top_open-claude-cowork.png)
 
 ---
 
@@ -140,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-02 02:53:04 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-03 02:54:55 UTC
