@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-04
 
-![oh-my-codex](2026/04-04/2026-04-04_daily-top_oh-my-codex.png)
+![oh-my-codex](2026-04-04_daily-top_oh-my-codex.png)
 
 ### 2. [openscreen](https://github.com/siddharthvaddem/openscreen)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-04
 
-![openscreen](2026/04-04/2026-04-04_daily-top_openscreen.png)
+![openscreen](2026-04-04_daily-top_openscreen.png)
 
 ### 3. [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-04
 
-![fff.nvim](2026/04-04/2026-04-04_daily-top_fff.nvim.png)
+![fff.nvim](2026-04-04_daily-top_fff.nvim.png)
 
 ### 4. [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-04
 
-![oh-my-openagent](2026/04-04/2026-04-04_daily-top_oh-my-openagent.png)
+![oh-my-openagent](2026-04-04_daily-top_oh-my-openagent.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-04
 
-![cc-switch](2026/04-04/2026-04-04_daily-top_cc-switch.png)
+![cc-switch](2026-04-04_daily-top_cc-switch.png)
 
 ### 6. [codex](https://github.com/openai/codex)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-04
 
-![codex](2026/04-04/2026-04-04_daily-top_codex.png)
+![codex](2026-04-04_daily-top_codex.png)
 
 ### 7. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -93,7 +93,7 @@
 - 💻 C++
 - 📅 Updated: 2026-04-04
 
-![llama.cpp](2026/04-04/2026-04-04_daily-top_llama.cpp.png)
+![llama.cpp](2026-04-04_daily-top_llama.cpp.png)
 
 ### 8. [gallery](https://github.com/google-ai-edge/gallery)
 
@@ -104,7 +104,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-04-04
 
-![gallery](2026/04-04/2026-04-04_daily-top_gallery.png)
+![gallery](2026-04-04_daily-top_gallery.png)
 
 ### 9. [multica](https://github.com/multica-ai/multica)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-04
 
-![multica](2026/04-04/2026-04-04_daily-top_multica.png)
+![multica](2026-04-04_daily-top_multica.png)
 
 ### 10. [new-api](https://github.com/QuantumNous/new-api)
 
@@ -126,7 +126,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-04
 
-![new-api](2026/04-04/2026-04-04_daily-top_new-api.png)
+![new-api](2026-04-04_daily-top_new-api.png)
 
 ---
 
