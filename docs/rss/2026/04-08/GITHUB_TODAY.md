@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-08
 
-![openclaw](2026/04-08/2026-04-08_daily-top_openclaw.png)
+![openclaw](2026-04-08_daily-top_openclaw.png)
 
 ### 2. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-08
 
-![GitNexus](2026/04-08/2026-04-08_daily-top_GitNexus.png)
+![GitNexus](2026-04-08_daily-top_GitNexus.png)
 
 ### 3. [goose](https://github.com/aaif-goose/goose)
 
@@ -50,7 +50,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-08
 
-![goose](2026/04-08/2026-04-08_daily-top_goose.png)
+![goose](2026-04-08_daily-top_goose.png)
 
 ### 4. [shannon](https://github.com/KeygraphHQ/shannon)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-08
 
-![shannon](2026/04-08/2026-04-08_daily-top_shannon.png)
+![shannon](2026-04-08_daily-top_shannon.png)
 
 ### 5. [gallery](https://github.com/google-ai-edge/gallery)
 
@@ -72,7 +72,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-04-08
 
-![gallery](2026/04-08/2026-04-08_daily-top_gallery.png)
+![gallery](2026-04-08_daily-top_gallery.png)
 
 ### 6. [qmd](https://github.com/tobi/qmd)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-08
 
-![qmd](2026/04-08/2026-04-08_daily-top_qmd.png)
+![qmd](2026-04-08_daily-top_qmd.png)
 
 ### 7. [developer-icons](https://github.com/xandemon/developer-icons)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-08
 
-![developer-icons](2026/04-08/2026-04-08_daily-top_developer-icons.png)
+![developer-icons](2026-04-08_daily-top_developer-icons.png)
 
 ### 8. [page-agent](https://github.com/alibaba/page-agent)
 
@@ -106,7 +106,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-08
 
-![page-agent](2026/04-08/2026-04-08_daily-top_page-agent.png)
+![page-agent](2026-04-08_daily-top_page-agent.png)
 
 ### 9. [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
 
@@ -117,7 +117,7 @@
 - 💻 C++
 - 📅 Updated: 2026-04-08
 
-![LiteRT-LM](2026/04-08/2026-04-08_daily-top_LiteRT-LM.png)
+![LiteRT-LM](2026-04-08_daily-top_LiteRT-LM.png)
 
 ### 10. [ollama](https://github.com/ollama/ollama)
 
@@ -128,7 +128,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-08
 
-![ollama](2026/04-08/2026-04-08_daily-top_ollama.png)
+![ollama](2026-04-08_daily-top_ollama.png)
 
 ---
 

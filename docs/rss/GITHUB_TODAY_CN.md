@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-04-04
+# 📊 🌟 GitHub Trending Daily - 2026-04-08
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **338817** ⭐ | **41843** 🍴
+**10** 个项目 | **679642** ⭐ | **101279** 🍴
 
-**热门语言:** `TypeScript` (4) · `Rust` (3) · `Kotlin` (1)
+**热门语言:** `TypeScript` (6) · `C++` (1) · `Rust` (1)
 
-**更新时间:** 2026-04-04 02:45 UTC
+**更新时间:** 2026-04-08 02:59 UTC
 
 **分类分布:**
 
@@ -18,115 +18,117 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+### 1. [openclaw](https://github.com/openclaw/openclaw)
 
 > 🤖 **推荐理由**  
-> *oh-my-codex (OMX) enhances the OpenAI Codex CLI, providing a structured workflow for better task management. With features like `$deep-interview`, `$ralplan`, `$team`, and `$ralph`, users can streamline their coding processes from clarification to execution. OMX maintains project guidance and state in `.omx/`, ensuring efficient collaboration and logging. Designed for those familiar with Codex, it offers reusable roles and skills, making day-to-day coding more effective. Ideal for developers seeking to optimize their Codex experience, OMX has garnered over 14,200 stars on GitHub.*
+> *OpenClaw is a personal AI assistant designed to operate across multiple platforms and messaging channels, including WhatsApp, Telegram, Discord, and more. With over 351,000 stars, it offers features like multi-channel inbox integration, voice wake capabilities, and live Canvas for visual interactions. The assistant runs locally, ensuring speed and privacy, with an onboarding process to guide setup. It supports various models and tools, enhancing user experience through tailored skills and automation options, making it a versatile solution for personal assistance.*
 
-- ⭐ 14238 stars
+- ⭐ 351354 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-04
+- 📅 Updated: 2026-04-08
 
-![oh-my-codex](2026/04-04/2026-04-04_daily-top_oh-my-codex.png)
+![openclaw](2026/04-08/2026-04-08_daily-top_openclaw.png)
 
-### 2. [openscreen](https://github.com/siddharthvaddem/openscreen)
+### 2. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
 > 🤖 **推荐理由**  
-> *OpenScreen is a free, open-source alternative to Screen Studio, designed for creating product demos and walkthroughs without any subscriptions or watermarks. Key features include screen recording, customizable zooms, audio capture, video cropping, and the ability to add annotations. Users can choose backgrounds, apply motion blur, and trim clips while exporting in various resolutions. Built with TypeScript and Electron, OpenScreen is suitable for both personal and commercial use, allowing modifications and distribution. Ideal for those seeking a straightforward, no-cost solution for screen recording.*
+> *GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop . popular project, actively maintained, recently updated*
 
-- ⭐ 18286 stars
+- ⭐ 24607 stars
+- 🍴 2744 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-04-04
+- 📅 Updated: 2026-04-08
 
-![openscreen](2026/04-04/2026-04-04_daily-top_openscreen.png)
+![GitNexus](2026/04-08/2026-04-08_daily-top_GitNexus.png)
 
-### 3. [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
+### 3. [goose](https://github.com/aaif-goose/goose)
 
 > 🤖 **推荐理由**  
-> *fff.nvim is a high-performance fuzzy file search toolkit for AI agents and Neovim, built in Rust. It offers rapid file searching, grepping, and advanced filtering with a focus on accuracy and efficiency, providing a seamless experience for both users and AI integrations. Key features include multi-select capabilities, live grep with multiple modes (plain, regex, fuzzy), Git status highlighting, and a built-in memory system to optimize search results. Installation is straightforward, and it supports extensive customization through configurable options and key mappings, making it an essential tool for developers.*
+> *Goose is an open-source AI agent designed for versatile tasks beyond code suggestions, including research, automation, and data analysis. It offers a native desktop app for macOS, Linux, and Windows, a full CLI for terminal workflows, and an API for integration. Built in Rust, Goose supports 15+ providers like OpenAI and Google, enabling seamless connectivity to 70+ extensions via the Model Context Protocol. Now part of the Agentic AI Foundation at the Linux Foundation, it aims to enhance productivity across various domains.*
 
-- ⭐ 3286 stars
+- ⭐ 39064 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-04
+- 📅 Updated: 2026-04-08
 
-![fff.nvim](2026/04-04/2026-04-04_daily-top_fff.nvim.png)
+![goose](2026/04-08/2026-04-08_daily-top_goose.png)
 
-### 4. [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+### 4. [shannon](https://github.com/KeygraphHQ/shannon)
 
 > 🤖 **推荐理由**  
-> *oh-my-openagent (formerly oh-my-opencode) is a powerful TypeScript-based agent harness with 47,854 stars on GitHub. It enables seamless orchestration of multiple AI models for enhanced coding efficiency. Key features include the `ultrawork` command to activate all agents simultaneously, Discipline Agents for parallel task execution, a Hash-Anchored Edit Tool for error-free modifications, and integrated LSP tools for precise refactoring. With built-in skills and productivity features like the Todo Enforcer, it streamlines workflows, making it ideal for developers seeking an open-source solution without vendor lock-in. Join the community on Discord to witness real-time development!*
+> *Shannon Lite is an autonomous AI pentester designed for web applications and APIs, developed by Keygraph. It conducts white-box security testing by analyzing source code to identify vulnerabilities, executing real exploits to validate findings. Key features include fully autonomous operation, reproducible proof-of-concept exploits, and comprehensive OWASP coverage (e.g., Injection, XSS, SSRF). Available via `npx @keygraph/shannon`, it enhances security by enabling on-demand testing against every build. Shannon Pro offers an expanded feature set for organizations needing an all-in-one AppSec platform with CI/CD integration.*
 
-- ⭐ 47854 stars
+- ⭐ 37420 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-04
+- 📅 Updated: 2026-04-08
 
-![oh-my-openagent](2026/04-04/2026-04-04_daily-top_oh-my-openagent.png)
+![shannon](2026/04-08/2026-04-08_daily-top_shannon.png)
 
-### 5. [cc-switch](https://github.com/farion1231/cc-switch)
-
-> 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop assistant for managing multiple AI coding tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. Key features include a unified interface for switching between 50+ provider presets without manual config editing, a unified management panel for MCP and Skills, and instant provider switching via system tray access. It supports cloud sync across devices, offers built-in utilities, and is built with Tauri in Rust. With over 38,500 stars, it streamlines AI tool management, enhancing productivity for developers.*
-
-- ⭐ 38513 stars
-- 💻 Rust
-- 📅 Updated: 2026-04-04
-
-![cc-switch](2026/04-04/2026-04-04_daily-top_cc-switch.png)
-
-### 6. [codex](https://github.com/openai/codex)
+### 5. [gallery](https://github.com/google-ai-edge/gallery)
 
 > 🤖 **推荐理由**  
-> *Codex is a lightweight coding agent from OpenAI that runs locally in your terminal, designed for seamless coding assistance. With over 72,000 stars on GitHub, it can be easily installed via npm or Homebrew. Key features include integration with popular code editors like VS Code and the option to use a desktop app. Users can also access Codex through their ChatGPT plans or with an API key. The project offers extensive documentation, contributing guidelines, and is licensed under Apache-2.0, making it a valuable tool for developers seeking enhanced coding capabilities.*
+> *The Google AI Edge Gallery is a mobile app enabling users to explore and experience cutting-edge on-device Generative AI, including the advanced Gemma 4 model. Key features include Agent Skills for enhanced model capabilities, AI Chat with a Thinking Mode for transparent reasoning, multimodal image and audio processing, and a Prompt Lab for testing prompts. With 100% on-device privacy and support for various open-source models, the app provides a secure and flexible environment to evaluate AI capabilities directly on users' devices. Available on Android and iOS.*
 
-- ⭐ 72964 stars
-- 💻 Rust
-- 📅 Updated: 2026-04-04
-
-![codex](2026/04-04/2026-04-04_daily-top_codex.png)
-
-### 7. [llama.cpp](https://github.com/ggml-org/llama.cpp)
-
-> 🤖 **推荐理由**  
-> *llama.cpp is a high-performance C/C++ library for large language model (LLM) inference, boasting over 101,000 stars on GitHub. Key features include minimal setup, support for various architectures (Apple Silicon, x86, RISC-V), and advanced quantization options for efficient memory use. It enables both CPU and GPU hybrid inference and comes with a command-line interface (llama-cli) and an OpenAI-compatible API server (llama-server). Integration with Hugging Face allows easy model access, while multimodal support enhances functionality. The project is actively developed, with extensive documentation and community support.*
-
-- ⭐ 101178 stars
-- 💻 C++
-- 📅 Updated: 2026-04-04
-
-![llama.cpp](2026/04-04/2026-04-04_daily-top_llama.cpp.png)
-
-### 8. [gallery](https://github.com/google-ai-edge/gallery)
-
-> 🤖 **推荐理由**  
-> *The Google AI Edge Gallery is a Kotlin-based app that showcases on-device ML/GenAI use cases, enabling users to run powerful open-source Large Language Models (LLMs) offline. Key features include Agent Skills for enhanced model capabilities, AI Chat with a Thinking Mode for insight into reasoning processes, and multimodal tools like Ask Image and Audio Scribe. Users can manage models easily, ensuring 100% on-device privacy. The latest update supports the Gemma 4 family, providing advanced creative and reasoning functionalities. Available on Google Play and App Store.*
-
-- ⭐ 15902 stars
+- ⭐ 18870 stars
 - 💻 Kotlin
-- 📅 Updated: 2026-04-04
+- 📅 Updated: 2026-04-08
 
-![gallery](2026/04-04/2026-04-04_daily-top_gallery.png)
+![gallery](2026/04-08/2026-04-08_daily-top_gallery.png)
 
-### 9. [multica](https://github.com/multica-ai/multica)
+### 6. [qmd](https://github.com/tobi/qmd)
 
 > 🤖 **推荐理由**  
-> *Multica is an open-source platform designed to integrate coding agents as collaborative teammates, enabling a streamlined task management experience. With features like autonomous execution, reusable skills, and a unified dashboard for local and cloud runtimes, users can efficiently assign tasks, track progress, and manage both human and agent workforces. It supports multi-workspace organization and works with Claude Code and Codex. Users can quickly start with Multica Cloud or self-host using Docker. The platform emphasizes productivity by automating task lifecycles and promoting skill compounding.*
+> *qmd is a mini CLI search engine designed for efficiently indexing and searching through various types of documents, including knowledge bases, meeting notes, and personal documentation. Built with TypeScript, it leverages state-of-the-art techniques while ensuring that all operations are conducted locally, prioritizing user privacy and data security. With over 19,600 stars, qmd offers powerful features such as intuitive search capabilities, customizable indexing options, and a user-friendly command-line interface, making it an invaluable tool for knowledge management and retrieval.*
 
-- ⭐ 1869 stars
+- ⭐ 19622 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-04
+- 📅 Updated: 2026-04-08
 
-![multica](2026/04-04/2026-04-04_daily-top_multica.png)
+![qmd](2026/04-08/2026-04-08_daily-top_qmd.png)
 
-### 10. [new-api](https://github.com/QuantumNous/new-api)
+### 7. [developer-icons](https://github.com/xandemon/developer-icons)
 
 > 🤖 **推荐理由**  
-> *New API is a next-generation AI model hub designed for seamless aggregation and distribution of various large language models (LLMs). It facilitates cross-conversion into OpenAI, Claude, and Gemini formats, enabling unified model management for personal and enterprise use. Key features include multi-language support, a modern UI, data compatibility with One API, payment integration (EPay, Stripe), and robust authorization methods (Discord, OIDC). Advanced functionalities include intelligent routing, flexible billing, and comprehensive API support, making it an essential tool for AI asset management.*
+> *developer-icons is a collection of high-quality, customizable SVG tech logos designed for developers and designers. Built with TypeScript, it features optimized performance, scalability, and consistent styles across various icon families, including light and dark modes. The project is free and open-source, making it accessible for all. Key highlights include seamless integration with React, extensive customization options, and support for various development tools like Astro and Tailwind CSS. Explore and enhance your projects with these versatile icons today!*
 
-- ⭐ 24727 stars
+- ⭐ 1812 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-08
+
+![developer-icons](2026/04-08/2026-04-08_daily-top_developer-icons.png)
+
+### 8. [page-agent](https://github.com/alibaba/page-agent)
+
+> 🤖 **推荐理由**  
+> *JavaScript in-page GUI agent. Control web interfaces with natural language.. popular project, actively maintained, recently updated*
+
+- ⭐ 16231 stars
+- 🍴 1296 forks
+- 💻 TypeScript
+- 📅 Updated: 2026-04-08
+
+![page-agent](2026/04-08/2026-04-08_daily-top_page-agent.png)
+
+### 9. [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
+
+> 🤖 **推荐理由**  
+> *LiteRT-LM is Google's high-performance, open-source inference framework for deploying Large Language Models on edge devices. It supports cross-platform usage (Android, iOS, Web, Desktop, IoT) and offers hardware acceleration via GPUs and NPUs. Key features include multi-modality for vision and audio inputs, tool use for agentic workflows, and broad model support (Gemma, Llama, etc.). LiteRT-LM powers on-device GenAI experiences in products like Chrome and Pixel Watch. Users can start quickly with the LiteRT-LM CLI for immediate model deployment.*
+
+- ⭐ 2600 stars
+- 💻 C++
+- 📅 Updated: 2026-04-08
+
+![LiteRT-LM](2026/04-08/2026-04-08_daily-top_LiteRT-LM.png)
+
+### 10. [ollama](https://github.com/ollama/ollama)
+
+> 🤖 **推荐理由**  
+> *Ollama is a powerful platform for building with open AI models like Kimi-K2.5, GLM-5, and Gemma. With support for macOS, Windows, and Linux, users can easily install and integrate models via CLI or REST API. Key features include launching AI assistants (e.g., OpenClaw), chatting with models, and integrating with existing applications like Claude and Codex. Ollama also offers extensive community support, libraries for Python and JavaScript, and a Docker image for containerized deployments, making it a versatile tool for developers.*
+
+- ⭐ 168062 stars
 - 💻 Go
-- 📅 Updated: 2026-04-04
+- 📅 Updated: 2026-04-08
 
-![new-api](2026/04-04/2026-04-04_daily-top_new-api.png)
+![ollama](2026/04-08/2026-04-08_daily-top_ollama.png)
 
 ---
 
@@ -140,4 +142,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-04 02:45:35 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-08 02:59:00 UTC
