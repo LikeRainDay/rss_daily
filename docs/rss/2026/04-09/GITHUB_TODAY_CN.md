@@ -27,7 +27,7 @@
 - 💻 Java
 - 📅 Updated: 2026-04-09
 
-![opendataloader-pdf](2026/04-09/2026-04-09_daily-top_opendataloader-pdf.png)
+![opendataloader-pdf](2026-04-09_daily-top_opendataloader-pdf.png)
 
 ### 2. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-09
 
-![GitNexus](2026/04-09/2026-04-09_daily-top_GitNexus.png)
+![GitNexus](2026-04-09_daily-top_GitNexus.png)
 
 ### 3. [goose](https://github.com/aaif-goose/goose)
 
@@ -50,7 +50,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-09
 
-![goose](2026/04-09/2026-04-09_daily-top_goose.png)
+![goose](2026-04-09_daily-top_goose.png)
 
 ### 4. [gallery](https://github.com/google-ai-edge/gallery)
 
@@ -61,7 +61,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-04-09
 
-![gallery](2026/04-09/2026-04-09_daily-top_gallery.png)
+![gallery](2026-04-09_daily-top_gallery.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -72,7 +72,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-09
 
-![cc-switch](2026/04-09/2026-04-09_daily-top_cc-switch.png)
+![cc-switch](2026-04-09_daily-top_cc-switch.png)
 
 ### 6. [qmd](https://github.com/tobi/qmd)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-09
 
-![qmd](2026/04-09/2026-04-09_daily-top_qmd.png)
+![qmd](2026-04-09_daily-top_qmd.png)
 
 ### 7. [Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI)
 
@@ -94,7 +94,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-09
 
-![Open-Higgsfield-AI](2026/04-09/2026-04-09_daily-top_Open-Higgsfield-AI.png)
+![Open-Higgsfield-AI](2026-04-09_daily-top_Open-Higgsfield-AI.png)
 
 ### 8. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -105,7 +105,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-09
 
-![impeccable](2026/04-09/2026-04-09_daily-top_impeccable.png)
+![impeccable](2026-04-09_daily-top_impeccable.png)
 
 ### 9. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -116,7 +116,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-09
 
-![get-shit-done](2026/04-09/2026-04-09_daily-top_get-shit-done.png)
+![get-shit-done](2026-04-09_daily-top_get-shit-done.png)
 
 ### 10. [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
 
@@ -127,7 +127,7 @@
 - 💻 C++
 - 📅 Updated: 2026-04-09
 
-![LiteRT-LM](2026/04-09/2026-04-09_daily-top_LiteRT-LM.png)
+![LiteRT-LM](2026-04-09_daily-top_LiteRT-LM.png)
 
 ---
 
