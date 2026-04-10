@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-04-09
+# 📊 🌟 GitHub Trending Daily - 2026-04-10
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **232623** ⭐ | **19265** 🍴
+**10** 个项目 | **366600** ⭐ | **34766** 🍴
 
-**热门语言:** `JavaScript` (3) · `TypeScript` (2) · `Rust` (2)
+**热门语言:** `TypeScript` (4) · `Rust` (2) · `JavaScript` (2)
 
-**更新时间:** 2026-04-09 02:53 UTC
+**更新时间:** 2026-04-10 03:25 UTC
 
 **分类分布:**
 
@@ -18,116 +18,116 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+### 1. [multica](https://github.com/multica-ai/multica)
 
 > 🤖 **推荐理由**  
-> *OpenDataLoader PDF is an open-source PDF parser designed for AI-ready data extraction and automated PDF accessibility. With over 12,700 stars, it excels in extracting structured data (Markdown, JSON, HTML) while achieving #1 accuracy in benchmarks (0.907 overall). It supports complex content, including tables and OCR for scanned PDFs. The tool features a unique auto-tagging capability for generating Tagged PDFs, compliant with accessibility standards, and integrates with LangChain for RAG pipelines. Core services include layout analysis, accessibility compliance, and enterprise options for PDF/UA export.*
+> *Multica is an open-source managed agents platform designed to enhance productivity by integrating coding agents as teammates. With 4,481 stars, it allows users to assign tasks, track progress, and compound skills seamlessly. Key features include autonomous execution of tasks, reusable skills, unified runtimes for local and cloud environments, and multi-workspace organization. The platform supports major coding agents like Claude Code, Codex, OpenClaw, and OpenCode, making it a versatile choice for teams looking to optimize collaboration between humans and AI.*
 
-- ⭐ 12788 stars
-- 💻 Java
-- 📅 Updated: 2026-04-09
-
-![opendataloader-pdf](2026/04-09/2026-04-09_daily-top_opendataloader-pdf.png)
-
-### 2. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
-
-> 🤖 **推荐理由**  
-> *GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop . popular project, actively maintained, recently updated*
-
-- ⭐ 25388 stars
-- 🍴 2819 forks
+- ⭐ 4481 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-09
+- 📅 Updated: 2026-04-10
 
-![GitNexus](2026/04-09/2026-04-09_daily-top_GitNexus.png)
+![multica](2026/04-10/2026-04-10_daily-top_multica.png)
 
-### 3. [goose](https://github.com/aaif-goose/goose)
-
-> 🤖 **推荐理由**  
-> *Goose is an open-source AI agent designed for versatile tasks beyond code suggestions, including research, automation, and data analysis. It features a native desktop app for macOS, Linux, and Windows, a full CLI for terminal workflows, and an API for integration. Built in Rust for performance, Goose supports 15+ AI providers like OpenAI and Google, and connects to 70+ extensions via the Model Context Protocol. Now part of the Agentic AI Foundation at the Linux Foundation, Goose offers extensive documentation and community support through Discord and other platforms.*
-
-- ⭐ 40009 stars
-- 💻 Rust
-- 📅 Updated: 2026-04-09
-
-![goose](2026/04-09/2026-04-09_daily-top_goose.png)
-
-### 4. [gallery](https://github.com/google-ai-edge/gallery)
+### 2. [rowboat](https://github.com/rowboatlabs/rowboat)
 
 > 🤖 **推荐理由**  
-> *The Google AI Edge Gallery is an innovative platform that allows users to experience cutting-edge on-device Generative AI, featuring the powerful Gemma 4 family of models. Key features include AI Chat with Thinking Mode for enhanced reasoning, multimodal capabilities with Ask Image, real-time transcription via Audio Scribe, and a Prompt Lab for testing prompts. Privacy is paramount, with all processing occurring offline. The app supports model management and benchmarking and integrates with Hugging Face for easy model access. Available on Android and iOS, it champions user feedback and experimentation.*
+> *Rowboat is an open-source AI coworker designed to enhance productivity by transforming work into a long-lived knowledge graph. Key features include email and meeting integration, automated document generation, and live note tracking. Users can prepare for meetings with context from past interactions, draft emails grounded in history, and visualize their knowledge graph in Markdown. Rowboat operates locally, ensuring data privacy and control, while supporting various external tools via Model Context Protocol (MCP). Download for Mac, Windows, and Linux at the official website.*
 
-- ⭐ 19562 stars
-- 💻 Kotlin
-- 📅 Updated: 2026-04-09
+- ⭐ 11245 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-10
 
-![gallery](2026/04-09/2026-04-09_daily-top_gallery.png)
+![rowboat](2026/04-10/2026-04-10_daily-top_rowboat.png)
+
+### 3. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+
+> 🤖 **推荐理由**  
+> *OpenDataLoader PDF is an open-source PDF parser designed for AI-ready data extraction and accessibility automation. It excels in converting PDFs to structured formats like Markdown, JSON, and HTML, achieving #1 benchmark accuracy (0.907 overall). Key features include hybrid AI mode for complex documents, built-in OCR support for scanned PDFs, and deterministic output with bounding boxes. The tool automates PDF accessibility with auto-tagging to Tagged PDF (available Q2 2026) and collaborates with PDF Association for compliance validation. Available SDKs include Python, Node.js, and Java.*
+
+- ⭐ 13932 stars
+- 💻 Java
+- 📅 Updated: 2026-04-10
+
+![opendataloader-pdf](2026/04-10/2026-04-10_daily-top_opendataloader-pdf.png)
+
+### 4. [opencode](https://github.com/anomalyco/opencode)
+
+> 🤖 **推荐理由**  
+> *OpenCode is an open-source AI coding agent built with TypeScript, boasting over 140,000 stars on GitHub. It features two main agent modes: "build" for full development access and "plan" for read-only exploration, ideal for unfamiliar codebases. OpenCode supports multiple programming models, ensuring flexibility across platforms. The project includes a desktop application for macOS, Windows, and Linux, and features a terminal user interface (TUI) designed for enhanced usability. Join the community via Discord for collaboration and support.*
+
+- ⭐ 140652 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-10
+
+![opencode](2026/04-10/2026-04-10_daily-top_opencode.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop tool designed to manage multiple AI CLI tools—including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw—from a single interface. Key features include over 50 built-in provider presets for easy switching, unified management of MCP and skills, and cloud sync capabilities. The app offers quick access via system tray, a local proxy with failover, and a usage dashboard for tracking costs. Built with Rust and Tauri, it ensures reliable performance across Windows, macOS, and Linux.*
+> *CC Switch is a cross-platform desktop tool that unifies management for Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 50 built-in provider presets, it simplifies API provider switching through a visual interface, eliminating manual config editing. Key features include unified management of MCP and Skills, cloud sync across devices, and system tray quick access. Built with Rust and Tauri, it supports Windows, macOS, and Linux. The application also offers session management, usage tracking, and integrated proxy services, enhancing AI-powered coding efficiency.*
 
-- ⭐ 41202 stars
+- ⭐ 41959 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-09
+- 📅 Updated: 2026-04-10
 
-![cc-switch](2026/04-09/2026-04-09_daily-top_cc-switch.png)
+![cc-switch](2026/04-10/2026-04-10_daily-top_cc-switch.png)
 
-### 6. [qmd](https://github.com/tobi/qmd)
+### 6. [goose](https://github.com/aaif-goose/goose)
 
 > 🤖 **推荐理由**  
-> *QMD is a powerful local CLI search engine designed for indexing and searching markdown notes, meeting transcripts, documentation, and knowledge bases. It combines BM25 full-text search, vector semantic search, and LLM re-ranking, all running on-device for optimal privacy and performance. Key features include customizable collections, hybrid search capabilities, and context management for improved relevance. With support for multiple output formats and integration through an MCP server, QMD streamlines information retrieval, making it ideal for personal and professional knowledge management.*
+> *goose is an open-source AI agent designed for versatile use, allowing users to install, execute, edit, and test code with various LLMs. Built in Rust, it offers a native desktop app for macOS, Linux, and Windows, along with a CLI and API for seamless integration. Supporting over 15 providers like OpenAI and Google, goose connects to 70+ extensions via the Model Context Protocol. Now part of the Agentic AI Foundation, it focuses on empowering workflows in coding, research, automation, and data analysis. Join the community on Discord and explore extensive documentation for setup and tutorials.*
 
-- ⭐ 20122 stars
+- ⭐ 40587 stars
+- 💻 Rust
+- 📅 Updated: 2026-04-10
+
+![goose](2026/04-10/2026-04-10_daily-top_goose.png)
+
+### 7. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+
+> 🤖 **推荐理由**  
+> *GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop . popular project, actively maintained, recently updated*
+
+- ⭐ 25918 stars
+- 🍴 2903 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-04-09
+- 📅 Updated: 2026-04-10
 
-![qmd](2026/04-09/2026-04-09_daily-top_qmd.png)
+![GitNexus](2026/04-10/2026-04-10_daily-top_GitNexus.png)
 
-### 7. [Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI)
+### 8. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
 > 🤖 **推荐理由**  
-> *Open-Higgsfield-AI is an open-source AI image and video generation platform that serves as a free alternative to Higgsfield AI. It features 200+ models, including Flux and Midjourney, enabling text-to-image, image-to-video, and lip sync generation. Users can access a hosted version online or download a desktop app for macOS and Windows. Key highlights include support for multi-image inputs, customizable workflows, a responsive UI, and data privacy through self-hosting. With MIT licensing, it fosters extensibility and community-driven development.*
+> *Get Shit Done (GSD) is a powerful meta-prompting and context engineering system designed for Claude Code and other AI runtimes. It combats context rot by maintaining high-quality outputs throughout development. Key features include streamlined project initialization, a structured workflow for discussing, planning, executing, and verifying phases, and built-in quality gates to ensure code integrity. GSD enables atomic Git commits, supports multiple AI runtimes, and provides a user-friendly command interface. Trusted by engineers at major tech companies, GSD simplifies spec-driven development without unnecessary complexity.*
 
-- ⭐ 3583 stars
+- ⭐ 49984 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-04-09
+- 📅 Updated: 2026-04-10
 
-![Open-Higgsfield-AI](2026/04-09/2026-04-09_daily-top_Open-Higgsfield-AI.png)
+![get-shit-done](2026/04-10/2026-04-10_daily-top_get-shit-done.png)
 
-### 8. [impeccable](https://github.com/pbakaus/impeccable)
+### 9. [gallery](https://github.com/google-ai-edge/gallery)
 
 > 🤖 **推荐理由**  
-> *Impeccable is a powerful design language tool designed to enhance AI-driven frontend design. With 21 commands and 7 domain-specific reference files, it provides extensive guidance for typography, color, spatial design, and more. Key features include auditing, critiquing, and polishing UI designs while avoiding common anti-patterns. The tool integrates seamlessly with various AI platforms like Cursor and Claude Code, offering a standalone CLI for detecting design issues. Visit impeccable.style for quick installation and usage insights.*
+> *Google AI Edge Gallery is an innovative platform for running advanced on-device Generative AI models, including the latest Gemma 4 family, entirely offline and with full privacy. Core features include Agent Skills for enhanced model interactions, AI Chat with a "Thinking Mode" for transparent reasoning, multimodal capabilities with Ask Image, and real-time voice transcription via Audio Scribe. Users can manage models easily, experiment in the Prompt Lab, and enjoy privacy-focused functionality. Available on Android and iOS, it supports a seamless experience in AI exploration.*
 
-- ⭐ 17403 stars
+- ⭐ 19968 stars
+- 💻 Kotlin
+- 📅 Updated: 2026-04-10
+
+![gallery](2026/04-10/2026-04-10_daily-top_gallery.png)
+
+### 10. [impeccable](https://github.com/pbakaus/impeccable)
+
+> 🤖 **推荐理由**  
+> *Impeccable is a powerful design language for enhancing AI-driven frontend design, featuring 21 commands and 7 domain-specific reference files. It offers tools for auditing, reviewing, and polishing designs while providing curated anti-patterns to avoid common mistakes. Key commands include `/audit` for quality checks, `/critique` for UX reviews, and `/polish` for final touches. Impeccable integrates with various AI tools and is designed to provide deeper expertise than generic templates, ensuring better UI design outcomes. Visit [impeccable.style](https://impeccable.style) for more information.*
+
+- ⭐ 17874 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-04-09
+- 📅 Updated: 2026-04-10
 
-![impeccable](2026/04-09/2026-04-09_daily-top_impeccable.png)
-
-### 9. [get-shit-done](https://github.com/gsd-build/get-shit-done)
-
-> 🤖 **推荐理由**  
-> *get-shit-done (GSD) is a lightweight meta-prompting and context engineering system designed for Claude Code and various AI development environments. It addresses context degradation, enabling consistent and reliable code generation. Key features include automated project initialization, phase-based planning, execution in parallel waves, and built-in verification. GSD supports multiple runtimes and offers a streamlined workflow to manage tasks efficiently. Trusted by engineers at major tech companies, it prioritizes simplicity and effectiveness in software development.*
-
-- ⭐ 49547 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-04-09
-
-![get-shit-done](2026/04-09/2026-04-09_daily-top_get-shit-done.png)
-
-### 10. [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
-
-> 🤖 **推荐理由**  
-> *LiteRT-LM is a high-performance, open-source inference framework by Google for deploying Large Language Models (LLMs) on edge devices. With support for multi-platform deployment (Android, iOS, Desktop, IoT), it leverages GPU and NPU acceleration for optimal performance. Key features include multi-modality (vision and audio), function calling for agentic workflows, and support for various models like Gemma, Llama, and Phi-4. LiteRT-LM powers on-device GenAI experiences in products like Chrome and Pixel Watch, and offers a user-friendly CLI for quick model deployment.*
-
-- ⭐ 3019 stars
-- 💻 C++
-- 📅 Updated: 2026-04-09
-
-![LiteRT-LM](2026/04-09/2026-04-09_daily-top_LiteRT-LM.png)
+![impeccable](2026/04-10/2026-04-10_daily-top_impeccable.png)
 
 ---
 
@@ -141,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-09 02:53:44 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-10 03:25:07 UTC

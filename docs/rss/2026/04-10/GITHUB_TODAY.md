@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-10
 
-![multica](2026/04-10/2026-04-10_daily-top_multica.png)
+![multica](2026-04-10_daily-top_multica.png)
 
 ### 2. [rowboat](https://github.com/rowboatlabs/rowboat)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-10
 
-![rowboat](2026/04-10/2026-04-10_daily-top_rowboat.png)
+![rowboat](2026-04-10_daily-top_rowboat.png)
 
 ### 3. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 
@@ -49,7 +49,7 @@
 - 💻 Java
 - 📅 Updated: 2026-04-10
 
-![opendataloader-pdf](2026/04-10/2026-04-10_daily-top_opendataloader-pdf.png)
+![opendataloader-pdf](2026-04-10_daily-top_opendataloader-pdf.png)
 
 ### 4. [opencode](https://github.com/anomalyco/opencode)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-10
 
-![opencode](2026/04-10/2026-04-10_daily-top_opencode.png)
+![opencode](2026-04-10_daily-top_opencode.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-10
 
-![cc-switch](2026/04-10/2026-04-10_daily-top_cc-switch.png)
+![cc-switch](2026-04-10_daily-top_cc-switch.png)
 
 ### 6. [goose](https://github.com/aaif-goose/goose)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-10
 
-![goose](2026/04-10/2026-04-10_daily-top_goose.png)
+![goose](2026-04-10_daily-top_goose.png)
 
 ### 7. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-10
 
-![GitNexus](2026/04-10/2026-04-10_daily-top_GitNexus.png)
+![GitNexus](2026-04-10_daily-top_GitNexus.png)
 
 ### 8. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -105,7 +105,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-10
 
-![get-shit-done](2026/04-10/2026-04-10_daily-top_get-shit-done.png)
+![get-shit-done](2026-04-10_daily-top_get-shit-done.png)
 
 ### 9. [gallery](https://github.com/google-ai-edge/gallery)
 
@@ -116,7 +116,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-04-10
 
-![gallery](2026/04-10/2026-04-10_daily-top_gallery.png)
+![gallery](2026-04-10_daily-top_gallery.png)
 
 ### 10. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-10
 
-![impeccable](2026/04-10/2026-04-10_daily-top_impeccable.png)
+![impeccable](2026-04-10_daily-top_impeccable.png)
 
 ---
 
