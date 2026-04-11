@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-11
 
-![multica](2026/04-11/2026-04-11_daily-top_multica.png)
+![multica](2026-04-11_daily-top_multica.png)
 
 ### 2. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 
@@ -38,7 +38,7 @@
 - 💻 Java
 - 📅 Updated: 2026-04-11
 
-![opendataloader-pdf](2026/04-11/2026-04-11_daily-top_opendataloader-pdf.png)
+![opendataloader-pdf](2026-04-11_daily-top_opendataloader-pdf.png)
 
 ### 3. [Archon](https://github.com/coleam00/Archon)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-11
 
-![Archon](2026/04-11/2026-04-11_daily-top_Archon.png)
+![Archon](2026-04-11_daily-top_Archon.png)
 
 ### 4. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-11
 
-![cc-switch](2026/04-11/2026-04-11_daily-top_cc-switch.png)
+![cc-switch](2026-04-11_daily-top_cc-switch.png)
 
 ### 5. [claudian](https://github.com/YishenTu/claudian)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-11
 
-![claudian](2026/04-11/2026-04-11_daily-top_claudian.png)
+![claudian](2026-04-11_daily-top_claudian.png)
 
 ### 6. [rowboat](https://github.com/rowboatlabs/rowboat)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-11
 
-![rowboat](2026/04-11/2026-04-11_daily-top_rowboat.png)
+![rowboat](2026-04-11_daily-top_rowboat.png)
 
 ### 7. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -94,7 +94,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-11
 
-![impeccable](2026/04-11/2026-04-11_daily-top_impeccable.png)
+![impeccable](2026-04-11_daily-top_impeccable.png)
 
 ### 8. [camofox-browser](https://github.com/jo-inc/camofox-browser)
 
@@ -105,7 +105,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-11
 
-![camofox-browser](2026/04-11/2026-04-11_daily-top_camofox-browser.png)
+![camofox-browser](2026-04-11_daily-top_camofox-browser.png)
 
 ### 9. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -116,7 +116,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-11
 
-![get-shit-done](2026/04-11/2026-04-11_daily-top_get-shit-done.png)
+![get-shit-done](2026-04-11_daily-top_get-shit-done.png)
 
 ### 10. [lightweight-charts](https://github.com/tradingview/lightweight-charts)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-11
 
-![lightweight-charts](2026/04-11/2026-04-11_daily-top_lightweight-charts.png)
+![lightweight-charts](2026-04-11_daily-top_lightweight-charts.png)
 
 ---
 

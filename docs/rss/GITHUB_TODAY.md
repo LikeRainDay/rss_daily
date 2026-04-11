@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-04-10
+# 📊 🌟 GitHub Trending Daily - 2026-04-11
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **366600** ⭐ | **34766** 🍴
+**10** Projects | **183485** ⭐ | **16240** 🍴
 
-**Top Languages:** `TypeScript` (4) · `JavaScript` (2) · `Rust` (2)
+**Top Languages:** `TypeScript` (5) · `JavaScript` (3) · `Java` (1)
 
-**Updated:** 2026-04-10 03:25 UTC
+**Updated:** 2026-04-11 02:50 UTC
 
 **Categories:**
 
@@ -21,113 +21,113 @@
 ### 1. [multica](https://github.com/multica-ai/multica)
 
 > 🤖 **Why Recommend**  
-> *Multica is an open-source managed agents platform designed to enhance productivity by integrating coding agents as teammates. With 4,481 stars, it allows users to assign tasks, track progress, and compound skills seamlessly. Key features include autonomous execution of tasks, reusable skills, unified runtimes for local and cloud environments, and multi-workspace organization. The platform supports major coding agents like Claude Code, Codex, OpenClaw, and OpenCode, making it a versatile choice for teams looking to optimize collaboration between humans and AI.*
+> *Multica is an open-source managed agents platform designed to integrate coding agents as teammates in software development. With 6,213 stars on GitHub, it allows users to assign tasks, track progress, and leverage reusable skills. Key features include autonomous execution of tasks, a unified dashboard for monitoring, and multi-workspace support for team organization. Compatible with various agent providers like Claude Code and Codex, Multica offers both cloud and self-hosting options, streamlining collaboration between humans and AI in coding environments.*
 
-- ⭐ 4481 stars
+- ⭐ 6213 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-10
+- 📅 Updated: 2026-04-11
 
-![multica](2026/04-10/2026-04-10_daily-top_multica.png)
+![multica](2026/04-11/2026-04-11_daily-top_multica.png)
 
-### 2. [rowboat](https://github.com/rowboatlabs/rowboat)
+### 2. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 
 > 🤖 **Why Recommend**  
-> *Rowboat is an open-source AI coworker designed to enhance productivity by transforming work into a long-lived knowledge graph. Key features include email and meeting integration, automated document generation, and live note tracking. Users can prepare for meetings with context from past interactions, draft emails grounded in history, and visualize their knowledge graph in Markdown. Rowboat operates locally, ensuring data privacy and control, while supporting various external tools via Model Context Protocol (MCP). Download for Mac, Windows, and Linux at the official website.*
+> *OpenDataLoader PDF is an open-source PDF parser designed for AI-ready data extraction and automated PDF accessibility. It enables users to extract structured data in Markdown, JSON, and HTML formats, achieving the highest benchmark accuracy (0.907) in complex document parsing. Key features include built-in OCR, hybrid processing for tables and images, and auto-tagging for creating Tagged PDFs, with compliance to the Well-Tagged PDF specification. The tool supports multiple programming languages (Python, Node.js, Java) and aims to automate accessibility compliance by 2026, making it ideal for regulatory needs.*
 
-- ⭐ 11245 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-10
-
-![rowboat](2026/04-10/2026-04-10_daily-top_rowboat.png)
-
-### 3. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
-
-> 🤖 **Why Recommend**  
-> *OpenDataLoader PDF is an open-source PDF parser designed for AI-ready data extraction and accessibility automation. It excels in converting PDFs to structured formats like Markdown, JSON, and HTML, achieving #1 benchmark accuracy (0.907 overall). Key features include hybrid AI mode for complex documents, built-in OCR support for scanned PDFs, and deterministic output with bounding boxes. The tool automates PDF accessibility with auto-tagging to Tagged PDF (available Q2 2026) and collaborates with PDF Association for compliance validation. Available SDKs include Python, Node.js, and Java.*
-
-- ⭐ 13932 stars
+- ⭐ 14860 stars
 - 💻 Java
-- 📅 Updated: 2026-04-10
+- 📅 Updated: 2026-04-11
 
-![opendataloader-pdf](2026/04-10/2026-04-10_daily-top_opendataloader-pdf.png)
+![opendataloader-pdf](2026/04-11/2026-04-11_daily-top_opendataloader-pdf.png)
 
-### 4. [opencode](https://github.com/anomalyco/opencode)
+### 3. [Archon](https://github.com/coleam00/Archon)
 
 > 🤖 **Why Recommend**  
-> *OpenCode is an open-source AI coding agent built with TypeScript, boasting over 140,000 stars on GitHub. It features two main agent modes: "build" for full development access and "plan" for read-only exploration, ideal for unfamiliar codebases. OpenCode supports multiple programming models, ensuring flexibility across platforms. The project includes a desktop application for macOS, Windows, and Linux, and features a terminal user interface (TUI) designed for enhanced usability. Join the community via Discord for collaboration and support.*
+> *Archon is the first open-source harness builder for AI coding, enabling deterministic and repeatable workflows. It allows developers to define their processes as YAML workflows, incorporating both AI and deterministic nodes for planning, implementation, validation, code review, and PR creation. Key features include isolated workflow runs, composability of tasks, and multi-platform support via CLI, Web UI, Slack, and more. With 17 pre-built workflows for common tasks, Archon streamlines software development while maintaining control over the coding process.*
 
-- ⭐ 140652 stars
+- ⭐ 15712 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-10
+- 📅 Updated: 2026-04-11
 
-![opencode](2026/04-10/2026-04-10_daily-top_opencode.png)
+![Archon](2026/04-11/2026-04-11_daily-top_Archon.png)
 
-### 5. [cc-switch](https://github.com/farion1231/cc-switch)
+### 4. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *CC Switch is a cross-platform desktop tool that unifies management for Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 50 built-in provider presets, it simplifies API provider switching through a visual interface, eliminating manual config editing. Key features include unified management of MCP and Skills, cloud sync across devices, and system tray quick access. Built with Rust and Tauri, it supports Windows, macOS, and Linux. The application also offers session management, usage tracking, and integrated proxy services, enhancing AI-powered coding efficiency.*
+> *CC Switch is a cross-platform desktop assistant tool designed to manage multiple CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 42,000 stars on GitHub, it simplifies API provider management through a unified interface, eliminating manual config edits. Key features include 50+ built-in provider presets, cloud sync across devices, session management, and a usage dashboard for cost tracking. Built on Rust with Tauri for cross-platform support, CC Switch enhances productivity for developers by streamlining AI-powered coding workflows.*
 
-- ⭐ 41959 stars
+- ⭐ 42487 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-10
+- 📅 Updated: 2026-04-11
 
-![cc-switch](2026/04-10/2026-04-10_daily-top_cc-switch.png)
+![cc-switch](2026/04-11/2026-04-11_daily-top_cc-switch.png)
 
-### 6. [goose](https://github.com/aaif-goose/goose)
-
-> 🤖 **Why Recommend**  
-> *goose is an open-source AI agent designed for versatile use, allowing users to install, execute, edit, and test code with various LLMs. Built in Rust, it offers a native desktop app for macOS, Linux, and Windows, along with a CLI and API for seamless integration. Supporting over 15 providers like OpenAI and Google, goose connects to 70+ extensions via the Model Context Protocol. Now part of the Agentic AI Foundation, it focuses on empowering workflows in coding, research, automation, and data analysis. Join the community on Discord and explore extensive documentation for setup and tutorials.*
-
-- ⭐ 40587 stars
-- 💻 Rust
-- 📅 Updated: 2026-04-10
-
-![goose](2026/04-10/2026-04-10_daily-top_goose.png)
-
-### 7. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+### 5. [claudian](https://github.com/YishenTu/claudian)
 
 > 🤖 **Why Recommend**  
-> *GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop . popular project, actively maintained, recently updated*
+> *An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault. popular project, actively maintained, recently updated*
 
-- ⭐ 25918 stars
-- 🍴 2903 forks
+- ⭐ 7240 stars
+- 🍴 426 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-04-10
+- 📅 Updated: 2026-04-11
 
-![GitNexus](2026/04-10/2026-04-10_daily-top_GitNexus.png)
+![claudian](2026/04-11/2026-04-11_daily-top_claudian.png)
 
-### 8. [get-shit-done](https://github.com/gsd-build/get-shit-done)
+### 6. [rowboat](https://github.com/rowboatlabs/rowboat)
 
 > 🤖 **Why Recommend**  
-> *Get Shit Done (GSD) is a powerful meta-prompting and context engineering system designed for Claude Code and other AI runtimes. It combats context rot by maintaining high-quality outputs throughout development. Key features include streamlined project initialization, a structured workflow for discussing, planning, executing, and verifying phases, and built-in quality gates to ensure code integrity. GSD enables atomic Git commits, supports multiple AI runtimes, and provides a user-friendly command interface. Trusted by engineers at major tech companies, GSD simplifies spec-driven development without unnecessary complexity.*
+> *Rowboat is an open-source AI coworker designed to enhance productivity by creating a long-lived knowledge graph from your work context. Key features include email and calendar integration, meeting preparation with summaries, document and presentation generation, and live notes tracking. It maintains all data locally in a Markdown vault, ensuring privacy and control. Users can extend its functionality with external tools via the Model Context Protocol (MCP). With 11,773 stars on GitHub, Rowboat offers a unique, memory-driven approach to AI assistance, empowering users to manage tasks efficiently.*
 
-- ⭐ 49984 stars
+- ⭐ 11773 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-11
+
+![rowboat](2026/04-11/2026-04-11_daily-top_rowboat.png)
+
+### 7. [impeccable](https://github.com/pbakaus/impeccable)
+
+> 🤖 **Why Recommend**  
+> *Impeccable is a powerful design language tool for enhancing AI-driven frontend design, featuring 18 commands and 7 domain-specific reference files. It provides a structured approach to combat common design pitfalls with curated anti-patterns and comprehensive skills in typography, color, spatial design, and more. Users can perform audits, critiques, and final polish on their designs, ensuring high-quality outputs. The tool integrates seamlessly with various AI platforms, making it accessible for developers seeking to elevate their UI design processes. Visit impeccable.style for quick access and resources.*
+
+- ⭐ 18241 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-04-10
+- 📅 Updated: 2026-04-11
 
-![get-shit-done](2026/04-10/2026-04-10_daily-top_get-shit-done.png)
+![impeccable](2026/04-11/2026-04-11_daily-top_impeccable.png)
 
-### 9. [gallery](https://github.com/google-ai-edge/gallery)
-
-> 🤖 **Why Recommend**  
-> *Google AI Edge Gallery is an innovative platform for running advanced on-device Generative AI models, including the latest Gemma 4 family, entirely offline and with full privacy. Core features include Agent Skills for enhanced model interactions, AI Chat with a "Thinking Mode" for transparent reasoning, multimodal capabilities with Ask Image, and real-time voice transcription via Audio Scribe. Users can manage models easily, experiment in the Prompt Lab, and enjoy privacy-focused functionality. Available on Android and iOS, it supports a seamless experience in AI exploration.*
-
-- ⭐ 19968 stars
-- 💻 Kotlin
-- 📅 Updated: 2026-04-10
-
-![gallery](2026/04-10/2026-04-10_daily-top_gallery.png)
-
-### 10. [impeccable](https://github.com/pbakaus/impeccable)
+### 8. [camofox-browser](https://github.com/jo-inc/camofox-browser)
 
 > 🤖 **Why Recommend**  
-> *Impeccable is a powerful design language for enhancing AI-driven frontend design, featuring 21 commands and 7 domain-specific reference files. It offers tools for auditing, reviewing, and polishing designs while providing curated anti-patterns to avoid common mistakes. Key commands include `/audit` for quality checks, `/critique` for UX reviews, and `/polish` for final touches. Impeccable integrates with various AI tools and is designed to provide deeper expertise than generic templates, ensuring better UI design outcomes. Visit [impeccable.style](https://impeccable.style) for more information.*
+> *Camofox-browser is a headless browser automation server designed for AI agents to access typically blocked websites. Powered by Camoufox, a Firefox fork with advanced fingerprint spoofing, it offers features like C++ anti-detection, session isolation, and accessibility snapshots. Users benefit from token-efficient interactions, proxy support, and structured logging. With easy deployment via Docker and support for cookie import, it facilitates seamless browsing and interaction with sites like YouTube, Google, and Amazon, making it ideal for scalable AI applications.*
 
-- ⭐ 17874 stars
+- ⭐ 1820 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-04-10
+- 📅 Updated: 2026-04-11
 
-![impeccable](2026/04-10/2026-04-10_daily-top_impeccable.png)
+![camofox-browser](2026/04-11/2026-04-11_daily-top_camofox-browser.png)
+
+### 9. [get-shit-done](https://github.com/gsd-build/get-shit-done)
+
+> 🤖 **Why Recommend**  
+> *get-shit-done is a lightweight meta-prompting and context engineering system for AI coding tools like Claude Code, Codex, and Copilot. With over 50,375 stars on GitHub, it addresses context rot by ensuring high-quality implementation through a structured workflow. Key features include project initialization, phase discussions, planning, execution, and verification, all with automated context management and atomic git commits. GSD is designed for solo developers seeking efficient, reliable coding without complex workflows, trusted by teams at Amazon, Google, and Shopify.*
+
+- ⭐ 50375 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-04-11
+
+![get-shit-done](2026/04-11/2026-04-11_daily-top_get-shit-done.png)
+
+### 10. [lightweight-charts](https://github.com/tradingview/lightweight-charts)
+
+> 🤖 **Why Recommend**  
+> *Lightweight Charts™ is a performant financial charting library built with HTML5 canvas, designed for seamless integration into web pages without compromising loading speed. With over 14,000 stars on GitHub, it offers a compact size comparable to static images while providing interactive capabilities. Key features include a rich set of charting options, custom plugin support, and easy installation via npm or CDN. Ideal for developers looking to enhance their financial data visualization, it ensures high performance and user engagement. Explore demos and documentation for more details.*
+
+- ⭐ 14764 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-11
+
+![lightweight-charts](2026/04-11/2026-04-11_daily-top_lightweight-charts.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-10 03:25:07 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-11 02:50:34 UTC
