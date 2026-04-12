@@ -28,7 +28,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-12
 
-![multica](2026/04-12/2026-04-12_daily-top_multica.png)
+![multica](2026-04-12_daily-top_multica.png)
 
 ### 2. [Archon](https://github.com/coleam00/Archon)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-12
 
-![Archon](2026/04-12/2026-04-12_daily-top_Archon.png)
+![Archon](2026-04-12_daily-top_Archon.png)
 
 ### 3. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 
@@ -50,7 +50,7 @@
 - 💻 Java
 - 📅 Updated: 2026-04-12
 
-![opendataloader-pdf](2026/04-12/2026-04-12_daily-top_opendataloader-pdf.png)
+![opendataloader-pdf](2026-04-12_daily-top_opendataloader-pdf.png)
 
 ### 4. [claude-mem](https://github.com/thedotmack/claude-mem)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-12
 
-![claude-mem](2026/04-12/2026-04-12_daily-top_claude-mem.png)
+![claude-mem](2026-04-12_daily-top_claude-mem.png)
 
 ### 5. [rowboat](https://github.com/rowboatlabs/rowboat)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-12
 
-![rowboat](2026/04-12/2026-04-12_daily-top_rowboat.png)
+![rowboat](2026-04-12_daily-top_rowboat.png)
 
 ### 6. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -83,7 +83,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-12
 
-![cc-switch](2026/04-12/2026-04-12_daily-top_cc-switch.png)
+![cc-switch](2026-04-12_daily-top_cc-switch.png)
 
 ### 7. [lightweight-charts](https://github.com/tradingview/lightweight-charts)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-12
 
-![lightweight-charts](2026/04-12/2026-04-12_daily-top_lightweight-charts.png)
+![lightweight-charts](2026-04-12_daily-top_lightweight-charts.png)
 
 ### 8. [qwen-code](https://github.com/QwenLM/qwen-code)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-12
 
-![qwen-code](2026/04-12/2026-04-12_daily-top_qwen-code.png)
+![qwen-code](2026-04-12_daily-top_qwen-code.png)
 
 ### 9. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-12
 
-![clash-verge-rev](2026/04-12/2026-04-12_daily-top_clash-verge-rev.png)
+![clash-verge-rev](2026-04-12_daily-top_clash-verge-rev.png)
 
 ### 10. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-12
 
-![impeccable](2026/04-12/2026-04-12_daily-top_impeccable.png)
+![impeccable](2026-04-12_daily-top_impeccable.png)
 
 ---
 

@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-04-11
+# 📊 🌟 GitHub Trending Daily - 2026-04-12
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **183485** ⭐ | **16240** 🍴
+**10** 个项目 | **309716** ⭐ | **25823** 🍴
 
-**热门语言:** `TypeScript` (5) · `JavaScript` (3) · `Java` (1)
+**热门语言:** `TypeScript` (7) · `Rust` (1) · `JavaScript` (1)
 
-**更新时间:** 2026-04-11 02:50 UTC
+**更新时间:** 2026-04-12 03:29 UTC
 
 **分类分布:**
 
@@ -21,113 +21,113 @@
 ### 1. [multica](https://github.com/multica-ai/multica)
 
 > 🤖 **推荐理由**  
-> *Multica is an open-source managed agents platform designed to integrate coding agents as teammates in software development. With 6,213 stars on GitHub, it allows users to assign tasks, track progress, and leverage reusable skills. Key features include autonomous execution of tasks, a unified dashboard for monitoring, and multi-workspace support for team organization. Compatible with various agent providers like Claude Code and Codex, Multica offers both cloud and self-hosting options, streamlining collaboration between humans and AI in coding environments.*
+> *The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.. popular project, actively maintained, recently updated*
 
-- ⭐ 6213 stars
+- ⭐ 8082 stars
+- 🍴 1024 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-04-11
+- 📅 Updated: 2026-04-12
 
-![multica](2026/04-11/2026-04-11_daily-top_multica.png)
+![multica](2026/04-12/2026-04-12_daily-top_multica.png)
 
-### 2. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+### 2. [Archon](https://github.com/coleam00/Archon)
 
 > 🤖 **推荐理由**  
-> *OpenDataLoader PDF is an open-source PDF parser designed for AI-ready data extraction and automated PDF accessibility. It enables users to extract structured data in Markdown, JSON, and HTML formats, achieving the highest benchmark accuracy (0.907) in complex document parsing. Key features include built-in OCR, hybrid processing for tables and images, and auto-tagging for creating Tagged PDFs, with compliance to the Well-Tagged PDF specification. The tool supports multiple programming languages (Python, Node.js, Java) and aims to automate accessibility compliance by 2026, making it ideal for regulatory needs.*
+> *Archon is the first open-source harness builder for AI coding, designed to make AI coding workflows deterministic and repeatable. With 16,524 stars on GitHub, it allows users to define development processes as YAML workflows, ensuring consistency across projects. Key features include isolated workflow runs, the ability to mix AI and deterministic nodes, and support for multiple platforms (CLI, Web UI, Slack, Telegram, GitHub). Archon automates tasks like bug fixing, feature development, and PR reviews, streamlining software development with a focus on reliability and control. For detailed documentation, visit archon.diy.*
 
-- ⭐ 14860 stars
+- ⭐ 16524 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-12
+
+![Archon](2026/04-12/2026-04-12_daily-top_Archon.png)
+
+### 3. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+
+> 🤖 **推荐理由**  
+> *OpenDataLoader PDF is an open-source PDF parser designed for AI-ready data extraction and automated accessibility. It excels in converting PDFs to structured formats (Markdown, JSON, HTML) with high accuracy (0.907 overall) and supports hybrid processing for complex documents. Key features include built-in OCR, table extraction, and AI-generated descriptions for charts, making it ideal for RAG pipelines. The project also pioneers PDF accessibility compliance, offering auto-tagging to Tagged PDFs (coming Q2 2026) and enterprise options for PDF/UA export. With SDKs in Python, Node.js, and Java, it empowers users to streamline PDF processing and enhance document accessibility effortlessly.*
+
+- ⭐ 15665 stars
 - 💻 Java
-- 📅 Updated: 2026-04-11
+- 📅 Updated: 2026-04-12
 
-![opendataloader-pdf](2026/04-11/2026-04-11_daily-top_opendataloader-pdf.png)
+![opendataloader-pdf](2026/04-12/2026-04-12_daily-top_opendataloader-pdf.png)
 
-### 3. [Archon](https://github.com/coleam00/Archon)
+### 4. [claude-mem](https://github.com/thedotmack/claude-mem)
 
 > 🤖 **推荐理由**  
-> *Archon is the first open-source harness builder for AI coding, enabling deterministic and repeatable workflows. It allows developers to define their processes as YAML workflows, incorporating both AI and deterministic nodes for planning, implementation, validation, code review, and PR creation. Key features include isolated workflow runs, composability of tasks, and multi-platform support via CLI, Web UI, Slack, and more. With 17 pre-built workflows for common tasks, Archon streamlines software development while maintaining control over the coding process.*
+> *Claude-Mem is a powerful TypeScript plugin for Claude Code that enhances coding sessions by automatically capturing and compressing contextual data. Key features include persistent memory, which retains project context across sessions, a skill-based search tool for querying past observations, and a real-time web viewer for memory streams. The plugin operates autonomously, ensuring seamless continuity in coding. Users can easily install it via command line or the Claude marketplace, making it an essential tool for developers seeking efficient knowledge management.*
 
-- ⭐ 15712 stars
+- ⭐ 48245 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-11
+- 📅 Updated: 2026-04-12
 
-![Archon](2026/04-11/2026-04-11_daily-top_Archon.png)
+![claude-mem](2026/04-12/2026-04-12_daily-top_claude-mem.png)
 
-### 4. [cc-switch](https://github.com/farion1231/cc-switch)
+### 5. [rowboat](https://github.com/rowboatlabs/rowboat)
 
 > 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop assistant tool designed to manage multiple CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 42,000 stars on GitHub, it simplifies API provider management through a unified interface, eliminating manual config edits. Key features include 50+ built-in provider presets, cloud sync across devices, session management, and a usage dashboard for cost tracking. Built on Rust with Tauri for cross-platform support, CC Switch enhances productivity for developers by streamlining AI-powered coding workflows.*
+> *Rowboat is an open-source AI coworker designed to enhance productivity by building a long-term knowledge graph from your email and meeting notes. Key features include generating documents and briefs from context, tracking topics with live notes, and maintaining a local Markdown vault for easy inspection and editing. It integrates with Gmail, Google Calendar, and external tools via Model Context Protocol (MCP). Rowboat prioritizes user privacy, storing all data locally, ensuring no proprietary formats or vendor lock-in. Download for Mac, Windows, or Linux at [rowboatlabs.com](https://www.rowboatlabs.com/).*
 
-- ⭐ 42487 stars
+- ⭐ 12119 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-12
+
+![rowboat](2026/04-12/2026-04-12_daily-top_rowboat.png)
+
+### 6. [cc-switch](https://github.com/farion1231/cc-switch)
+
+> 🤖 **推荐理由**  
+> *CC Switch is a cross-platform desktop assistant tool designed for managing CLI applications like Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 43,000 stars on GitHub, it simplifies provider switching through a unified interface, eliminating manual config edits. Key features include 50+ built-in provider presets, unified management for MCP and Skills, cloud sync capabilities, and a system tray quick switch option. Built with Rust and Tauri, CC Switch offers reliable performance and is compatible with Windows, macOS, and Linux.*
+
+- ⭐ 43010 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-11
+- 📅 Updated: 2026-04-12
 
-![cc-switch](2026/04-11/2026-04-11_daily-top_cc-switch.png)
+![cc-switch](2026/04-12/2026-04-12_daily-top_cc-switch.png)
 
-### 5. [claudian](https://github.com/YishenTu/claudian)
+### 7. [lightweight-charts](https://github.com/tradingview/lightweight-charts)
 
 > 🤖 **推荐理由**  
-> *An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault. popular project, actively maintained, recently updated*
+> *Lightweight Charts™ is a high-performance library for creating interactive financial charts using HTML5 canvas, designed for optimal loading speed and minimal impact on web performance. With over 15,000 stars on GitHub, it offers rich charting capabilities out-of-the-box and supports custom plugins for extended functionality. The library is lightweight, making it ideal for replacing static image charts. Installation is straightforward via npm or CDN. Explore demos and documentation for implementation details and plugin examples on the official site.*
 
-- ⭐ 7240 stars
-- 🍴 426 forks
+- ⭐ 15002 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-11
+- 📅 Updated: 2026-04-12
 
-![claudian](2026/04-11/2026-04-11_daily-top_claudian.png)
+![lightweight-charts](2026/04-12/2026-04-12_daily-top_lightweight-charts.png)
 
-### 6. [rowboat](https://github.com/rowboatlabs/rowboat)
+### 8. [qwen-code](https://github.com/QwenLM/qwen-code)
 
 > 🤖 **推荐理由**  
-> *Rowboat is an open-source AI coworker designed to enhance productivity by creating a long-lived knowledge graph from your work context. Key features include email and calendar integration, meeting preparation with summaries, document and presentation generation, and live notes tracking. It maintains all data locally in a Markdown vault, ensuring privacy and control. Users can extend its functionality with external tools via the Model Context Protocol (MCP). With 11,773 stars on GitHub, Rowboat offers a unique, memory-driven approach to AI assistance, empowering users to manage tasks efficiently.*
+> *Qwen Code is an open-source AI agent for terminal environments, designed to enhance coding productivity. Key features include support for multiple AI protocols (OpenAI, Anthropic, Gemini), a free-tier OAuth for 1,000 requests/day, and a rich agentic workflow with built-in tools and sub-agents. It integrates seamlessly with IDEs like VS Code and JetBrains, offering interactive and headless modes for diverse use cases. With over 22,000 stars on GitHub, Qwen Code empowers developers to navigate complex codebases and automate tasks efficiently.*
 
-- ⭐ 11773 stars
+- ⭐ 22742 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-11
+- 📅 Updated: 2026-04-12
 
-![rowboat](2026/04-11/2026-04-11_daily-top_rowboat.png)
+![qwen-code](2026/04-12/2026-04-12_daily-top_qwen-code.png)
 
-### 7. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **推荐理由**  
-> *Impeccable is a powerful design language tool for enhancing AI-driven frontend design, featuring 18 commands and 7 domain-specific reference files. It provides a structured approach to combat common design pitfalls with curated anti-patterns and comprehensive skills in typography, color, spatial design, and more. Users can perform audits, critiques, and final polish on their designs, ensuring high-quality outputs. The tool integrates seamlessly with various AI platforms, making it accessible for developers seeking to elevate their UI design processes. Visit impeccable.style for quick access and resources.*
-
-- ⭐ 18241 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-04-11
-
-![impeccable](2026/04-11/2026-04-11_daily-top_impeccable.png)
-
-### 8. [camofox-browser](https://github.com/jo-inc/camofox-browser)
+### 9. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
 > 🤖 **推荐理由**  
-> *Camofox-browser is a headless browser automation server designed for AI agents to access typically blocked websites. Powered by Camoufox, a Firefox fork with advanced fingerprint spoofing, it offers features like C++ anti-detection, session isolation, and accessibility snapshots. Users benefit from token-efficient interactions, proxy support, and structured logging. With easy deployment via Docker and support for cookie import, it facilitates seamless browsing and interaction with sites like YouTube, Google, and Amazon, making it ideal for scalable AI applications.*
+> *Clash Verge Rev is a modern GUI client built with Tauri, supporting Windows, macOS, and Linux for an enhanced proxy experience. Key features include a sleek interface with customizable themes, integration of Clash.Meta for advanced proxy management, and tools for configuration file handling. Users benefit from visual node editing, system proxy management, and WebDav backup. With a focus on performance using Rust, it offers a stable release for everyday use and an AutoBuild version for testing. The project boasts a strong community with 109,820 stars on GitHub.*
 
-- ⭐ 1820 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-04-11
-
-![camofox-browser](2026/04-11/2026-04-11_daily-top_camofox-browser.png)
-
-### 9. [get-shit-done](https://github.com/gsd-build/get-shit-done)
-
-> 🤖 **推荐理由**  
-> *get-shit-done is a lightweight meta-prompting and context engineering system for AI coding tools like Claude Code, Codex, and Copilot. With over 50,375 stars on GitHub, it addresses context rot by ensuring high-quality implementation through a structured workflow. Key features include project initialization, phase discussions, planning, execution, and verification, all with automated context management and atomic git commits. GSD is designed for solo developers seeking efficient, reliable coding without complex workflows, trusted by teams at Amazon, Google, and Shopify.*
-
-- ⭐ 50375 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-04-11
-
-![get-shit-done](2026/04-11/2026-04-11_daily-top_get-shit-done.png)
-
-### 10. [lightweight-charts](https://github.com/tradingview/lightweight-charts)
-
-> 🤖 **推荐理由**  
-> *Lightweight Charts™ is a performant financial charting library built with HTML5 canvas, designed for seamless integration into web pages without compromising loading speed. With over 14,000 stars on GitHub, it offers a compact size comparable to static images while providing interactive capabilities. Key features include a rich set of charting options, custom plugin support, and easy installation via npm or CDN. Ideal for developers looking to enhance their financial data visualization, it ensures high performance and user engagement. Explore demos and documentation for more details.*
-
-- ⭐ 14764 stars
+- ⭐ 109820 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-11
+- 📅 Updated: 2026-04-12
 
-![lightweight-charts](2026/04-11/2026-04-11_daily-top_lightweight-charts.png)
+![clash-verge-rev](2026/04-12/2026-04-12_daily-top_clash-verge-rev.png)
+
+### 10. [impeccable](https://github.com/pbakaus/impeccable)
+
+> 🤖 **推荐理由**  
+> *Impeccable is a JavaScript design language enhancing AI's frontend design capabilities, boasting 18 commands and 7 domain-specific references. It offers tools for auditing, critiquing, and polishing UI designs, alongside curated anti-patterns that guide AI away from common mistakes. Key features include a standalone CLI for detecting design issues and integration with various tools like Cursor and VS Code Copilot. For quick start and ready-to-use bundles, visit impeccable.style. With 18,507 stars, Impeccable provides a comprehensive solution for impeccable UI design.*
+
+- ⭐ 18507 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-04-12
+
+![impeccable](2026/04-12/2026-04-12_daily-top_impeccable.png)
 
 ---
 
@@ -141,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-11 02:50:34 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-12 03:29:13 UTC
