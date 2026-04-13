@@ -28,7 +28,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-13
 
-![multica](2026/04-13/2026-04-13_daily-top_multica.png)
+![multica](2026-04-13_daily-top_multica.png)
 
 ### 2. [claude-mem](https://github.com/thedotmack/claude-mem)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-13
 
-![claude-mem](2026/04-13/2026-04-13_daily-top_claude-mem.png)
+![claude-mem](2026-04-13_daily-top_claude-mem.png)
 
 ### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-13
 
-![firecrawl](2026/04-13/2026-04-13_daily-top_firecrawl.png)
+![firecrawl](2026-04-13_daily-top_firecrawl.png)
 
 ### 4. [Archon](https://github.com/coleam00/Archon)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-13
 
-![Archon](2026/04-13/2026-04-13_daily-top_Archon.png)
+![Archon](2026-04-13_daily-top_Archon.png)
 
 ### 5. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 
@@ -72,7 +72,7 @@
 - 💻 Java
 - 📅 Updated: 2026-04-13
 
-![opendataloader-pdf](2026/04-13/2026-04-13_daily-top_opendataloader-pdf.png)
+![opendataloader-pdf](2026-04-13_daily-top_opendataloader-pdf.png)
 
 ### 6. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-13
 
-![voicebox](2026/04-13/2026-04-13_daily-top_voicebox.png)
+![voicebox](2026-04-13_daily-top_voicebox.png)
 
 ### 7. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -94,7 +94,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-13
 
-![cc-switch](2026/04-13/2026-04-13_daily-top_cc-switch.png)
+![cc-switch](2026-04-13_daily-top_cc-switch.png)
 
 ### 8. [ralph](https://github.com/snarktank/ralph)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-13
 
-![ralph](2026/04-13/2026-04-13_daily-top_ralph.png)
+![ralph](2026-04-13_daily-top_ralph.png)
 
 ### 9. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-13
 
-![chrome-devtools-mcp](2026/04-13/2026-04-13_daily-top_chrome-devtools-mcp.png)
+![chrome-devtools-mcp](2026-04-13_daily-top_chrome-devtools-mcp.png)
 
 ### 10. [codex](https://github.com/openai/codex)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-13
 
-![codex](2026/04-13/2026-04-13_daily-top_codex.png)
+![codex](2026-04-13_daily-top_codex.png)
 
 ---
 
