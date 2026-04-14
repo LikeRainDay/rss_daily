@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-04-13
+# 📊 🌟 GitHub Trending Daily - 2026-04-14
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **386096** ⭐ | **35154** 🍴
+**10** Projects | **229812** ⭐ | **23086** 🍴
 
-**Top Languages:** `TypeScript` (7) · `Rust` (2) · `Java` (1)
+**Top Languages:** `TypeScript` (5) · `JavaScript` (2) · `Rust` (2)
 
-**Updated:** 2026-04-13 03:36 UTC
+**Updated:** 2026-04-14 03:25 UTC
 
 **Categories:**
 
@@ -18,116 +18,116 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [multica](https://github.com/multica-ai/multica)
+### 1. [claude-mem](https://github.com/thedotmack/claude-mem)
+
+> 🤖 **Why Recommend**  
+> *Claude-Mem is a TypeScript plugin for Claude Code that enhances coding sessions by automatically capturing tool usage and generating AI-compressed summaries, preserving context across sessions. Key features include persistent memory for continuity, skill-based search capabilities, a web viewer for real-time memory streams, and privacy controls for sensitive data. The plugin supports seamless installation, integration with OpenClaw gateways, and offers experimental features like Endless Mode. With over 53,000 stars, it is designed to optimize coding efficiency and context management.*
+
+- ⭐ 53633 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-14
+
+![claude-mem](2026/04-14/2026-04-14_daily-top_claude-mem.png)
+
+### 2. [multica](https://github.com/multica-ai/multica)
 
 > 🤖 **Why Recommend**  
 > *The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.. popular project, actively maintained, recently updated*
 
-- ⭐ 9660 stars
-- 🍴 1229 forks
+- ⭐ 11344 stars
+- 🍴 1408 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-04-13
+- 📅 Updated: 2026-04-14
 
-![multica](2026/04-13/2026-04-13_daily-top_multica.png)
+![multica](2026/04-14/2026-04-14_daily-top_multica.png)
 
-### 2. [claude-mem](https://github.com/thedotmack/claude-mem)
+### 3. [ralph](https://github.com/snarktank/ralph)
 
 > 🤖 **Why Recommend**  
-> *Claude-Mem is a powerful plugin for Claude Code that captures and compresses coding session activities using AI. It preserves context across sessions, ensuring continuity of project knowledge. Key features include persistent memory, skill-based search for project history, a web viewer UI for real-time memory access, and privacy controls for sensitive content. With automatic operation and easy installation via command line, it enhances coding efficiency by allowing Claude to recall past interactions seamlessly. The project boasts 50,439 stars on GitHub, underscoring its popularity and utility.*
+> *Ralph is an autonomous AI agent loop designed to iteratively complete Product Requirements Documents (PRDs) using AI coding tools like Amp and Claude Code. With 16,586 stars on GitHub, it excels in generating and converting PRDs into structured JSON for execution. Each iteration runs in a fresh context, utilizing git history, `progress.txt`, and `prd.json` for memory. Key features include automatic handoff for large tasks, integrated skills for PRD generation, and a robust workflow ensuring quality checks. Ralph enhances coding efficiency through feedback loops and continuous learning.*
 
-- ⭐ 50439 stars
+- ⭐ 16586 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-13
+- 📅 Updated: 2026-04-14
 
-![claude-mem](2026/04-13/2026-04-13_daily-top_claude-mem.png)
-
-### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
-
-> 🤖 **Why Recommend**  
-> *Firecrawl is an open-source Web Data API designed to power AI agents with clean web data, boasting 108,215 stars on GitHub. It offers reliable web scraping capabilities, covering 96% of the web, including JavaScript-heavy pages, with a P95 latency of 3.4 seconds. Key features include seamless search, scraping, and interaction with web pages, as well as automated data gathering through its Agent feature. Firecrawl supports multiple output formats, including markdown and JSON, and handles complexities like proxy management and rate limits, making it ideal for real-time applications.*
-
-- ⭐ 108215 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-13
-
-![firecrawl](2026/04-13/2026-04-13_daily-top_firecrawl.png)
+![ralph](2026/04-14/2026-04-14_daily-top_ralph.png)
 
 ### 4. [Archon](https://github.com/coleam00/Archon)
 
 > 🤖 **Why Recommend**  
-> *Archon is an open-source harness builder for AI coding, designed to make AI-driven development deterministic and repeatable. With over 17,000 stars on GitHub, it allows users to define workflows in YAML, covering planning, implementation, validation, and code review. Key features include isolated workflow runs, composability of deterministic and AI nodes, and cross-platform portability. Archon offers a web UI for monitoring and managing workflows, and integrates easily with platforms like Slack and GitHub. It streamlines development processes, ensuring consistent outcomes and efficient collaboration.*
+> *Archon is the first open-source harness builder for AI coding, enabling deterministic and repeatable workflows. With over 17,000 stars, it allows users to define development processes in YAML, encompassing planning, implementation, validation, code review, and PR creation. Key features include isolated git worktrees for parallel tasks, a web UI for real-time monitoring, and a comprehensive suite of workflows for common development tasks. Archon facilitates seamless integration with platforms like Slack, Telegram, and GitHub, making AI coding efficient and structured.*
 
-- ⭐ 17155 stars
+- ⭐ 17683 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-13
+- 📅 Updated: 2026-04-14
 
-![Archon](2026/04-13/2026-04-13_daily-top_Archon.png)
+![Archon](2026/04-14/2026-04-14_daily-top_Archon.png)
 
-### 5. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
-
-> 🤖 **Why Recommend**  
-> *OpenDataLoader PDF is an open-source PDF parser designed for AI-ready data extraction and PDF accessibility automation. It offers top-tier extraction accuracy (0.907 overall) for structured data in Markdown, JSON, HTML, and Tagged PDF formats, supporting complex layouts, OCR for scanned documents, and AI-generated descriptions for images and charts. The tool automates PDF accessibility compliance with a unique end-to-end auto-tagging feature, set to launch in Q2 2026, validated by PDF Association standards. Available in Python, Node.js, and Java, it serves both free and enterprise needs.*
-
-- ⭐ 16186 stars
-- 💻 Java
-- 📅 Updated: 2026-04-13
-
-![opendataloader-pdf](2026/04-13/2026-04-13_daily-top_opendataloader-pdf.png)
-
-### 6. [voicebox](https://github.com/jamiepine/voicebox)
+### 5. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
 > 🤖 **Why Recommend**  
-> *Voicebox is an open-source voice synthesis studio that allows users to clone voices, generate speech in 23 languages, and apply post-processing effects—all running locally. Key features include five TTS engines, a multi-voice timeline editor for projects, real-time audio effects, and an API for integration. Voicebox emphasizes privacy, as models and data remain on the user's machine. It supports various platforms, including macOS, Windows, and Linux, and offers capabilities like voice profile management, asynchronous generation, and in-app recording.*
+> *get-shit-done is a lightweight meta-prompting and context engineering system designed for Claude Code and multiple AI coding environments, boasting over 52,000 stars on GitHub. It effectively mitigates context degradation during code generation by utilizing a structured workflow that includes phases for discussion, planning, execution, and verification. Key features include built-in quality gates, atomic git commits, and multi-agent orchestration, ensuring high-quality, efficient code development. Trusted by engineers from Amazon and Google, GSD streamlines the development process while maintaining clarity and control.*
 
-- ⭐ 15420 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-13
+- ⭐ 52232 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-04-14
 
-![voicebox](2026/04-13/2026-04-13_daily-top_voicebox.png)
+![get-shit-done](2026/04-14/2026-04-14_daily-top_get-shit-done.png)
 
-### 7. [cc-switch](https://github.com/farion1231/cc-switch)
+### 6. [rustfs](https://github.com/rustfs/rustfs)
 
 > 🤖 **Why Recommend**  
-> *CC Switch is a cross-platform desktop assistant tool designed to manage multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw, all from a unified interface. It offers over 50 built-in provider presets, eliminating the need for manual configuration edits. Key features include instant provider switching, unified MCP and Skills management, cloud sync, and comprehensive usage tracking. Built with Rust and Tauri, CC Switch supports Windows, macOS, and Linux, providing a seamless experience for developers leveraging AI technologies.*
+> *RustFS is a high-performance, open-source object storage system built in Rust, boasting speeds 2.3x faster than MinIO for 4KB payloads. It supports full S3 compatibility, seamless migration from other platforms like MinIO and Ceph, and includes features such as distributed architecture, OpenStack Keystone integration, and data lake optimization. RustFS is licensed under Apache 2.0, ensuring community contributions without restrictive clauses. Ideal for big data, AI workloads, and edge devices, it combines safety, speed, and user-friendly management in a powerful console interface.*
 
-- ⭐ 43550 stars
+- ⭐ 25626 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-13
+- 📅 Updated: 2026-04-14
 
-![cc-switch](2026/04-13/2026-04-13_daily-top_cc-switch.png)
+![rustfs](2026/04-14/2026-04-14_daily-top_rustfs.png)
 
-### 8. [ralph](https://github.com/snarktank/ralph)
+### 7. [voicebox](https://github.com/jamiepine/voicebox)
 
 > 🤖 **Why Recommend**  
-> *Ralph is an autonomous AI agent that iteratively processes Product Requirements Documents (PRDs) until all items are complete. Utilizing AI coding tools like Amp or Claude Code, Ralph creates a fresh instance for each iteration, tracking progress through git history and files like `prd.json` and `progress.txt`. Key features include automatic PRD generation, conversion to JSON format, and a structured workflow for implementing user stories. With over 16,000 stars, Ralph enhances coding efficiency while ensuring quality through feedback loops and automated checks.*
+> *Voicebox is an open-source voice synthesis studio that allows users to clone voices, generate speech in 23 languages, and apply various effects locally on their machines. Key features include five TTS engines, expressive speech with paralinguistic tags, a multi-voice timeline editor for projects, and comprehensive privacy as all data remains on-device. Voicebox supports unlimited generation lengths, offers a REST API for integration, and features a user-friendly interface for voice profile management. Available on macOS, Windows, and Linux, it emphasizes native performance and privacy.*
 
-- ⭐ 16051 stars
+- ⭐ 16426 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-13
+- 📅 Updated: 2026-04-14
 
-![ralph](2026/04-13/2026-04-13_daily-top_ralph.png)
+![voicebox](2026/04-14/2026-04-14_daily-top_voicebox.png)
 
-### 9. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-
-> 🤖 **Why Recommend**  
-> *Chrome DevTools MCP is a powerful tool that allows AI coding agents (like Gemini and Copilot) to control and inspect live Chrome browsers. With over 34,500 stars on GitHub, it provides essential features such as advanced browser debugging, performance insights via Chrome DevTools, and reliable automation using Puppeteer. Key highlights include network analysis, screenshot capabilities, and performance tracing. It supports configurations for various environments and ensures secure handling of browser data. Ideal for developers seeking robust automation and debugging solutions.*
-
-- ⭐ 34565 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-13
-
-![chrome-devtools-mcp](2026/04-13/2026-04-13_daily-top_chrome-devtools-mcp.png)
-
-### 10. [codex](https://github.com/openai/codex)
+### 8. [koharu](https://github.com/mayocream/koharu)
 
 > 🤖 **Why Recommend**  
-> *Codex is a lightweight coding agent by OpenAI that runs locally in your terminal, designed for seamless coding assistance. With over 74,000 stars, it can be installed globally via npm or Homebrew. Key features include integration with popular IDEs (like VS Code) and a desktop app experience. Users can sign in with their ChatGPT account for enhanced functionality or utilize an API key for custom setups. The project is open-source under the Apache-2.0 License and offers comprehensive documentation for installation and usage.*
+> *Koharu is a Rust-based, ML-powered manga translator designed for a local-first workflow, ensuring user privacy. It automates manga translation using object detection, OCR, inpainting, and LLMs, offering features like automatic text region detection, layered PSD export, and advanced text rendering with support for various scripts. Koharu supports local GPU acceleration (CUDA, Metal, Vulkan) and integrates with local or remote LLM backends. With a built-in HTTP API and MCP server, it facilitates automation and easy integration, making it a comprehensive tool for manga translation.*
 
-- ⭐ 74855 stars
+- ⭐ 3048 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-13
+- 📅 Updated: 2026-04-14
 
-![codex](2026/04-13/2026-04-13_daily-top_codex.png)
+![koharu](2026/04-14/2026-04-14_daily-top_koharu.png)
+
+### 9. [sub2api](https://github.com/Wei-Shaw/sub2api)
+
+> 🤖 **Why Recommend**  
+> *Sub2API is an open-source AI API gateway designed for managing and distributing API quotas from various AI services like Claude, OpenAI, and Gemini. Key features include multi-account management, API key generation, precise billing, smart scheduling, and built-in payment options (EasyPay, Alipay, WeChat Pay, Stripe). The platform also offers an admin dashboard for monitoring and external system integration. With over 12,000 stars, Sub2API streamlines cost-sharing and enhances user experience through efficient resource allocation.*
+
+- ⭐ 12313 stars
+- 💻 Go
+- 📅 Updated: 2026-04-14
+
+![sub2api](2026/04-14/2026-04-14_daily-top_sub2api.png)
+
+### 10. [marketingskills](https://github.com/coreyhaines31/marketingskills)
+
+> 🤖 **Why Recommend**  
+> *The `marketingskills` project offers a comprehensive collection of marketing-focused skills for AI agents, enhancing capabilities in conversion optimization, copywriting, SEO, analytics, and growth engineering. Designed for technical marketers and founders, it integrates seamlessly with systems like Claude Code and OpenAI Codex. Key features include a modular skill system that allows agents to utilize specialized workflows for various marketing tasks. The repository also supports contributions and offers resources like hands-on assistance through Conversion Factory and a guide for coding marketers.*
+
+- ⭐ 20921 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-04-14
+
+![marketingskills](2026/04-14/2026-04-14_daily-top_marketingskills.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-13 03:36:06 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-14 03:25:53 UTC

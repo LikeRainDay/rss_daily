@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-14
 
-![claude-mem](2026/04-14/2026-04-14_daily-top_claude-mem.png)
+![claude-mem](2026-04-14_daily-top_claude-mem.png)
 
 ### 2. [multica](https://github.com/multica-ai/multica)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-14
 
-![multica](2026/04-14/2026-04-14_daily-top_multica.png)
+![multica](2026-04-14_daily-top_multica.png)
 
 ### 3. [ralph](https://github.com/snarktank/ralph)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-14
 
-![ralph](2026/04-14/2026-04-14_daily-top_ralph.png)
+![ralph](2026-04-14_daily-top_ralph.png)
 
 ### 4. [Archon](https://github.com/coleam00/Archon)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-14
 
-![Archon](2026/04-14/2026-04-14_daily-top_Archon.png)
+![Archon](2026-04-14_daily-top_Archon.png)
 
 ### 5. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -72,7 +72,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-14
 
-![get-shit-done](2026/04-14/2026-04-14_daily-top_get-shit-done.png)
+![get-shit-done](2026-04-14_daily-top_get-shit-done.png)
 
 ### 6. [rustfs](https://github.com/rustfs/rustfs)
 
@@ -83,7 +83,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-14
 
-![rustfs](2026/04-14/2026-04-14_daily-top_rustfs.png)
+![rustfs](2026-04-14_daily-top_rustfs.png)
 
 ### 7. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-14
 
-![voicebox](2026/04-14/2026-04-14_daily-top_voicebox.png)
+![voicebox](2026-04-14_daily-top_voicebox.png)
 
 ### 8. [koharu](https://github.com/mayocream/koharu)
 
@@ -105,7 +105,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-14
 
-![koharu](2026/04-14/2026-04-14_daily-top_koharu.png)
+![koharu](2026-04-14_daily-top_koharu.png)
 
 ### 9. [sub2api](https://github.com/Wei-Shaw/sub2api)
 
@@ -116,7 +116,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-14
 
-![sub2api](2026/04-14/2026-04-14_daily-top_sub2api.png)
+![sub2api](2026-04-14_daily-top_sub2api.png)
 
 ### 10. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-14
 
-![marketingskills](2026/04-14/2026-04-14_daily-top_marketingskills.png)
+![marketingskills](2026-04-14_daily-top_marketingskills.png)
 
 ---
 
