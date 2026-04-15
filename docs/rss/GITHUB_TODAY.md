@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-04-14
+# 📊 🌟 GitHub Trending Daily - 2026-04-15
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **229812** ⭐ | **23086** 🍴
+**10** Projects | **264399** ⭐ | **26850** 🍴
 
-**Top Languages:** `TypeScript` (5) · `JavaScript` (2) · `Rust` (2)
+**Top Languages:** `TypeScript` (6) · `JavaScript` (2) · `Rust` (1)
 
-**Updated:** 2026-04-14 03:25 UTC
+**Updated:** 2026-04-15 03:23 UTC
 
 **Categories:**
 
@@ -21,113 +21,113 @@
 ### 1. [claude-mem](https://github.com/thedotmack/claude-mem)
 
 > 🤖 **Why Recommend**  
-> *Claude-Mem is a TypeScript plugin for Claude Code that enhances coding sessions by automatically capturing tool usage and generating AI-compressed summaries, preserving context across sessions. Key features include persistent memory for continuity, skill-based search capabilities, a web viewer for real-time memory streams, and privacy controls for sensitive data. The plugin supports seamless installation, integration with OpenClaw gateways, and offers experimental features like Endless Mode. With over 53,000 stars, it is designed to optimize coding efficiency and context management.*
+> *Claude-Mem is a TypeScript plugin for Claude Code that enhances coding sessions by automatically capturing and compressing contextual information. With over 56,000 stars, it offers persistent memory, allowing users to retain project context across sessions. Key features include progressive memory retrieval, a web viewer UI for real-time monitoring, skill-based search capabilities, and privacy controls for sensitive information. Claude-Mem supports easy installation, automatic operation, and integration with platforms like OpenClaw, making it a valuable tool for developers seeking continuity in their work.*
 
-- ⭐ 53633 stars
+- ⭐ 56045 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-14
+- 📅 Updated: 2026-04-15
 
-![claude-mem](2026/04-14/2026-04-14_daily-top_claude-mem.png)
+![claude-mem](2026/04-15/2026-04-15_daily-top_claude-mem.png)
 
 ### 2. [multica](https://github.com/multica-ai/multica)
 
 > 🤖 **Why Recommend**  
 > *The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.. popular project, actively maintained, recently updated*
 
-- ⭐ 11344 stars
-- 🍴 1408 forks
+- ⭐ 12608 stars
+- 🍴 1548 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-04-14
+- 📅 Updated: 2026-04-15
 
-![multica](2026/04-14/2026-04-14_daily-top_multica.png)
+![multica](2026/04-15/2026-04-15_daily-top_multica.png)
 
-### 3. [ralph](https://github.com/snarktank/ralph)
+### 3. [voicebox](https://github.com/jamiepine/voicebox)
 
 > 🤖 **Why Recommend**  
-> *Ralph is an autonomous AI agent loop designed to iteratively complete Product Requirements Documents (PRDs) using AI coding tools like Amp and Claude Code. With 16,586 stars on GitHub, it excels in generating and converting PRDs into structured JSON for execution. Each iteration runs in a fresh context, utilizing git history, `progress.txt`, and `prd.json` for memory. Key features include automatic handoff for large tasks, integrated skills for PRD generation, and a robust workflow ensuring quality checks. Ralph enhances coding efficiency through feedback loops and continuous learning.*
+> *Voicebox is an open-source voice synthesis studio that runs locally, offering voice cloning, speech generation in 23 languages, and extensive audio effects. Key features include five TTS engines, a multi-track timeline editor for creating complex audio projects, and an API for integration. Users can customize voice profiles, apply post-processing effects, and manage recordings with transcription capabilities. Designed for privacy and performance, Voicebox supports various platforms including macOS, Windows, and Linux, making it a versatile tool for developers and creators alike.*
 
-- ⭐ 16586 stars
+- ⭐ 17481 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-14
+- 📅 Updated: 2026-04-15
 
-![ralph](2026/04-14/2026-04-14_daily-top_ralph.png)
+![voicebox](2026/04-15/2026-04-15_daily-top_voicebox.png)
 
-### 4. [Archon](https://github.com/coleam00/Archon)
+### 4. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
 > 🤖 **Why Recommend**  
-> *Archon is the first open-source harness builder for AI coding, enabling deterministic and repeatable workflows. With over 17,000 stars, it allows users to define development processes in YAML, encompassing planning, implementation, validation, code review, and PR creation. Key features include isolated git worktrees for parallel tasks, a web UI for real-time monitoring, and a comprehensive suite of workflows for common development tasks. Archon facilitates seamless integration with platforms like Slack, Telegram, and GitHub, making AI coding efficient and structured.*
+> *Get Shit Done (GSD) is a lightweight, powerful development system designed for Claude Code and similar platforms. With over 53,000 stars, it effectively combats context rot, ensuring high-quality code generation. Key features include meta-prompting, context engineering, and spec-driven development. GSD automates project initialization, planning, execution, and verification through a series of structured commands, enhancing productivity without the complexity of traditional development workflows. Trusted by engineers at major tech firms, GSD streamlines the coding process while maintaining quality and clarity.*
 
-- ⭐ 17683 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-14
-
-![Archon](2026/04-14/2026-04-14_daily-top_Archon.png)
-
-### 5. [get-shit-done](https://github.com/gsd-build/get-shit-done)
-
-> 🤖 **Why Recommend**  
-> *get-shit-done is a lightweight meta-prompting and context engineering system designed for Claude Code and multiple AI coding environments, boasting over 52,000 stars on GitHub. It effectively mitigates context degradation during code generation by utilizing a structured workflow that includes phases for discussion, planning, execution, and verification. Key features include built-in quality gates, atomic git commits, and multi-agent orchestration, ensuring high-quality, efficient code development. Trusted by engineers from Amazon and Google, GSD streamlines the development process while maintaining clarity and control.*
-
-- ⭐ 52232 stars
+- ⭐ 53075 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-04-14
+- 📅 Updated: 2026-04-15
 
-![get-shit-done](2026/04-14/2026-04-14_daily-top_get-shit-done.png)
+![get-shit-done](2026/04-15/2026-04-15_daily-top_get-shit-done.png)
 
-### 6. [rustfs](https://github.com/rustfs/rustfs)
-
-> 🤖 **Why Recommend**  
-> *RustFS is a high-performance, open-source object storage system built in Rust, boasting speeds 2.3x faster than MinIO for 4KB payloads. It supports full S3 compatibility, seamless migration from other platforms like MinIO and Ceph, and includes features such as distributed architecture, OpenStack Keystone integration, and data lake optimization. RustFS is licensed under Apache 2.0, ensuring community contributions without restrictive clauses. Ideal for big data, AI workloads, and edge devices, it combines safety, speed, and user-friendly management in a powerful console interface.*
-
-- ⭐ 25626 stars
-- 💻 Rust
-- 📅 Updated: 2026-04-14
-
-![rustfs](2026/04-14/2026-04-14_daily-top_rustfs.png)
-
-### 7. [voicebox](https://github.com/jamiepine/voicebox)
+### 5. [editor](https://github.com/pascalorg/editor)
 
 > 🤖 **Why Recommend**  
-> *Voicebox is an open-source voice synthesis studio that allows users to clone voices, generate speech in 23 languages, and apply various effects locally on their machines. Key features include five TTS engines, expressive speech with paralinguistic tags, a multi-voice timeline editor for projects, and comprehensive privacy as all data remains on-device. Voicebox supports unlimited generation lengths, offers a REST API for integration, and features a user-friendly interface for voice profile management. Available on macOS, Windows, and Linux, it emphasizes native performance and privacy.*
+> *Pascal Editor is a powerful 3D architectural project editor built using React Three Fiber and WebGPU, enabling users to create and share intricate building designs. The monorepo structure includes a core package for state management and schema definitions, and a viewer package for 3D rendering. Key features include interactive editing tools, a robust state management system using Zustand, and an event-driven architecture for seamless user interactions. With a user-friendly interface and tools for selecting, drawing walls, and placing items, Pascal Editor is ideal for architects and designers looking to visualize and manipulate 3D spaces intuitively.*
 
-- ⭐ 16426 stars
+- ⭐ 11765 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-14
+- 📅 Updated: 2026-04-15
 
-![voicebox](2026/04-14/2026-04-14_daily-top_voicebox.png)
+![editor](2026/04-15/2026-04-15_daily-top_editor.png)
 
-### 8. [koharu](https://github.com/mayocream/koharu)
+### 6. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *Koharu is a Rust-based, ML-powered manga translator designed for a local-first workflow, ensuring user privacy. It automates manga translation using object detection, OCR, inpainting, and LLMs, offering features like automatic text region detection, layered PSD export, and advanced text rendering with support for various scripts. Koharu supports local GPU acceleration (CUDA, Metal, Vulkan) and integrates with local or remote LLM backends. With a built-in HTTP API and MCP server, it facilitates automation and easy integration, making it a comprehensive tool for manga translation.*
+> *CC Switch is a cross-platform desktop application designed to streamline management of five major AI CLI tools: Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 50 built-in provider presets, users can effortlessly switch between services without manual configuration. Key features include unified MCP and Skills management, cloud sync across devices, and a system tray for quick access. Built with Tauri and Rust, CC Switch offers robust performance and reliability, making it an essential tool for developers leveraging AI in their workflows.*
 
-- ⭐ 3048 stars
+- ⭐ 44817 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-14
+- 📅 Updated: 2026-04-15
 
-![koharu](2026/04-14/2026-04-14_daily-top_koharu.png)
+![cc-switch](2026/04-15/2026-04-15_daily-top_cc-switch.png)
 
-### 9. [sub2api](https://github.com/Wei-Shaw/sub2api)
+### 7. [Archon](https://github.com/coleam00/Archon)
 
 > 🤖 **Why Recommend**  
-> *Sub2API is an open-source AI API gateway designed for managing and distributing API quotas from various AI services like Claude, OpenAI, and Gemini. Key features include multi-account management, API key generation, precise billing, smart scheduling, and built-in payment options (EasyPay, Alipay, WeChat Pay, Stripe). The platform also offers an admin dashboard for monitoring and external system integration. With over 12,000 stars, Sub2API streamlines cost-sharing and enhances user experience through efficient resource allocation.*
+> *Archon is the first open-source harness builder for AI coding, designed to make the process deterministic and repeatable. With 17 default workflows, it allows users to define development processes in YAML, encompassing planning, implementation, validation, code review, and PR creation, all in isolated environments to prevent conflicts. Key features include composability with deterministic and AI nodes, a web UI for monitoring and interaction, and integration with platforms like Slack and GitHub. Archon empowers teams to automate coding tasks efficiently, fostering collaboration and productivity.*
 
-- ⭐ 12313 stars
+- ⭐ 17983 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-15
+
+![Archon](2026/04-15/2026-04-15_daily-top_Archon.png)
+
+### 8. [ralph](https://github.com/snarktank/ralph)
+
+> 🤖 **Why Recommend**  
+> *Ralph is an autonomous AI agent loop designed to automate coding tasks until all PRD items are completed. Integrated with AI coding tools like Amp and Claude Code, it iteratively generates, converts, and implements user stories from PRDs. Key features include fresh context for each iteration, persistent memory via git history and progress tracking, and automated quality checks. Users can create detailed PRDs, convert them to JSON, and execute tasks efficiently. With over 16,800 stars, Ralph enhances productivity in software development through structured feedback loops and effective task management.*
+
+- ⭐ 16844 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-15
+
+![ralph](2026/04-15/2026-04-15_daily-top_ralph.png)
+
+### 9. [marketingskills](https://github.com/coreyhaines31/marketingskills)
+
+> 🤖 **Why Recommend**  
+> *Marketingskills is a GitHub project designed for AI agents, focusing on marketing functionalities such as conversion optimization, copywriting, SEO, analytics, and growth engineering. With over 21,000 stars, it offers specialized skills through markdown files that enhance AI agents' capabilities. Compatible with platforms like Claude Code and OpenAI Codex, key features include A/B testing, ad creative generation, and customer research. The project, created by Corey Haines, also connects users to hands-on support via Conversion Factory and educational resources through Swipe Files. Contributions are welcome for skill improvements.*
+
+- ⭐ 21203 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-04-15
+
+![marketingskills](2026/04-15/2026-04-15_daily-top_marketingskills.png)
+
+### 10. [sub2api](https://github.com/Wei-Shaw/sub2api)
+
+> 🤖 **Why Recommend**  
+> *Sub2API is an open-source AI API gateway platform for managing subscription quotas from services like Claude, OpenAI, and Gemini. It offers multi-account management, API key distribution, precise billing, and smart scheduling. Key features include concurrency control, rate limiting, a built-in payment system supporting multiple payment methods, and an admin dashboard for easy management. With seamless integration of external systems and strong community support, Sub2API streamlines AI service access while optimizing cost-sharing for users.*
+
+- ⭐ 12578 stars
 - 💻 Go
-- 📅 Updated: 2026-04-14
+- 📅 Updated: 2026-04-15
 
-![sub2api](2026/04-14/2026-04-14_daily-top_sub2api.png)
-
-### 10. [marketingskills](https://github.com/coreyhaines31/marketingskills)
-
-> 🤖 **Why Recommend**  
-> *The `marketingskills` project offers a comprehensive collection of marketing-focused skills for AI agents, enhancing capabilities in conversion optimization, copywriting, SEO, analytics, and growth engineering. Designed for technical marketers and founders, it integrates seamlessly with systems like Claude Code and OpenAI Codex. Key features include a modular skill system that allows agents to utilize specialized workflows for various marketing tasks. The repository also supports contributions and offers resources like hands-on assistance through Conversion Factory and a guide for coding marketers.*
-
-- ⭐ 20921 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-04-14
-
-![marketingskills](2026/04-14/2026-04-14_daily-top_marketingskills.png)
+![sub2api](2026/04-15/2026-04-15_daily-top_sub2api.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-14 03:25:53 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-15 03:23:07 UTC

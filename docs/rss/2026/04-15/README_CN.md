@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-15
 
-![claude-mem](2026/04-15/2026-04-15_daily-top_claude-mem.png)
+![claude-mem](2026-04-15_daily-top_claude-mem.png)
 
 ### 2. [multica](https://github.com/multica-ai/multica)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-15
 
-![multica](2026/04-15/2026-04-15_daily-top_multica.png)
+![multica](2026-04-15_daily-top_multica.png)
 
 ### 3. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-15
 
-![voicebox](2026/04-15/2026-04-15_daily-top_voicebox.png)
+![voicebox](2026-04-15_daily-top_voicebox.png)
 
 ### 4. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -61,7 +61,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-15
 
-![get-shit-done](2026/04-15/2026-04-15_daily-top_get-shit-done.png)
+![get-shit-done](2026-04-15_daily-top_get-shit-done.png)
 
 ### 5. [editor](https://github.com/pascalorg/editor)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-15
 
-![editor](2026/04-15/2026-04-15_daily-top_editor.png)
+![editor](2026-04-15_daily-top_editor.png)
 
 ### 6. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -83,7 +83,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-15
 
-![cc-switch](2026/04-15/2026-04-15_daily-top_cc-switch.png)
+![cc-switch](2026-04-15_daily-top_cc-switch.png)
 
 ### 7. [Archon](https://github.com/coleam00/Archon)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-15
 
-![Archon](2026/04-15/2026-04-15_daily-top_Archon.png)
+![Archon](2026-04-15_daily-top_Archon.png)
 
 ### 8. [ralph](https://github.com/snarktank/ralph)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-15
 
-![ralph](2026/04-15/2026-04-15_daily-top_ralph.png)
+![ralph](2026-04-15_daily-top_ralph.png)
 
 ### 9. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
@@ -116,7 +116,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-15
 
-![marketingskills](2026/04-15/2026-04-15_daily-top_marketingskills.png)
+![marketingskills](2026-04-15_daily-top_marketingskills.png)
 
 ### 10. [sub2api](https://github.com/Wei-Shaw/sub2api)
 
@@ -127,7 +127,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-15
 
-![sub2api](2026/04-15/2026-04-15_daily-top_sub2api.png)
+![sub2api](2026-04-15_daily-top_sub2api.png)
 
 ---
 
