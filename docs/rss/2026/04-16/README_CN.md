@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-16
 
-![claude-mem](2026/04-16/2026-04-16_daily-top_claude-mem.png)
+![claude-mem](2026-04-16_daily-top_claude-mem.png)
 
 ### 2. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-16
 
-![everything-claude-code](2026/04-16/2026-04-16_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-04-16_daily-top_everything-claude-code.png)
 
 ### 3. [editor](https://github.com/pascalorg/editor)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-16
 
-![editor](2026/04-16/2026-04-16_daily-top_editor.png)
+![editor](2026-04-16_daily-top_editor.png)
 
 ### 4. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-16
 
-![voicebox](2026/04-16/2026-04-16_daily-top_voicebox.png)
+![voicebox](2026-04-16_daily-top_voicebox.png)
 
 ### 5. [open-agents](https://github.com/vercel-labs/open-agents)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-16
 
-![open-agents](2026/04-16/2026-04-16_daily-top_open-agents.png)
+![open-agents](2026-04-16_daily-top_open-agents.png)
 
 ### 6. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-16
 
-![get-shit-done](2026/04-16/2026-04-16_daily-top_get-shit-done.png)
+![get-shit-done](2026-04-16_daily-top_get-shit-done.png)
 
 ### 7. [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-16
 
-![fff.nvim](2026/04-16/2026-04-16_daily-top_fff.nvim.png)
+![fff.nvim](2026-04-16_daily-top_fff.nvim.png)
 
 ### 8. [camofox-browser](https://github.com/jo-inc/camofox-browser)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-16
 
-![camofox-browser](2026/04-16/2026-04-16_daily-top_camofox-browser.png)
+![camofox-browser](2026-04-16_daily-top_camofox-browser.png)
 
 ### 9. [OpenSpec](https://github.com/Fission-AI/OpenSpec)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-16
 
-![OpenSpec](2026/04-16/2026-04-16_daily-top_OpenSpec.png)
+![OpenSpec](2026-04-16_daily-top_OpenSpec.png)
 
 ### 10. [postiz-app](https://github.com/gitroomhq/postiz-app)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-16
 
-![postiz-app](2026/04-16/2026-04-16_daily-top_postiz-app.png)
+![postiz-app](2026-04-16_daily-top_postiz-app.png)
 
 ---
 

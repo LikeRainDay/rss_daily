@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-04-15
+# 📊 🌟 GitHub Trending Daily - 2026-04-16
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **264399** ⭐ | **26850** 🍴
+**10** Projects | **379859** ⭐ | **46033** 🍴
 
-**Top Languages:** `TypeScript` (6) · `JavaScript` (2) · `Rust` (1)
+**Top Languages:** `TypeScript` (6) · `JavaScript` (3) · `Rust` (1)
 
-**Updated:** 2026-04-15 03:23 UTC
+**Updated:** 2026-04-16 03:31 UTC
 
 **Categories:**
 
@@ -21,113 +21,112 @@
 ### 1. [claude-mem](https://github.com/thedotmack/claude-mem)
 
 > 🤖 **Why Recommend**  
-> *Claude-Mem is a TypeScript plugin for Claude Code that enhances coding sessions by automatically capturing and compressing contextual information. With over 56,000 stars, it offers persistent memory, allowing users to retain project context across sessions. Key features include progressive memory retrieval, a web viewer UI for real-time monitoring, skill-based search capabilities, and privacy controls for sensitive information. Claude-Mem supports easy installation, automatic operation, and integration with platforms like OpenClaw, making it a valuable tool for developers seeking continuity in their work.*
+> *Claude-Mem is a TypeScript plugin for Claude Code that enhances coding sessions by automatically capturing tool usage and generating AI-compressed summaries for future reference. Key features include persistent memory for context continuity, progressive disclosure for token-efficient memory retrieval, and a web viewer UI for real-time memory access. It supports various installation methods, integrates with OpenClaw for real-time updates, and offers privacy controls. With innovative search tools and a beta channel for experimental features, Claude-Mem significantly improves developer productivity.*
 
-- ⭐ 56045 stars
+- ⭐ 58045 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-15
+- 📅 Updated: 2026-04-16
 
-![claude-mem](2026/04-15/2026-04-15_daily-top_claude-mem.png)
+![claude-mem](2026/04-16/2026-04-16_daily-top_claude-mem.png)
 
-### 2. [multica](https://github.com/multica-ai/multica)
+### 2. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
 > 🤖 **Why Recommend**  
-> *The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.. popular project, actively maintained, recently updated*
+> *Everything Claude Code is a comprehensive performance optimization system for AI agents, compatible with Claude Code, Codex, Cursor, and OpenCode. Key features include skills, instincts, memory optimization, continuous learning, and security scanning. It boasts 48 agents and 183 skills to streamline workflows in software development. The project is a winner of the Anthropic Hackathon and supports multiple languages, with a focus on production-ready tools. Installation is flexible, accommodating both plugin and manual setups, making it versatile for various development environments.*
 
-- ⭐ 12608 stars
-- 🍴 1548 forks
-- 💻 TypeScript
-- 📅 Updated: 2026-04-15
-
-![multica](2026/04-15/2026-04-15_daily-top_multica.png)
-
-### 3. [voicebox](https://github.com/jamiepine/voicebox)
-
-> 🤖 **Why Recommend**  
-> *Voicebox is an open-source voice synthesis studio that runs locally, offering voice cloning, speech generation in 23 languages, and extensive audio effects. Key features include five TTS engines, a multi-track timeline editor for creating complex audio projects, and an API for integration. Users can customize voice profiles, apply post-processing effects, and manage recordings with transcription capabilities. Designed for privacy and performance, Voicebox supports various platforms including macOS, Windows, and Linux, making it a versatile tool for developers and creators alike.*
-
-- ⭐ 17481 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-15
-
-![voicebox](2026/04-15/2026-04-15_daily-top_voicebox.png)
-
-### 4. [get-shit-done](https://github.com/gsd-build/get-shit-done)
-
-> 🤖 **Why Recommend**  
-> *Get Shit Done (GSD) is a lightweight, powerful development system designed for Claude Code and similar platforms. With over 53,000 stars, it effectively combats context rot, ensuring high-quality code generation. Key features include meta-prompting, context engineering, and spec-driven development. GSD automates project initialization, planning, execution, and verification through a series of structured commands, enhancing productivity without the complexity of traditional development workflows. Trusted by engineers at major tech firms, GSD streamlines the coding process while maintaining quality and clarity.*
-
-- ⭐ 53075 stars
+- ⭐ 157629 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-04-15
+- 📅 Updated: 2026-04-16
 
-![get-shit-done](2026/04-15/2026-04-15_daily-top_get-shit-done.png)
+![everything-claude-code](2026/04-16/2026-04-16_daily-top_everything-claude-code.png)
 
-### 5. [editor](https://github.com/pascalorg/editor)
+### 3. [editor](https://github.com/pascalorg/editor)
 
 > 🤖 **Why Recommend**  
-> *Pascal Editor is a powerful 3D architectural project editor built using React Three Fiber and WebGPU, enabling users to create and share intricate building designs. The monorepo structure includes a core package for state management and schema definitions, and a viewer package for 3D rendering. Key features include interactive editing tools, a robust state management system using Zustand, and an event-driven architecture for seamless user interactions. With a user-friendly interface and tools for selecting, drawing walls, and placing items, Pascal Editor is ideal for architects and designers looking to visualize and manipulate 3D spaces intuitively.*
+> *Pascal Editor is a powerful 3D architectural project editor built with TypeScript, React Three Fiber, and WebGPU, designed for creating and sharing detailed architectural designs. Key features include a monorepo architecture with dedicated packages for core functionality, 3D rendering, and an intuitive UI. The editor supports interactive tools for wall drawing, item placement, and zone creation, while utilizing Zustand for state management and advanced systems for geometry generation. With features like undo/redo and spatial validation, it streamlines the architectural design process.*
 
-- ⭐ 11765 stars
+- ⭐ 12752 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-15
+- 📅 Updated: 2026-04-16
 
-![editor](2026/04-15/2026-04-15_daily-top_editor.png)
+![editor](2026/04-16/2026-04-16_daily-top_editor.png)
 
-### 6. [cc-switch](https://github.com/farion1231/cc-switch)
+### 4. [voicebox](https://github.com/jamiepine/voicebox)
 
 > 🤖 **Why Recommend**  
-> *CC Switch is a cross-platform desktop application designed to streamline management of five major AI CLI tools: Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 50 built-in provider presets, users can effortlessly switch between services without manual configuration. Key features include unified MCP and Skills management, cloud sync across devices, and a system tray for quick access. Built with Tauri and Rust, CC Switch offers robust performance and reliability, making it an essential tool for developers leveraging AI in their workflows.*
+> *Voicebox is an open-source voice synthesis studio that allows users to clone voices, generate speech in 23 languages, and apply effects—all running locally for complete privacy. Key features include five TTS engines, a multi-voice timeline editor for projects, and an API for integration. Users can apply post-processing effects, manage voice profiles, and utilize real-time async generation. Built with Tauri for native performance, Voicebox supports macOS, Windows, and Linux, making it suitable for diverse applications like podcasts, game dialogue, and accessibility tools.*
 
-- ⭐ 44817 stars
+- ⭐ 18398 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-16
+
+![voicebox](2026/04-16/2026-04-16_daily-top_voicebox.png)
+
+### 5. [open-agents](https://github.com/vercel-labs/open-agents)
+
+> 🤖 **Why Recommend**  
+> *Open Agents is an open-source template for building cloud agents, designed for Vercel. With 2,724 stars, it offers a robust architecture comprising a web UI, agent workflow, and sandbox VM. Key features include a chat-driven coding agent, multi-step execution, isolated Vercel sandboxes, and GitHub integration for repo management, auto-commit, and PR creation. The separation of agent and sandbox allows independent lifecycle management. Developers can easily fork the repo and adapt it, making it a versatile tool for cloud-based coding solutions.*
+
+- ⭐ 2724 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-16
+
+![open-agents](2026/04-16/2026-04-16_daily-top_open-agents.png)
+
+### 6. [get-shit-done](https://github.com/gsd-build/get-shit-done)
+
+> 🤖 **Why Recommend**  
+> *Get Shit Done (GSD) is a lightweight meta-prompting and spec-driven development system designed for Claude Code and various AI runtimes. It effectively combats context degradation, enhancing code quality through context engineering and automated task management. Key features include project initialization, phase planning, multi-agent orchestration, and user acceptance testing. GSD integrates knowledge graphs, supports TDD, and ensures atomic Git commits for traceability. Trusted by engineers at major tech companies, GSD streamlines development workflows without the complexity of traditional tools.*
+
+- ⭐ 53622 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-04-16
+
+![get-shit-done](2026/04-16/2026-04-16_daily-top_get-shit-done.png)
+
+### 7. [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
+
+> 🤖 **Why Recommend**  
+> *fff.nvim is a high-performance fuzzy file search toolkit for AI agents and Neovim, built with Rust. It features rapid file matching, memory usage optimization for AI interactions, and enhanced typo resistance. Key functionalities include multi-grep support, customizable search modes (plain, regex, fuzzy), git integration with status highlighting, and cross-mode suggestions for improved search results. The plugin supports Neovim 0.10.0+, with easy installation via a bash script. With over 5000 stars on GitHub, it stands out for its speed and accuracy in file searching.*
+
+- ⭐ 5006 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-15
+- 📅 Updated: 2026-04-16
 
-![cc-switch](2026/04-15/2026-04-15_daily-top_cc-switch.png)
+![fff.nvim](2026/04-16/2026-04-16_daily-top_fff.nvim.png)
 
-### 7. [Archon](https://github.com/coleam00/Archon)
-
-> 🤖 **Why Recommend**  
-> *Archon is the first open-source harness builder for AI coding, designed to make the process deterministic and repeatable. With 17 default workflows, it allows users to define development processes in YAML, encompassing planning, implementation, validation, code review, and PR creation, all in isolated environments to prevent conflicts. Key features include composability with deterministic and AI nodes, a web UI for monitoring and interaction, and integration with platforms like Slack and GitHub. Archon empowers teams to automate coding tasks efficiently, fostering collaboration and productivity.*
-
-- ⭐ 17983 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-15
-
-![Archon](2026/04-15/2026-04-15_daily-top_Archon.png)
-
-### 8. [ralph](https://github.com/snarktank/ralph)
+### 8. [camofox-browser](https://github.com/jo-inc/camofox-browser)
 
 > 🤖 **Why Recommend**  
-> *Ralph is an autonomous AI agent loop designed to automate coding tasks until all PRD items are completed. Integrated with AI coding tools like Amp and Claude Code, it iteratively generates, converts, and implements user stories from PRDs. Key features include fresh context for each iteration, persistent memory via git history and progress tracking, and automated quality checks. Users can create detailed PRDs, convert them to JSON, and execute tasks efficiently. With over 16,800 stars, Ralph enhances productivity in software development through structured feedback loops and effective task management.*
+> *Camofox-browser is a headless browser automation server designed for AI agents, utilizing the Camoufox engine for advanced anti-detection. Key features include C++ level fingerprint spoofing, REST API integration, stable element references, and token-efficient accessibility snapshots. It supports cookie import for authenticated browsing, proxy routing with GeoIP, and structured JSON logging for observability. The server can handle multiple user sessions, automated tab management, and provides search macros for popular platforms. Camofox-browser is deployable via Docker and various cloud platforms.*
 
-- ⭐ 16844 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-15
-
-![ralph](2026/04-15/2026-04-15_daily-top_ralph.png)
-
-### 9. [marketingskills](https://github.com/coreyhaines31/marketingskills)
-
-> 🤖 **Why Recommend**  
-> *Marketingskills is a GitHub project designed for AI agents, focusing on marketing functionalities such as conversion optimization, copywriting, SEO, analytics, and growth engineering. With over 21,000 stars, it offers specialized skills through markdown files that enhance AI agents' capabilities. Compatible with platforms like Claude Code and OpenAI Codex, key features include A/B testing, ad creative generation, and customer research. The project, created by Corey Haines, also connects users to hands-on support via Conversion Factory and educational resources through Swipe Files. Contributions are welcome for skill improvements.*
-
-- ⭐ 21203 stars
+- ⭐ 2587 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-04-15
+- 📅 Updated: 2026-04-16
 
-![marketingskills](2026/04-15/2026-04-15_daily-top_marketingskills.png)
+![camofox-browser](2026/04-16/2026-04-16_daily-top_camofox-browser.png)
 
-### 10. [sub2api](https://github.com/Wei-Shaw/sub2api)
+### 9. [OpenSpec](https://github.com/Fission-AI/OpenSpec)
 
 > 🤖 **Why Recommend**  
-> *Sub2API is an open-source AI API gateway platform for managing subscription quotas from services like Claude, OpenAI, and Gemini. It offers multi-account management, API key distribution, precise billing, and smart scheduling. Key features include concurrency control, rate limiting, a built-in payment system supporting multiple payment methods, and an admin dashboard for easy management. With seamless integration of external systems and strong community support, Sub2API streamlines AI service access while optimizing cost-sharing for users.*
+> *OpenSpec is a spec-driven development framework designed for AI coding assistants, boasting over 40,000 stars on GitHub. Built with TypeScript, it enables fluid collaboration between humans and AI by establishing clear specifications before coding begins. Key features include a structured proposal process, artifact management for each change, and support for over 20 AI tools via intuitive slash commands. OpenSpec promotes iterative development, organization, and adaptability, making it suitable for projects of any scale. Join the community on Discord for support and updates.*
 
-- ⭐ 12578 stars
-- 💻 Go
-- 📅 Updated: 2026-04-15
+- ⭐ 40365 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-16
 
-![sub2api](2026/04-15/2026-04-15_daily-top_sub2api.png)
+![OpenSpec](2026/04-16/2026-04-16_daily-top_OpenSpec.png)
+
+### 10. [postiz-app](https://github.com/gitroomhq/postiz-app)
+
+> 🤖 **Why Recommend**  
+> *Postiz is an advanced social media scheduling tool that leverages AI to streamline post management across various platforms like X, Bluesky, and Discord. With features such as analytics, team collaboration, and an intuitive API for automation with tools like N8N and Zapier, Postiz empowers users to efficiently build their audience and capture leads. The self-hosted option ensures data privacy, while integration with popular services and a user-friendly interface make it a competitive alternative to tools like Buffer and Hypefury. Explore Postiz for a comprehensive social media strategy.*
+
+- ⭐ 28731 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-16
+
+![postiz-app](2026/04-16/2026-04-16_daily-top_postiz-app.png)
 
 ---
 
@@ -141,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-15 03:23:07 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-16 03:31:52 UTC
