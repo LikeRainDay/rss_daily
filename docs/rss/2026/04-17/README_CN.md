@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-17
 
-![claude-mem](2026/04-17/2026-04-17_daily-top_claude-mem.png)
+![claude-mem](2026-04-17_daily-top_claude-mem.png)
 
 ### 2. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-17
 
-![voicebox](2026/04-17/2026-04-17_daily-top_voicebox.png)
+![voicebox](2026-04-17_daily-top_voicebox.png)
 
 ### 3. [evolver](https://github.com/EvoMap/evolver)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-17
 
-![evolver](2026/04-17/2026-04-17_daily-top_evolver.png)
+![evolver](2026-04-17_daily-top_evolver.png)
 
 ### 4. [open-agents](https://github.com/vercel-labs/open-agents)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-17
 
-![open-agents](2026/04-17/2026-04-17_daily-top_open-agents.png)
+![open-agents](2026-04-17_daily-top_open-agents.png)
 
 ### 5. [editor](https://github.com/pascalorg/editor)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-17
 
-![editor](2026/04-17/2026-04-17_daily-top_editor.png)
+![editor](2026-04-17_daily-top_editor.png)
 
 ### 6. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-17
 
-![cc-switch](2026/04-17/2026-04-17_daily-top_cc-switch.png)
+![cc-switch](2026-04-17_daily-top_cc-switch.png)
 
 ### 7. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-17
 
-![get-shit-done](2026/04-17/2026-04-17_daily-top_get-shit-done.png)
+![get-shit-done](2026-04-17_daily-top_get-shit-done.png)
 
 ### 8. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-17
 
-![impeccable](2026/04-17/2026-04-17_daily-top_impeccable.png)
+![impeccable](2026-04-17_daily-top_impeccable.png)
 
 ### 9. [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
@@ -116,7 +116,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-17
 
-![sniffnet](2026/04-17/2026-04-17_daily-top_sniffnet.png)
+![sniffnet](2026-04-17_daily-top_sniffnet.png)
 
 ### 10. [wacli](https://github.com/steipete/wacli)
 
@@ -127,7 +127,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-17
 
-![wacli](2026/04-17/2026-04-17_daily-top_wacli.png)
+![wacli](2026-04-17_daily-top_wacli.png)
 
 ---
 
