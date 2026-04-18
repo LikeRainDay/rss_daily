@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-04-17
+# 📊 🌟 GitHub Trending Daily - 2026-04-18
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **254894** ⭐ | **19298** 🍴
+**10** Projects | **380931** ⭐ | **35917** 🍴
 
-**Top Languages:** `TypeScript` (4) · `JavaScript` (3) · `Rust` (2)
+**Top Languages:** `TypeScript` (5) · `Rust` (3) · `JavaScript` (2)
 
-**Updated:** 2026-04-17 03:27 UTC
+**Updated:** 2026-04-18 02:58 UTC
 
 **Categories:**
 
@@ -21,113 +21,113 @@
 ### 1. [claude-mem](https://github.com/thedotmack/claude-mem)
 
 > 🤖 **Why Recommend**  
-> *Claude-Mem is a powerful plugin for Claude Code, enabling persistent memory across coding sessions. It automatically captures and compresses coding activities using AI, ensuring continuity and context in future sessions. Key features include progressive memory retrieval, skill-based search, real-time memory streaming, and privacy controls for sensitive content. Installation is straightforward, with support for various IDEs and a web UI for interaction. Designed for seamless integration, Claude-Mem enhances productivity by providing contextual insights and easy access to project history.*
+> *Claude-Mem is a TypeScript plugin for Claude Code that captures and compresses coding session activities, enhancing context continuity for future work. Key features include persistent memory that survives across sessions, skill-based memory search, real-time memory streaming via a web UI, and privacy controls for handling sensitive data. The plugin automates the injection of context into new sessions and supports various IDEs, including Gemini CLI. With over 61,000 stars, it offers a robust system for maintaining project knowledge and improving developer productivity.*
 
-- ⭐ 60102 stars
+- ⭐ 61535 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-17
+- 📅 Updated: 2026-04-18
 
-![claude-mem](2026/04-17/2026-04-17_daily-top_claude-mem.png)
+![claude-mem](2026/04-18/2026-04-18_daily-top_claude-mem.png)
 
 ### 2. [voicebox](https://github.com/jamiepine/voicebox)
 
 > 🤖 **Why Recommend**  
-> *Voicebox is an open-source voice synthesis studio that allows users to clone voices, generate speech in 23 languages, and apply audio effects, all running locally on their machines. Key features include five TTS engines, a multi-track timeline editor for projects, expressive speech capabilities with paralinguistic tags, and extensive post-processing effects. Voicebox emphasizes privacy, ensuring all models and data remain on the user's device. It also offers a REST API for integration into custom applications, making it suitable for diverse use cases like podcasts, game dialogue, and accessibility tools.*
+> *Voicebox is an open-source voice synthesis studio designed for local use, allowing users to clone voices, generate speech in 23 languages using five TTS engines, and apply post-processing effects. Key features include a multi-track timeline editor for narratives, expressive speech generation with paralinguistic tags, and complete privacy as all data remains on your machine. Voicebox supports various platforms, offers a REST API for integration, and is built with a native performance architecture. Perfect for creating voice-powered applications, podcasts, and more.*
 
-- ⭐ 19165 stars
+- ⭐ 19905 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-17
+- 📅 Updated: 2026-04-18
 
-![voicebox](2026/04-17/2026-04-17_daily-top_voicebox.png)
+![voicebox](2026/04-18/2026-04-18_daily-top_voicebox.png)
 
 ### 3. [evolver](https://github.com/EvoMap/evolver)
 
 > 🤖 **Why Recommend**  
-> *Evolver is a GEP-powered self-evolution engine for AI agents, enabling efficient evolution through auditable, reusable assets. It analyzes runtime logs to generate protocol-bound prompts for guided evolution, enhancing scalability and collaboration within the EvoMap network. Key features include auto-log analysis, self-repair guidance, and customizable evolution strategies. Users can operate offline or connect to the EvoMap Hub for additional services like skill sharing and task execution. Ideal for teams managing complex AI prompts, Evolver emphasizes safety and traceability in evolution processes.*
+> *Evolver is a GEP-powered self-evolution engine for AI agents, enabling auditable and reusable evolution assets. Key features include auto-log analysis, self-repair guidance, and protocol-constrained evolution through Genes and Capsules. It supports configurable strategy presets for tailored evolution processes and allows integration with the EvoMap network for skill sharing and collaborative evolution. Users can run Evolver offline or connect to the EvoMap Hub for enhanced network functionalities. Ideal for teams managing agent prompts at scale, it emphasizes traceability and structured evolution.*
 
-- ⭐ 3271 stars
+- ⭐ 4344 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-04-17
+- 📅 Updated: 2026-04-18
 
-![evolver](2026/04-17/2026-04-17_daily-top_evolver.png)
+![evolver](2026/04-18/2026-04-18_daily-top_evolver.png)
 
-### 4. [open-agents](https://github.com/vercel-labs/open-agents)
+### 4. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **Why Recommend**  
-> *Open Agents is an open-source template for building cloud coding agents, featuring a three-layer architecture: a web UI for user interactions, an agent workflow for durable execution, and a sandbox for code execution. Key capabilities include chat-driven coding, isolated Vercel sandboxes, automated GitHub integration for repo management, and multi-step execution with streaming. The project emphasizes a modular design, allowing developers to adapt and extend functionalities. With over 3,278 stars, it offers a robust foundation for creating advanced coding agents on Vercel.*
+> *OpenCode is an open-source AI coding agent designed to enhance development workflows. Built with TypeScript, it features two main agents—'build' for full access to development and 'plan' for read-only exploration. Users can easily install via multiple package managers and access a desktop app across various platforms. OpenCode supports multiple AI models, ensuring flexibility, and incorporates terminal UI focus for a streamlined coding experience. With extensive documentation and a vibrant community on Discord, OpenCode is a powerful tool for developers seeking an adaptable coding assistant.*
 
-- ⭐ 3278 stars
+- ⭐ 145107 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-17
+- 📅 Updated: 2026-04-18
 
-![open-agents](2026/04-17/2026-04-17_daily-top_open-agents.png)
+![opencode](2026/04-18/2026-04-18_daily-top_opencode.png)
 
-### 5. [editor](https://github.com/pascalorg/editor)
-
-> 🤖 **Why Recommend**  
-> *Pascal Editor is a powerful 3D architectural project editor built with React Three Fiber and WebGPU, enabling users to create and share detailed building designs. It features a modular architecture with three main packages: @pascal-app/core for state management and schema definitions, @pascal-app/viewer for 3D rendering, and apps/editor for UI tools. Key functionalities include an interactive toolset for drawing walls and placing items, an efficient state management system with undo/redo capabilities, and a spatial grid manager for accurate object placement. The project has garnered 13,154 stars on GitHub, showcasing its popularity and utility.*
-
-- ⭐ 13154 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-17
-
-![editor](2026/04-17/2026-04-17_daily-top_editor.png)
-
-### 6. [cc-switch](https://github.com/farion1231/cc-switch)
+### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *CC Switch is a cross-platform desktop assistant for managing five AI CLI tools: Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 46,000 stars on GitHub, it offers a unified interface for provider management, eliminating the need for manual configuration edits. Key features include 50+ built-in provider presets, cloud sync, system tray quick switching, and a unified MCP and Skills management panel. Built with Rust and Tauri, CC Switch ensures data integrity through SQLite and provides utilities for seamless user experience.*
+> *CC Switch is a cross-platform desktop assistant tool designed for managing multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 46,000 stars on GitHub, it offers a unified interface to switch between providers without manual file editing, featuring 50+ built-in presets. Key highlights include a visual MCP and Skills management panel, system tray quick switching, and cloud synchronization across devices. Built with Rust and Tauri, CC Switch enhances productivity by simplifying API provider management for developers.*
 
-- ⭐ 46075 stars
+- ⭐ 46577 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-17
+- 📅 Updated: 2026-04-18
 
-![cc-switch](2026/04-17/2026-04-17_daily-top_cc-switch.png)
+![cc-switch](2026/04-18/2026-04-18_daily-top_cc-switch.png)
 
-### 7. [get-shit-done](https://github.com/gsd-build/get-shit-done)
+### 6. [open-agents](https://github.com/vercel-labs/open-agents)
 
 > 🤖 **Why Recommend**  
-> *Get Shit Done (GSD) is a powerful meta-prompting and context engineering system designed for Claude Code and various other AI coding assistants. With over 54,000 stars on GitHub, it effectively combats context rot, ensuring high-quality outputs. Key features include project initialization, multi-agent orchestration, automatic verification, and seamless integration with tools like OpenCode and Codex. GSD supports TDD workflows, knowledge graph integration, and offers atomic Git commits for traceability. It simplifies the development process, enabling users to focus on building rather than managing complexity.*
+> *Open Agents is an open-source template for building cloud agents, designed to run on Vercel. With 3,600 stars, it features a web UI for chat-driven coding, durable workflow execution, and a sandbox environment for isolated code execution. The architecture separates the agent from the sandbox, enabling independent lifecycle management. Key capabilities include multi-step execution, GitHub integration for repo management, and optional voice input. The project is meant for adaptation and offers a comprehensive guide for deployment and customization.*
 
-- ⭐ 54125 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-04-17
+- ⭐ 3600 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-18
 
-![get-shit-done](2026/04-17/2026-04-17_daily-top_get-shit-done.png)
+![open-agents](2026/04-18/2026-04-18_daily-top_open-agents.png)
+
+### 7. [pdf-inspector](https://github.com/firecrawl/pdf-inspector)
+
+> 🤖 **Why Recommend**  
+> *pdf-inspector is a fast Rust library for PDF inspection, classification, and text extraction, designed to intelligently differentiate between text-based and scanned PDFs. Key features include smart classification with confidence scoring, position-aware text extraction, and clean Markdown conversion without OCR. It supports dual-mode table detection and various font encodings. With bindings for Python and Node.js, pdf-inspector processes PDFs locally in under 200ms, making it an efficient solution for scalable PDF processing pipelines. The library's lightweight architecture eliminates the need for external services, ensuring quick and cost-effective handling of documents.*
+
+- ⭐ 771 stars
+- 💻 Rust
+- 📅 Updated: 2026-04-18
+
+![pdf-inspector](2026/04-18/2026-04-18_daily-top_pdf-inspector.png)
 
 ### 8. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **Why Recommend**  
-> *Impeccable is a powerful design language tool for enhancing AI-driven frontend design, boasting over 20,000 stars on GitHub. It features an expanded skill with 7 domain-specific references, 18 steering commands for auditing, critiquing, and polishing designs, and curated anti-patterns to avoid common design mistakes. Users can quickly start by downloading bundles from impeccable.style. It supports various AI harnesses like Cursor and Codex, making it versatile for developers seeking to elevate their UI/UX design quality.*
+> *Impeccable is a JavaScript design language tool that enhances AI-generated frontend design with 18 commands and 7 domain-specific references. It builds on Anthropic's frontend-design skill, providing deeper expertise and control. Key features include a comprehensive skillset covering typography, color contrast, spatial design, and more, alongside curated anti-patterns to avoid common design pitfalls. Users can quickly audit, critique, polish, and optimize designs through intuitive commands. Visit impeccable.style for downloads and case studies showcasing its transformative capabilities.*
 
-- ⭐ 20038 stars
+- ⭐ 20332 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-04-17
+- 📅 Updated: 2026-04-18
 
-![impeccable](2026/04-17/2026-04-17_daily-top_impeccable.png)
+![impeccable](2026/04-18/2026-04-18_daily-top_impeccable.png)
 
-### 9. [sniffnet](https://github.com/GyulyVGC/sniffnet)
+### 9. [twenty](https://github.com/twentyhq/twenty)
+
+> 🤖 **Why Recommend**  
+> *Twenty is an open-source CRM designed as a modern alternative to Salesforce, emphasizing community-driven development. Key features include customizable layouts with filters and views, role-based permissions, workflow automation, and integration with emails and calendar events. Built with TypeScript, NestJS, and React, it offers a cohesive user experience inspired by contemporary tools. With over 44,000 stars, Twenty fosters collaboration through a roadmap, documentation, and active community channels, making it a robust and flexible choice for businesses seeking an affordable CRM solution.*
+
+- ⭐ 44562 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-18
+
+![twenty](2026/04-18/2026-04-18_daily-top_twenty.png)
+
+### 10. [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
 > 🤖 **Why Recommend**  
 > *Comfortably monitor your Internet traffic 🕵️‍♂️. popular project, actively maintained, recently updated*
 
-- ⭐ 33964 stars
-- 🍴 1237 forks
+- ⭐ 34198 stars
+- 🍴 1247 forks
 - 💻 Rust
-- 📅 Updated: 2026-04-17
+- 📅 Updated: 2026-04-18
 
-![sniffnet](2026/04-17/2026-04-17_daily-top_sniffnet.png)
-
-### 10. [wacli](https://github.com/steipete/wacli)
-
-> 🤖 **Why Recommend**  
-> *wacli is a powerful WhatsApp CLI tool built in Go, enabling local message history sync, fast offline search, and message sending. Key features include contact and group management, interactive authentication with QR code support, and a best-effort approach for backfilling message history. Users can send texts and files, manage groups, and perform diagnostics with clear commands. The project is open-source and leverages the WhatsApp Web protocol via `whatsmeow`, ensuring a robust experience while remaining independent of WhatsApp.*
-
-- ⭐ 1722 stars
-- 💻 Go
-- 📅 Updated: 2026-04-17
-
-![wacli](2026/04-17/2026-04-17_daily-top_wacli.png)
+![sniffnet](2026/04-18/2026-04-18_daily-top_sniffnet.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-17 03:27:14 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-18 02:58:34 UTC

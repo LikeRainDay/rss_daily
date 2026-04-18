@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-18
 
-![claude-mem](2026/04-18/2026-04-18_daily-top_claude-mem.png)
+![claude-mem](2026-04-18_daily-top_claude-mem.png)
 
 ### 2. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-18
 
-![voicebox](2026/04-18/2026-04-18_daily-top_voicebox.png)
+![voicebox](2026-04-18_daily-top_voicebox.png)
 
 ### 3. [evolver](https://github.com/EvoMap/evolver)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-18
 
-![evolver](2026/04-18/2026-04-18_daily-top_evolver.png)
+![evolver](2026-04-18_daily-top_evolver.png)
 
 ### 4. [opencode](https://github.com/anomalyco/opencode)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-18
 
-![opencode](2026/04-18/2026-04-18_daily-top_opencode.png)
+![opencode](2026-04-18_daily-top_opencode.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-18
 
-![cc-switch](2026/04-18/2026-04-18_daily-top_cc-switch.png)
+![cc-switch](2026-04-18_daily-top_cc-switch.png)
 
 ### 6. [open-agents](https://github.com/vercel-labs/open-agents)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-18
 
-![open-agents](2026/04-18/2026-04-18_daily-top_open-agents.png)
+![open-agents](2026-04-18_daily-top_open-agents.png)
 
 ### 7. [pdf-inspector](https://github.com/firecrawl/pdf-inspector)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-18
 
-![pdf-inspector](2026/04-18/2026-04-18_daily-top_pdf-inspector.png)
+![pdf-inspector](2026-04-18_daily-top_pdf-inspector.png)
 
 ### 8. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-18
 
-![impeccable](2026/04-18/2026-04-18_daily-top_impeccable.png)
+![impeccable](2026-04-18_daily-top_impeccable.png)
 
 ### 9. [twenty](https://github.com/twentyhq/twenty)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-18
 
-![twenty](2026/04-18/2026-04-18_daily-top_twenty.png)
+![twenty](2026-04-18_daily-top_twenty.png)
 
 ### 10. [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-18
 
-![sniffnet](2026/04-18/2026-04-18_daily-top_sniffnet.png)
+![sniffnet](2026-04-18_daily-top_sniffnet.png)
 
 ---
 
