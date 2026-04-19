@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-04-18
+# 📊 🌟 GitHub Trending Daily - 2026-04-19
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **380931** ⭐ | **35917** 🍴
+**10** Projects | **584417** ⭐ | **71702** 🍴
 
-**Top Languages:** `TypeScript` (5) · `Rust` (3) · `JavaScript` (2)
+**Top Languages:** `TypeScript` (6) · `Rust` (2) · `C++` (1)
 
-**Updated:** 2026-04-18 02:58 UTC
+**Updated:** 2026-04-19 03:34 UTC
 
 **Categories:**
 
@@ -18,116 +18,115 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [claude-mem](https://github.com/thedotmack/claude-mem)
+### 1. [evolver](https://github.com/EvoMap/evolver)
 
 > 🤖 **Why Recommend**  
-> *Claude-Mem is a TypeScript plugin for Claude Code that captures and compresses coding session activities, enhancing context continuity for future work. Key features include persistent memory that survives across sessions, skill-based memory search, real-time memory streaming via a web UI, and privacy controls for handling sensitive data. The plugin automates the injection of context into new sessions and supports various IDEs, including Gemini CLI. With over 61,000 stars, it offers a robust system for maintaining project knowledge and improving developer productivity.*
+> *Evolver is a GEP-powered self-evolution engine for AI agents, enabling auditable and reusable evolution assets. Key features include auto-log analysis, self-repair guidance, and protocol-bound evolution through configurable strategies. It integrates seamlessly with major agent runtimes and offers a Skill Store for sharing reusable skills. Evolver operates offline, allowing for secure evolution management, while optional connection to the EvoMap network enhances collaboration and skill sharing. With 5,079 stars on GitHub, it is a leading solution for scalable agent evolution.*
 
-- ⭐ 61535 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-18
-
-![claude-mem](2026/04-18/2026-04-18_daily-top_claude-mem.png)
-
-### 2. [voicebox](https://github.com/jamiepine/voicebox)
-
-> 🤖 **Why Recommend**  
-> *Voicebox is an open-source voice synthesis studio designed for local use, allowing users to clone voices, generate speech in 23 languages using five TTS engines, and apply post-processing effects. Key features include a multi-track timeline editor for narratives, expressive speech generation with paralinguistic tags, and complete privacy as all data remains on your machine. Voicebox supports various platforms, offers a REST API for integration, and is built with a native performance architecture. Perfect for creating voice-powered applications, podcasts, and more.*
-
-- ⭐ 19905 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-18
-
-![voicebox](2026/04-18/2026-04-18_daily-top_voicebox.png)
-
-### 3. [evolver](https://github.com/EvoMap/evolver)
-
-> 🤖 **Why Recommend**  
-> *Evolver is a GEP-powered self-evolution engine for AI agents, enabling auditable and reusable evolution assets. Key features include auto-log analysis, self-repair guidance, and protocol-constrained evolution through Genes and Capsules. It supports configurable strategy presets for tailored evolution processes and allows integration with the EvoMap network for skill sharing and collaborative evolution. Users can run Evolver offline or connect to the EvoMap Hub for enhanced network functionalities. Ideal for teams managing agent prompts at scale, it emphasizes traceability and structured evolution.*
-
-- ⭐ 4344 stars
+- ⭐ 5079 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-04-18
+- 📅 Updated: 2026-04-19
 
-![evolver](2026/04-18/2026-04-18_daily-top_evolver.png)
+![evolver](2026/04-19/2026-04-19_daily-top_evolver.png)
+
+### 2. [claude-mem](https://github.com/thedotmack/claude-mem)
+
+> 🤖 **Why Recommend**  
+> *Claude-Mem is an advanced plugin for Claude Code that enhances coding sessions by automatically capturing and compressing context from past interactions. Key features include persistent memory, enabling continuity across sessions, a semantic search tool for project history, and a web viewer for real-time insights. It supports multiple languages and offers privacy controls for sensitive content. With its automatic operation and integration capabilities, Claude-Mem streamlines coding workflows and optimizes context management, making it an essential tool for developers.*
+
+- ⭐ 62557 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-19
+
+![claude-mem](2026/04-19/2026-04-19_daily-top_claude-mem.png)
+
+### 3. [voicebox](https://github.com/jamiepine/voicebox)
+
+> 🤖 **Why Recommend**  
+> *Voicebox is an open-source voice synthesis studio that enables users to clone voices, generate speech, and apply effects—all locally on your device. Key features include five TTS engines supporting 23 languages, expressive speech with paralinguistic tags, unlimited generation length via auto-chunking, and a multi-voice timeline editor for projects. It offers complete privacy, post-processing audio effects, an API for integration, and runs on macOS, Windows, and Linux. With over 20,600 stars on GitHub, Voicebox is a powerful tool for creating voice-powered applications.*
+
+- ⭐ 20626 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-19
+
+![voicebox](2026/04-19/2026-04-19_daily-top_voicebox.png)
 
 ### 4. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **Why Recommend**  
-> *OpenCode is an open-source AI coding agent designed to enhance development workflows. Built with TypeScript, it features two main agents—'build' for full access to development and 'plan' for read-only exploration. Users can easily install via multiple package managers and access a desktop app across various platforms. OpenCode supports multiple AI models, ensuring flexibility, and incorporates terminal UI focus for a streamlined coding experience. With extensive documentation and a vibrant community on Discord, OpenCode is a powerful tool for developers seeking an adaptable coding assistant.*
+> *OpenCode is an open-source AI coding agent built with TypeScript, boasting 145,595 stars on GitHub. It features two built-in agents: the full-access "build" agent for development and the read-only "plan" agent for code exploration. OpenCode supports multiple installation methods across platforms, including a desktop app in beta. Notably, it is provider-agnostic, allowing users to integrate various AI models. Its terminal user interface (TUI) is optimized for neovim users, enhancing coding efficiency. For more details, visit opencode.ai.*
 
-- ⭐ 145107 stars
+- ⭐ 145595 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-18
+- 📅 Updated: 2026-04-19
 
-![opencode](2026/04-18/2026-04-18_daily-top_opencode.png)
+![opencode](2026/04-19/2026-04-19_daily-top_opencode.png)
 
-### 5. [cc-switch](https://github.com/farion1231/cc-switch)
-
-> 🤖 **Why Recommend**  
-> *CC Switch is a cross-platform desktop assistant tool designed for managing multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 46,000 stars on GitHub, it offers a unified interface to switch between providers without manual file editing, featuring 50+ built-in presets. Key highlights include a visual MCP and Skills management panel, system tray quick switching, and cloud synchronization across devices. Built with Rust and Tauri, CC Switch enhances productivity by simplifying API provider management for developers.*
-
-- ⭐ 46577 stars
-- 💻 Rust
-- 📅 Updated: 2026-04-18
-
-![cc-switch](2026/04-18/2026-04-18_daily-top_cc-switch.png)
-
-### 6. [open-agents](https://github.com/vercel-labs/open-agents)
+### 5. [thunderbolt](https://github.com/thunderbird/thunderbolt)
 
 > 🤖 **Why Recommend**  
-> *Open Agents is an open-source template for building cloud agents, designed to run on Vercel. With 3,600 stars, it features a web UI for chat-driven coding, durable workflow execution, and a sandbox environment for isolated code execution. The architecture separates the agent from the sandbox, enabling independent lifecycle management. Key capabilities include multi-step execution, GitHub integration for repo management, and optional voice input. The project is meant for adaptation and offers a comprehensive guide for deployment and customization.*
+> *Thunderbolt is an open-source AI client designed for enterprise use, enabling users to select models, maintain data ownership, and avoid vendor lock-in. It supports deployment on various platforms, including web, iOS, Android, Mac, Linux, and Windows. Key features include compatibility with local and on-prem models, enterprise support, and a focus on security and active development. Users can self-host via Docker and integrate with model providers like Ollama or OpenAI-compatible APIs. Thunderbolt is geared towards privacy-conscious users seeking customizable AI solutions.*
 
-- ⭐ 3600 stars
+- ⭐ 1635 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-18
+- 📅 Updated: 2026-04-19
 
-![open-agents](2026/04-18/2026-04-18_daily-top_open-agents.png)
+![thunderbolt](2026/04-19/2026-04-19_daily-top_thunderbolt.png)
 
-### 7. [pdf-inspector](https://github.com/firecrawl/pdf-inspector)
+### 6. [rustdesk](https://github.com/rustdesk/rustdesk)
 
 > 🤖 **Why Recommend**  
-> *pdf-inspector is a fast Rust library for PDF inspection, classification, and text extraction, designed to intelligently differentiate between text-based and scanned PDFs. Key features include smart classification with confidence scoring, position-aware text extraction, and clean Markdown conversion without OCR. It supports dual-mode table detection and various font encodings. With bindings for Python and Node.js, pdf-inspector processes PDFs locally in under 200ms, making it an efficient solution for scalable PDF processing pipelines. The library's lightweight architecture eliminates the need for external services, ensuring quick and cost-effective handling of documents.*
+> *RustDesk is an open-source remote desktop application built in Rust, designed for self-hosting as an alternative to TeamViewer. It offers out-of-the-box functionality with no configuration required, ensuring complete control over data and security. Key features include support for file transfer, audio, clipboard sharing, and customizable rendezvous/relay server options. With over 112,000 stars on GitHub, RustDesk supports multiple languages and encourages community contributions. It is suitable for both personal and professional use, providing a reliable and secure remote access solution.*
 
-- ⭐ 771 stars
+- ⭐ 112138 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-18
+- 📅 Updated: 2026-04-19
 
-![pdf-inspector](2026/04-18/2026-04-18_daily-top_pdf-inspector.png)
+![rustdesk](2026/04-19/2026-04-19_daily-top_rustdesk.png)
 
-### 8. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **Why Recommend**  
-> *Impeccable is a JavaScript design language tool that enhances AI-generated frontend design with 18 commands and 7 domain-specific references. It builds on Anthropic's frontend-design skill, providing deeper expertise and control. Key features include a comprehensive skillset covering typography, color contrast, spatial design, and more, alongside curated anti-patterns to avoid common design pitfalls. Users can quickly audit, critique, polish, and optimize designs through intuitive commands. Visit impeccable.style for downloads and case studies showcasing its transformative capabilities.*
-
-- ⭐ 20332 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-04-18
-
-![impeccable](2026/04-18/2026-04-18_daily-top_impeccable.png)
-
-### 9. [twenty](https://github.com/twentyhq/twenty)
+### 7. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
 > 🤖 **Why Recommend**  
-> *Twenty is an open-source CRM designed as a modern alternative to Salesforce, emphasizing community-driven development. Key features include customizable layouts with filters and views, role-based permissions, workflow automation, and integration with emails and calendar events. Built with TypeScript, NestJS, and React, it offers a cohesive user experience inspired by contemporary tools. With over 44,000 stars, Twenty fosters collaboration through a roadmap, documentation, and active community channels, making it a robust and flexible choice for businesses seeking an affordable CRM solution.*
+> *llama.cpp is a high-performance library for large language model (LLM) inference written in C/C++, boasting over 104,000 stars on GitHub. Core features include minimal dependency requirements, optimized performance on various hardware (Apple Silicon, x86, RISC-V), and support for multiple quantization formats. It offers a CLI tool, `llama-cli`, for easy model interaction, and a `llama-server` that mimics OpenAI's API for serving models over HTTP. Additionally, it supports multimodal tasks, various backends, and extensive model compatibility, including integrations with Hugging Face and several programming language bindings.*
 
-- ⭐ 44562 stars
+- ⭐ 104746 stars
+- 💻 C++
+- 📅 Updated: 2026-04-19
+
+![llama.cpp](2026/04-19/2026-04-19_daily-top_llama.cpp.png)
+
+### 8. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
+> 🤖 **Why Recommend**  
+> *Chrome DevTools for Agents (`chrome-devtools-mcp`) is a TypeScript-based tool enabling coding agents like Gemini and Copilot to control and inspect a live Chrome browser. With over 36,000 stars on GitHub, it serves as a Model-Context-Protocol (MCP) server, facilitating reliable automation, in-depth debugging, and performance analysis. Key features include performance insights, advanced debugging tools, and automation capabilities via Puppeteer. The tool also supports a CLI for streamlined usage. It ensures secure handling of sensitive data and offers extensive configuration options for optimal integration.*
+
+- ⭐ 36098 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-18
+- 📅 Updated: 2026-04-19
 
-![twenty](2026/04-18/2026-04-18_daily-top_twenty.png)
+![chrome-devtools-mcp](2026/04-19/2026-04-19_daily-top_chrome-devtools-mcp.png)
 
-### 10. [sniffnet](https://github.com/GyulyVGC/sniffnet)
+### 9. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *Comfortably monitor your Internet traffic 🕵️‍♂️. popular project, actively maintained, recently updated*
+> *CC Switch is a cross-platform desktop assistant tool designed for managing multiple CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. It features a user-friendly interface for seamless switching between over 50 provider presets, eliminating manual configuration edits. Key highlights include unified MCP and Skills management, cloud sync capabilities, and a system tray for quick access. Built with Rust and Tauri, CC Switch offers robust performance across Windows, macOS, and Linux, ensuring an efficient coding experience with enhanced productivity.*
 
-- ⭐ 34198 stars
-- 🍴 1247 forks
+- ⭐ 46909 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-18
+- 📅 Updated: 2026-04-19
 
-![sniffnet](2026/04-18/2026-04-18_daily-top_sniffnet.png)
+![cc-switch](2026/04-19/2026-04-19_daily-top_cc-switch.png)
+
+### 10. [worldmonitor](https://github.com/koala73/worldmonitor)
+
+> 🤖 **Why Recommend**  
+> *World Monitor is a real-time global intelligence dashboard that integrates AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking into a single interface. With over 435 curated news feeds across 15 categories, it features a dual map engine with a 3D globe and flat map, cross-stream correlation for military and economic signals, and a comprehensive Country Intelligence Index. The platform supports multiple languages and offers native desktop applications for macOS, Windows, and Linux. Its modular architecture allows for various site variants, making it versatile for different user needs.*
+
+- ⭐ 49034 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-19
+
+![worldmonitor](2026/04-19/2026-04-19_daily-top_worldmonitor.png)
 
 ---
 
@@ -141,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-18 02:58:34 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-19 03:34:00 UTC

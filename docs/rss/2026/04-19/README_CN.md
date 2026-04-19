@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-19
 
-![evolver](2026/04-19/2026-04-19_daily-top_evolver.png)
+![evolver](2026-04-19_daily-top_evolver.png)
 
 ### 2. [claude-mem](https://github.com/thedotmack/claude-mem)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-19
 
-![claude-mem](2026/04-19/2026-04-19_daily-top_claude-mem.png)
+![claude-mem](2026-04-19_daily-top_claude-mem.png)
 
 ### 3. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-19
 
-![voicebox](2026/04-19/2026-04-19_daily-top_voicebox.png)
+![voicebox](2026-04-19_daily-top_voicebox.png)
 
 ### 4. [opencode](https://github.com/anomalyco/opencode)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-19
 
-![opencode](2026/04-19/2026-04-19_daily-top_opencode.png)
+![opencode](2026-04-19_daily-top_opencode.png)
 
 ### 5. [thunderbolt](https://github.com/thunderbird/thunderbolt)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-19
 
-![thunderbolt](2026/04-19/2026-04-19_daily-top_thunderbolt.png)
+![thunderbolt](2026-04-19_daily-top_thunderbolt.png)
 
 ### 6. [rustdesk](https://github.com/rustdesk/rustdesk)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-19
 
-![rustdesk](2026/04-19/2026-04-19_daily-top_rustdesk.png)
+![rustdesk](2026-04-19_daily-top_rustdesk.png)
 
 ### 7. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -93,7 +93,7 @@
 - 💻 C++
 - 📅 Updated: 2026-04-19
 
-![llama.cpp](2026/04-19/2026-04-19_daily-top_llama.cpp.png)
+![llama.cpp](2026-04-19_daily-top_llama.cpp.png)
 
 ### 8. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-19
 
-![chrome-devtools-mcp](2026/04-19/2026-04-19_daily-top_chrome-devtools-mcp.png)
+![chrome-devtools-mcp](2026-04-19_daily-top_chrome-devtools-mcp.png)
 
 ### 9. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-19
 
-![cc-switch](2026/04-19/2026-04-19_daily-top_cc-switch.png)
+![cc-switch](2026-04-19_daily-top_cc-switch.png)
 
 ### 10. [worldmonitor](https://github.com/koala73/worldmonitor)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-19
 
-![worldmonitor](2026/04-19/2026-04-19_daily-top_worldmonitor.png)
+![worldmonitor](2026-04-19_daily-top_worldmonitor.png)
 
 ---
 
