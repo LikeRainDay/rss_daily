@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-20
 
-![thunderbolt](2026/04-20/2026-04-20_daily-top_thunderbolt.png)
+![thunderbolt](2026-04-20_daily-top_thunderbolt.png)
 
 ### 2. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-20
 
-![voicebox](2026/04-20/2026-04-20_daily-top_voicebox.png)
+![voicebox](2026-04-20_daily-top_voicebox.png)
 
 ### 3. [evolver](https://github.com/EvoMap/evolver)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-20
 
-![evolver](2026/04-20/2026-04-20_daily-top_evolver.png)
+![evolver](2026-04-20_daily-top_evolver.png)
 
 ### 4. [rustdesk](https://github.com/rustdesk/rustdesk)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-20
 
-![rustdesk](2026/04-20/2026-04-20_daily-top_rustdesk.png)
+![rustdesk](2026-04-20_daily-top_rustdesk.png)
 
 ### 5. [worldmonitor](https://github.com/koala73/worldmonitor)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-20
 
-![worldmonitor](2026/04-20/2026-04-20_daily-top_worldmonitor.png)
+![worldmonitor](2026-04-20_daily-top_worldmonitor.png)
 
 ### 6. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -82,7 +82,7 @@
 - 💻 C++
 - 📅 Updated: 2026-04-20
 
-![llama.cpp](2026/04-20/2026-04-20_daily-top_llama.cpp.png)
+![llama.cpp](2026-04-20_daily-top_llama.cpp.png)
 
 ### 7. [pi-mono](https://github.com/badlogic/pi-mono)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-20
 
-![pi-mono](2026/04-20/2026-04-20_daily-top_pi-mono.png)
+![pi-mono](2026-04-20_daily-top_pi-mono.png)
 
 ### 8. [VidBee](https://github.com/nexmoe/VidBee)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-20
 
-![VidBee](2026/04-20/2026-04-20_daily-top_VidBee.png)
+![VidBee](2026-04-20_daily-top_VidBee.png)
 
 ### 9. [Kaku](https://github.com/tw93/Kaku)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-20
 
-![Kaku](2026/04-20/2026-04-20_daily-top_Kaku.png)
+![Kaku](2026-04-20_daily-top_Kaku.png)
 
 ### 10. [RuView](https://github.com/ruvnet/RuView)
 
@@ -126,7 +126,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-20
 
-![RuView](2026/04-20/2026-04-20_daily-top_RuView.png)
+![RuView](2026-04-20_daily-top_RuView.png)
 
 ---
 
