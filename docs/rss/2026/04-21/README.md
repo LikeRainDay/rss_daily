@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-21
 
-![RuView](2026/04-21/2026-04-21_daily-top_RuView.png)
+![RuView](2026-04-21_daily-top_RuView.png)
 
 ### 2. [thunderbolt](https://github.com/thunderbird/thunderbolt)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-21
 
-![thunderbolt](2026/04-21/2026-04-21_daily-top_thunderbolt.png)
+![thunderbolt](2026-04-21_daily-top_thunderbolt.png)
 
 ### 3. [evolver](https://github.com/EvoMap/evolver)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-21
 
-![evolver](2026/04-21/2026-04-21_daily-top_evolver.png)
+![evolver](2026-04-21_daily-top_evolver.png)
 
 ### 4. [manifest](https://github.com/mnfst/manifest)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-21
 
-![manifest](2026/04-21/2026-04-21_daily-top_manifest.png)
+![manifest](2026-04-21_daily-top_manifest.png)
 
 ### 5. [t3code](https://github.com/pingdotgg/t3code)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-21
 
-![t3code](2026/04-21/2026-04-21_daily-top_t3code.png)
+![t3code](2026-04-21_daily-top_t3code.png)
 
 ### 6. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
@@ -83,7 +83,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-21
 
-![marketingskills](2026/04-21/2026-04-21_daily-top_marketingskills.png)
+![marketingskills](2026-04-21_daily-top_marketingskills.png)
 
 ### 7. [worldmonitor](https://github.com/koala73/worldmonitor)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-21
 
-![worldmonitor](2026/04-21/2026-04-21_daily-top_worldmonitor.png)
+![worldmonitor](2026-04-21_daily-top_worldmonitor.png)
 
 ### 8. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -105,7 +105,7 @@
 - 💻 C++
 - 📅 Updated: 2026-04-21
 
-![llama.cpp](2026/04-21/2026-04-21_daily-top_llama.cpp.png)
+![llama.cpp](2026-04-21_daily-top_llama.cpp.png)
 
 ### 9. [VidBee](https://github.com/nexmoe/VidBee)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-21
 
-![VidBee](2026/04-21/2026-04-21_daily-top_VidBee.png)
+![VidBee](2026-04-21_daily-top_VidBee.png)
 
 ### 10. [rustdesk](https://github.com/rustdesk/rustdesk)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-21
 
-![rustdesk](2026/04-21/2026-04-21_daily-top_rustdesk.png)
+![rustdesk](2026-04-21_daily-top_rustdesk.png)
 
 ---
 
