@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-22
 
-![worldmonitor](2026/04-22/2026-04-22_daily-top_worldmonitor.png)
+![worldmonitor](2026-04-22_daily-top_worldmonitor.png)
 
 ### 2. [RuView](https://github.com/ruvnet/RuView)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-22
 
-![RuView](2026/04-22/2026-04-22_daily-top_RuView.png)
+![RuView](2026-04-22_daily-top_RuView.png)
 
 ### 3. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-22
 
-![cc-switch](2026/04-22/2026-04-22_daily-top_cc-switch.png)
+![cc-switch](2026-04-22_daily-top_cc-switch.png)
 
 ### 4. [thunderbolt](https://github.com/thunderbird/thunderbolt)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-22
 
-![thunderbolt](2026/04-22/2026-04-22_daily-top_thunderbolt.png)
+![thunderbolt](2026-04-22_daily-top_thunderbolt.png)
 
 ### 5. [OpenSpec](https://github.com/Fission-AI/OpenSpec)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-22
 
-![OpenSpec](2026/04-22/2026-04-22_daily-top_OpenSpec.png)
+![OpenSpec](2026-04-22_daily-top_OpenSpec.png)
 
 ### 6. [syncthing](https://github.com/syncthing/syncthing)
 
@@ -82,7 +82,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-22
 
-![syncthing](2026/04-22/2026-04-22_daily-top_syncthing.png)
+![syncthing](2026-04-22_daily-top_syncthing.png)
 
 ### 7. [Xray-core](https://github.com/XTLS/Xray-core)
 
@@ -93,7 +93,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-22
 
-![Xray-core](2026/04-22/2026-04-22_daily-top_Xray-core.png)
+![Xray-core](2026-04-22_daily-top_Xray-core.png)
 
 ### 8. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -104,7 +104,7 @@
 - 💻 C++
 - 📅 Updated: 2026-04-22
 
-![llama.cpp](2026/04-22/2026-04-22_daily-top_llama.cpp.png)
+![llama.cpp](2026-04-22_daily-top_llama.cpp.png)
 
 ### 9. [new-api](https://github.com/QuantumNous/new-api)
 
@@ -115,7 +115,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-22
 
-![new-api](2026/04-22/2026-04-22_daily-top_new-api.png)
+![new-api](2026-04-22_daily-top_new-api.png)
 
 ### 10. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-22
 
-![Open-Generative-AI](2026/04-22/2026-04-22_daily-top_Open-Generative-AI.png)
+![Open-Generative-AI](2026-04-22_daily-top_Open-Generative-AI.png)
 
 ---
 
