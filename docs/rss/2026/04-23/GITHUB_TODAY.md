@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-23
 
-![claude-context](2026/04-23/2026-04-23_daily-top_claude-context.png)
+![claude-context](2026-04-23_daily-top_claude-context.png)
 
 ### 2. [rtk](https://github.com/rtk-ai/rtk)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-23
 
-![rtk](2026/04-23/2026-04-23_daily-top_rtk.png)
+![rtk](2026-04-23_daily-top_rtk.png)
 
 ### 3. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-23
 
-![Open-Generative-AI](2026/04-23/2026-04-23_daily-top_Open-Generative-AI.png)
+![Open-Generative-AI](2026-04-23_daily-top_Open-Generative-AI.png)
 
 ### 4. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-23
 
-![cc-switch](2026/04-23/2026-04-23_daily-top_cc-switch.png)
+![cc-switch](2026-04-23_daily-top_cc-switch.png)
 
 ### 5. [thunderbolt](https://github.com/thunderbird/thunderbolt)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-23
 
-![thunderbolt](2026/04-23/2026-04-23_daily-top_thunderbolt.png)
+![thunderbolt](2026-04-23_daily-top_thunderbolt.png)
 
 ### 6. [RuView](https://github.com/ruvnet/RuView)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-23
 
-![RuView](2026/04-23/2026-04-23_daily-top_RuView.png)
+![RuView](2026-04-23_daily-top_RuView.png)
 
 ### 7. [OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-23
 
-![OpenMetadata](2026/04-23/2026-04-23_daily-top_OpenMetadata.png)
+![OpenMetadata](2026-04-23_daily-top_OpenMetadata.png)
 
 ### 8. [worldmonitor](https://github.com/koala73/worldmonitor)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-23
 
-![worldmonitor](2026/04-23/2026-04-23_daily-top_worldmonitor.png)
+![worldmonitor](2026-04-23_daily-top_worldmonitor.png)
 
 ### 9. [shannon](https://github.com/KeygraphHQ/shannon)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-23
 
-![shannon](2026/04-23/2026-04-23_daily-top_shannon.png)
+![shannon](2026-04-23_daily-top_shannon.png)
 
 ### 10. [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-23
 
-![sniffnet](2026/04-23/2026-04-23_daily-top_sniffnet.png)
+![sniffnet](2026-04-23_daily-top_sniffnet.png)
 
 ---
 
