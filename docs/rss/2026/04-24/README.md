@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-24
 
-![everything-claude-code](2026/04-24/2026-04-24_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-04-24_daily-top_everything-claude-code.png)
 
 ### 2. [claude-context](https://github.com/zilliztech/claude-context)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-24
 
-![claude-context](2026/04-24/2026-04-24_daily-top_claude-context.png)
+![claude-context](2026-04-24_daily-top_claude-context.png)
 
 ### 3. [rtk](https://github.com/rtk-ai/rtk)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-24
 
-![rtk](2026/04-24/2026-04-24_daily-top_rtk.png)
+![rtk](2026-04-24_daily-top_rtk.png)
 
 ### 4. [OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-24
 
-![OpenMetadata](2026/04-24/2026-04-24_daily-top_OpenMetadata.png)
+![OpenMetadata](2026-04-24_daily-top_OpenMetadata.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-24
 
-![cc-switch](2026/04-24/2026-04-24_daily-top_cc-switch.png)
+![cc-switch](2026-04-24_daily-top_cc-switch.png)
 
 ### 6. [shannon](https://github.com/KeygraphHQ/shannon)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-24
 
-![shannon](2026/04-24/2026-04-24_daily-top_shannon.png)
+![shannon](2026-04-24_daily-top_shannon.png)
 
 ### 7. [opencode](https://github.com/anomalyco/opencode)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-24
 
-![opencode](2026/04-24/2026-04-24_daily-top_opencode.png)
+![opencode](2026-04-24_daily-top_opencode.png)
 
 ### 8. [skills](https://github.com/vercel-labs/skills)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-24
 
-![skills](2026/04-24/2026-04-24_daily-top_skills.png)
+![skills](2026-04-24_daily-top_skills.png)
 
 ### 9. [pi-mono](https://github.com/badlogic/pi-mono)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-24
 
-![pi-mono](2026/04-24/2026-04-24_daily-top_pi-mono.png)
+![pi-mono](2026-04-24_daily-top_pi-mono.png)
 
 ### 10. [RuView](https://github.com/ruvnet/RuView)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-24
 
-![RuView](2026/04-24/2026-04-24_daily-top_RuView.png)
+![RuView](2026-04-24_daily-top_RuView.png)
 
 ---
 
