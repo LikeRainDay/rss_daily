@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-04-24
+# 📊 🌟 GitHub Trending Daily - 2026-04-25
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **564056** ⭐ | **67471** 🍴
+**10** 个项目 | **428980** ⭐ | **53332** 🍴
 
-**热门语言:** `TypeScript` (6) · `Rust` (3) · `JavaScript` (1)
+**热门语言:** `JavaScript` (4) · `Rust` (3) · `TypeScript` (2)
 
-**更新时间:** 2026-04-24 03:33 UTC
+**更新时间:** 2026-04-25 02:59 UTC
 
 **分类分布:**
 
@@ -21,113 +21,112 @@
 ### 1. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
 > 🤖 **推荐理由**  
-> *Everything Claude Code is a powerful performance optimization system designed for AI agent harnesses like Claude Code, Codex, Cursor, and OpenCode. With over 165,000 stars, it provides a comprehensive suite of tools including 48 agents, 183 skills, and 79 legacy commands, facilitating continuous learning, memory optimization, and security scanning. Key features include a user-friendly dashboard, multi-language support, and advanced hooks for automation. It also integrates seamlessly with various development environments, ensuring a robust and efficient coding experience.*
+> *Everything Claude Code is a powerful performance optimization system designed for AI agents, including Claude Code, Codex, and Cursor. It offers skills, instincts, memory optimization, continuous learning, and security features, making it suitable for production-ready applications. Key highlights include a comprehensive agent framework, a dashboard GUI for easy management, and extensive multi-language support across 12 ecosystems. Developed as an Anthropic hackathon winner, it boasts over 166,000 stars and includes robust tools for security scanning and workflow orchestration.*
 
-- ⭐ 165482 stars
+- ⭐ 166323 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-04-24
+- 📅 Updated: 2026-04-25
 
-![everything-claude-code](2026/04-24/2026-04-24_daily-top_everything-claude-code.png)
+![everything-claude-code](2026/04-25/2026-04-25_daily-top_everything-claude-code.png)
 
-### 2. [claude-context](https://github.com/zilliztech/claude-context)
-
-> 🤖 **推荐理由**  
-> *Claude Context is a powerful MCP plugin designed for semantic code search within AI coding agents like Claude Code. It enables instant access to relevant code across extensive codebases without the need for multi-round retrieval, significantly reducing costs. Key features include hybrid search capabilities, incremental indexing, and intelligent code chunking. The project supports integration with various AI assistants and offers a VS Code extension for ease of use. Claude Context efficiently stores code in a vector database, ensuring context-aware searches while managing resource consumption effectively.*
-
-- ⭐ 8525 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-24
-
-![claude-context](2026/04-24/2026-04-24_daily-top_claude-context.png)
-
-### 3. [rtk](https://github.com/rtk-ai/rtk)
+### 2. [rtk](https://github.com/rtk-ai/rtk)
 
 > 🤖 **推荐理由**  
-> *RTK is a high-performance CLI proxy that significantly reduces LLM token consumption by 60-90% on common development commands, packaged as a single Rust binary with zero dependencies. With over 100 supported commands and under 10ms overhead, RTK optimizes outputs through smart filtering, grouping, truncation, and deduplication. It integrates seamlessly with multiple AI tools like Claude Code and GitHub Copilot, offering a transparent auto-rewrite hook for enhanced efficiency. Users can track token savings and command performance through built-in analytics, making it an essential tool for developers looking to optimize their workflows.*
+> *RTK (Rust Token Killer) is a high-performance CLI proxy that significantly reduces LLM token consumption by 60-90% on common development commands. Built as a single Rust binary with zero dependencies, it supports over 100 commands, providing a seamless integration experience. Key features include smart filtering, grouping, and deduplication of command outputs, with minimal overhead (<10ms). RTK supports major AI coding tools like Claude Code and GitHub Copilot, enhancing efficiency in command execution. Installation is straightforward via Homebrew or Cargo, with robust analytics for token savings.*
 
-- ⭐ 33595 stars
+- ⭐ 34731 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-24
+- 📅 Updated: 2026-04-25
 
-![rtk](2026/04-24/2026-04-24_daily-top_rtk.png)
+![rtk](2026/04-25/2026-04-25_daily-top_rtk.png)
 
-### 4. [OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+### 3. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
 > 🤖 **推荐理由**  
-> *OpenMetadata is a unified metadata platform designed for data discovery, observability, and governance, utilizing a central repository and in-depth column-level lineage. Key features include seamless data collaboration, no-code data quality monitoring, robust governance with policy enforcement, and detailed insights through dashboards and KPIs. With support for over 84 connectors, it enables efficient ingestion from various data sources. OpenMetadata empowers teams to manage and unlock the value of their data assets, fostering a collaborative and informed data culture.*
+> *The **marketingskills** project provides a suite of AI agent capabilities tailored for marketing professionals. Focused on conversion optimization, copywriting, SEO, analytics, and growth engineering, it equips AI agents like Claude Code and OpenAI Codex with specialized skills through markdown files. Users can easily install and integrate skills for tasks such as A/B testing, ad creative generation, and customer research. Developed by Corey Haines, the project encourages contributions and offers resources like the Conversion Factory and Swipe Files for hands-on marketing assistance.*
 
-- ⭐ 12991 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-24
+- ⭐ 24522 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-04-25
 
-![OpenMetadata](2026/04-24/2026-04-24_daily-top_OpenMetadata.png)
+![marketingskills](2026/04-25/2026-04-25_daily-top_marketingskills.png)
+
+### 4. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+
+> 🤖 **推荐理由**  
+> *Open Generative AI is an open-source, uncensored AI image and video generation studio, offering 200+ models for text-to-image, image-to-image, text-to-video, and lip sync creation. Key features include no content filters, self-hosting capabilities, and a local inference engine for offline use. The platform supports multi-image input and automated workflows, enabling users to build custom media pipelines. With a user-friendly interface and free access, it serves as a robust alternative to commercial AI services like Higgsfield AI and Freepik.*
+
+- ⭐ 7748 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-04-25
+
+![Open-Generative-AI](2026/04-25/2026-04-25_daily-top_Open-Generative-AI.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop tool for managing AI CLI tools like Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. It features a unified interface to switch between providers without manual editing, offers over 50 presets for easy configuration, and allows for seamless MCP and Skills management. Users benefit from quick switching via system tray access, cloud sync capabilities, and built-in utilities. With robust tracking for usage and cost, CC Switch enhances productivity for developers using multiple AI coding services.*
+> *CC Switch is a cross-platform desktop tool designed for managing multiple AI CLI applications, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 50 built-in provider presets, it eliminates the need for manual configuration edits, allowing users to switch providers with a click. Key features include unified MCP and Skills management, cloud sync capabilities, system tray quick switching, and a user-friendly interface. Built with Rust and Tauri, CC Switch ensures reliable performance across Windows, macOS, and Linux, making AI-powered coding more efficient and accessible.*
 
-- ⭐ 50012 stars
+- ⭐ 50739 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-24
+- 📅 Updated: 2026-04-25
 
-![cc-switch](2026/04-24/2026-04-24_daily-top_cc-switch.png)
+![cc-switch](2026/04-25/2026-04-25_daily-top_cc-switch.png)
 
-### 6. [shannon](https://github.com/KeygraphHQ/shannon)
+### 6. [claude-context](https://github.com/zilliztech/claude-context)
 
 > 🤖 **推荐理由**  
-> *Shannon Lite is an autonomous, white-box AI pentester designed for web applications and APIs, developed by Keygraph. It performs comprehensive security testing by analyzing source code to identify vulnerabilities and executing real exploits, ensuring only validated findings are reported. Key features include fully autonomous operation, reproducible proof-of-concept exploits, and support for OWASP vulnerability categories. Shannon Lite is ideal for local testing, while Shannon Pro offers an integrated AppSec platform with CI/CD support and advanced static analysis.*
+> *Claude Context is an advanced MCP plugin for enhancing AI coding agents like Claude Code with semantic code search capabilities. It allows users to leverage an entire codebase as context, efficiently retrieving relevant code without the need for extensive multi-round queries. Key features include hybrid search (BM25 + dense vector), incremental indexing, and intelligent code chunking. The project integrates seamlessly with Zilliz Cloud for scalable vector search and supports various embedding providers. With over 9,000 stars, it’s a cost-effective solution for managing large codebases while improving coding efficiency.*
 
-- ⭐ 40083 stars
+- ⭐ 9047 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-24
+- 📅 Updated: 2026-04-25
 
-![shannon](2026/04-24/2026-04-24_daily-top_shannon.png)
+![claude-context](2026/04-25/2026-04-25_daily-top_claude-context.png)
 
-### 7. [opencode](https://github.com/anomalyco/opencode)
+### 7. [OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 
 > 🤖 **推荐理由**  
-> *OpenCode is an open-source AI coding agent designed to enhance development workflows. It features two built-in agents: a full-access **build** agent for development tasks and a **plan** agent for code exploration. OpenCode supports various installation methods and is available as a desktop application for macOS, Windows, and Linux. Key highlights include provider-agnostic functionality, integration with local and cloud models, and a focus on terminal user interfaces (TUI). The project boasts 148,444 stars on GitHub and encourages contributions and community engagement through its Discord channel.*
+> *OpenMetadata is a unified metadata platform designed for data discovery, observability, and governance, featuring a central metadata repository and in-depth column-level lineage. Key features include advanced data discovery, collaboration tools, no-code data quality monitoring, and comprehensive data governance capabilities. The platform supports over 84 connectors for seamless integration with various data services. With robust APIs, data insights, and observability tools, OpenMetadata empowers organizations to manage and unlock the value of their data assets effectively.*
 
-- ⭐ 148444 stars
+- ⭐ 13381 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-24
+- 📅 Updated: 2026-04-25
 
-![opencode](2026/04-24/2026-04-24_daily-top_opencode.png)
+![OpenMetadata](2026/04-25/2026-04-25_daily-top_OpenMetadata.png)
 
-### 8. [skills](https://github.com/vercel-labs/skills)
-
-> 🤖 **推荐理由**  
-> *The open agent skills tool - npx skills. popular project, actively maintained, recently updated*
-
-- ⭐ 15848 stars
-- 🍴 1295 forks
-- 💻 TypeScript
-- 📅 Updated: 2026-04-24
-
-![skills](2026/04-24/2026-04-24_daily-top_skills.png)
-
-### 9. [pi-mono](https://github.com/badlogic/pi-mono)
+### 8. [RuView](https://github.com/ruvnet/RuView)
 
 > 🤖 **推荐理由**  
-> *pi-mono is an AI agent toolkit designed for building and managing AI agents and LLM deployments. Key features include a unified multi-provider LLM API, an interactive coding agent CLI, and Slack bot integration. It offers TUI and web UI libraries for creating AI chat interfaces, as well as CLI tools for managing vLLM deployments. With 39,193 stars on GitHub, pi-mono encourages users to share their coding agent sessions to enhance real-world performance. The project is open-source and contributions are welcome.*
+> *RuView is a cutting-edge WiFi sensing platform that transforms standard WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection, all without cameras or wearables. Utilizing low-cost ESP32 devices, it captures Channel State Information (CSI) to detect and track individuals through walls, offering features like breathing and heart rate monitoring, activity recognition, and environment mapping. RuView empowers privacy-first applications in healthcare, security, and smart environments, operating entirely on edge hardware with no cloud dependency.*
 
-- ⭐ 39193 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-24
-
-![pi-mono](2026/04-24/2026-04-24_daily-top_pi-mono.png)
-
-### 10. [RuView](https://github.com/ruvnet/RuView)
-
-> 🤖 **推荐理由**  
-> *RuView is a cutting-edge WiFi DensePose platform that leverages commodity WiFi signals for real-time human pose estimation, vital sign monitoring, and presence detection—without any video. Key features include camera-free pose tracking using 17 COCO keypoints, breathing and heart rate detection, and multi-person tracking through walls. The system operates entirely on low-cost ESP32 hardware, ensuring privacy and local processing. With robust edge intelligence, adaptive learning, and a seamless integration with the Cognitum Seed for persistent memory, RuView redefines human sensing technology.*
-
-- ⭐ 49883 stars
+- ⭐ 50138 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-24
+- 📅 Updated: 2026-04-25
 
-![RuView](2026/04-24/2026-04-24_daily-top_RuView.png)
+![RuView](2026/04-25/2026-04-25_daily-top_RuView.png)
+
+### 9. [get-shit-done](https://github.com/gsd-build/get-shit-done)
+
+> 🤖 **推荐理由**  
+> *get-shit-done (GSD) is a lightweight meta-prompting and context engineering system designed to enhance development with Claude Code and other AI coding tools. Key features include context management to combat quality degradation, a structured workflow for project initialization, planning, execution, and verification, and integrated quality gates to ensure robust outputs. GSD supports multiple AI runtimes and automates tasks through a series of commands, making it ideal for developers seeking efficiency without the complexities of traditional project management. Trusted by engineers at leading tech companies, GSD streamlines development while maintaining high-quality standards.*
+
+- ⭐ 57129 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-04-25
+
+![get-shit-done](2026/04-25/2026-04-25_daily-top_get-shit-done.png)
+
+### 10. [sub2api](https://github.com/Wei-Shaw/sub2api)
+
+> 🤖 **推荐理由**  
+> *Sub2API is an open-source AI API gateway platform designed to streamline API quota management for services like Claude, OpenAI, and Gemini. Key features include multi-account management, API key distribution, precise billing with token-level tracking, smart scheduling, concurrency control, and built-in payment support via EasyPay, Alipay, and Stripe. The platform offers an admin dashboard for monitoring and integrates with external systems. With a focus on efficient cost-sharing, Sub2API enhances user experience through seamless access to upstream AI services.*
+
+- ⭐ 15222 stars
+- 💻 Go
+- 📅 Updated: 2026-04-25
+
+![sub2api](2026/04-25/2026-04-25_daily-top_sub2api.png)
 
 ---
 
@@ -141,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-24 03:33:00 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-25 02:59:57 UTC

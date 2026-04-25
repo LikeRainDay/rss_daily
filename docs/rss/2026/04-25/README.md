@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-25
 
-![everything-claude-code](2026/04-25/2026-04-25_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-04-25_daily-top_everything-claude-code.png)
 
 ### 2. [rtk](https://github.com/rtk-ai/rtk)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-25
 
-![rtk](2026/04-25/2026-04-25_daily-top_rtk.png)
+![rtk](2026-04-25_daily-top_rtk.png)
 
 ### 3. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-25
 
-![marketingskills](2026/04-25/2026-04-25_daily-top_marketingskills.png)
+![marketingskills](2026-04-25_daily-top_marketingskills.png)
 
 ### 4. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-25
 
-![Open-Generative-AI](2026/04-25/2026-04-25_daily-top_Open-Generative-AI.png)
+![Open-Generative-AI](2026-04-25_daily-top_Open-Generative-AI.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-25
 
-![cc-switch](2026/04-25/2026-04-25_daily-top_cc-switch.png)
+![cc-switch](2026-04-25_daily-top_cc-switch.png)
 
 ### 6. [claude-context](https://github.com/zilliztech/claude-context)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-25
 
-![claude-context](2026/04-25/2026-04-25_daily-top_claude-context.png)
+![claude-context](2026-04-25_daily-top_claude-context.png)
 
 ### 7. [OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-25
 
-![OpenMetadata](2026/04-25/2026-04-25_daily-top_OpenMetadata.png)
+![OpenMetadata](2026-04-25_daily-top_OpenMetadata.png)
 
 ### 8. [RuView](https://github.com/ruvnet/RuView)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-25
 
-![RuView](2026/04-25/2026-04-25_daily-top_RuView.png)
+![RuView](2026-04-25_daily-top_RuView.png)
 
 ### 9. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-25
 
-![get-shit-done](2026/04-25/2026-04-25_daily-top_get-shit-done.png)
+![get-shit-done](2026-04-25_daily-top_get-shit-done.png)
 
 ### 10. [sub2api](https://github.com/Wei-Shaw/sub2api)
 
@@ -126,7 +126,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-25
 
-![sub2api](2026/04-25/2026-04-25_daily-top_sub2api.png)
+![sub2api](2026-04-25_daily-top_sub2api.png)
 
 ---
 
