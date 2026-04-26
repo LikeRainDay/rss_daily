@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-26
 
-![rtk](2026/04-26/2026-04-26_daily-top_rtk.png)
+![rtk](2026-04-26_daily-top_rtk.png)
 
 ### 2. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-26
 
-![everything-claude-code](2026/04-26/2026-04-26_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-04-26_daily-top_everything-claude-code.png)
 
 ### 3. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-26
 
-![Open-Generative-AI](2026/04-26/2026-04-26_daily-top_Open-Generative-AI.png)
+![Open-Generative-AI](2026-04-26_daily-top_Open-Generative-AI.png)
 
 ### 4. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-26
 
-![cc-switch](2026/04-26/2026-04-26_daily-top_cc-switch.png)
+![cc-switch](2026-04-26_daily-top_cc-switch.png)
 
 ### 5. [pi-mono](https://github.com/badlogic/pi-mono)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-26
 
-![pi-mono](2026/04-26/2026-04-26_daily-top_pi-mono.png)
+![pi-mono](2026-04-26_daily-top_pi-mono.png)
 
 ### 6. [claude-context](https://github.com/zilliztech/claude-context)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-26
 
-![claude-context](2026/04-26/2026-04-26_daily-top_claude-context.png)
+![claude-context](2026-04-26_daily-top_claude-context.png)
 
 ### 7. [osv-scanner](https://github.com/google/osv-scanner)
 
@@ -93,7 +93,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-26
 
-![osv-scanner](2026/04-26/2026-04-26_daily-top_osv-scanner.png)
+![osv-scanner](2026-04-26_daily-top_osv-scanner.png)
 
 ### 8. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-26
 
-![easy-vibe](2026/04-26/2026-04-26_daily-top_easy-vibe.png)
+![easy-vibe](2026-04-26_daily-top_easy-vibe.png)
 
 ### 9. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-26
 
-![marketingskills](2026/04-26/2026-04-26_daily-top_marketingskills.png)
+![marketingskills](2026-04-26_daily-top_marketingskills.png)
 
 ### 10. [OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-26
 
-![OpenMetadata](2026/04-26/2026-04-26_daily-top_OpenMetadata.png)
+![OpenMetadata](2026-04-26_daily-top_OpenMetadata.png)
 
 ---
 
