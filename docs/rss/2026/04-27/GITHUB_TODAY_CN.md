@@ -28,7 +28,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-27
 
-![GitNexus](2026/04-27/2026-04-27_daily-top_GitNexus.png)
+![GitNexus](2026-04-27_daily-top_GitNexus.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -39,7 +39,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-27
 
-![cc-switch](2026/04-27/2026-04-27_daily-top_cc-switch.png)
+![cc-switch](2026-04-27_daily-top_cc-switch.png)
 
 ### 3. [openclaw](https://github.com/openclaw/openclaw)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-27
 
-![openclaw](2026/04-27/2026-04-27_daily-top_openclaw.png)
+![openclaw](2026-04-27_daily-top_openclaw.png)
 
 ### 4. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
@@ -61,7 +61,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-27
 
-![Open-Generative-AI](2026/04-27/2026-04-27_daily-top_Open-Generative-AI.png)
+![Open-Generative-AI](2026-04-27_daily-top_Open-Generative-AI.png)
 
 ### 5. [cap](https://github.com/tiagozip/cap)
 
@@ -72,7 +72,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-27
 
-![cap](2026/04-27/2026-04-27_daily-top_cap.png)
+![cap](2026-04-27_daily-top_cap.png)
 
 ### 6. [pi-mono](https://github.com/badlogic/pi-mono)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-27
 
-![pi-mono](2026/04-27/2026-04-27_daily-top_pi-mono.png)
+![pi-mono](2026-04-27_daily-top_pi-mono.png)
 
 ### 7. [opencode](https://github.com/anomalyco/opencode)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-27
 
-![opencode](2026/04-27/2026-04-27_daily-top_opencode.png)
+![opencode](2026-04-27_daily-top_opencode.png)
 
 ### 8. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
 
@@ -105,7 +105,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-27
 
-![easy-vibe](2026/04-27/2026-04-27_daily-top_easy-vibe.png)
+![easy-vibe](2026-04-27_daily-top_easy-vibe.png)
 
 ### 9. [ds2api](https://github.com/CJackHwang/ds2api)
 
@@ -116,7 +116,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-27
 
-![ds2api](2026/04-27/2026-04-27_daily-top_ds2api.png)
+![ds2api](2026-04-27_daily-top_ds2api.png)
 
 ### 10. [sub2api](https://github.com/Wei-Shaw/sub2api)
 
@@ -127,7 +127,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-27
 
-![sub2api](2026/04-27/2026-04-27_daily-top_sub2api.png)
+![sub2api](2026-04-27_daily-top_sub2api.png)
 
 ---
 
