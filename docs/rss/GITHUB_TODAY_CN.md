@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-04-27
+# 📊 🌟 GitHub Trending Daily - 2026-04-28
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **677469** ⭐ | **109648** 🍴
+**10** 个项目 | **699215** ⭐ | **106157** 🍴
 
-**热门语言:** `TypeScript` (4) · `JavaScript` (3) · `Go` (2)
+**热门语言:** `TypeScript` (4) · `Rust` (2) · `Go` (2)
 
-**更新时间:** 2026-04-27 03:43 UTC
+**更新时间:** 2026-04-28 03:49 UTC
 
 **分类分布:**
 
@@ -23,111 +23,111 @@
 > 🤖 **推荐理由**  
 > *GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop . popular project, actively maintained, recently updated*
 
-- ⭐ 30331 stars
-- 🍴 3504 forks
+- ⭐ 31746 stars
+- 🍴 3621 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-04-27
+- 📅 Updated: 2026-04-28
 
-![GitNexus](2026/04-27/2026-04-27_daily-top_GitNexus.png)
+![GitNexus](2026/04-28/2026-04-28_daily-top_GitNexus.png)
 
-### 2. [cc-switch](https://github.com/farion1231/cc-switch)
+### 2. [openclaw](https://github.com/openclaw/openclaw)
 
 > 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop assistant tool for managing multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 52,000 stars on GitHub, it offers a unified interface to streamline provider management without manual configuration editing. Key features include 50+ built-in provider presets, unified MCP and Skills management, quick switching from the system tray, and cloud sync capabilities. Built with Rust and Tauri, it provides a reliable, user-friendly experience for developers across Windows, macOS, and Linux.*
+> *OpenClaw is a versatile personal AI assistant designed for any operating system and platform, boasting over 365,000 stars on GitHub. Built with TypeScript, it seamlessly integrates with popular messaging platforms like WhatsApp, Telegram, and Discord. Key features include multi-channel support, voice activation, live canvas interfaces, and a local-first gateway for user control. The onboarding process is user-friendly, guiding setup across various devices. OpenClaw prioritizes security with robust DM policies, making it ideal for users seeking a fast, personal, and secure AI assistant experience.*
 
-- ⭐ 52078 stars
+- ⭐ 365426 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-28
+
+![openclaw](2026/04-28/2026-04-28_daily-top_openclaw.png)
+
+### 3. [pi-mono](https://github.com/badlogic/pi-mono)
+
+> 🤖 **推荐理由**  
+> *pi-mono is an AI agent toolkit designed for building and managing AI agents with a focus on coding tasks. Key features include a unified LLM API supporting multiple providers (OpenAI, Anthropic, Google), an interactive coding agent CLI, a Slack bot for message delegation, and both terminal and web UI libraries for AI chat interfaces. The project also offers vLLM deployment management via CLI. With over 41,000 stars, pi-mono encourages collaboration by sharing OSS coding agent sessions to enhance real-world task performance.*
+
+- ⭐ 41697 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-28
+
+![pi-mono](2026/04-28/2026-04-28_daily-top_pi-mono.png)
+
+### 4. [cc-switch](https://github.com/farion1231/cc-switch)
+
+> 🤖 **推荐理由**  
+> *CC Switch is a cross-platform desktop assistant designed for managing multiple CLI tools including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. Key features include over 50 built-in provider presets for easy configuration, unified MCP and Skills management, and system tray quick switching for seamless transitions between tools. It supports cloud sync for provider data and offers a user-friendly interface, eliminating the need for manual file editing. Built with Rust and Tauri, CC Switch is available on Windows, macOS, and Linux, streamlining AI-powered coding workflows.*
+
+- ⭐ 53193 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-27
+- 📅 Updated: 2026-04-28
 
-![cc-switch](2026/04-27/2026-04-27_daily-top_cc-switch.png)
+![cc-switch](2026/04-28/2026-04-28_daily-top_cc-switch.png)
 
-### 3. [openclaw](https://github.com/openclaw/openclaw)
-
-> 🤖 **推荐理由**  
-> *OpenClaw is a personal AI assistant that operates on any OS or platform, designed for seamless integration into your existing messaging channels, including WhatsApp, Telegram, Slack, Discord, and more. Key features include a local-first gateway for control, multi-channel inbox capability, voice activation on macOS/iOS/Android, and a live Canvas for visual interactions. With a focus on user privacy and security, OpenClaw allows for customizable configurations and onboarding through a CLI. Ideal for users seeking a fast, local, and always-on assistant experience.*
-
-- ⭐ 364764 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-27
-
-![openclaw](2026/04-27/2026-04-27_daily-top_openclaw.png)
-
-### 4. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+### 5. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
 > 🤖 **推荐理由**  
-> *Open Generative AI is a free, open-source alternative to platforms like Higgsfield AI, offering unrestricted AI image and video generation with over 200 models, including Flux and Midjourney. Key features include a multi-modal studio for text-to-image, image-to-image, text-to-video, and lip sync generation, all without content filters. The platform supports self-hosting, ensuring data privacy, and features a user-friendly interface with local inference options. Join the community on Discord and explore its capabilities online or via downloadable desktop apps.*
+> *Open Generative AI is a free, uncensored, open-source platform for AI image and video generation, offering over 200 models, including text-to-image, image-to-video, and lip-sync capabilities. Key features include a self-hosted option, no content filters, and a user-friendly interface. Users can automate media workflows with AI coding agents and access a hosted version online. The platform supports multi-image inputs and local model inference, ensuring full creative control. Built on Next.js and MIT licensed, it emphasizes privacy and customization.*
 
-- ⭐ 8945 stars
+- ⭐ 9367 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-04-27
+- 📅 Updated: 2026-04-28
 
-![Open-Generative-AI](2026/04-27/2026-04-27_daily-top_Open-Generative-AI.png)
+![Open-Generative-AI](2026/04-28/2026-04-28_daily-top_Open-Generative-AI.png)
 
-### 5. [cap](https://github.com/tiagozip/cap)
-
-> 🤖 **推荐理由**  
-> *Cap is a privacy-first, self-hosted CAPTCHA alternative designed for the modern web. Utilizing SHA-256 proof-of-work and JavaScript challenges, it offers a lightweight solution (~20kb) that integrates easily without dependencies. Key features include full customization with CSS, standalone mode via Docker, and programmatic access for background challenge solving. Cap is open-source, ensuring no telemetry tracking, making it a robust alternative to reCAPTCHA and hCaptcha. With over 6000 stars, it emphasizes speed, privacy, and user accessibility.*
-
-- ⭐ 6005 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-04-27
-
-![cap](2026/04-27/2026-04-27_daily-top_cap.png)
-
-### 6. [pi-mono](https://github.com/badlogic/pi-mono)
+### 6. [beads](https://github.com/gastownhall/beads)
 
 > 🤖 **推荐理由**  
-> *pi-mono is an AI agent toolkit designed for building and managing AI agents and LLM deployments. Key features include a unified LLM API supporting multiple providers, an interactive coding agent CLI, and libraries for terminal and web UIs. It also offers a Slack bot for message delegation and tooling for managing vLLM deployments on GPU pods. With over 40,000 stars, pi-mono encourages contributions and sharing of open-source coding sessions to enhance agent performance through real-world feedback. For more information, visit pi.dev.*
+> *Beads is a distributed graph issue tracker for AI agents, leveraging Dolt for a structured, persistent memory solution in Go. With over 22,000 stars, it operates on macOS, Linux, Windows, and FreeBSD. Key features include dependency-aware task management, zero-conflict ID handling, and semantic memory decay for context preservation. It supports both embedded and server modes for database management, enabling efficient multi-agent collaboration. Beads enhances workflow with messaging, task linking, and a CLI for easy integration into projects without needing Git.*
 
-- ⭐ 40755 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-27
-
-![pi-mono](2026/04-27/2026-04-27_daily-top_pi-mono.png)
-
-### 7. [opencode](https://github.com/anomalyco/opencode)
-
-> 🤖 **推荐理由**  
-> *OpenCode is an open-source AI coding agent designed for developers. With over 150,000 stars on GitHub, it features two built-in agents—'build' for full development access and 'plan' for read-only analysis. The platform supports various programming models and offers seamless installation across multiple operating systems. Users benefit from a terminal user interface (TUI) and out-of-the-box Language Server Protocol (LSP) support. OpenCode fosters community engagement through Discord and provides extensive documentation for customization and contribution.*
-
-- ⭐ 150079 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-04-27
-
-![opencode](2026/04-27/2026-04-27_daily-top_opencode.png)
-
-### 8. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
-
-> 🤖 **推荐理由**  
-> *Easy-Vibe is a modern programming course designed for beginners to master coding step-by-step using JavaScript. With over 7,000 stars on GitHub, it offers an engaging learning experience through a structured learning map, interactive tutorials, and hands-on project practice. Core features include immersive simulated coding, visual explanations of AI principles, and tools for building product prototypes. The course caters to complete beginners, aspiring product managers, and developers looking to enhance their skills in AI-driven development.*
-
-- ⭐ 7016 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-04-27
-
-![easy-vibe](2026/04-27/2026-04-27_daily-top_easy-vibe.png)
-
-### 9. [ds2api](https://github.com/CJackHwang/ds2api)
-
-> 🤖 **推荐理由**  
-> *ds2api is a high-performance middleware developed in Go that transforms DeepSeek web capabilities into universal APIs compatible with OpenAI, Claude, and Gemini. Key features include multi-account rotation, real-time responses, and a user-friendly React-based WebUI for management. The project supports Docker and Vercel Serverless deployment, ensuring flexibility. Core functionalities encompass a unified API surface for various models, admin controls, and robust concurrency management. With over 1,600 stars, ds2api is ideal for developers seeking efficient API integration solutions.*
-
-- ⭐ 1646 stars
+- ⭐ 22275 stars
 - 💻 Go
-- 📅 Updated: 2026-04-27
+- 📅 Updated: 2026-04-28
 
-![ds2api](2026/04-27/2026-04-27_daily-top_ds2api.png)
+![beads](2026/04-28/2026-04-28_daily-top_beads.png)
 
-### 10. [sub2api](https://github.com/Wei-Shaw/sub2api)
+### 7. [donutbrowser](https://github.com/zhom/donutbrowser)
 
 > 🤖 **推荐理由**  
-> *Sub2API is an open-source AI API gateway designed for efficient subscription quota distribution across services like Claude, OpenAI, and Gemini. Key features include multi-account management, API key generation, precise billing, smart scheduling, and concurrency control. The platform integrates a built-in payment system supporting various methods, alongside an admin dashboard for management. With high stability and support for external integrations, Sub2API simplifies access to multiple AI resources while optimizing cost-sharing through carpooling functionalities.*
+> *Donut Browser is a powerful open-source anti-detect browser built in Rust, featuring unlimited isolated profiles with unique fingerprints, cookies, and extensions. It utilizes Chromium and Firefox engines for enhanced privacy and supports various proxies and VPNs. Key features include cloud sync with end-to-end encryption, profile management, and cookie/extension handling. Users can import profiles from other browsers and benefit from a REST API for automation. With zero telemetry, Donut Browser prioritizes user privacy and security. Visit [donutbrowser.com](https://donutbrowser.com) for more information.*
 
-- ⭐ 15850 stars
+- ⭐ 2061 stars
+- 💻 Rust
+- 📅 Updated: 2026-04-28
+
+![donutbrowser](2026/04-28/2026-04-28_daily-top_donutbrowser.png)
+
+### 8. [sub2api](https://github.com/Wei-Shaw/sub2api)
+
+> 🤖 **推荐理由**  
+> *Sub2API is an open-source AI API gateway platform that streamlines subscription management for services like Claude, OpenAI, and Gemini. Key features include multi-account management, API key generation, precise billing, smart scheduling, and a built-in payment system supporting various methods. The platform also offers an admin dashboard for monitoring and management, as well as external system integration capabilities. With 16,205 stars on GitHub, Sub2API provides efficient cost-sharing through pooled subscriptions, making it an ideal solution for developers and teams seeking seamless AI service access.*
+
+- ⭐ 16205 stars
 - 💻 Go
-- 📅 Updated: 2026-04-27
+- 📅 Updated: 2026-04-28
 
-![sub2api](2026/04-27/2026-04-27_daily-top_sub2api.png)
+![sub2api](2026/04-28/2026-04-28_daily-top_sub2api.png)
+
+### 9. [iptv](https://github.com/iptv-org/iptv)
+
+> 🤖 **推荐理由**  
+> *The IPTV project offers a comprehensive collection of publicly available IPTV channels worldwide, enabling users to stream live content effortlessly. Key features include a central playlist accessible via a simple URL, Electronic Program Guide (EPG) downloads, and robust API support for integration. The repository fosters community engagement through discussions and contributions, while ensuring legal compliance by linking only to publicly shared streams. With over 115,000 stars, it stands as a valuable resource for IPTV enthusiasts and developers alike.*
+
+- ⭐ 115553 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-04-28
+
+![iptv](2026/04-28/2026-04-28_daily-top_iptv.png)
+
+### 10. [curl](https://github.com/curl/curl)
+
+> 🤖 **推荐理由**  
+> *curl is a versatile command-line tool and library for transferring data using a wide array of protocols, including HTTP, FTP, SMTP, and more. With over 41,000 stars on GitHub, it offers robust features like support for secure data transfer and easy integration via libcurl. As an open-source project under an MIT-like license, curl provides extensive documentation, installation guides, and a supportive community. For commercial support and security issue reporting, users can access dedicated resources on the official website.*
+
+- ⭐ 41692 stars
+- 💻 C
+- 📅 Updated: 2026-04-28
+
+![curl](2026/04-28/2026-04-28_daily-top_curl.png)
 
 ---
 
@@ -141,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-27 03:43:16 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-28 03:49:32 UTC

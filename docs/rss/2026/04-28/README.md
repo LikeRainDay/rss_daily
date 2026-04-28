@@ -28,7 +28,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-28
 
-![GitNexus](2026/04-28/2026-04-28_daily-top_GitNexus.png)
+![GitNexus](2026-04-28_daily-top_GitNexus.png)
 
 ### 2. [openclaw](https://github.com/openclaw/openclaw)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-28
 
-![openclaw](2026/04-28/2026-04-28_daily-top_openclaw.png)
+![openclaw](2026-04-28_daily-top_openclaw.png)
 
 ### 3. [pi-mono](https://github.com/badlogic/pi-mono)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-28
 
-![pi-mono](2026/04-28/2026-04-28_daily-top_pi-mono.png)
+![pi-mono](2026-04-28_daily-top_pi-mono.png)
 
 ### 4. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -61,7 +61,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-28
 
-![cc-switch](2026/04-28/2026-04-28_daily-top_cc-switch.png)
+![cc-switch](2026-04-28_daily-top_cc-switch.png)
 
 ### 5. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
@@ -72,7 +72,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-28
 
-![Open-Generative-AI](2026/04-28/2026-04-28_daily-top_Open-Generative-AI.png)
+![Open-Generative-AI](2026-04-28_daily-top_Open-Generative-AI.png)
 
 ### 6. [beads](https://github.com/gastownhall/beads)
 
@@ -83,7 +83,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-28
 
-![beads](2026/04-28/2026-04-28_daily-top_beads.png)
+![beads](2026-04-28_daily-top_beads.png)
 
 ### 7. [donutbrowser](https://github.com/zhom/donutbrowser)
 
@@ -94,7 +94,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-28
 
-![donutbrowser](2026/04-28/2026-04-28_daily-top_donutbrowser.png)
+![donutbrowser](2026-04-28_daily-top_donutbrowser.png)
 
 ### 8. [sub2api](https://github.com/Wei-Shaw/sub2api)
 
@@ -105,7 +105,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-28
 
-![sub2api](2026/04-28/2026-04-28_daily-top_sub2api.png)
+![sub2api](2026-04-28_daily-top_sub2api.png)
 
 ### 9. [iptv](https://github.com/iptv-org/iptv)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-28
 
-![iptv](2026/04-28/2026-04-28_daily-top_iptv.png)
+![iptv](2026-04-28_daily-top_iptv.png)
 
 ### 10. [curl](https://github.com/curl/curl)
 
@@ -127,7 +127,7 @@
 - 💻 C
 - 📅 Updated: 2026-04-28
 
-![curl](2026/04-28/2026-04-28_daily-top_curl.png)
+![curl](2026-04-28_daily-top_curl.png)
 
 ---
 
