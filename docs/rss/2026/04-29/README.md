@@ -28,7 +28,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-29
 
-![GitNexus](2026/04-29/2026-04-29_daily-top_GitNexus.png)
+![GitNexus](2026-04-29_daily-top_GitNexus.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -39,7 +39,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-29
 
-![cc-switch](2026/04-29/2026-04-29_daily-top_cc-switch.png)
+![cc-switch](2026-04-29_daily-top_cc-switch.png)
 
 ### 3. [quarkdown](https://github.com/iamgio/quarkdown)
 
@@ -50,7 +50,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-04-29
 
-![quarkdown](2026/04-29/2026-04-29_daily-top_quarkdown.png)
+![quarkdown](2026-04-29_daily-top_quarkdown.png)
 
 ### 4. [openclaw](https://github.com/openclaw/openclaw)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-29
 
-![openclaw](2026/04-29/2026-04-29_daily-top_openclaw.png)
+![openclaw](2026-04-29_daily-top_openclaw.png)
 
 ### 5. [pi-mono](https://github.com/badlogic/pi-mono)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-29
 
-![pi-mono](2026/04-29/2026-04-29_daily-top_pi-mono.png)
+![pi-mono](2026-04-29_daily-top_pi-mono.png)
 
 ### 6. [uBlock](https://github.com/gorhill/uBlock)
 
@@ -83,7 +83,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-29
 
-![uBlock](2026/04-29/2026-04-29_daily-top_uBlock.png)
+![uBlock](2026-04-29_daily-top_uBlock.png)
 
 ### 7. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -94,7 +94,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-29
 
-![get-shit-done](2026/04-29/2026-04-29_daily-top_get-shit-done.png)
+![get-shit-done](2026-04-29_daily-top_get-shit-done.png)
 
 ### 8. [ds2api](https://github.com/CJackHwang/ds2api)
 
@@ -105,7 +105,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-29
 
-![ds2api](2026/04-29/2026-04-29_daily-top_ds2api.png)
+![ds2api](2026-04-29_daily-top_ds2api.png)
 
 ### 9. [beads](https://github.com/gastownhall/beads)
 
@@ -116,7 +116,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-29
 
-![beads](2026/04-29/2026-04-29_daily-top_beads.png)
+![beads](2026-04-29_daily-top_beads.png)
 
 ### 10. [sub2api](https://github.com/Wei-Shaw/sub2api)
 
@@ -127,7 +127,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-29
 
-![sub2api](2026/04-29/2026-04-29_daily-top_sub2api.png)
+![sub2api](2026-04-29_daily-top_sub2api.png)
 
 ---
 
