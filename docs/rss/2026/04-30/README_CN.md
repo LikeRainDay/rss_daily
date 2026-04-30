@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-30
 
-![warp](2026/04-30/2026-04-30_daily-top_warp.png)
+![warp](2026-04-30_daily-top_warp.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-30
 
-![cc-switch](2026/04-30/2026-04-30_daily-top_cc-switch.png)
+![cc-switch](2026-04-30_daily-top_cc-switch.png)
 
 ### 3. [quarkdown](https://github.com/iamgio/quarkdown)
 
@@ -49,7 +49,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-04-30
 
-![quarkdown](2026/04-30/2026-04-30_daily-top_quarkdown.png)
+![quarkdown](2026-04-30_daily-top_quarkdown.png)
 
 ### 4. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-30
 
-![GitNexus](2026/04-30/2026-04-30_daily-top_GitNexus.png)
+![GitNexus](2026-04-30_daily-top_GitNexus.png)
 
 ### 5. [ladder](https://github.com/everywall/ladder)
 
@@ -72,7 +72,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-30
 
-![ladder](2026/04-30/2026-04-30_daily-top_ladder.png)
+![ladder](2026-04-30_daily-top_ladder.png)
 
 ### 6. [ace-step-ui](https://github.com/fspecii/ace-step-ui)
 
@@ -83,7 +83,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-30
 
-![ace-step-ui](2026/04-30/2026-04-30_daily-top_ace-step-ui.png)
+![ace-step-ui](2026-04-30_daily-top_ace-step-ui.png)
 
 ### 7. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -94,7 +94,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-04-30
 
-![impeccable](2026/04-30/2026-04-30_daily-top_impeccable.png)
+![impeccable](2026-04-30_daily-top_impeccable.png)
 
 ### 8. [ds2api](https://github.com/CJackHwang/ds2api)
 
@@ -105,7 +105,7 @@
 - 💻 Go
 - 📅 Updated: 2026-04-30
 
-![ds2api](2026/04-30/2026-04-30_daily-top_ds2api.png)
+![ds2api](2026-04-30_daily-top_ds2api.png)
 
 ### 9. [jcode](https://github.com/1jehuang/jcode)
 
@@ -116,7 +116,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-04-30
 
-![jcode](2026/04-30/2026-04-30_daily-top_jcode.png)
+![jcode](2026-04-30_daily-top_jcode.png)
 
 ### 10. [craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-04-30
 
-![craft-agents-oss](2026/04-30/2026-04-30_daily-top_craft-agents-oss.png)
+![craft-agents-oss](2026-04-30_daily-top_craft-agents-oss.png)
 
 ---
 
