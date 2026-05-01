@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-04-30
+# 📊 🌟 GitHub Trending Daily - 2026-05-01
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **189420** ⭐ | **13968** 🍴
+**10** 个项目 | **464982** ⭐ | **47823** 🍴
 
-**热门语言:** `Rust` (3) · `TypeScript` (2) · `Go` (2)
+**热门语言:** `Rust` (5) · `TypeScript` (3) · `JavaScript` (1)
 
-**更新时间:** 2026-04-30 03:47 UTC
+**更新时间:** 2026-05-01 03:59 UTC
 
 **分类分布:**
 
@@ -21,113 +21,112 @@
 ### 1. [warp](https://github.com/warpdotdev/warp)
 
 > 🤖 **推荐理由**  
-> *Warp is an innovative agentic development environment built from the terminal, utilizing Rust. It features a built-in coding agent and supports external CLI agents like Claude Code and Codex. With over 45,000 stars, Warp enhances developer workflows through automated agents that triage issues, write specifications, and manage pull requests. Key services include a user-friendly web interface for monitoring contributions and active agent sessions. Warp is open-source, encourages community contributions, and offers comprehensive documentation and support resources.*
+> *Warp is an innovative agentic development environment built from the terminal, designed to enhance productivity through integrated coding agents like GPT models. With over 49,000 stars, it supports custom CLI agents and features a collaborative contributions dashboard at build.warp.dev. Key services include a robust documentation hub, a Slack community for user support, and open-source contributions. Warp is open for community involvement and offers a seamless setup for users looking to leverage cutting-edge coding workflows. Explore more at warp.dev.*
 
-- ⭐ 45021 stars
+- ⭐ 49558 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-30
+- 📅 Updated: 2026-05-01
 
-![warp](2026/04-30/2026-04-30_daily-top_warp.png)
+![warp](2026/05-01/2026-05-01_daily-top_warp.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop assistant tool for managing multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 55,810 stars on GitHub, it streamlines provider management through a unified interface, eliminating tedious manual configuration. Key features include one-click provider switching, 50+ built-in presets, cloud sync for configurations, and a session manager for conversation history. Built with Rust and Tauri, CC Switch ensures efficient performance and supports Windows, macOS, and Linux. Ideal for developers seeking to enhance their AI coding workflows.*
+> *CC Switch is a cross-platform desktop assistant tool designed for managing CLI tools like Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 56,610 stars on GitHub, it offers a unified interface to switch between these tools effortlessly, featuring 50+ built-in provider presets, automatic configuration management, and cloud sync capabilities. The app ensures seamless provider switching from the system tray, supports bidirectional skill management, and includes usage tracking. Built using Rust and Tauri, CC Switch is available on Windows, macOS, and Linux.*
 
-- ⭐ 55810 stars
+- ⭐ 56610 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-30
+- 📅 Updated: 2026-05-01
 
-![cc-switch](2026/04-30/2026-04-30_daily-top_cc-switch.png)
+![cc-switch](2026/05-01/2026-05-01_daily-top_cc-switch.png)
 
-### 3. [quarkdown](https://github.com/iamgio/quarkdown)
-
-> 🤖 **推荐理由**  
-> *Quarkdown is a powerful Markdown-based typesetting system that enables seamless compilation of projects into various formats, including books, academic papers, presentations, and knowledge bases. Built on an extended version of Markdown, it supports scripting and custom functions, allowing for dynamic content creation. Key features include live preview, fast compilation, and a robust VS Code extension. Quarkdown supports HTML, PDF, and plain text outputs, making it versatile for diverse documentation needs. With over 12,600 stars on GitHub, it's a popular choice for modern documentation tasks.*
-
-- ⭐ 12619 stars
-- 💻 Kotlin
-- 📅 Updated: 2026-04-30
-
-![quarkdown](2026/04-30/2026-04-30_daily-top_quarkdown.png)
-
-### 4. [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+### 3. [zed](https://github.com/zed-industries/zed)
 
 > 🤖 **推荐理由**  
-> *GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop . popular project, actively maintained, recently updated*
+> *Zed is a high-performance, multiplayer code editor developed by the creators of Atom and Tree-sitter. It offers seamless collaboration, fast coding capabilities, and supports installation on macOS, Linux, and Windows. The project emphasizes user contribution and community engagement, with resources available for building and developing Zed. It also features a dedicated jobs page for hiring opportunities. With over 80,000 stars on GitHub, Zed aims to revolutionize coding efficiency and teamwork. Financial support for the project can be provided through GitHub Sponsors.*
 
-- ⭐ 33431 stars
-- 🍴 3792 forks
+- ⭐ 80918 stars
+- 💻 Rust
+- 📅 Updated: 2026-05-01
+
+![zed](2026/05-01/2026-05-01_daily-top_zed.png)
+
+### 4. [jcode](https://github.com/1jehuang/jcode)
+
+> 🤖 **推荐理由**  
+> *jcode is a versatile coding agent harness built in Rust, designed for optimal performance and resource efficiency across multi-session workflows. Key features include a human-like memory system that retrieves relevant information, real-time interactive TUI, and a browser automation tool integrated with Firefox. It supports collaboration through swarm functionality, allowing multiple agents to work seamlessly. jcode offers extensive customizability, enabling self-development and integration with various OAuth providers like OpenAI and GitHub Copilot, making it a powerful tool for developers.*
+
+- ⭐ 1936 stars
+- 💻 Rust
+- 📅 Updated: 2026-05-01
+
+![jcode](2026/05-01/2026-05-01_daily-top_jcode.png)
+
+### 5. [opencode](https://github.com/anomalyco/opencode)
+
+> 🤖 **推荐理由**  
+> *OpenCode is an open-source AI coding agent built in TypeScript, boasting over 152,000 stars on GitHub. Key features include two built-in agents—'build' for full development access and 'plan' for safe code exploration—along with a general subagent for complex tasks. It offers easy installation across multiple platforms, including a desktop app in beta. OpenCode supports multiple AI models, is provider-agnostic, and emphasizes terminal user interface (TUI) capabilities. For more details, visit the documentation on opencode.ai.*
+
+- ⭐ 152681 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-30
+- 📅 Updated: 2026-05-01
 
-![GitNexus](2026/04-30/2026-04-30_daily-top_GitNexus.png)
+![opencode](2026/05-01/2026-05-01_daily-top_opencode.png)
 
-### 5. [ladder](https://github.com/everywall/ladder)
-
-> 🤖 **推荐理由**  
-> *Ladder is a self-hosted HTTP web proxy designed for developers to test paywall implementations and analyze content delivery. Key features include the ability to modify CORS headers, inject custom HTML/CSS/JavaScript, and apply domain-based rules. It supports a customizable API, provides access logs, and offers Docker compatibility. Users can emulate different client environments and integrate with FlareSolverr for bypassing anti-bot challenges. Ladder is ideal for legitimate testing and research while ensuring compliance with applicable laws and website terms.*
-
-- ⭐ 7297 stars
-- 💻 Go
-- 📅 Updated: 2026-04-30
-
-![ladder](2026/04-30/2026-04-30_daily-top_ladder.png)
-
-### 6. [ace-step-ui](https://github.com/fspecii/ace-step-ui)
+### 6. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **推荐理由**  
-> *ACE-Step UI is an open-source alternative to Suno, designed for professional AI music generation with ACE-Step 1.5. It offers a beautiful, Spotify-like interface for generating unlimited, high-quality songs locally, ensuring privacy and ownership. Key features include full song generation, customizable parameters, batch processing, and advanced audio editing tools. Users can leverage AI for lyrics formatting and music video creation. With active development and a robust tech stack, ACE-Step UI empowers musicians to create without subscription fees, making it a valuable addition to the AI music landscape.*
+> *Impeccable is a robust design language enhancing AI-driven frontend design with 23 commands and curated anti-patterns to elevate UI quality. Developed by Anthropic, it offers an expanded skill set with 7 domain-specific references covering typography, color, spatial, motion, interaction, responsive design, and UX writing. Key features include design audits, critiques, and optimizations, all accessible via a user-friendly CLI. Impeccable supports various tools like Cursor and Codex, making it a versatile solution for developers seeking to refine their design processes. Visit impeccable.style for quick-start bundles and case studies.*
 
-- ⭐ 2133 stars
+- ⭐ 23856 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-04-30
+- 📅 Updated: 2026-05-01
 
-![ace-step-ui](2026/04-30/2026-04-30_daily-top_ace-step-ui.png)
+![impeccable](2026/05-01/2026-05-01_daily-top_impeccable.png)
 
-### 7. [impeccable](https://github.com/pbakaus/impeccable)
+### 7. [craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)
 
 > 🤖 **推荐理由**  
-> *Impeccable is a robust design language tool for enhancing AI-driven frontend design, featuring 23 commands to audit, critique, and polish UI elements. It includes 7 domain-specific references covering typography, color, spatial, motion, interaction, responsive design, and UX writing. By providing curated anti-patterns, Impeccable helps avoid common design mistakes. Users can quickly integrate it into various AI harnesses, making it ideal for developers seeking to improve design quality and accessibility. Visit impeccable.style for quick-start bundles and case studies.*
+> *Craft Agents is an open-source tool designed for seamless interaction with agents, enabling intuitive multitasking and integration with various APIs and services. Key features include multi-session management, dynamic source connections (e.g., Google, Slack), real-time updates, and a document-centric workflow. Users can easily create skills through natural language prompts and manage permissions with customizable modes. Built on Agent Native principles, it supports multiple LLM providers like Anthropic and OpenAI, fostering a highly customizable and fluid user experience.*
 
-- ⭐ 23465 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-04-30
+- ⭐ 5594 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-01
 
-![impeccable](2026/04-30/2026-04-30_daily-top_impeccable.png)
+![craft-agents-oss](2026/05-01/2026-05-01_daily-top_craft-agents-oss.png)
 
 ### 8. [ds2api](https://github.com/CJackHwang/ds2api)
 
 > 🤖 **推荐理由**  
-> *DS2API is a high-performance middleware that transforms Deepseek's conversational capabilities into APIs compatible with OpenAI, Claude, and Gemini. Built in Go, it features a React-based WebUI for management, multi-account rotation, and supports deployment via Docker, Vercel, or local environments. Key functionalities include unified CORS handling, concurrent request management, and a robust admin API for configuration and monitoring. With over 2,700 stars, DS2API aims for high efficiency and accessibility in API integrations, making it suitable for developers and researchers alike.*
+> *DS2API is a high-performance middleware designed to convert client protocols into universal APIs, supporting OpenAI, Claude, and Gemini formats. Key features include multi-account rotation, a React-based WebUI for management, and deployment options via Docker and Vercel Serverless. It offers a unified API surface for chat, responses, and embeddings, along with concurrency control and tool calling capabilities. With over 2,900 stars on GitHub, DS2API is built entirely in Go, ensuring lightweight and efficient operation for developers seeking versatile API integration solutions.*
 
-- ⭐ 2787 stars
+- ⭐ 2958 stars
 - 💻 Go
-- 📅 Updated: 2026-04-30
+- 📅 Updated: 2026-05-01
 
-![ds2api](2026/04-30/2026-04-30_daily-top_ds2api.png)
+![ds2api](2026/05-01/2026-05-01_daily-top_ds2api.png)
 
-### 9. [jcode](https://github.com/1jehuang/jcode)
+### 9. [codex](https://github.com/openai/codex)
 
 > 🤖 **推荐理由**  
-> *jcode is a cutting-edge coding agent harness built in Rust, designed for multi-session workflows with exceptional performance and customizability. With 1,469 stars on GitHub, it supports Linux, macOS, and Windows. Key features include an efficient memory system that allows for human-like recall, real-time collaboration with swarm capabilities, and seamless integration with various OAuth providers like OpenAI and GitHub Copilot. The interface supports advanced UI elements, browser automation, and self-modification for enhanced adaptability, making it a powerful tool for developers.*
+> *Codex is a lightweight coding agent by OpenAI that runs locally in your terminal, designed to enhance productivity for developers. With over 79,200 stars on GitHub, it supports installation via npm or Homebrew and integrates seamlessly with IDEs like VS Code. Users can easily start by running `codex` and sign in with their ChatGPT account for additional functionalities. Codex also offers a desktop app and a cloud-based version (Codex Web) for versatile coding experiences. Comprehensive documentation and contribution guidelines are available on the project page.*
 
-- ⭐ 1469 stars
+- ⭐ 79200 stars
 - 💻 Rust
-- 📅 Updated: 2026-04-30
+- 📅 Updated: 2026-05-01
 
-![jcode](2026/04-30/2026-04-30_daily-top_jcode.png)
+![codex](2026/05-01/2026-05-01_daily-top_codex.png)
 
-### 10. [craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)
+### 10. [note-gen](https://github.com/codexu/note-gen)
 
 > 🤖 **推荐理由**  
-> *Craft Agents is an innovative open-source tool designed for seamless interaction with various APIs and services through a user-friendly desktop application. Key features include intuitive multitasking, multi-session management, and dynamic status systems. Users can connect to numerous data sources, including MCP servers and REST APIs, with minimal configuration. The platform supports multiple AI providers, enabling real-time collaboration and skill creation. Built with customizability in mind, Craft Agents fosters a document-centric workflow, enhancing productivity without the need for traditional coding environments.*
+> *NoteGen is a cross-platform Markdown note-taking application designed to capture messy thoughts and transform them into structured notes using AI. Key features include an AI-native writing workflow, image handling, native Markdown storage, and a built-in knowledge base with hybrid retrieval. It supports seamless syncing with GitHub and other platforms, and is available on Windows, macOS, Linux, Android, and iOS. With over 11,600 stars, NoteGen emphasizes recording first and organizing later, making it ideal for dynamic workflows.*
 
-- ⭐ 5388 stars
+- ⭐ 11671 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-04-30
+- 📅 Updated: 2026-05-01
 
-![craft-agents-oss](2026/04-30/2026-04-30_daily-top_craft-agents-oss.png)
+![note-gen](2026/05-01/2026-05-01_daily-top_note-gen.png)
 
 ---
 
@@ -141,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-04-30 03:47:06 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-01 03:59:37 UTC

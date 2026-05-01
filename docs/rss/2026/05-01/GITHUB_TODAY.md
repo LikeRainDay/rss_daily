@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-01
 
-![warp](2026/05-01/2026-05-01_daily-top_warp.png)
+![warp](2026-05-01_daily-top_warp.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-01
 
-![cc-switch](2026/05-01/2026-05-01_daily-top_cc-switch.png)
+![cc-switch](2026-05-01_daily-top_cc-switch.png)
 
 ### 3. [zed](https://github.com/zed-industries/zed)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-01
 
-![zed](2026/05-01/2026-05-01_daily-top_zed.png)
+![zed](2026-05-01_daily-top_zed.png)
 
 ### 4. [jcode](https://github.com/1jehuang/jcode)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-01
 
-![jcode](2026/05-01/2026-05-01_daily-top_jcode.png)
+![jcode](2026-05-01_daily-top_jcode.png)
 
 ### 5. [opencode](https://github.com/anomalyco/opencode)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-01
 
-![opencode](2026/05-01/2026-05-01_daily-top_opencode.png)
+![opencode](2026-05-01_daily-top_opencode.png)
 
 ### 6. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-01
 
-![impeccable](2026/05-01/2026-05-01_daily-top_impeccable.png)
+![impeccable](2026-05-01_daily-top_impeccable.png)
 
 ### 7. [craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-01
 
-![craft-agents-oss](2026/05-01/2026-05-01_daily-top_craft-agents-oss.png)
+![craft-agents-oss](2026-05-01_daily-top_craft-agents-oss.png)
 
 ### 8. [ds2api](https://github.com/CJackHwang/ds2api)
 
@@ -104,7 +104,7 @@
 - 💻 Go
 - 📅 Updated: 2026-05-01
 
-![ds2api](2026/05-01/2026-05-01_daily-top_ds2api.png)
+![ds2api](2026-05-01_daily-top_ds2api.png)
 
 ### 9. [codex](https://github.com/openai/codex)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-01
 
-![codex](2026/05-01/2026-05-01_daily-top_codex.png)
+![codex](2026-05-01_daily-top_codex.png)
 
 ### 10. [note-gen](https://github.com/codexu/note-gen)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-01
 
-![note-gen](2026/05-01/2026-05-01_daily-top_note-gen.png)
+![note-gen](2026-05-01_daily-top_note-gen.png)
 
 ---
 
