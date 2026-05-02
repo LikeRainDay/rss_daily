@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-02
 
-![warp](2026/05-02/2026-05-02_daily-top_warp.png)
+![warp](2026-05-02_daily-top_warp.png)
 
 ### 2. [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-02
 
-![DeepSeek-TUI](2026/05-02/2026-05-02_daily-top_DeepSeek-TUI.png)
+![DeepSeek-TUI](2026-05-02_daily-top_DeepSeek-TUI.png)
 
 ### 3. [quarkdown](https://github.com/iamgio/quarkdown)
 
@@ -49,7 +49,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-05-02
 
-![quarkdown](2026/05-02/2026-05-02_daily-top_quarkdown.png)
+![quarkdown](2026-05-02_daily-top_quarkdown.png)
 
 ### 4. [omniget](https://github.com/tonhowtf/omniget)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-02
 
-![omniget](2026/05-02/2026-05-02_daily-top_omniget.png)
+![omniget](2026-05-02_daily-top_omniget.png)
 
 ### 5. [jcode](https://github.com/1jehuang/jcode)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-02
 
-![jcode](2026/05-02/2026-05-02_daily-top_jcode.png)
+![jcode](2026-05-02_daily-top_jcode.png)
 
 ### 6. [zed](https://github.com/zed-industries/zed)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-02
 
-![zed](2026/05-02/2026-05-02_daily-top_zed.png)
+![zed](2026-05-02_daily-top_zed.png)
 
 ### 7. [skills](https://github.com/browserbase/skills)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-02
 
-![skills](2026/05-02/2026-05-02_daily-top_skills.png)
+![skills](2026-05-02_daily-top_skills.png)
 
 ### 8. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-02
 
-![impeccable](2026/05-02/2026-05-02_daily-top_impeccable.png)
+![impeccable](2026-05-02_daily-top_impeccable.png)
 
 ### 9. [RuView](https://github.com/ruvnet/RuView)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-02
 
-![RuView](2026/05-02/2026-05-02_daily-top_RuView.png)
+![RuView](2026-05-02_daily-top_RuView.png)
 
 ### 10. [OpenSpec](https://github.com/Fission-AI/OpenSpec)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-02
 
-![OpenSpec](2026/05-02/2026-05-02_daily-top_OpenSpec.png)
+![OpenSpec](2026-05-02_daily-top_OpenSpec.png)
 
 ---
 
