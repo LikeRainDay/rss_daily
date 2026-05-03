@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-05-02
+# 📊 🌟 GitHub Trending Daily - 2026-05-03
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **274160** ⭐ | **23752** 🍴
+**10** 个项目 | **216559** ⭐ | **22035** 🍴
 
-**热门语言:** `Rust` (6) · `JavaScript` (2) · `Kotlin` (1)
+**热门语言:** `Rust` (4) · `JavaScript` (2) · `TypeScript` (2)
 
-**更新时间:** 2026-05-02 03:32 UTC
+**更新时间:** 2026-05-03 03:53 UTC
 
 **分类分布:**
 
@@ -18,115 +18,116 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [warp](https://github.com/warpdotdev/warp)
+### 1. [ruflo](https://github.com/ruvnet/ruflo)
 
 > 🤖 **推荐理由**  
-> *Warp is an innovative agentic development environment built from the terminal, designed to enhance coding productivity. With over 51,000 stars on GitHub, it supports built-in coding agents and allows integration of external CLI agents like Claude Code and Codex. Key features include issue triaging, PR reviews, and a collaborative dashboard for tracking contributions. Warp is open-source, encourages community engagement, and provides extensive documentation for users and contributors. Explore more at [warp.dev](https://www.warp.dev).*
+> *Ruflo is a leading agent orchestration platform for Claude, enabling the deployment of intelligent multi-agent swarms and autonomous workflows. Key features include enterprise-grade architecture, self-learning agents, federated communication, and integration with Claude Code. Users can orchestrate over 100 specialized agents, coordinate tasks, and leverage a robust plugin marketplace. Ruflo also supports secure, zero-trust federation for agent collaboration across machines and organizations. Experience the platform through its web UI and goal planner at flo.ruv.io and goal.ruv.io.*
 
-- ⭐ 51656 stars
-- 💻 Rust
-- 📅 Updated: 2026-05-02
+- ⭐ 36972 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-03
 
-![warp](2026/05-02/2026-05-02_daily-top_warp.png)
+![ruflo](2026/05-03/2026-05-03_daily-top_ruflo.png)
 
 ### 2. [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
 
 > 🤖 **推荐理由**  
-> *DeepSeek-TUI is a terminal-native coding agent for DeepSeek V4 models, offering 1M-token context and advanced reasoning capabilities. Key features include native RLM for parallel processing, thinking-mode streaming for real-time reasoning, and a comprehensive tool suite for file operations, shell commands, and git management. It supports three interaction modes (Plan, Agent, YOLO), session management, and workspace rollback. The project enables seamless integration with HTTP/SSE APIs and the Model Context Protocol, making it ideal for efficient coding workflows.*
+> *DeepSeek-TUI is a terminal-based coding agent for DeepSeek V4, featuring a 1M-token context and integrated tools. It allows users to manage code and tasks with a keyboard-driven interface, supporting file operations, shell commands, git management, and web searches. Key features include native reasoning mode, thinking-mode streaming, session save/resume, workspace rollback, and an HTTP/SSE runtime API. With three interaction modes (Plan, Agent, YOLO) and live cost tracking, DeepSeek-TUI enhances productivity for developers without requiring a Node/Python runtime.*
 
-- ⭐ 1289 stars
+- ⭐ 1685 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-02
+- 📅 Updated: 2026-05-03
 
-![DeepSeek-TUI](2026/05-02/2026-05-02_daily-top_DeepSeek-TUI.png)
+![DeepSeek-TUI](2026/05-03/2026-05-03_daily-top_DeepSeek-TUI.png)
 
-### 3. [quarkdown](https://github.com/iamgio/quarkdown)
+### 3. [jcode](https://github.com/1jehuang/jcode)
 
 > 🤖 **推荐理由**  
-> *Quarkdown is a versatile Markdown-based typesetting system that enables users to create documents ranging from academic papers and books to interactive presentations and knowledge bases. Built with Kotlin, it extends Markdown with scripting capabilities, allowing for dynamic content generation. Key features include seamless compilation to HTML, PDF, or plain text, a powerful VS Code extension, and a rich standard library for customizable layouts and functions. With live preview functionality and quick project setup, Quarkdown is ideal for both simple and complex document creation, boasting over 13,000 stars on GitHub.*
+> *jcode is a cutting-edge coding agent harness built in Rust, designed for efficiency and customizability across Linux, macOS, and Windows. With over 2900 stars on GitHub, it excels in multi-session workflows, utilizing a unique memory system for intelligent recall and context management. Key features include browser automation, real-time collaboration with swarm functionality, and a self-developing mode that allows agents to modify their own source code. jcode integrates various OAuth providers, enabling seamless use of existing models while maintaining high performance and low resource usage.*
 
-- ⭐ 13415 stars
-- 💻 Kotlin
-- 📅 Updated: 2026-05-02
+- ⭐ 2909 stars
+- 💻 Rust
+- 📅 Updated: 2026-05-03
 
-![quarkdown](2026/05-02/2026-05-02_daily-top_quarkdown.png)
+![jcode](2026/05-03/2026-05-03_daily-top_jcode.png)
 
 ### 4. [omniget](https://github.com/tonhowtf/omniget)
 
 > 🤖 **推荐理由**  
-> *OmniGet is an open-source desktop app designed for efficient study of online courses and books. It supports platforms like Hotmart, Udemy, and Kiwify, allowing users to download and organize content with a built-in video player and document reader for PDFs and EPUBs. Key features include timestamped notes, spaced repetition flashcards, a focus timer, and a library management system. OmniGet also facilitates downloading videos from major platforms like YouTube and TikTok, along with support for torrents. With a user-friendly interface and extensive customization options, it enhances the learning experience while keeping all content local.*
+> *OmniGet is an open-source desktop app for efficiently studying online courses and books. It supports platforms like Hotmart and Udemy, enabling users to download and watch videos with features like timestamped notes and progress tracking. Users can read PDFs and EPUBs with highlights, bookmarks, and focus modes. Additional functionalities include downloading from YouTube and social media, a Pomodoro timer, spaced repetition flashcards, and a comprehensive library management system. With a user-friendly interface, OmniGet turns study materials into an organized learning experience.*
 
-- ⭐ 2931 stars
+- ⭐ 3244 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-02
+- 📅 Updated: 2026-05-03
 
-![omniget](2026/05-02/2026-05-02_daily-top_omniget.png)
+![omniget](2026/05-03/2026-05-03_daily-top_omniget.png)
 
-### 5. [jcode](https://github.com/1jehuang/jcode)
+### 5. [skills](https://github.com/browserbase/skills)
 
 > 🤖 **推荐理由**  
-> *jcode is a high-performance coding agent harness built in Rust, designed for multi-session workflows with infinite customizability. Key features include efficient memory management through semantic vector embeddings, a powerful UI with real-time updates, and a built-in browser tool for automation. It supports various OAuth providers, allowing integration with existing models and easy multi-account switching. The self-dev mode enables agents to modify their own source code, enhancing adaptability. jcode also facilitates collaborative workflows with swarm capabilities for multiple agents.*
+> *Browserbase Skills is a JavaScript SDK that integrates the Claude Agent with Browserbase for advanced browser automation. Key features include the ability to automate web interactions with anti-bot measures, utilize the official `bb` CLI for managing Browserbase projects, and deploy serverless browser functions. Additional tools like site-debugger, browser-trace, and cookie-sync enhance debugging and session management. The plugin supports AI-driven UI testing and provides usage analytics, making it a comprehensive solution for automated web tasks and testing.*
 
-- ⭐ 2419 stars
-- 💻 Rust
-- 📅 Updated: 2026-05-02
-
-![jcode](2026/05-02/2026-05-02_daily-top_jcode.png)
-
-### 6. [zed](https://github.com/zed-industries/zed)
-
-> 🤖 **推荐理由**  
-> *Zed is a high-performance, multiplayer code editor developed by the creators of Atom and Tree-sitter, designed to facilitate coding at the speed of thought. With robust installation options for macOS, Linux, and Windows, Zed offers a seamless coding experience. Key features include real-time collaboration and support for various programming languages. The project encourages community contributions and provides comprehensive documentation for development. Zed Industries, Inc. oversees its development and welcomes financial support through GitHub Sponsors.*
-
-- ⭐ 81170 stars
-- 💻 Rust
-- 📅 Updated: 2026-05-02
-
-![zed](2026/05-02/2026-05-02_daily-top_zed.png)
-
-### 7. [skills](https://github.com/browserbase/skills)
-
-> 🤖 **推荐理由**  
-> *The Browserbase Skills project, part of the Claude Agent SDK, enhances browser automation capabilities with a variety of powerful skills. Key features include automated web interactions, serverless deployment, site debugging, and AI-powered UI testing. Users can manage Browserbase functions via the `bb` CLI, sync cookies for authenticated sessions, and fetch data from static pages without a browser. With 1,219 stars, this JavaScript-based SDK streamlines workflows for developers needing robust web automation and debugging tools.*
-
-- ⭐ 1219 stars
+- ⭐ 1557 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-05-02
+- 📅 Updated: 2026-05-03
 
-![skills](2026/05-02/2026-05-02_daily-top_skills.png)
+![skills](2026/05-03/2026-05-03_daily-top_skills.png)
 
-### 8. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **推荐理由**  
-> *Impeccable is a powerful design language tool for enhancing AI-driven frontend design, boasting over 24,000 stars on GitHub. It offers a comprehensive skill set with 23 commands to audit, critique, and polish UI designs while providing curated anti-patterns to avoid common mistakes. Key features include domain-specific references for typography, color, spatial design, and more, along with a CLI for detecting design issues. Impeccable integrates seamlessly with various AI tools, making it essential for developers seeking to elevate their design quality. Visit impeccable.style for quick access and bundles.*
-
-- ⭐ 24108 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-05-02
-
-![impeccable](2026/05-02/2026-05-02_daily-top_impeccable.png)
-
-### 9. [RuView](https://github.com/ruvnet/RuView)
+### 6. [ab-download-manager](https://github.com/amir1376/ab-download-manager)
 
 > 🤖 **推荐理由**  
-> *RuView is a cutting-edge WiFi DensePose platform that transforms standard WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection without any cameras. Key features include through-wall detection, activity recognition, and environmental mapping, all powered by low-cost ESP32 sensors. The system operates entirely on edge hardware, ensuring privacy and low latency. With self-learning capabilities and support for multiple applications in healthcare, retail, and security, RuView provides a comprehensive solution for contactless monitoring and spatial intelligence.*
+> *A Download Manager that speeds up your downloads. popular project, actively maintained, recently updated*
 
-- ⭐ 51285 stars
+- ⭐ 15155 stars
+- 🍴 788 forks
+- 💻 Kotlin
+- 📅 Updated: 2026-05-03
+
+![ab-download-manager](2026/05-03/2026-05-03_daily-top_ab-download-manager.png)
+
+### 7. [zed](https://github.com/zed-industries/zed)
+
+> 🤖 **推荐理由**  
+> *Zed is a high-performance, multiplayer code editor developed by the creators of Atom and Tree-sitter, designed for speed and collaboration. It supports installation on macOS, Linux, and Windows, with plans for web compatibility. Key features include a seamless coding experience, real-time collaboration, and robust development support. Zed is open for contributions and is actively seeking talent. The project is backed by Zed Industries, Inc., and welcomes financial support through GitHub Sponsors, ensuring continued development and innovation.*
+
+- ⭐ 81350 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-02
+- 📅 Updated: 2026-05-03
 
-![RuView](2026/05-02/2026-05-02_daily-top_RuView.png)
+![zed](2026/05-03/2026-05-03_daily-top_zed.png)
 
-### 10. [OpenSpec](https://github.com/Fission-AI/OpenSpec)
+### 8. [sim](https://github.com/simstudioai/sim)
 
 > 🤖 **推荐理由**  
-> *OpenSpec is a spec-driven development framework designed for AI coding assistants, boasting 44,668 stars on GitHub. Built with TypeScript, it enhances collaboration by allowing developers to define specifications before coding, ensuring alignment between human and AI. Key features include an artifact-guided workflow, support for 25+ tools, and the ability to organize changes into dedicated folders. With commands like `/opsx:propose` and `/opsx:apply`, users can efficiently manage proposals and implementations. OpenSpec is ideal for both personal and enterprise projects, promoting a fluid, iterative development process.*
+> *Sim is an open-source platform designed to build, deploy, and orchestrate AI agents, serving as the central intelligence layer for your AI workforce. With over 28,000 stars on GitHub, it enables users to visually design agent workflows, integrate 1,000+ tools and LLMs, and leverage Copilot for natural language-driven development. Key features include vector database integration for content-specific queries and seamless self-hosting via Docker. Sim supports extensive customization and offers robust documentation for easy setup and deployment.*
 
-- ⭐ 44668 stars
+- ⭐ 28307 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-02
+- 📅 Updated: 2026-05-03
 
-![OpenSpec](2026/05-02/2026-05-02_daily-top_OpenSpec.png)
+![sim](2026/05-03/2026-05-03_daily-top_sim.png)
+
+### 9. [camofox-browser](https://github.com/jo-inc/camofox-browser)
+
+> 🤖 **推荐理由**  
+> *camofox-browser is a stealth headless browser designed for AI agents, effectively bypassing Cloudflare and bot detection, making it a robust alternative to Puppeteer and Playwright. Key features include C++-level anti-detection, session isolation, and token-efficient accessibility snapshots. It supports proxy routing, YouTube transcript extraction, and structured logging for observability. With a REST API, users can manage browser sessions, interact with web elements, and utilize search macros for various platforms. Ideal for efficient and secure web browsing in automated environments.*
+
+- ⭐ 3920 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-05-03
+
+![camofox-browser](2026/05-03/2026-05-03_daily-top_camofox-browser.png)
+
+### 10. [Fabric](https://github.com/danielmiessler/Fabric)
+
+> 🤖 **推荐理由**  
+> *Fabric is an open-source framework designed to enhance human capabilities through AI integration. Built in Go, it offers a modular system for organizing and utilizing AI prompts, called Patterns, to tackle various real-world tasks. Key features include support for multiple AI providers (OpenAI, Anthropic, Azure, etc.), a REST API for easy access, and a built-in web interface. With over 41,000 stars, Fabric streamlines the integration of AI into daily workflows, enabling users to effectively create, collect, and apply AI solutions across diverse applications.*
+
+- ⭐ 41460 stars
+- 💻 Go
+- 📅 Updated: 2026-05-03
+
+![Fabric](2026/05-03/2026-05-03_daily-top_Fabric.png)
 
 ---
 
@@ -140,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-02 03:32:41 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-03 03:53:43 UTC

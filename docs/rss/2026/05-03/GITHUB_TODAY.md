@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-03
 
-![ruflo](2026/05-03/2026-05-03_daily-top_ruflo.png)
+![ruflo](2026-05-03_daily-top_ruflo.png)
 
 ### 2. [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-03
 
-![DeepSeek-TUI](2026/05-03/2026-05-03_daily-top_DeepSeek-TUI.png)
+![DeepSeek-TUI](2026-05-03_daily-top_DeepSeek-TUI.png)
 
 ### 3. [jcode](https://github.com/1jehuang/jcode)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-03
 
-![jcode](2026/05-03/2026-05-03_daily-top_jcode.png)
+![jcode](2026-05-03_daily-top_jcode.png)
 
 ### 4. [omniget](https://github.com/tonhowtf/omniget)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-03
 
-![omniget](2026/05-03/2026-05-03_daily-top_omniget.png)
+![omniget](2026-05-03_daily-top_omniget.png)
 
 ### 5. [skills](https://github.com/browserbase/skills)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-03
 
-![skills](2026/05-03/2026-05-03_daily-top_skills.png)
+![skills](2026-05-03_daily-top_skills.png)
 
 ### 6. [ab-download-manager](https://github.com/amir1376/ab-download-manager)
 
@@ -83,7 +83,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-05-03
 
-![ab-download-manager](2026/05-03/2026-05-03_daily-top_ab-download-manager.png)
+![ab-download-manager](2026-05-03_daily-top_ab-download-manager.png)
 
 ### 7. [zed](https://github.com/zed-industries/zed)
 
@@ -94,7 +94,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-03
 
-![zed](2026/05-03/2026-05-03_daily-top_zed.png)
+![zed](2026-05-03_daily-top_zed.png)
 
 ### 8. [sim](https://github.com/simstudioai/sim)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-03
 
-![sim](2026/05-03/2026-05-03_daily-top_sim.png)
+![sim](2026-05-03_daily-top_sim.png)
 
 ### 9. [camofox-browser](https://github.com/jo-inc/camofox-browser)
 
@@ -116,7 +116,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-03
 
-![camofox-browser](2026/05-03/2026-05-03_daily-top_camofox-browser.png)
+![camofox-browser](2026-05-03_daily-top_camofox-browser.png)
 
 ### 10. [Fabric](https://github.com/danielmiessler/Fabric)
 
@@ -127,7 +127,7 @@
 - 💻 Go
 - 📅 Updated: 2026-05-03
 
-![Fabric](2026/05-03/2026-05-03_daily-top_Fabric.png)
+![Fabric](2026-05-03_daily-top_Fabric.png)
 
 ---
 
