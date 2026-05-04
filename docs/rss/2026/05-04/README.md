@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-04
 
-![ruflo](2026/05-04/2026-05-04_daily-top_ruflo.png)
+![ruflo](2026-05-04_daily-top_ruflo.png)
 
 ### 2. [jcode](https://github.com/1jehuang/jcode)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-04
 
-![jcode](2026/05-04/2026-05-04_daily-top_jcode.png)
+![jcode](2026-05-04_daily-top_jcode.png)
 
 ### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-04
 
-![firecrawl](2026/05-04/2026-05-04_daily-top_firecrawl.png)
+![firecrawl](2026-05-04_daily-top_firecrawl.png)
 
 ### 4. [dexter](https://github.com/virattt/dexter)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-04
 
-![dexter](2026/05-04/2026-05-04_daily-top_dexter.png)
+![dexter](2026-05-04_daily-top_dexter.png)
 
 ### 5. [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-04
 
-![DeepSeek-TUI](2026/05-04/2026-05-04_daily-top_DeepSeek-TUI.png)
+![DeepSeek-TUI](2026-05-04_daily-top_DeepSeek-TUI.png)
 
 ### 6. [skills](https://github.com/browserbase/skills)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-04
 
-![skills](2026/05-04/2026-05-04_daily-top_skills.png)
+![skills](2026-05-04_daily-top_skills.png)
 
 ### 7. [SigDigger](https://github.com/BatchDrake/SigDigger)
 
@@ -94,7 +94,7 @@
 - 💻 C++
 - 📅 Updated: 2026-05-04
 
-![SigDigger](2026/05-04/2026-05-04_daily-top_SigDigger.png)
+![SigDigger](2026-05-04_daily-top_SigDigger.png)
 
 ### 8. [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-04
 
-![n8n-mcp](2026/05-04/2026-05-04_daily-top_n8n-mcp.png)
+![n8n-mcp](2026-05-04_daily-top_n8n-mcp.png)
 
 ### 9. [openscreen](https://github.com/siddharthvaddem/openscreen)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-04
 
-![openscreen](2026/05-04/2026-05-04_daily-top_openscreen.png)
+![openscreen](2026-05-04_daily-top_openscreen.png)
 
 ### 10. [omniget](https://github.com/tonhowtf/omniget)
 
@@ -127,7 +127,7 @@
 - 💻 Svelte
 - 📅 Updated: 2026-05-04
 
-![omniget](2026/05-04/2026-05-04_daily-top_omniget.png)
+![omniget](2026-05-04_daily-top_omniget.png)
 
 ---
 
