@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-05
 
-![ruflo](2026/05-05/2026-05-05_daily-top_ruflo.png)
+![ruflo](2026-05-05_daily-top_ruflo.png)
 
 ### 2. [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-05
 
-![DeepSeek-TUI](2026/05-05/2026-05-05_daily-top_DeepSeek-TUI.png)
+![DeepSeek-TUI](2026-05-05_daily-top_DeepSeek-TUI.png)
 
 ### 3. [rtk](https://github.com/rtk-ai/rtk)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-05
 
-![rtk](2026/05-05/2026-05-05_daily-top_rtk.png)
+![rtk](2026-05-05_daily-top_rtk.png)
 
 ### 4. [jcode](https://github.com/1jehuang/jcode)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-05
 
-![jcode](2026/05-05/2026-05-05_daily-top_jcode.png)
+![jcode](2026-05-05_daily-top_jcode.png)
 
 ### 5. [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-05
 
-![n8n-mcp](2026/05-05/2026-05-05_daily-top_n8n-mcp.png)
+![n8n-mcp](2026-05-05_daily-top_n8n-mcp.png)
 
 ### 6. [dexter](https://github.com/virattt/dexter)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-05
 
-![dexter](2026/05-05/2026-05-05_daily-top_dexter.png)
+![dexter](2026-05-05_daily-top_dexter.png)
 
 ### 7. [skills](https://github.com/browserbase/skills)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-05
 
-![skills](2026/05-05/2026-05-05_daily-top_skills.png)
+![skills](2026-05-05_daily-top_skills.png)
 
 ### 8. [context-mode](https://github.com/mksglu/context-mode)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-05
 
-![context-mode](2026/05-05/2026-05-05_daily-top_context-mode.png)
+![context-mode](2026-05-05_daily-top_context-mode.png)
 
 ### 9. [flue](https://github.com/withastro/flue)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-05
 
-![flue](2026/05-05/2026-05-05_daily-top_flue.png)
+![flue](2026-05-05_daily-top_flue.png)
 
 ### 10. [brush](https://github.com/reubeno/brush)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-05
 
-![brush](2026/05-05/2026-05-05_daily-top_brush.png)
+![brush](2026-05-05_daily-top_brush.png)
 
 ---
 

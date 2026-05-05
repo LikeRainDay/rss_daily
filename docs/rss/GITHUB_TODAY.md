@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-05-04
+# 📊 🌟 GitHub Trending Daily - 2026-05-05
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **243946** ⭐ | **21115** 🍴
+**10** Projects | **153378** ⭐ | **15154** 🍴
 
-**Top Languages:** `TypeScript` (5) · `Rust` (2) · `JavaScript` (1)
+**Top Languages:** `TypeScript` (5) · `Rust` (4) · `JavaScript` (1)
 
-**Updated:** 2026-05-04 03:51 UTC
+**Updated:** 2026-05-05 03:34 UTC
 
 **Categories:**
 
@@ -21,113 +21,113 @@
 ### 1. [ruflo](https://github.com/ruvnet/ruflo)
 
 > 🤖 **Why Recommend**  
-> *Ruflo is a leading agent orchestration platform for Claude, enabling deployment of intelligent multi-agent swarms and autonomous workflows. Key features include self-learning swarm intelligence, robust RAG integration, and seamless Claude Code/Codex integration. With 100+ specialized agents, a powerful memory system, and zero-trust federation capabilities, Ruflo enhances collaboration across machines and teams. It offers a plugin marketplace with 32 native plugins, a user-friendly web UI, and advanced security measures, making it a comprehensive solution for building conversational AI systems.*
+> *Ruflo is a leading agent orchestration platform for Claude, enabling the deployment of intelligent multi-agent swarms and coordination of autonomous workflows. Key features include enterprise-grade architecture, self-learning swarm intelligence, and RAG integration. With over 100 specialized agents, Ruflo supports secure, federated communications and offers a plugin marketplace with 32 native plugins. It features a user-friendly web UI for seamless interaction and a goal planner for translating high-level objectives into actionable plans. Explore more at [flo.ruv.io](https://flo.ruv.io/).*
 
-- ⭐ 39268 stars
+- ⭐ 41641 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-04
+- 📅 Updated: 2026-05-05
 
-![ruflo](2026/05-04/2026-05-04_daily-top_ruflo.png)
+![ruflo](2026/05-05/2026-05-05_daily-top_ruflo.png)
 
-### 2. [jcode](https://github.com/1jehuang/jcode)
+### 2. [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
 
 > 🤖 **Why Recommend**  
-> *jcode is a cutting-edge coding agent harness built in Rust, designed for multi-session workflows, customizable experiences, and enhanced performance. Key features include efficient memory management, rapid session handling, and a unique memory architecture allowing agents to recall pertinent information seamlessly. With built-in support for various OAuth providers, jcode facilitates easy integration with external models. The platform offers real-time collaboration through swarm functionality and advanced browser automation tools, making it a versatile solution for developers.*
+> *DeepSeek-TUI is a terminal-based coding agent designed for DeepSeek V4 models, offering a comprehensive suite of tools for file management, shell execution, and web searching. Key features include a 1M-token context, real-time reasoning with thinking-mode streaming, session management, and a durable task queue. It supports multiple languages and customization through skills, enabling users to tailor workflows. The single binary installation eliminates dependencies, making it easy to deploy across platforms. Ideal for efficient coding and automation, DeepSeek-TUI enhances developer productivity directly from the terminal.*
 
-- ⭐ 3494 stars
+- ⭐ 4242 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-04
+- 📅 Updated: 2026-05-05
 
-![jcode](2026/05-04/2026-05-04_daily-top_jcode.png)
+![DeepSeek-TUI](2026/05-05/2026-05-05_daily-top_DeepSeek-TUI.png)
 
-### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
-
-> 🤖 **Why Recommend**  
-> *Firecrawl is an open-source API designed for searching, scraping, and interacting with the web, empowering AI applications with clean data. Key features include extensive web coverage (96%), fast response times (P95 latency of 3.4s), and LLM-ready output formats like markdown and JSON. Users can automate data gathering through an AI agent, crawl entire websites, and interact with web pages seamlessly. With robust SDKs in multiple languages and community integrations, Firecrawl simplifies web data extraction while respecting site policies.*
-
-- ⭐ 114757 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-05-04
-
-![firecrawl](2026/05-04/2026-05-04_daily-top_firecrawl.png)
-
-### 4. [dexter](https://github.com/virattt/dexter)
+### 3. [rtk](https://github.com/rtk-ai/rtk)
 
 > 🤖 **Why Recommend**  
-> *Dexter is an autonomous financial research agent designed to analyze complex financial queries through intelligent task planning and real-time market data. Key features include automated decomposition of queries, autonomous execution of data gathering, and self-validation to ensure accuracy. It provides access to crucial financial data like income statements and balance sheets, while incorporating safety features to prevent runaway processes. Dexter can be used interactively or via WhatsApp, making financial research more efficient and accessible. With 22,666 stars, it showcases a strong community interest and support.*
+> *RTK (Rust Token Killer) is a high-performance CLI proxy that significantly reduces LLM token consumption by 60-90% for common development commands. This single Rust binary requires no external dependencies and supports over 100 commands with less than 10ms overhead. Key features include smart filtering, grouping, truncation, and deduplication of command outputs. RTK seamlessly integrates with various AI tools, providing users with concise and optimized outputs for commands like git, test runners, and AWS services, enhancing efficiency and reducing costs in LLM usage.*
 
-- ⭐ 22666 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-05-04
-
-![dexter](2026/05-04/2026-05-04_daily-top_dexter.png)
-
-### 5. [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
-
-> 🤖 **Why Recommend**  
-> *DeepSeek-TUI is a terminal-based coding agent designed for DeepSeek V4 models, featuring a 1M-token context and prefix cache. It offers a single binary without requiring Node/Python runtimes and includes an MCP client, sandbox, and durable task queue. Key features include native RLM for parallel reasoning, thinking-mode streaming, extensive tool support (file operations, shell commands, git management), and session management capabilities like save/resume and workspace rollback. It provides multiple interaction modes (Plan, Agent, YOLO) and live cost tracking for efficient coding workflows.*
-
-- ⭐ 2302 stars
+- ⭐ 41510 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-04
+- 📅 Updated: 2026-05-05
 
-![DeepSeek-TUI](2026/05-04/2026-05-04_daily-top_DeepSeek-TUI.png)
+![rtk](2026/05-05/2026-05-05_daily-top_rtk.png)
 
-### 6. [skills](https://github.com/browserbase/skills)
+### 4. [jcode](https://github.com/1jehuang/jcode)
 
 > 🤖 **Why Recommend**  
-> *The **skills** project is a Claude Agent SDK that enhances web browsing capabilities through browser automation and the `bb` CLI. Key features include automated browser interactions, remote session management with anti-bot measures, serverless automation deployment, and a site-debugging tool. Users can fetch data without a browser session, perform AI-powered UI testing, and synchronize cookies for authenticated browsing. Installation is straightforward, making it easy to integrate into Claude Code workflows. With 1861 stars, this JavaScript project offers robust tools for efficient web automation.*
+> *jcode is a high-performance coding agent harness built in Rust, designed for multi-session workflows and infinite customizability. Key features include efficient memory management with semantic vector embedding, a fast UI with real-time rendering, and the ability to spawn collaborative agent swarms. Jcode supports various OAuth integrations for popular AI models like OpenAI and Claude, enabling seamless provider switching. With robust browser automation capabilities and a self-development mode for customizability, jcode empowers users to elevate their coding experience.*
 
-- ⭐ 1861 stars
+- ⭐ 3950 stars
+- 💻 Rust
+- 📅 Updated: 2026-05-05
+
+![jcode](2026/05-05/2026-05-05_daily-top_jcode.png)
+
+### 5. [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
+
+> 🤖 **Why Recommend**  
+> *n8n-mcp is a Model Context Protocol server that enhances AI assistants' understanding of n8n’s 1,650 workflow automation nodes (820 core + 830 community). Key features include comprehensive access to node documentation, properties, and operations, with 99% coverage on properties and 87% on official documentation. It offers 2,352 workflow templates and AI tools, enabling efficient automation. Quick deployment options (no installation needed) and integration with various AI-powered IDEs like Claude Code and Visual Studio Code make it accessible for developers. The project is open-source and maintained under the MIT License.*
+
+- ⭐ 19947 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-05
+
+![n8n-mcp](2026/05-05/2026-05-05_daily-top_n8n-mcp.png)
+
+### 6. [dexter](https://github.com/virattt/dexter)
+
+> 🤖 **Why Recommend**  
+> *Dexter is an autonomous financial research agent designed to analyze complex financial queries using intelligent task planning, real-time market data, and self-validation. Key features include automatic decomposition of queries into structured research steps, autonomous execution of data gathering, and built-in safety measures to prevent runaway tasks. Dexter can also interact with users via WhatsApp, offering a user-friendly interface for financial insights. With its robust evaluation suite and debugging capabilities, Dexter sets a new standard for deep financial research, boasting over 23,000 stars on GitHub.*
+
+- ⭐ 23259 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-05
+
+![dexter](2026/05-05/2026-05-05_daily-top_dexter.png)
+
+### 7. [skills](https://github.com/browserbase/skills)
+
+> 🤖 **Why Recommend**  
+> *The **skills** project provides a Claude Agent SDK integrated with Browserbase for web browsing automation. Key features include browser automation with anti-bot measures, serverless deployment of browser tasks, and a suite of diagnostic tools for troubleshooting automation issues. Users can access Browserbase functionalities via the `bb` CLI, manage sessions, fetch data without a browser, and execute AI-driven UI tests. Installation is straightforward through npm, and it supports local and remote browser sessions, enhancing automation workflows for developers.*
+
+- ⭐ 2157 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-05-04
+- 📅 Updated: 2026-05-05
 
-![skills](2026/05-04/2026-05-04_daily-top_skills.png)
+![skills](2026/05-05/2026-05-05_daily-top_skills.png)
 
-### 7. [SigDigger](https://github.com/BatchDrake/SigDigger)
-
-> 🤖 **Why Recommend**  
-> *Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library. popular project, actively maintained, recently updated*
-
-- ⭐ 1988 stars
-- 🍴 212 forks
-- 💻 C++
-- 📅 Updated: 2026-05-04
-
-![SigDigger](2026/05-04/2026-05-04_daily-top_SigDigger.png)
-
-### 8. [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
+### 8. [context-mode](https://github.com/mksglu/context-mode)
 
 > 🤖 **Why Recommend**  
-> *n8n-mcp is a Model Context Protocol server designed to enhance AI assistants like Claude with comprehensive access to n8n's 1,650 workflow automation nodes. Key features include detailed node properties, extensive documentation, and a library of 2,352 workflow templates, ensuring users can build and validate workflows efficiently. The platform supports self-hosting and integrates seamlessly with various AI-powered IDEs. It offers tools for workflow management, execution, and credential management, enabling effective automation and integration within n8n environments. With over 19,500 stars, it's a valuable resource for developers.*
+> *Context Mode is a TypeScript-based GitHub project designed to optimize context window management for AI coding agents, achieving a remarkable 98% reduction in context size across 14 platforms. Key features include context saving through sandboxing, session continuity tracking with SQLite, output compression for concise responses, and a range of MCP tools like `ctx_execute` and `ctx_search`. It facilitates efficient coding workflows by treating AI as a code generator, enhancing productivity while ensuring privacy with local data handling. The project has garnered over 12,600 stars on GitHub.*
 
-- ⭐ 19577 stars
+- ⭐ 12613 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-04
+- 📅 Updated: 2026-05-05
 
-![n8n-mcp](2026/05-04/2026-05-04_daily-top_n8n-mcp.png)
+![context-mode](2026/05-05/2026-05-05_daily-top_context-mode.png)
 
-### 9. [openscreen](https://github.com/siddharthvaddem/openscreen)
+### 9. [flue](https://github.com/withastro/flue)
 
 > 🤖 **Why Recommend**  
-> *OpenScreen is a free, open-source tool for creating product demos and walkthroughs, serving as an alternative to Screen Studio. It enables users to record specific windows or the entire screen, with features like adjustable zooms, audio capture, video cropping, and customizable backgrounds. Users can add annotations, trim clips, and export in multiple resolutions. OpenScreen is free for both personal and commercial use, with no watermarks or subscriptions. Built with TypeScript and Electron, it is currently in beta and invites contributions from the community.*
+> *Flue is an experimental TypeScript framework designed for building autonomous agents without human interaction, leveraging a built-in agent harness. It offers a runtime-agnostic environment, enabling deployment across platforms like Node.js and Cloudflare. Core features include lightweight virtual sandboxes, support for CI/CD integrations, and tools for managing sessions and tasks. Flue simplifies the agent development process by allowing logic to reside in Markdown, while providing a CLI for building and running agents. With over 2,390 stars, Flue is poised to revolutionize agent development.*
 
-- ⭐ 34598 stars
+- ⭐ 2390 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-04
+- 📅 Updated: 2026-05-05
 
-![openscreen](2026/05-04/2026-05-04_daily-top_openscreen.png)
+![flue](2026/05-05/2026-05-05_daily-top_flue.png)
 
-### 10. [omniget](https://github.com/tonhowtf/omniget)
+### 10. [brush](https://github.com/reubeno/brush)
 
 > 🤖 **Why Recommend**  
-> *OmniGet is an open-source desktop app designed for studying online courses and reading books on your computer. With support for platforms like Hotmart and Udemy, it allows users to download courses, watch videos with timestamped notes, and utilize spaced repetition flashcards. The app also features a built-in reader for PDFs and EPUBs, offering highlights, bookmarks, and focus modes. Additionally, it supports downloading videos from YouTube, Instagram, and TikTok, alongside torrent files. OmniGet combines powerful study tools with a seamless user experience.*
+> *🐚bash/POSIX-compatible shell implemented in Rust 🦀. popular project, recently updated*
 
-- ⭐ 3435 stars
-- 💻 Svelte
-- 📅 Updated: 2026-05-04
+- ⭐ 1669 stars
+- 🍴 85 forks
+- 💻 Rust
+- 📅 Updated: 2026-05-05
 
-![omniget](2026/05-04/2026-05-04_daily-top_omniget.png)
+![brush](2026/05-05/2026-05-05_daily-top_brush.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-04 03:51:37 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-05 03:34:46 UTC
