@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-06
 
-![DeepSeek-TUI](2026/05-06/2026-05-06_daily-top_DeepSeek-TUI.png)
+![DeepSeek-TUI](2026-05-06_daily-top_DeepSeek-TUI.png)
 
 ### 2. [ruflo](https://github.com/ruvnet/ruflo)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-06
 
-![ruflo](2026/05-06/2026-05-06_daily-top_ruflo.png)
+![ruflo](2026-05-06_daily-top_ruflo.png)
 
 ### 3. [rtk](https://github.com/rtk-ai/rtk)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-06
 
-![rtk](2026/05-06/2026-05-06_daily-top_rtk.png)
+![rtk](2026-05-06_daily-top_rtk.png)
 
 ### 4. [dexter](https://github.com/virattt/dexter)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-06
 
-![dexter](2026/05-06/2026-05-06_daily-top_dexter.png)
+![dexter](2026-05-06_daily-top_dexter.png)
 
 ### 5. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-06
 
-![everything-claude-code](2026/05-06/2026-05-06_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-05-06_daily-top_everything-claude-code.png)
 
 ### 6. [ace-step-ui](https://github.com/fspecii/ace-step-ui)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-06
 
-![ace-step-ui](2026/05-06/2026-05-06_daily-top_ace-step-ui.png)
+![ace-step-ui](2026-05-06_daily-top_ace-step-ui.png)
 
 ### 7. [jcode](https://github.com/1jehuang/jcode)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-06
 
-![jcode](2026/05-06/2026-05-06_daily-top_jcode.png)
+![jcode](2026-05-06_daily-top_jcode.png)
 
 ### 8. [skills](https://github.com/browserbase/skills)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-06
 
-![skills](2026/05-06/2026-05-06_daily-top_skills.png)
+![skills](2026-05-06_daily-top_skills.png)
 
 ### 9. [FineTune](https://github.com/ronitsingh10/FineTune)
 
@@ -115,7 +115,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-05-06
 
-![FineTune](2026/05-06/2026-05-06_daily-top_FineTune.png)
+![FineTune](2026-05-06_daily-top_FineTune.png)
 
 ### 10. [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-06
 
-![n8n-mcp](2026/05-06/2026-05-06_daily-top_n8n-mcp.png)
+![n8n-mcp](2026-05-06_daily-top_n8n-mcp.png)
 
 ---
 
