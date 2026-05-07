@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-05-06
+# 📊 🌟 GitHub Trending Daily - 2026-05-07
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **329387** ⭐ | **42484** 🍴
+**10** 个项目 | **253327** ⭐ | **24084** 🍴
 
-**热门语言:** `Rust` (3) · `TypeScript` (3) · `JavaScript` (3)
+**热门语言:** `TypeScript` (6) · `JavaScript` (2) · `Rust` (2)
 
-**更新时间:** 2026-05-06 03:47 UTC
+**更新时间:** 2026-05-07 03:45 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
 
 > 🤖 **推荐理由**  
-> *DeepSeek-TUI is a terminal-based coding agent for DeepSeek V4, facilitating file editing, shell command execution, web searches, and git management. Key features include an auto mode that selects the optimal model and reasoning level, streaming reasoning blocks, and a comprehensive tool suite for file operations and task management. It supports multiple modes (Plan, Agent, YOLO) for varied interactions and offers user memory, session management, and LSP diagnostics. With a robust architecture, it integrates seamlessly with other tools and services, making it a versatile choice for developers.*
+> *DeepSeek-TUI is a terminal-based coding agent for DeepSeek V4, designed for seamless interaction with coding tasks. Key features include an auto mode for optimized model and reasoning selection, real-time streaming of reasoning blocks, and a comprehensive tool suite for file operations, web browsing, and git management. It supports session save/resume, workspace rollbacks, and user memory for personalized interactions. The project is built in Rust, boasts over 15,000 stars on GitHub, and offers localization in multiple languages, making it a versatile tool for developers.*
 
-- ⭐ 8716 stars
+- ⭐ 15060 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-06
+- 📅 Updated: 2026-05-07
 
-![DeepSeek-TUI](2026/05-06/2026-05-06_daily-top_DeepSeek-TUI.png)
+![DeepSeek-TUI](2026/05-07/2026-05-07_daily-top_DeepSeek-TUI.png)
 
 ### 2. [ruflo](https://github.com/ruvnet/ruflo)
 
 > 🤖 **推荐理由**  
-> *Ruflo is a leading agent orchestration platform for Claude, enabling the deployment of intelligent multi-agent swarms and autonomous workflows. Key features include enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and seamless Claude Code/Codex integration. It supports over 100 specialized agents, a zero-trust federation for secure cross-machine collaboration, and a powerful vector memory system. Users can quickly set up using CLI commands, and the platform offers a web UI for real-time agent interaction. Ruflo enhances AI coordination, learning, and security for advanced conversational AI systems.*
+> *Ruflo is an advanced agent orchestration platform for Claude, enabling the deployment of intelligent multi-agent swarms and autonomous workflows. Key features include self-learning swarm intelligence, secure agent federation, and seamless integration with Claude Code and Codex. With over 100 specialized agents, Ruflo facilitates efficient collaboration across teams while ensuring enterprise-grade security. Users can quickly set up and utilize a variety of plugins, including tools for testing, documentation, and goal-oriented action planning, all supported by a robust web UI and CLI.*
 
-- ⭐ 43960 stars
+- ⭐ 45405 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-06
+- 📅 Updated: 2026-05-07
 
-![ruflo](2026/05-06/2026-05-06_daily-top_ruflo.png)
+![ruflo](2026/05-07/2026-05-07_daily-top_ruflo.png)
 
 ### 3. [rtk](https://github.com/rtk-ai/rtk)
 
 > 🤖 **推荐理由**  
-> *RTK (Rust Token Killer) is a high-performance CLI proxy that dramatically reduces LLM token consumption by 60-90% on common development commands. Built as a single Rust binary with no dependencies, it supports over 100 commands, providing smart filtering, grouping, and deduplication of outputs. Key features include an auto-rewrite hook for seamless integration with AI tools, extensive token savings analytics, and compatibility with major command-line utilities like Git, Docker, and test runners. RTK aims to optimize your development workflow while minimizing costs.*
+> *RTK is a high-performance CLI proxy designed to significantly reduce LLM token consumption by 60-90% for over 100 common development commands. Built as a single Rust binary with zero dependencies, RTK filters and compresses command outputs before they reach the LLM, ensuring minimal overhead (<10ms). Key features include smart filtering, grouping, and deduplication of command outputs, along with seamless integration with various AI tools. Its auto-rewrite hook allows for transparent command optimization, enhancing productivity while maintaining context.*
 
-- ⭐ 42307 stars
+- ⭐ 43138 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-06
+- 📅 Updated: 2026-05-07
 
-![rtk](2026/05-06/2026-05-06_daily-top_rtk.png)
+![rtk](2026/05-07/2026-05-07_daily-top_rtk.png)
 
-### 4. [dexter](https://github.com/virattt/dexter)
+### 4. [context-mode](https://github.com/mksglu/context-mode)
 
 > 🤖 **推荐理由**  
-> *Dexter is an autonomous financial research agent that intelligently analyzes complex financial questions using task planning, self-reflection, and real-time market data. Key features include intelligent task decomposition, autonomous execution of data-gathering tools, and self-validation to ensure accuracy. It provides access to critical financial data like income statements and balance sheets and includes safety features to prevent excessive execution. Users can interact with Dexter via WhatsApp, making it a versatile tool for deep financial research.*
+> *Context Mode is a TypeScript-based GitHub project designed to optimize context window usage for AI coding agents, achieving a remarkable 98% reduction in context size across 14 platforms. Key features include context saving through sandboxing, session continuity via SQLite event tracking, and output compression for terse yet accurate responses. The tool leverages functions like `ctx_execute` and `ctx_search` for efficient code execution and information retrieval. It emphasizes a privacy-first architecture, ensuring all operations remain local without cloud dependencies.*
 
-- ⭐ 23900 stars
+- ⭐ 13634 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-06
+- 📅 Updated: 2026-05-07
 
-![dexter](2026/05-06/2026-05-06_daily-top_dexter.png)
+![context-mode](2026/05-07/2026-05-07_daily-top_context-mode.png)
 
-### 5. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
-
-> 🤖 **推荐理由**  
-> *Everything Claude Code is a performance optimization system for AI agents, integrating skills, instincts, memory optimization, and security scanning. It supports multiple frameworks, including Claude Code, Codex, Cursor, and OpenCode. Key features include 48 agents, 182 skills, a robust command set, and a dashboard GUI for easy navigation. With a focus on continuous learning and research-first development, ECC enables efficient task management and enhances security through AgentShield. The project has garnered over 174,000 stars, showcasing its community impact and usability.*
-
-- ⭐ 174046 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-05-06
-
-![everything-claude-code](2026/05-06/2026-05-06_daily-top_everything-claude-code.png)
-
-### 6. [ace-step-ui](https://github.com/fspecii/ace-step-ui)
+### 5. [dexter](https://github.com/virattt/dexter)
 
 > 🤖 **推荐理由**  
-> *ACE-Step UI is the ultimate open-source alternative to Suno, designed for professional AI music generation using the ACE-Step 1.5 model. It offers a free, local solution with no subscription fees, ensuring privacy and full ownership. Key features include full song generation (up to 4+ minutes), instrumental mode, batch generation, and advanced customization options. The Spotify-inspired interface enhances user experience, while built-in tools like an audio editor and video generator provide additional functionality. With active development and a robust tech stack, ACE-Step UI empowers users to create high-quality music effortlessly.*
+> *Dexter is an autonomous financial research agent designed to intelligently analyze complex financial queries. Key features include intelligent task planning, autonomous execution using live market data, and self-validation of results. It systematically breaks down inquiries into structured research plans, checks its work, and refines answers based on real-time data from income statements and balance sheets. Additionally, Dexter supports interaction via WhatsApp, making it user-friendly for financial inquiries. With over 24,000 stars on GitHub, it is a powerful tool for deep financial research.*
 
-- ⭐ 3110 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-05-06
-
-![ace-step-ui](2026/05-06/2026-05-06_daily-top_ace-step-ui.png)
-
-### 7. [jcode](https://github.com/1jehuang/jcode)
-
-> 🤖 **推荐理由**  
-> *jcode is a powerful coding agent harness built in Rust, designed for multi-session workflows and high customizability. Key features include efficient memory management with a human-like recall system, rapid performance with minimal RAM usage, and browser automation via a built-in tool. It supports various OAuth providers for seamless integration with existing models, enabling collaborative agent workflows. Additionally, jcode allows self-development, enabling agents to modify their own code. With over 4,267 stars, it is optimized for Linux, macOS, and Windows environments.*
-
-- ⭐ 4267 stars
-- 💻 Rust
-- 📅 Updated: 2026-05-06
-
-![jcode](2026/05-06/2026-05-06_daily-top_jcode.png)
-
-### 8. [skills](https://github.com/browserbase/skills)
-
-> 🤖 **推荐理由**  
-> *Browserbase Skills is a powerful SDK enabling Claude Code to automate web browsing via Browserbase. Key features include browser automation with anti-bot measures, serverless deployment of browser tasks, site debugging tools, and CLI integration for Browserbase functionalities. Users can sync cookies for authenticated sessions, fetch data without a browser, and conduct AI-powered UI testing. Installation is straightforward, allowing easy access to a range of skills, from web scraping to session analytics, enhancing the capabilities of Claude agents.*
-
-- ⭐ 2433 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-05-06
-
-![skills](2026/05-06/2026-05-06_daily-top_skills.png)
-
-### 9. [FineTune](https://github.com/ronitsingh10/FineTune)
-
-> 🤖 **推荐理由**  
-> *FineTune is a free and open-source macOS menu bar app that offers advanced per-app volume control, multi-device audio output, and a 10-band equalizer. Users can independently adjust volume levels, boost quieter apps up to 4x, and route audio to various devices simultaneously. The app features custom EQ presets, headphone correction, and easy Bluetooth management. With a user-friendly interface, FineTune enhances audio experiences while maintaining system integration. Ideal for anyone seeking to customize their audio environment effortlessly.*
-
-- ⭐ 6543 stars
-- 💻 Swift
-- 📅 Updated: 2026-05-06
-
-![FineTune](2026/05-06/2026-05-06_daily-top_FineTune.png)
-
-### 10. [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
-
-> 🤖 **推荐理由**  
-> *n8n-mcp is a Model Context Protocol server designed for AI assistants like Claude, providing comprehensive access to n8n's 1,650 workflow automation nodes. Key features include detailed node documentation, extensive properties and operations coverage, a library of 2,352 templates, and tools for workflow management. It supports multiple AI-powered IDEs and offers both a quick-start dashboard and self-hosting options. With robust validation and testing capabilities, n8n-mcp enhances developers' ability to automate workflows efficiently while ensuring compatibility with the latest n8n releases.*
-
-- ⭐ 20105 stars
+- ⭐ 24429 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-06
+- 📅 Updated: 2026-05-07
 
-![n8n-mcp](2026/05-06/2026-05-06_daily-top_n8n-mcp.png)
+![dexter](2026/05-07/2026-05-07_daily-top_dexter.png)
+
+### 6. [open-agents](https://github.com/vercel-labs/open-agents)
+
+> 🤖 **推荐理由**  
+> *Open Agents is an open-source template for creating cloud agents, allowing seamless background coding on Vercel. With a TypeScript-based architecture, it features a three-layer system: a web UI for auth and chat, an agent workflow engine, and an isolated sandbox for execution. Key capabilities include chat-driven coding, durable multi-step execution, and GitHub integration for repo management. Users can deploy their own version easily, leveraging Vercel's OAuth and GitHub App integrations. The project promotes adaptability, enabling developers to customize and extend the agent functionalities.*
+
+- ⭐ 4845 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-07
+
+![open-agents](2026/05-07/2026-05-07_daily-top_open-agents.png)
+
+### 7. [get-shit-done](https://github.com/gsd-build/get-shit-done)
+
+> 🤖 **推荐理由**  
+> *get-shit-done is a lightweight, powerful system for meta-prompting and context engineering tailored for AI coding tools like Claude Code and Codex. With over 60,000 stars, it effectively combats context rot, ensuring high-quality outputs. The process involves six commands: initializing projects, discussing phases, planning, executing, verifying work, and shipping milestones. GSD optimizes workflow through fresh contexts and structured artifacts, enhancing project management with a focus on automation and reliability. Trusted by engineers at major tech companies, it streamlines development without unnecessary complexity.*
+
+- ⭐ 60527 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-05-07
+
+![get-shit-done](2026/05-07/2026-05-07_daily-top_get-shit-done.png)
+
+### 8. [directus](https://github.com/directus/directus)
+
+> 🤖 **推荐理由**  
+> *Directus is a flexible backend solution that transforms your SQL database into a headless CMS, complete with a real-time REST & GraphQL API and an intuitive no-code Vue.js dashboard. It supports major SQL databases (PostgreSQL, MySQL, SQLite, etc.) and can be deployed on-premises or through Directus Cloud, which offers quick project setup and auto-scaling. The platform is highly customizable and extensible, making it suitable for various applications. With a community-driven approach and a unique licensing model, Directus remains accessible for startups while ensuring sustainability for larger enterprises.*
+
+- ⭐ 35205 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-07
+
+![directus](2026/05-07/2026-05-07_daily-top_directus.png)
+
+### 9. [skills](https://github.com/browserbase/skills)
+
+> 🤖 **推荐理由**  
+> *The Browserbase Skills project is a Claude Agent SDK that integrates web browsing capabilities through automation and the `bb` CLI. Key features include browser automation with anti-bot stealth, serverless deployment of browser automation, site debugging tools, and analytics on Browserbase usage. The plugin allows for seamless interactions like web scraping, UI testing, and cookie synchronization without manual browsing. Installation is straightforward via the CLI, enabling users to leverage Claude's capabilities for various web tasks efficiently.*
+
+- ⭐ 2561 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-05-07
+
+![skills](2026/05-07/2026-05-07_daily-top_skills.png)
+
+### 10. [InsForge](https://github.com/InsForge/InsForge)
+
+> 🤖 **推荐理由**  
+> *InsForge is a powerful Postgres-based backend platform designed for AI-native developers. It features a semantic layer that enables AI coding agents to interact seamlessly with backend primitives such as authentication, databases, storage, edge functions, and model gateways. Core services include user management, S3-compatible file storage, and long-running container services. InsForge simplifies backend context engineering and provides an easy setup via Docker or cloud hosting at insforge.dev. With over 8,500 stars, it’s a robust choice for modern application development.*
+
+- ⭐ 8523 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-07
+
+![InsForge](2026/05-07/2026-05-07_daily-top_InsForge.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-06 03:47:12 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-07 03:45:46 UTC

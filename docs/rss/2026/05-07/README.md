@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-07
 
-![DeepSeek-TUI](2026/05-07/2026-05-07_daily-top_DeepSeek-TUI.png)
+![DeepSeek-TUI](2026-05-07_daily-top_DeepSeek-TUI.png)
 
 ### 2. [ruflo](https://github.com/ruvnet/ruflo)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-07
 
-![ruflo](2026/05-07/2026-05-07_daily-top_ruflo.png)
+![ruflo](2026-05-07_daily-top_ruflo.png)
 
 ### 3. [rtk](https://github.com/rtk-ai/rtk)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-07
 
-![rtk](2026/05-07/2026-05-07_daily-top_rtk.png)
+![rtk](2026-05-07_daily-top_rtk.png)
 
 ### 4. [context-mode](https://github.com/mksglu/context-mode)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-07
 
-![context-mode](2026/05-07/2026-05-07_daily-top_context-mode.png)
+![context-mode](2026-05-07_daily-top_context-mode.png)
 
 ### 5. [dexter](https://github.com/virattt/dexter)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-07
 
-![dexter](2026/05-07/2026-05-07_daily-top_dexter.png)
+![dexter](2026-05-07_daily-top_dexter.png)
 
 ### 6. [open-agents](https://github.com/vercel-labs/open-agents)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-07
 
-![open-agents](2026/05-07/2026-05-07_daily-top_open-agents.png)
+![open-agents](2026-05-07_daily-top_open-agents.png)
 
 ### 7. [get-shit-done](https://github.com/gsd-build/get-shit-done)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-07
 
-![get-shit-done](2026/05-07/2026-05-07_daily-top_get-shit-done.png)
+![get-shit-done](2026-05-07_daily-top_get-shit-done.png)
 
 ### 8. [directus](https://github.com/directus/directus)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-07
 
-![directus](2026/05-07/2026-05-07_daily-top_directus.png)
+![directus](2026-05-07_daily-top_directus.png)
 
 ### 9. [skills](https://github.com/browserbase/skills)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-07
 
-![skills](2026/05-07/2026-05-07_daily-top_skills.png)
+![skills](2026-05-07_daily-top_skills.png)
 
 ### 10. [InsForge](https://github.com/InsForge/InsForge)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-07
 
-![InsForge](2026/05-07/2026-05-07_daily-top_InsForge.png)
+![InsForge](2026-05-07_daily-top_InsForge.png)
 
 ---
 
