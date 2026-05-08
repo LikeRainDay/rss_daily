@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-08
 
-![DeepSeek-TUI](2026/05-08/2026-05-08_daily-top_DeepSeek-TUI.png)
+![DeepSeek-TUI](2026-05-08_daily-top_DeepSeek-TUI.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-08
 
-![cc-switch](2026/05-08/2026-05-08_daily-top_cc-switch.png)
+![cc-switch](2026-05-08_daily-top_cc-switch.png)
 
 ### 3. [rtk](https://github.com/rtk-ai/rtk)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-08
 
-![rtk](2026/05-08/2026-05-08_daily-top_rtk.png)
+![rtk](2026-05-08_daily-top_rtk.png)
 
 ### 4. [InsForge](https://github.com/InsForge/InsForge)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-08
 
-![InsForge](2026/05-08/2026-05-08_daily-top_InsForge.png)
+![InsForge](2026-05-08_daily-top_InsForge.png)
 
 ### 5. [sub2api](https://github.com/Wei-Shaw/sub2api)
 
@@ -71,7 +71,7 @@
 - 💻 Go
 - 📅 Updated: 2026-05-08
 
-![sub2api](2026/05-08/2026-05-08_daily-top_sub2api.png)
+![sub2api](2026-05-08_daily-top_sub2api.png)
 
 ### 6. [goose](https://github.com/aaif-goose/goose)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-08
 
-![goose](2026/05-08/2026-05-08_daily-top_goose.png)
+![goose](2026-05-08_daily-top_goose.png)
 
 ### 7. [new-api](https://github.com/QuantumNous/new-api)
 
@@ -93,7 +93,7 @@
 - 💻 Go
 - 📅 Updated: 2026-05-08
 
-![new-api](2026/05-08/2026-05-08_daily-top_new-api.png)
+![new-api](2026-05-08_daily-top_new-api.png)
 
 ### 8. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-08
 
-![learn-claude-code](2026/05-08/2026-05-08_daily-top_learn-claude-code.png)
+![learn-claude-code](2026-05-08_daily-top_learn-claude-code.png)
 
 ### 9. [ladybird](https://github.com/LadybirdBrowser/ladybird)
 
@@ -115,7 +115,7 @@
 - 💻 C++
 - 📅 Updated: 2026-05-08
 
-![ladybird](2026/05-08/2026-05-08_daily-top_ladybird.png)
+![ladybird](2026-05-08_daily-top_ladybird.png)
 
 ### 10. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-08
 
-![clash-verge-rev](2026/05-08/2026-05-08_daily-top_clash-verge-rev.png)
+![clash-verge-rev](2026-05-08_daily-top_clash-verge-rev.png)
 
 ---
 
