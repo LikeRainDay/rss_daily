@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-09
 
-![DeepSeek-TUI](2026/05-09/2026-05-09_daily-top_DeepSeek-TUI.png)
+![DeepSeek-TUI](2026-05-09_daily-top_DeepSeek-TUI.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-09
 
-![cc-switch](2026/05-09/2026-05-09_daily-top_cc-switch.png)
+![cc-switch](2026-05-09_daily-top_cc-switch.png)
 
 ### 3. [9router](https://github.com/decolua/9router)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-09
 
-![9router](2026/05-09/2026-05-09_daily-top_9router.png)
+![9router](2026-05-09_daily-top_9router.png)
 
 ### 4. [rtk](https://github.com/rtk-ai/rtk)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-09
 
-![rtk](2026/05-09/2026-05-09_daily-top_rtk.png)
+![rtk](2026-05-09_daily-top_rtk.png)
 
 ### 5. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-09
 
-![UI-TARS-desktop](2026/05-09/2026-05-09_daily-top_UI-TARS-desktop.png)
+![UI-TARS-desktop](2026-05-09_daily-top_UI-TARS-desktop.png)
 
 ### 6. [pi](https://github.com/earendil-works/pi)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-09
 
-![pi](2026/05-09/2026-05-09_daily-top_pi.png)
+![pi](2026-05-09_daily-top_pi.png)
 
 ### 7. [opencode](https://github.com/anomalyco/opencode)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-09
 
-![opencode](2026/05-09/2026-05-09_daily-top_opencode.png)
+![opencode](2026-05-09_daily-top_opencode.png)
 
 ### 8. [agentmemory](https://github.com/rohitg00/agentmemory)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-09
 
-![agentmemory](2026/05-09/2026-05-09_daily-top_agentmemory.png)
+![agentmemory](2026-05-09_daily-top_agentmemory.png)
 
 ### 9. [goose](https://github.com/aaif-goose/goose)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-09
 
-![goose](2026/05-09/2026-05-09_daily-top_goose.png)
+![goose](2026-05-09_daily-top_goose.png)
 
 ### 10. [InsForge](https://github.com/InsForge/InsForge)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-09
 
-![InsForge](2026/05-09/2026-05-09_daily-top_InsForge.png)
+![InsForge](2026-05-09_daily-top_InsForge.png)
 
 ---
 

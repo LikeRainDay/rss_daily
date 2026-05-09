@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-05-08
+# 📊 🌟 GitHub Trending Daily - 2026-05-09
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **468500** ⭐ | **44855** 🍴
+**10** 个项目 | **428169** ⭐ | **42199** 🍴
 
-**热门语言:** `Rust` (4) · `TypeScript` (3) · `Go` (2)
+**热门语言:** `TypeScript` (5) · `Rust` (4) · `JavaScript` (1)
 
-**更新时间:** 2026-05-08 03:40 UTC
+**更新时间:** 2026-05-09 03:40 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
 
 > 🤖 **推荐理由**  
-> *DeepSeek-TUI is a terminal-based coding agent designed for DeepSeek V4, featuring a robust interface for file editing, shell command execution, and git management. Key features include an auto mode for dynamic model selection, thinking-mode streaming for real-time reasoning, and a comprehensive tool suite that supports session management and workspace rollback. It offers a 1M-token context window, user memory, LSP diagnostics, and multi-language localization. Built with Rust, DeepSeek-TUI enables efficient coding workflows directly from the terminal.*
+> *DeepSeek-TUI is a terminal-based coding agent designed for DeepSeek V4 models, boasting over 22,000 stars on GitHub. Key features include an auto mode for dynamic model selection, real-time reasoning block streaming, file and shell command management, and Git integration. Users can engage in three operational modes—Plan, Agent, and YOLO—allowing for varying levels of interaction and approval. It supports a 1M-token context, session saving, workspace rollback, and offers an HTTP/SSE API for headless operations. With built-in localization and a durable task queue, DeepSeek-TUI enhances coding workflows efficiently.*
 
-- ⭐ 19465 stars
+- ⭐ 22103 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-08
+- 📅 Updated: 2026-05-09
 
-![DeepSeek-TUI](2026/05-08/2026-05-08_daily-top_DeepSeek-TUI.png)
+![DeepSeek-TUI](2026/05-09/2026-05-09_daily-top_DeepSeek-TUI.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop assistant for managing multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 62,000 stars on GitHub, it offers seamless provider management through a unified interface, eliminating manual configuration edits. Core features include 50+ built-in provider presets, a unified management panel for MCP and Skills, instant provider switching via system tray, and cloud sync capabilities. Built with Rust and Tauri, CC Switch ensures reliable performance across Windows, macOS, and Linux platforms.*
+> *CC Switch is a cross-platform desktop tool built with Rust that seamlessly integrates Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw into a single interface. With over 50 provider presets, users can easily manage API configurations without manual edits. Key features include unified MCP and Skills management, instant provider switching from a system tray, cloud sync capabilities, and built-in utilities for enhanced usability. Its reliable SQLite database ensures data integrity, making it an essential assistant for modern AI-powered coding workflows.*
 
-- ⭐ 62686 stars
+- ⭐ 63887 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-08
+- 📅 Updated: 2026-05-09
 
-![cc-switch](2026/05-08/2026-05-08_daily-top_cc-switch.png)
+![cc-switch](2026/05-09/2026-05-09_daily-top_cc-switch.png)
 
-### 3. [rtk](https://github.com/rtk-ai/rtk)
+### 3. [9router](https://github.com/decolua/9router)
 
 > 🤖 **推荐理由**  
-> *RTK (Rust Token Killer) is a high-performance CLI proxy that significantly reduces LLM token consumption by 60-90% for common development commands. Built as a single Rust binary with zero dependencies, it supports over 100 commands and incurs less than 10ms overhead. Key features include smart filtering, automatic command rewriting, and comprehensive analytics for token savings. It integrates seamlessly with AI tools like Claude Code and GitHub Copilot, providing optimized command outputs for improved efficiency in development workflows. With 44,132 stars, RTK is an essential tool for developers looking to minimize token usage.*
+> *9Router is a free AI coding router that connects various coding tools (e.g., Claude Code, Codex, Copilot) to over 40 AI providers, maximizing efficiency and reducing costs. Key features include RTK Token Saver for 20-40% token savings, automatic fallback from subscriptions to cheaper or free models, real-time quota tracking, and multi-account support for load balancing. With seamless integration for CLI tools and flexible deployment options, 9Router ensures uninterrupted coding without the hassle of hitting usage limits or high costs.*
 
-- ⭐ 44132 stars
+- ⭐ 5740 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-05-09
+
+![9router](2026/05-09/2026-05-09_daily-top_9router.png)
+
+### 4. [rtk](https://github.com/rtk-ai/rtk)
+
+> 🤖 **推荐理由**  
+> *RTK is a high-performance CLI proxy built in Rust that significantly reduces LLM token consumption by 60-90% for over 100 common development commands. With zero dependencies and minimal overhead (<10ms), it filters and compresses output before reaching your LLM, enhancing efficiency. Key features include smart filtering, command grouping, and deduplication, along with support for various AI tools like Claude Code and GitHub Copilot. RTK offers a seamless installation process, analytics for token savings, and a user-friendly interface for developers seeking optimized command outputs.*
+
+- ⭐ 44854 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-08
+- 📅 Updated: 2026-05-09
 
-![rtk](2026/05-08/2026-05-08_daily-top_rtk.png)
+![rtk](2026/05-09/2026-05-09_daily-top_rtk.png)
 
-### 4. [InsForge](https://github.com/InsForge/InsForge)
+### 5. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 
 > 🤖 **推荐理由**  
-> *InsForge is a powerful backend platform designed for AI-native developers, leveraging a Postgres database to provide essential services such as authentication, storage, compute, and deployment. It features a semantic layer that allows AI coding agents to interact seamlessly with backend primitives, enabling them to fetch context, configure services, and inspect system states effortlessly. Key offerings include an OpenAI-compatible model gateway, serverless edge functions, and comprehensive documentation. With over 8,900 stars, InsForge fosters a vibrant community dedicated to enhancing AI coding workflows.*
+> *UI-TARS-desktop is an open-source multimodal AI agent stack that provides a native GUI agent for local and remote operations. It integrates advanced AI models to enable natural language control, real-time feedback, and visual recognition across platforms (Windows, MacOS, and browsers). Key features include precise mouse and keyboard control, one-click CLI execution, and seamless integration with real-world tools via MCP. The project includes both local and remote operators, enhancing user experience in automating tasks efficiently. With over 30,000 stars, it stands out as a powerful solution in AI-driven automation.*
 
-- ⭐ 8918 stars
+- ⭐ 30935 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-08
+- 📅 Updated: 2026-05-09
 
-![InsForge](2026/05-08/2026-05-08_daily-top_InsForge.png)
+![UI-TARS-desktop](2026/05-09/2026-05-09_daily-top_UI-TARS-desktop.png)
 
-### 5. [sub2api](https://github.com/Wei-Shaw/sub2api)
-
-> 🤖 **推荐理由**  
-> *Sub2API is an open-source AI API gateway platform for managing and distributing subscription quotas from services like Claude, OpenAI, and Gemini. Key features include multi-account management, API key generation, precise billing with token-level tracking, smart scheduling, concurrency control, and built-in payment integration (EasyPay, Alipay, WeChat Pay, Stripe). An intuitive admin dashboard allows for effective monitoring and management. With strong community support and a rich tech stack (Go, Vue, PostgreSQL, Redis), Sub2API streamlines API access and cost-sharing for users.*
-
-- ⭐ 18704 stars
-- 💻 Go
-- 📅 Updated: 2026-05-08
-
-![sub2api](2026/05-08/2026-05-08_daily-top_sub2api.png)
-
-### 6. [goose](https://github.com/aaif-goose/goose)
+### 6. [pi](https://github.com/earendil-works/pi)
 
 > 🤖 **推荐理由**  
-> *goose is an open-source AI agent designed for versatile tasks beyond code suggestions, including research, automation, and data analysis. It features a native desktop app for macOS, Linux, and Windows, a full CLI for terminal workflows, and an API for integration. Built in Rust, goose supports 15+ providers like OpenAI and Google, and connects to 70+ extensions via the Model Context Protocol. Now part of the Agentic AI Foundation at the Linux Foundation, goose offers a robust platform for developers and researchers alike.*
+> *The "pi" project is an AI agent toolkit featuring an interactive coding agent CLI, a unified multi-provider LLM API, and both terminal and web UI libraries. Key components include the coding agent CLI, agent runtime for tool management, and various UI components for AI chat interfaces. With a strong emphasis on community-driven improvements, users can share OSS coding sessions to enhance agent performance. The project supports integrations like Slack for automated workflows. Explore more at [pi.dev](https://pi.dev).*
 
-- ⭐ 44561 stars
+- ⭐ 46676 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-09
+
+![pi](2026/05-09/2026-05-09_daily-top_pi.png)
+
+### 7. [opencode](https://github.com/anomalyco/opencode)
+
+> 🤖 **推荐理由**  
+> *OpenCode is an open-source AI coding agent built with TypeScript, designed to enhance coding productivity. It features two main agents: the full-access "build" agent for development and a read-only "plan" agent for code exploration. The project supports multiple programming models, offering flexibility and provider-agnostic capabilities. Additionally, OpenCode provides a desktop application across various platforms and a terminal user interface, catering to developers' needs. With robust documentation and an active community, OpenCode is set to innovate coding workflows.*
+
+- ⭐ 157148 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-09
+
+![opencode](2026/05-09/2026-05-09_daily-top_opencode.png)
+
+### 8. [agentmemory](https://github.com/rohitg00/agentmemory)
+
+> 🤖 **推荐理由**  
+> *agentmemory is a TypeScript-based memory engine designed for AI coding agents, enabling persistent memory across sessions without re-explaining. It integrates seamlessly with various clients, including Claude Code and Cursor, capturing tool usage automatically for efficient retrieval. Key features include a high retrieval accuracy (95.2% R@5), reduced token usage (92% fewer tokens), and a real-time viewer for memory tracking. With a comprehensive MCP toolkit offering 51 tools and hybrid search capabilities, agentmemory streamlines coding workflows and enhances collaboration.*
+
+- ⭐ 2924 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-09
+
+![agentmemory](2026/05-09/2026-05-09_daily-top_agentmemory.png)
+
+### 9. [goose](https://github.com/aaif-goose/goose)
+
+> 🤖 **推荐理由**  
+> *Goose is an open-source, extensible AI agent designed for diverse applications beyond code suggestions, including research, writing, and automation. Built in Rust for performance, it offers a native desktop app for macOS, Linux, and Windows, a CLI for terminal workflows, and an API for integration. Goose supports 15+ providers like OpenAI and Anthropic, and connects to over 70 extensions via the Model Context Protocol. Now under the Agentic AI Foundation at the Linux Foundation, Goose is a versatile tool for enhancing workflows and productivity.*
+
+- ⭐ 44769 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-08
+- 📅 Updated: 2026-05-09
 
-![goose](2026/05-08/2026-05-08_daily-top_goose.png)
+![goose](2026/05-09/2026-05-09_daily-top_goose.png)
 
-### 7. [new-api](https://github.com/QuantumNous/new-api)
-
-> 🤖 **推荐理由**  
-> *New API is a powerful unified AI model hub designed for aggregation and distribution, enabling seamless cross-conversion of various large language models (LLMs) into OpenAI, Claude, and Gemini-compatible formats. Key features include a modern user interface, multi-language support, comprehensive data compatibility, advanced permission management, and flexible billing options. It also provides intelligent routing, format conversion capabilities, and robust authorization mechanisms. With over 31,000 stars on GitHub, it serves as a centralized gateway for personal and enterprise model management.*
-
-- ⭐ 31510 stars
-- 💻 Go
-- 📅 Updated: 2026-05-08
-
-![new-api](2026/05-08/2026-05-08_daily-top_new-api.png)
-
-### 8. [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+### 10. [InsForge](https://github.com/InsForge/InsForge)
 
 > 🤖 **推荐理由**  
-> *Learn Claude Code is an educational repository focused on harness engineering for AI agents, built using TypeScript. It emphasizes the importance of both the model and harness in creating effective agents. Key features include a progressive learning path through 12 sessions covering agent loops, tool integration, task management, and team coordination. The project teaches developers how to build environments that enable AI models to perceive, reason, and act effectively across various domains. Resources include interactive web visualizations and multilingual documentation.*
+> *InsForge is an all-in-one, open-source backend platform designed for agentic coding, enabling developers to build full-stack applications seamlessly. Key features include user authentication, a PostgreSQL database, S3-compatible storage, a model gateway for multiple LLM providers, and serverless edge functions. InsForge supports two interfaces: a self-hosted MCP Server and a cloud-based CLI with Skills. With over 9,133 stars, it offers easy deployment options via Docker, Railway, and more. Join the community for support and collaboration.*
 
-- ⭐ 58896 stars
+- ⭐ 9133 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-08
+- 📅 Updated: 2026-05-09
 
-![learn-claude-code](2026/05-08/2026-05-08_daily-top_learn-claude-code.png)
-
-### 9. [ladybird](https://github.com/LadybirdBrowser/ladybird)
-
-> 🤖 **推荐理由**  
-> *Ladybird is an independent web browser built on a novel engine adhering to web standards, currently in pre-alpha and intended for developers. It features a multi-process architecture for enhanced security, with separate renderer processes for each tab and out-of-process image decoding and network connections. Core components are derived from SerenityOS, including rendering, JavaScript, WebAssembly, and cryptography libraries. Ladybird supports Linux, macOS, Windows (WSL2), and other Unix-like systems. Join the development community via Discord for collaboration and contributions.*
-
-- ⭐ 63194 stars
-- 💻 C++
-- 📅 Updated: 2026-05-08
-
-![ladybird](2026/05-08/2026-05-08_daily-top_ladybird.png)
-
-### 10. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-
-> 🤖 **推荐理由**  
-> *Clash Verge Rev is a modern GUI client based on Tauri, designed for Windows, macOS, and Linux, offering a tailored proxy experience. Key features include a sleek user interface with customizable themes, built-in Clash.Meta kernel support, advanced configuration management, and visual node editing. It supports TUN mode and system proxy settings, along with WebDav for backup and sync. The project is actively developed, has garnered over 116,000 stars, and emphasizes user engagement with features like real-time support and community contributions.*
-
-- ⭐ 116434 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-05-08
-
-![clash-verge-rev](2026/05-08/2026-05-08_daily-top_clash-verge-rev.png)
+![InsForge](2026/05-09/2026-05-09_daily-top_InsForge.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-08 03:40:01 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-09 03:40:04 UTC
