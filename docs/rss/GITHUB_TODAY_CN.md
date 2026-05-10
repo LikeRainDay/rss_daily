@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-05-09
+# 📊 🌟 GitHub Trending Daily - 2026-05-10
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **428169** ⭐ | **42199** 🍴
+**10** 个项目 | **277764** ⭐ | **27480** 🍴
 
-**热门语言:** `TypeScript` (5) · `Rust` (4) · `JavaScript` (1)
+**热门语言:** `TypeScript` (4) · `Rust` (3) · `Kotlin` (1)
 
-**更新时间:** 2026-05-09 03:40 UTC
+**更新时间:** 2026-05-10 03:56 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
 
 > 🤖 **推荐理由**  
-> *DeepSeek-TUI is a terminal-based coding agent designed for DeepSeek V4 models, boasting over 22,000 stars on GitHub. Key features include an auto mode for dynamic model selection, real-time reasoning block streaming, file and shell command management, and Git integration. Users can engage in three operational modes—Plan, Agent, and YOLO—allowing for varying levels of interaction and approval. It supports a 1M-token context, session saving, workspace rollback, and offers an HTTP/SSE API for headless operations. With built-in localization and a durable task queue, DeepSeek-TUI enhances coding workflows efficiently.*
+> *DeepSeek-TUI is a terminal-based coding agent for DeepSeek models, designed to streamline coding tasks. Key features include an auto mode for dynamic model selection, three operational modes (Plan, Agent, YOLO), and a comprehensive tool suite for file operations, shell commands, and git management. It supports 1M-token context windows, live reasoning streaming, session management, and user memory. The project is built in Rust, offering easy installation via npm, Cargo, or Docker, and is localized in multiple languages. With 23,404 stars, it emphasizes efficient coding workflows and enhanced user experience.*
 
-- ⭐ 22103 stars
+- ⭐ 23404 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-09
+- 📅 Updated: 2026-05-10
 
-![DeepSeek-TUI](2026/05-09/2026-05-09_daily-top_DeepSeek-TUI.png)
+![DeepSeek-TUI](2026/05-10/2026-05-10_daily-top_DeepSeek-TUI.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop tool built with Rust that seamlessly integrates Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw into a single interface. With over 50 provider presets, users can easily manage API configurations without manual edits. Key features include unified MCP and Skills management, instant provider switching from a system tray, cloud sync capabilities, and built-in utilities for enhanced usability. Its reliable SQLite database ensures data integrity, making it an essential assistant for modern AI-powered coding workflows.*
+> *CC Switch is a cross-platform desktop assistant tool designed to manage multiple CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 65,000 stars on GitHub, it offers a unified interface for configuration management, enabling one-click provider switching and MCP management. Key features include 50+ built-in presets, cloud sync, session management, and a system tray quick switch for seamless operation. Built with Rust and Tauri, it supports Windows, macOS, and Linux, enhancing productivity in AI-powered coding environments.*
 
-- ⭐ 63887 stars
+- ⭐ 65137 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-09
+- 📅 Updated: 2026-05-10
 
-![cc-switch](2026/05-09/2026-05-09_daily-top_cc-switch.png)
+![cc-switch](2026/05-10/2026-05-10_daily-top_cc-switch.png)
 
-### 3. [9router](https://github.com/decolua/9router)
+### 3. [fanqiang](https://github.com/bannedbook/fanqiang)
 
 > 🤖 **推荐理由**  
-> *9Router is a free AI coding router that connects various coding tools (e.g., Claude Code, Codex, Copilot) to over 40 AI providers, maximizing efficiency and reducing costs. Key features include RTK Token Saver for 20-40% token savings, automatic fallback from subscriptions to cheaper or free models, real-time quota tracking, and multi-account support for load balancing. With seamless integration for CLI tools and flexible deployment options, 9Router ensures uninterrupted coding without the hassle of hitting usage limits or high costs.*
+> *The "fanqiang" project, with over 45,000 stars, provides comprehensive tools and tutorials for circumventing internet censorship. Developed in Kotlin, it offers resources for various platforms, including Android, iOS, Windows, macOS, and routers. Key features include one-click proxy packages for Chrome, Firefox, and Edge, along with guides for setting up V2Ray and Shadowsocks servers. The project also includes free account access for these services and specialized tutorials for gaming consoles. It aims to help users achieve unrestricted internet access.*
 
-- ⭐ 5740 stars
+- ⭐ 45045 stars
+- 💻 Kotlin
+- 📅 Updated: 2026-05-10
+
+![fanqiang](2026/05-10/2026-05-10_daily-top_fanqiang.png)
+
+### 4. [9router](https://github.com/decolua/9router)
+
+> 🤖 **推荐理由**  
+> *9Router is a powerful tool enabling unlimited free AI coding by connecting various AI coding tools (like Claude Code, Codex, Copilot) to over 40 providers. Key features include RTK Token Saver, which reduces token usage by 20-40%, and a smart 3-tier fallback system that ensures seamless transitions between subscription, cheap, and free models, preventing downtime and maximizing resource use. With multi-account support and real-time quota tracking, users can optimize their coding experience while minimizing costs. Ideal for developers seeking efficiency and flexibility in AI-assisted coding.*
+
+- ⭐ 6624 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-05-09
+- 📅 Updated: 2026-05-10
 
-![9router](2026/05-09/2026-05-09_daily-top_9router.png)
+![9router](2026/05-10/2026-05-10_daily-top_9router.png)
 
-### 4. [rtk](https://github.com/rtk-ai/rtk)
+### 5. [react-doctor](https://github.com/millionco/react-doctor)
 
 > 🤖 **推荐理由**  
-> *RTK is a high-performance CLI proxy built in Rust that significantly reduces LLM token consumption by 60-90% for over 100 common development commands. With zero dependencies and minimal overhead (<10ms), it filters and compresses output before reaching your LLM, enhancing efficiency. Key features include smart filtering, command grouping, and deduplication, along with support for various AI tools like Claude Code and GitHub Copilot. RTK offers a seamless installation process, analytics for token savings, and a user-friendly interface for developers seeking optimized command outputs.*
+> *React Doctor is a TypeScript-based tool designed to analyze and improve React code quality. With over 7,300 stars, it provides a health score (0-100) for your codebase, identifying issues related to state management, performance, security, and accessibility. It supports frameworks like Next.js, Vite, and React Native. Key features include CLI diagnostics, integration with GitHub Actions for automated feedback, and customizable configurations. Additionally, it can teach coding agents best practices to prevent bad code from being written. Contribute and explore more at [react.doctor](https://react.doctor).*
 
-- ⭐ 44854 stars
+- ⭐ 7338 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-10
+
+![react-doctor](2026/05-10/2026-05-10_daily-top_react-doctor.png)
+
+### 6. [MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
+
+> 🤖 **推荐理由**  
+> *MasterDnsVPN is an advanced DNS tunneling VPN designed for censorship evasion, outperforming similar projects like DNSTT and SlipStream. Key features include low-overhead ARQ, resolver load balancing, high-speed data delivery, and exceptional stability under packet loss. Its lightweight architecture supports multipath traffic, automatic resolver health checks, and encrypted data transmission. Additionally, it allows seamless integration with SOCKS5 and Shadowsocks, ensuring versatility for various applications. This project is particularly effective in harsh network conditions and during total internet blackouts.*
+
+- ⭐ 2597 stars
+- 💻 Go
+- 📅 Updated: 2026-05-10
+
+![MasterDnsVPN](2026/05-10/2026-05-10_daily-top_MasterDnsVPN.png)
+
+### 7. [rtk](https://github.com/rtk-ai/rtk)
+
+> 🤖 **推荐理由**  
+> *RTK (Rust Token Killer) is a high-performance CLI proxy that significantly reduces LLM token consumption by 60-90% across over 100 common developer commands. Built as a single Rust binary with zero dependencies, RTK filters and compresses command outputs, ensuring minimal overhead (<10ms). Key features include smart filtering of noise, grouping similar outputs, and deduplication of logs. It seamlessly integrates with AI tools like Claude Code and GitHub Copilot, making it ideal for efficient development workflows. Installation is straightforward via Homebrew, Curl, or Cargo.*
+
+- ⭐ 45315 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-09
+- 📅 Updated: 2026-05-10
 
-![rtk](2026/05-09/2026-05-09_daily-top_rtk.png)
+![rtk](2026/05-10/2026-05-10_daily-top_rtk.png)
 
-### 5. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+### 8. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 
 > 🤖 **推荐理由**  
-> *UI-TARS-desktop is an open-source multimodal AI agent stack that provides a native GUI agent for local and remote operations. It integrates advanced AI models to enable natural language control, real-time feedback, and visual recognition across platforms (Windows, MacOS, and browsers). Key features include precise mouse and keyboard control, one-click CLI execution, and seamless integration with real-world tools via MCP. The project includes both local and remote operators, enhancing user experience in automating tasks efficiently. With over 30,000 stars, it stands out as a powerful solution in AI-driven automation.*
+> *UI-TARS-desktop is an open-source multimodal AI agent stack designed for seamless human-like task completion. It features a native GUI agent powered by advanced Vision-Language models, enabling natural language control, visual recognition, and precise input handling across platforms (Windows, MacOS, Browser). Key highlights include one-click CLI access, hybrid browser control, real-time feedback, and secure local processing. It supports both local and remote operations, making it versatile for diverse user needs. With over 31,000 stars on GitHub, it is a robust tool for automation and integration with real-world applications.*
 
-- ⭐ 30935 stars
+- ⭐ 31507 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-09
+- 📅 Updated: 2026-05-10
 
-![UI-TARS-desktop](2026/05-09/2026-05-09_daily-top_UI-TARS-desktop.png)
+![UI-TARS-desktop](2026/05-10/2026-05-10_daily-top_UI-TARS-desktop.png)
 
-### 6. [pi](https://github.com/earendil-works/pi)
+### 9. [agentmemory](https://github.com/rohitg00/agentmemory)
 
 > 🤖 **推荐理由**  
-> *The "pi" project is an AI agent toolkit featuring an interactive coding agent CLI, a unified multi-provider LLM API, and both terminal and web UI libraries. Key components include the coding agent CLI, agent runtime for tool management, and various UI components for AI chat interfaces. With a strong emphasis on community-driven improvements, users can share OSS coding sessions to enhance agent performance. The project supports integrations like Slack for automated workflows. Explore more at [pi.dev](https://pi.dev).*
+> *agentmemory is a powerful TypeScript-based solution providing persistent memory for AI coding agents, enabling them to remember context between sessions. With features like automatic observation capture, semantic search, and a real-time viewer, it eliminates repetitive explanations and enhances productivity. Compatible with various agents (Claude Code, Cursor, Codex CLI, etc.), it offers advanced capabilities like knowledge graph extraction, auto-forgetting, and a comprehensive MCP toolkit. With 95.2% retrieval accuracy and 92% fewer tokens used, agentmemory sets a new standard for AI coding memory systems.*
 
-- ⭐ 46676 stars
+- ⭐ 3542 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-09
+- 📅 Updated: 2026-05-10
 
-![pi](2026/05-09/2026-05-09_daily-top_pi.png)
+![agentmemory](2026/05-10/2026-05-10_daily-top_agentmemory.png)
 
-### 7. [opencode](https://github.com/anomalyco/opencode)
+### 10. [pi](https://github.com/earendil-works/pi)
 
 > 🤖 **推荐理由**  
-> *OpenCode is an open-source AI coding agent built with TypeScript, designed to enhance coding productivity. It features two main agents: the full-access "build" agent for development and a read-only "plan" agent for code exploration. The project supports multiple programming models, offering flexibility and provider-agnostic capabilities. Additionally, OpenCode provides a desktop application across various platforms and a terminal user interface, catering to developers' needs. With robust documentation and an active community, OpenCode is set to innovate coding workflows.*
+> *Pi is an AI agent toolkit that features a coding agent CLI, a unified LLM API for multiple providers (OpenAI, Anthropic, Google), and libraries for terminal and web UIs. Key components include the interactive coding agent CLI, agent runtime for tool management, and Slack automation capabilities. The project encourages sharing OSS coding sessions to enhance real-world application of coding agents. With 47,255 stars on GitHub, Pi is designed for extensibility and ease of use, making it a valuable resource for developers working with AI.*
 
-- ⭐ 157148 stars
+- ⭐ 47255 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-09
+- 📅 Updated: 2026-05-10
 
-![opencode](2026/05-09/2026-05-09_daily-top_opencode.png)
-
-### 8. [agentmemory](https://github.com/rohitg00/agentmemory)
-
-> 🤖 **推荐理由**  
-> *agentmemory is a TypeScript-based memory engine designed for AI coding agents, enabling persistent memory across sessions without re-explaining. It integrates seamlessly with various clients, including Claude Code and Cursor, capturing tool usage automatically for efficient retrieval. Key features include a high retrieval accuracy (95.2% R@5), reduced token usage (92% fewer tokens), and a real-time viewer for memory tracking. With a comprehensive MCP toolkit offering 51 tools and hybrid search capabilities, agentmemory streamlines coding workflows and enhances collaboration.*
-
-- ⭐ 2924 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-05-09
-
-![agentmemory](2026/05-09/2026-05-09_daily-top_agentmemory.png)
-
-### 9. [goose](https://github.com/aaif-goose/goose)
-
-> 🤖 **推荐理由**  
-> *Goose is an open-source, extensible AI agent designed for diverse applications beyond code suggestions, including research, writing, and automation. Built in Rust for performance, it offers a native desktop app for macOS, Linux, and Windows, a CLI for terminal workflows, and an API for integration. Goose supports 15+ providers like OpenAI and Anthropic, and connects to over 70 extensions via the Model Context Protocol. Now under the Agentic AI Foundation at the Linux Foundation, Goose is a versatile tool for enhancing workflows and productivity.*
-
-- ⭐ 44769 stars
-- 💻 Rust
-- 📅 Updated: 2026-05-09
-
-![goose](2026/05-09/2026-05-09_daily-top_goose.png)
-
-### 10. [InsForge](https://github.com/InsForge/InsForge)
-
-> 🤖 **推荐理由**  
-> *InsForge is an all-in-one, open-source backend platform designed for agentic coding, enabling developers to build full-stack applications seamlessly. Key features include user authentication, a PostgreSQL database, S3-compatible storage, a model gateway for multiple LLM providers, and serverless edge functions. InsForge supports two interfaces: a self-hosted MCP Server and a cloud-based CLI with Skills. With over 9,133 stars, it offers easy deployment options via Docker, Railway, and more. Join the community for support and collaboration.*
-
-- ⭐ 9133 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-05-09
-
-![InsForge](2026/05-09/2026-05-09_daily-top_InsForge.png)
+![pi](2026/05-10/2026-05-10_daily-top_pi.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-09 03:40:04 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-10 03:56:02 UTC

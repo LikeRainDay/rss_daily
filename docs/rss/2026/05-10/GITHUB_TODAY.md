@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-10
 
-![DeepSeek-TUI](2026/05-10/2026-05-10_daily-top_DeepSeek-TUI.png)
+![DeepSeek-TUI](2026-05-10_daily-top_DeepSeek-TUI.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-10
 
-![cc-switch](2026/05-10/2026-05-10_daily-top_cc-switch.png)
+![cc-switch](2026-05-10_daily-top_cc-switch.png)
 
 ### 3. [fanqiang](https://github.com/bannedbook/fanqiang)
 
@@ -49,7 +49,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-05-10
 
-![fanqiang](2026/05-10/2026-05-10_daily-top_fanqiang.png)
+![fanqiang](2026-05-10_daily-top_fanqiang.png)
 
 ### 4. [9router](https://github.com/decolua/9router)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-10
 
-![9router](2026/05-10/2026-05-10_daily-top_9router.png)
+![9router](2026-05-10_daily-top_9router.png)
 
 ### 5. [react-doctor](https://github.com/millionco/react-doctor)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-10
 
-![react-doctor](2026/05-10/2026-05-10_daily-top_react-doctor.png)
+![react-doctor](2026-05-10_daily-top_react-doctor.png)
 
 ### 6. [MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
 
@@ -82,7 +82,7 @@
 - 💻 Go
 - 📅 Updated: 2026-05-10
 
-![MasterDnsVPN](2026/05-10/2026-05-10_daily-top_MasterDnsVPN.png)
+![MasterDnsVPN](2026-05-10_daily-top_MasterDnsVPN.png)
 
 ### 7. [rtk](https://github.com/rtk-ai/rtk)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-10
 
-![rtk](2026/05-10/2026-05-10_daily-top_rtk.png)
+![rtk](2026-05-10_daily-top_rtk.png)
 
 ### 8. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-10
 
-![UI-TARS-desktop](2026/05-10/2026-05-10_daily-top_UI-TARS-desktop.png)
+![UI-TARS-desktop](2026-05-10_daily-top_UI-TARS-desktop.png)
 
 ### 9. [agentmemory](https://github.com/rohitg00/agentmemory)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-10
 
-![agentmemory](2026/05-10/2026-05-10_daily-top_agentmemory.png)
+![agentmemory](2026-05-10_daily-top_agentmemory.png)
 
 ### 10. [pi](https://github.com/earendil-works/pi)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-10
 
-![pi](2026/05-10/2026-05-10_daily-top_pi.png)
+![pi](2026-05-10_daily-top_pi.png)
 
 ---
 
