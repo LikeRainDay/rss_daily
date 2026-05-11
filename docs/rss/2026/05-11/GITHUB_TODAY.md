@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-11
 
-![everything-claude-code](2026/05-11/2026-05-11_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-05-11_daily-top_everything-claude-code.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-11
 
-![cc-switch](2026/05-11/2026-05-11_daily-top_cc-switch.png)
+![cc-switch](2026-05-11_daily-top_cc-switch.png)
 
 ### 3. [9router](https://github.com/decolua/9router)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-11
 
-![9router](2026/05-11/2026-05-11_daily-top_9router.png)
+![9router](2026-05-11_daily-top_9router.png)
 
 ### 4. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-11
 
-![UI-TARS-desktop](2026/05-11/2026-05-11_daily-top_UI-TARS-desktop.png)
+![UI-TARS-desktop](2026-05-11_daily-top_UI-TARS-desktop.png)
 
 ### 5. [agentmemory](https://github.com/rohitg00/agentmemory)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-11
 
-![agentmemory](2026/05-11/2026-05-11_daily-top_agentmemory.png)
+![agentmemory](2026-05-11_daily-top_agentmemory.png)
 
 ### 6. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-11
 
-![easy-vibe](2026/05-11/2026-05-11_daily-top_easy-vibe.png)
+![easy-vibe](2026-05-11_daily-top_easy-vibe.png)
 
 ### 7. [supersplat](https://github.com/playcanvas/supersplat)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-11
 
-![supersplat](2026/05-11/2026-05-11_daily-top_supersplat.png)
+![supersplat](2026-05-11_daily-top_supersplat.png)
 
 ### 8. [AiToEarn](https://github.com/yikart/AiToEarn)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-11
 
-![AiToEarn](2026/05-11/2026-05-11_daily-top_AiToEarn.png)
+![AiToEarn](2026-05-11_daily-top_AiToEarn.png)
 
 ### 9. [rowboat](https://github.com/rowboatlabs/rowboat)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-11
 
-![rowboat](2026/05-11/2026-05-11_daily-top_rowboat.png)
+![rowboat](2026-05-11_daily-top_rowboat.png)
 
 ### 10. [fanqiang](https://github.com/bannedbook/fanqiang)
 
@@ -126,7 +126,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-05-11
 
-![fanqiang](2026/05-11/2026-05-11_daily-top_fanqiang.png)
+![fanqiang](2026-05-11_daily-top_fanqiang.png)
 
 ---
 
