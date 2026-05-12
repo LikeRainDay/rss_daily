@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-05-11
+# 📊 🌟 GitHub Trending Daily - 2026-05-12
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **374136** ⭐ | **49544** 🍴
+**10** 个项目 | **302131** ⭐ | **34464** 🍴
 
-**热门语言:** `TypeScript` (5) · `JavaScript` (3) · `Rust` (1)
+**热门语言:** `TypeScript` (7) · `JavaScript` (2) · `Rust` (1)
 
-**更新时间:** 2026-05-11 04:07 UTC
+**更新时间:** 2026-05-12 03:51 UTC
 
 **分类分布:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+### 1. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *Everything Claude Code (ECC) is a comprehensive performance optimization system for AI agents, designed for Claude Code, Codex, Cursor, OpenCode, and more. With over 178,000 stars, it features skills, instincts, memory optimization, continuous learning, and security scanning. ECC offers 48 agents, 182 skills, and tools for production-ready development, enabling seamless integration across various ecosystems. Key highlights include a customizable dashboard, sophisticated installation options, and advanced security auditing via AgentShield. Ideal for developers seeking optimized workflows and enhanced AI capabilities.*
+> *CC Switch is a cross-platform desktop application designed to streamline the management of multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 67,000 stars on GitHub, it offers a unified interface for easy provider switching without manual config edits, featuring 50+ built-in provider presets, centralized MCP and Skills management, and cloud sync options. Key functionalities include session management, cost tracking, and a local proxy for enhanced performance. The app is built with Rust and Tauri, ensuring compatibility across Windows, macOS, and Linux.*
 
-- ⭐ 178492 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-05-11
-
-![everything-claude-code](2026/05-11/2026-05-11_daily-top_everything-claude-code.png)
-
-### 2. [cc-switch](https://github.com/farion1231/cc-switch)
-
-> 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop tool designed for managing multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 66,000 stars on GitHub, it offers a unified interface to switch providers effortlessly, eliminating manual config edits. Key features include 50+ built-in provider presets, unified MCP and Skills management, cloud sync capabilities, and session history tracking. Built with Rust and Tauri, CC Switch supports Windows, macOS, and Linux, ensuring seamless integration and user-friendly operation across devices.*
-
-- ⭐ 66287 stars
+- ⭐ 67562 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-11
+- 📅 Updated: 2026-05-12
 
-![cc-switch](2026/05-11/2026-05-11_daily-top_cc-switch.png)
+![cc-switch](2026/05-12/2026-05-12_daily-top_cc-switch.png)
+
+### 2. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+
+> 🤖 **推荐理由**  
+> *UI-TARS-desktop is an open-source multimodal AI agent stack designed to enhance human-like task completion through advanced AI models. With over 33,000 stars on GitHub, it features a native GUI agent that supports local and remote operations, allowing users to control their computers and browsers intuitively. Key features include natural language processing, visual recognition, precise control of mouse and keyboard, and cross-platform compatibility. The project integrates seamlessly with various real-world tools, enhancing productivity and automation in a user-friendly environment.*
+
+- ⭐ 33134 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-12
+
+![UI-TARS-desktop](2026/05-12/2026-05-12_daily-top_UI-TARS-desktop.png)
 
 ### 3. [9router](https://github.com/decolua/9router)
 
 > 🤖 **推荐理由**  
-> *9Router is an open-source AI coding router that connects various tools like Claude Code, Codex, and Copilot to over 40 AI providers, offering unlimited free AI coding. Key features include an RTK Token Saver that reduces token usage by 20-40%, smart 3-tier fallback to avoid downtime, real-time quota tracking, and support for multiple accounts. Users can easily integrate with popular CLI tools and manage costs effectively by leveraging both free and paid models. With 7,473 stars on GitHub, it’s designed for developers looking to optimize their coding experience.*
+> *9Router is an innovative AI coding router that connects various tools like Claude Code, Codex, Copilot, and Cursor to over 40 AI providers, enabling unlimited free AI coding. Key features include the RTK Token Saver, which reduces token usage by 20-40%, and a smart 3-tier fallback system that ensures continuous coding by automatically switching between subscription, cheap, and free models. With real-time quota tracking, multi-account support, and seamless integration with popular CLI tools, 9Router maximizes coding efficiency while minimizing costs.*
 
-- ⭐ 7473 stars
+- ⭐ 8498 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-05-11
+- 📅 Updated: 2026-05-12
 
-![9router](2026/05-11/2026-05-11_daily-top_9router.png)
+![9router](2026/05-12/2026-05-12_daily-top_9router.png)
 
-### 4. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+### 4. [gstack](https://github.com/garrytan/gstack)
 
 > 🤖 **推荐理由**  
-> *UI-TARS-desktop is an open-source multimodal AI agent stack designed to enhance user interaction through advanced AI capabilities. It features a native GUI agent that operates on local computers, supporting natural language control, screenshot and visual recognition, and precise input control across platforms (Windows/MacOS/Browser). Key highlights include one-click CLI support, hybrid browser integration, and real-time feedback. The project also offers remote operation capabilities, enabling users to control distant devices effortlessly. With over 32,000 stars on GitHub, it's a powerful tool for seamless automation and task management.*
+> *gstack is an open-source toolkit designed to enhance productivity for builders, combining 23 specialized AI-driven roles like CEO, Designer, and QA. It streamlines software development with commands for planning, reviewing, testing, and shipping code, fostering a structured workflow that mimics a full team. Key features include real-time bug fixing, automated documentation updates, and multi-agent coordination. With a focus on efficiency, gstack empowers technical founders and engineers to ship high-quality products rapidly, leveraging AI to amplify their capabilities.*
 
-- ⭐ 32335 stars
+- ⭐ 94005 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-11
+- 📅 Updated: 2026-05-12
 
-![UI-TARS-desktop](2026/05-11/2026-05-11_daily-top_UI-TARS-desktop.png)
+![gstack](2026/05-12/2026-05-12_daily-top_gstack.png)
 
-### 5. [agentmemory](https://github.com/rohitg00/agentmemory)
-
-> 🤖 **推荐理由**  
-> *agentmemory is a cutting-edge persistent memory solution for AI coding agents, built on the iii engine, enabling seamless memory retention across multiple sessions and agents. With a remarkable 95.2% retrieval accuracy, it offers automatic capture of interactions, semantic search capabilities, and a real-time viewer for monitoring memory evolution. Supporting various agents like Claude Code and Cursor, agentmemory eliminates repetitive explanations, ensuring agents remember context and preferences. Key features include a comprehensive MCP toolkit, hybrid search, and auto-forgetting mechanisms, optimizing both performance and token efficiency.*
-
-- ⭐ 3994 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-05-11
-
-![agentmemory](2026/05-11/2026-05-11_daily-top_agentmemory.png)
-
-### 6. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
+### 5. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
 
 > 🤖 **推荐理由**  
-> *Easy-Vibe is a modern coding course designed for beginners, helping them master programming through step-by-step tutorials. With over 9,300 stars on GitHub, it offers a beginner-friendly learning map, immersive tutorials, and interactive components that simplify complex concepts like AI integration and full-stack development. Key features include simulated coding environments, guidance on product prototyping, and a comprehensive knowledge base covering 80+ topics. Easy-Vibe empowers learners to build real applications, transforming ideas into tangible products in the AI era.*
+> *Easy-Vibe is a modern coding course designed for beginners, aimed at helping users master programming through interactive tutorials and practical projects. With over 10,000 stars on GitHub, it offers clear learning paths from basic concepts to full-stack development, including AI integration and product prototyping. Key features include a beginner-friendly learning map, immersive coding simulations, and resources for product and business thinking. The project supports multiple languages and encourages community contributions, making tech learning accessible and engaging.*
 
-- ⭐ 9318 stars
+- ⭐ 10049 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-05-11
+- 📅 Updated: 2026-05-12
 
-![easy-vibe](2026/05-11/2026-05-11_daily-top_easy-vibe.png)
+![easy-vibe](2026/05-12/2026-05-12_daily-top_easy-vibe.png)
 
-### 7. [supersplat](https://github.com/playcanvas/supersplat)
+### 6. [supersplat](https://github.com/playcanvas/supersplat)
 
 > 🤖 **推荐理由**  
-> *SuperSplat is a free, open-source 3D Gaussian Splat Editor built with TypeScript, allowing users to inspect, edit, optimize, and publish 3D Gaussian splats directly in their browser—no downloads required. With over 6,895 stars on GitHub, it offers a user-friendly interface and supports localization for multiple languages. Key features include a live editing environment, easy setup for local development, and a comprehensive user guide. Engage with the community through Discord and forums for support and collaboration. Visit [SuperSplat Editor](https://superspl.at/editor) to get started.*
+> *SuperSplat is a free, open-source 3D Gaussian Splat Editor built with TypeScript, enabling users to inspect, edit, optimize, and publish 3D Gaussian splats directly in the browser—no installation required. Key features include a live web version, comprehensive user guide, and localization support for multiple languages. The project fosters community engagement through Discord and Reddit channels. With over 7,430 stars on GitHub, it invites contributions from a vibrant open-source community, making it a valuable tool for developers and artists alike.*
 
-- ⭐ 6895 stars
+- ⭐ 7430 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-11
+- 📅 Updated: 2026-05-12
 
-![supersplat](2026/05-11/2026-05-11_daily-top_supersplat.png)
+![supersplat](2026/05-12/2026-05-12_daily-top_supersplat.png)
 
-### 8. [AiToEarn](https://github.com/yikart/AiToEarn)
+### 7. [pi](https://github.com/earendil-works/pi)
 
 > 🤖 **推荐理由**  
-> *AiToEarn is an AI-driven platform designed for content creators, brands, and businesses to monetize, publish, and engage with their content across 10+ major social media platforms, including TikTok, YouTube, and Instagram. Key features include automated content creation, multi-platform publishing, and engagement tools that enhance interaction through AI-generated responses. It supports various deployment methods such as web access, AI assistant integration, and Docker for private hosting. With over 10,000 stars on GitHub, AiToEarn empowers creators to efficiently monetize their content through flexible payment models.*
+> *The Pi project is an AI agent toolkit featuring an interactive coding agent CLI, a unified LLM API supporting multiple providers (OpenAI, Anthropic, Google), and libraries for TUI and web UI integrations. Key highlights include a self-extensible coding agent, an agent runtime for tool management, and a Slack automation bot. The project encourages sharing OSS coding sessions to enhance agent performance. With a robust community and extensive documentation, Pi is designed for seamless integration into development workflows. Visit pi.dev for demos and resources.*
 
-- ⭐ 10057 stars
+- ⭐ 48241 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-11
+- 📅 Updated: 2026-05-12
 
-![AiToEarn](2026/05-11/2026-05-11_daily-top_AiToEarn.png)
+![pi](2026/05-12/2026-05-12_daily-top_pi.png)
 
-### 9. [rowboat](https://github.com/rowboatlabs/rowboat)
+### 8. [agentmemory](https://github.com/rohitg00/agentmemory)
 
 > 🤖 **推荐理由**  
-> *Rowboat is an open-source AI coworker designed to enhance productivity by creating a long-lived knowledge graph from your email and meeting notes. It streamlines tasks such as generating documents, preparing meeting briefs, and tracking important topics. Key features include real-time note updates, voice memo integration, and local storage in Markdown format, ensuring data privacy. Rowboat connects with Google services and can integrate with various external tools via Model Context Protocol (MCP). This ensures a customizable, efficient workflow while maintaining user control over data.*
+> *agentmemory is a leading persistent memory solution for AI coding agents, enabling seamless session continuity without repetitive explanations. Built on the iii engine, it supports agents like Claude Code, Cursor, and Gemini CLI. Key features include automatic memory capture, hybrid semantic search, and a real-time viewer for memory insights. With impressive benchmarks—95.2% retrieval accuracy and 92% fewer tokens used—agentmemory provides a robust MCP server with 51 tools for enhanced productivity. It supports various agents and can be integrated effortlessly, ensuring efficient workflows.*
 
-- ⭐ 14023 stars
+- ⭐ 4897 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-11
+- 📅 Updated: 2026-05-12
 
-![rowboat](2026/05-11/2026-05-11_daily-top_rowboat.png)
+![agentmemory](2026/05-12/2026-05-12_daily-top_agentmemory.png)
 
-### 10. [fanqiang](https://github.com/bannedbook/fanqiang)
+### 9. [AiToEarn](https://github.com/yikart/AiToEarn)
 
 > 🤖 **推荐理由**  
-> *The "fanqiang" project provides tools and tutorials for bypassing internet censorship in China, featuring a comprehensive repository of resources. Key offerings include an Android app (FQNews), Chrome and Firefox one-click proxy packages, and detailed guides for setting up V2ray and Shadowsocks servers. It supports multiple platforms, including Windows, macOS, iOS, and various routers, ensuring broad accessibility. The project has garnered over 45,000 stars on GitHub, reflecting its value to users seeking reliable access to restricted content.*
+> *AiToEarn is an AI-driven content marketing platform designed for individual creators and brands to monetize, publish, and engage audiences across major global platforms like TikTok, YouTube, and Instagram. Key features include automated content monetization through CPS, CPE, and CPM models, seamless multi-platform publishing, and interactive engagement tools like automated responses and brand monitoring. Users can easily access the service via a web interface, integrate it with AI assistants, or deploy it on their servers using Docker. The project has garnered over 11,000 stars on GitHub.*
 
-- ⭐ 45262 stars
-- 💻 Kotlin
-- 📅 Updated: 2026-05-11
+- ⭐ 11011 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-12
 
-![fanqiang](2026/05-11/2026-05-11_daily-top_fanqiang.png)
+![AiToEarn](2026/05-12/2026-05-12_daily-top_AiToEarn.png)
+
+### 10. [hyperframes](https://github.com/heygen-com/hyperframes)
+
+> 🤖 **推荐理由**  
+> *Hyperframes is an open-source video rendering framework designed for creating and previewing HTML-based video compositions, with strong support for AI agents. Key features include HTML-native authoring, deterministic rendering, and a flexible Frame Adapter pattern for various animation runtimes (e.g., GSAP, Lottie). Users can leverage built-in skills for AI-driven video creation, asset preprocessing, and project management. With over 50 ready-to-use components, Hyperframes streamlines the video production process, making it ideal for automated workflows. Fully compliant with Apache 2.0 licensing.*
+
+- ⭐ 17304 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-12
+
+![hyperframes](2026/05-12/2026-05-12_daily-top_hyperframes.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-11 04:07:28 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-12 03:51:17 UTC

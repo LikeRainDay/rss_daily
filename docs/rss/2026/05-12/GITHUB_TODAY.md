@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-12
 
-![cc-switch](2026/05-12/2026-05-12_daily-top_cc-switch.png)
+![cc-switch](2026-05-12_daily-top_cc-switch.png)
 
 ### 2. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-12
 
-![UI-TARS-desktop](2026/05-12/2026-05-12_daily-top_UI-TARS-desktop.png)
+![UI-TARS-desktop](2026-05-12_daily-top_UI-TARS-desktop.png)
 
 ### 3. [9router](https://github.com/decolua/9router)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-12
 
-![9router](2026/05-12/2026-05-12_daily-top_9router.png)
+![9router](2026-05-12_daily-top_9router.png)
 
 ### 4. [gstack](https://github.com/garrytan/gstack)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-12
 
-![gstack](2026/05-12/2026-05-12_daily-top_gstack.png)
+![gstack](2026-05-12_daily-top_gstack.png)
 
 ### 5. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-12
 
-![easy-vibe](2026/05-12/2026-05-12_daily-top_easy-vibe.png)
+![easy-vibe](2026-05-12_daily-top_easy-vibe.png)
 
 ### 6. [supersplat](https://github.com/playcanvas/supersplat)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-12
 
-![supersplat](2026/05-12/2026-05-12_daily-top_supersplat.png)
+![supersplat](2026-05-12_daily-top_supersplat.png)
 
 ### 7. [pi](https://github.com/earendil-works/pi)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-12
 
-![pi](2026/05-12/2026-05-12_daily-top_pi.png)
+![pi](2026-05-12_daily-top_pi.png)
 
 ### 8. [agentmemory](https://github.com/rohitg00/agentmemory)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-12
 
-![agentmemory](2026/05-12/2026-05-12_daily-top_agentmemory.png)
+![agentmemory](2026-05-12_daily-top_agentmemory.png)
 
 ### 9. [AiToEarn](https://github.com/yikart/AiToEarn)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-12
 
-![AiToEarn](2026/05-12/2026-05-12_daily-top_AiToEarn.png)
+![AiToEarn](2026-05-12_daily-top_AiToEarn.png)
 
 ### 10. [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-12
 
-![hyperframes](2026/05-12/2026-05-12_daily-top_hyperframes.png)
+![hyperframes](2026-05-12_daily-top_hyperframes.png)
 
 ---
 
