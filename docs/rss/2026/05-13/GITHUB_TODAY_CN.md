@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-13
 
-![cc-switch](2026/05-13/2026-05-13_daily-top_cc-switch.png)
+![cc-switch](2026-05-13_daily-top_cc-switch.png)
 
 ### 2. [AiToEarn](https://github.com/yikart/AiToEarn)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-13
 
-![AiToEarn](2026/05-13/2026-05-13_daily-top_AiToEarn.png)
+![AiToEarn](2026-05-13_daily-top_AiToEarn.png)
 
 ### 3. [9router](https://github.com/decolua/9router)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-13
 
-![9router](2026/05-13/2026-05-13_daily-top_9router.png)
+![9router](2026-05-13_daily-top_9router.png)
 
 ### 4. [agentmemory](https://github.com/rohitg00/agentmemory)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-13
 
-![agentmemory](2026/05-13/2026-05-13_daily-top_agentmemory.png)
+![agentmemory](2026-05-13_daily-top_agentmemory.png)
 
 ### 5. [openhuman](https://github.com/tinyhumansai/openhuman)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-13
 
-![openhuman](2026/05-13/2026-05-13_daily-top_openhuman.png)
+![openhuman](2026-05-13_daily-top_openhuman.png)
 
 ### 6. [react-doctor](https://github.com/millionco/react-doctor)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-13
 
-![react-doctor](2026/05-13/2026-05-13_daily-top_react-doctor.png)
+![react-doctor](2026-05-13_daily-top_react-doctor.png)
 
 ### 7. [gstack](https://github.com/garrytan/gstack)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-13
 
-![gstack](2026/05-13/2026-05-13_daily-top_gstack.png)
+![gstack](2026-05-13_daily-top_gstack.png)
 
 ### 8. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-13
 
-![UI-TARS-desktop](2026/05-13/2026-05-13_daily-top_UI-TARS-desktop.png)
+![UI-TARS-desktop](2026-05-13_daily-top_UI-TARS-desktop.png)
 
 ### 9. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-13
 
-![easy-vibe](2026/05-13/2026-05-13_daily-top_easy-vibe.png)
+![easy-vibe](2026-05-13_daily-top_easy-vibe.png)
 
 ### 10. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-13
 
-![Personal_AI_Infrastructure](2026/05-13/2026-05-13_daily-top_Personal_AI_Infrastructure.png)
+![Personal_AI_Infrastructure](2026-05-13_daily-top_Personal_AI_Infrastructure.png)
 
 ---
 
