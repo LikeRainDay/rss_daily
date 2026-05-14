@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-14
 
-![openhuman](2026/05-14/2026-05-14_daily-top_openhuman.png)
+![openhuman](2026-05-14_daily-top_openhuman.png)
 
 ### 2. [agentmemory](https://github.com/rohitg00/agentmemory)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-14
 
-![agentmemory](2026/05-14/2026-05-14_daily-top_agentmemory.png)
+![agentmemory](2026-05-14_daily-top_agentmemory.png)
 
 ### 3. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-14
 
-![cc-switch](2026/05-14/2026-05-14_daily-top_cc-switch.png)
+![cc-switch](2026-05-14_daily-top_cc-switch.png)
 
 ### 4. [gstack](https://github.com/garrytan/gstack)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-14
 
-![gstack](2026/05-14/2026-05-14_daily-top_gstack.png)
+![gstack](2026-05-14_daily-top_gstack.png)
 
 ### 5. [AiToEarn](https://github.com/yikart/AiToEarn)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-14
 
-![AiToEarn](2026/05-14/2026-05-14_daily-top_AiToEarn.png)
+![AiToEarn](2026-05-14_daily-top_AiToEarn.png)
 
 ### 6. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-14
 
-![everything-claude-code](2026/05-14/2026-05-14_daily-top_everything-claude-code.png)
+![everything-claude-code](2026-05-14_daily-top_everything-claude-code.png)
 
 ### 7. [supertonic](https://github.com/supertone-inc/supertonic)
 
@@ -93,7 +93,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-05-14
 
-![supertonic](2026/05-14/2026-05-14_daily-top_supertonic.png)
+![supertonic](2026-05-14_daily-top_supertonic.png)
 
 ### 8. [react-doctor](https://github.com/millionco/react-doctor)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-14
 
-![react-doctor](2026/05-14/2026-05-14_daily-top_react-doctor.png)
+![react-doctor](2026-05-14_daily-top_react-doctor.png)
 
 ### 9. [scrcpy](https://github.com/Genymobile/scrcpy)
 
@@ -115,7 +115,7 @@
 - 💻 C
 - 📅 Updated: 2026-05-14
 
-![scrcpy](2026/05-14/2026-05-14_daily-top_scrcpy.png)
+![scrcpy](2026-05-14_daily-top_scrcpy.png)
 
 ### 10. [9router](https://github.com/decolua/9router)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-14
 
-![9router](2026/05-14/2026-05-14_daily-top_9router.png)
+![9router](2026-05-14_daily-top_9router.png)
 
 ---
 

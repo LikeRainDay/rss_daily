@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-05-13
+# 📊 🌟 GitHub Trending Daily - 2026-05-14
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **260206** ⭐ | **29317** 🍴
+**10** 个项目 | **538942** ⭐ | **65425** 🍴
 
-**热门语言:** `TypeScript` (6) · `JavaScript` (2) · `Rust` (2)
+**热门语言:** `TypeScript` (4) · `Rust` (2) · `JavaScript` (2)
 
-**更新时间:** 2026-05-13 03:59 UTC
+**更新时间:** 2026-05-14 03:59 UTC
 
 **分类分布:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [cc-switch](https://github.com/farion1231/cc-switch)
+### 1. [openhuman](https://github.com/tinyhumansai/openhuman)
 
 > 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop assistant designed to manage multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw, all from a single interface. Key features include over 50 built-in provider presets for easy switching, unified management of MCP servers and skills, and a system tray for quick access. Users benefit from cloud sync options and built-in utilities. Developed in Rust, CC Switch offers a seamless experience for AI coding, enhancing productivity with atomic writes to protect configurations. Visit ccswitch.io for more.*
+> *OpenHuman is an open-source personal AI assistant designed for seamless daily integration. It features a user-friendly interface and requires minimal setup, allowing users to connect over 118 third-party services with one-click OAuth. Key highlights include a Memory Tree for local knowledge storage, auto-fetching data every 20 minutes, and smart token compression to optimize performance. With built-in tools for web search, coding, and voice interaction, OpenHuman prioritizes privacy and offers a comprehensive, context-aware experience. Currently in early beta, it aims to revolutionize personal AI interactions.*
 
-- ⭐ 68869 stars
+- ⭐ 5962 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-13
+- 📅 Updated: 2026-05-14
 
-![cc-switch](2026/05-13/2026-05-13_daily-top_cc-switch.png)
+![openhuman](2026/05-14/2026-05-14_daily-top_openhuman.png)
 
-### 2. [AiToEarn](https://github.com/yikart/AiToEarn)
+### 2. [agentmemory](https://github.com/rohitg00/agentmemory)
 
 > 🤖 **推荐理由**  
-> *AiToEarn is an innovative AI-powered platform designed to help creators, brands, and businesses monetize content across multiple social media channels, including TikTok, YouTube, and Instagram. With over 12,000 stars on GitHub, it offers key features such as automated content creation, publishing, and engagement tools. Users can monetize through various models like CPS, CPE, and CPM, and utilize a browser plugin for automated interactions. The platform supports easy access via web, Docker deployment, or integration with AI assistants, making it versatile for individual creators and teams.*
+> *Agentmemory is a powerful persistent memory engine for AI coding agents, enabling seamless context retention across sessions. Built on the iii engine, it supports various clients like Claude Code, Cursor, and Codex CLI, allowing them to remember previous interactions without re-explaining. Key features include automatic observation capture, hybrid semantic search, and real-time memory visualization. With a retrieval accuracy of 95.2% and 92% fewer tokens used, agentmemory enhances coding efficiency, making it the top choice for developers seeking advanced memory capabilities in AI.*
 
-- ⭐ 12040 stars
+- ⭐ 7928 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-13
+- 📅 Updated: 2026-05-14
 
-![AiToEarn](2026/05-13/2026-05-13_daily-top_AiToEarn.png)
+![agentmemory](2026/05-14/2026-05-14_daily-top_agentmemory.png)
 
-### 3. [9router](https://github.com/decolua/9router)
-
-> 🤖 **推荐理由**  
-> *9Router is an open-source AI coding router enabling unlimited free access to various AI models such as Claude Code, Codex, and Gemini through more than 40 providers. Key features include a Real-Time Token Saver (RTK) that reduces token usage by 20-40%, automatic fallback from subscription to cheaper or free models, and multi-account support for seamless coding without interruptions. With quota tracking and usage analytics, developers can maximize their AI tools while minimizing costs. Start coding effortlessly with 9Router's flexible deployment options.*
-
-- ⭐ 9469 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-05-13
-
-![9router](2026/05-13/2026-05-13_daily-top_9router.png)
-
-### 4. [agentmemory](https://github.com/rohitg00/agentmemory)
+### 3. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *agentmemory is a TypeScript-based persistent memory solution for AI coding agents, boasting over 6,000 stars on GitHub. It enhances coding efficiency by allowing agents like Claude Code, Cursor, and Gemini CLI to retain and recall session information seamlessly, eliminating the need for re-explanation. Key features include automatic memory capture across sessions, hybrid semantic search with BM25 and vector embeddings, and a real-time viewer for monitoring memory. With 51 MCP tools, it supports multi-agent setups, ensuring a cohesive memory experience. The project is built on the iii engine, offering a robust backend for advanced AI interactions.*
+> *CC Switch is a cross-platform desktop assistant for managing multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 69,998 stars, it simplifies API provider management through a user-friendly interface, enabling one-click switching and unified MCP and Skills management. Key features include 50+ built-in provider presets, cloud sync across devices, session management, and a local proxy for failover. Built with Rust and Tauri, CC Switch is available for Windows, macOS, and Linux, enhancing productivity in modern AI coding workflows. Visit ccswitch.io for more.*
 
-- ⭐ 6094 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-05-13
-
-![agentmemory](2026/05-13/2026-05-13_daily-top_agentmemory.png)
-
-### 5. [openhuman](https://github.com/tinyhumansai/openhuman)
-
-> 🤖 **推荐理由**  
-> *OpenHuman is a powerful, open-source personal AI assistant designed for seamless integration into daily life. Built in Rust, it features a user-friendly interface, 118+ third-party integrations, and a unique Memory Tree for quick context-building. With auto-fetch capabilities, it continuously updates your data without manual prompts. The platform includes built-in tools for web search, coding, and voice interaction. Focused on privacy and local data security, OpenHuman aims to provide a personalized experience while minimizing vendor sprawl.*
-
-- ⭐ 2992 stars
+- ⭐ 69998 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-13
+- 📅 Updated: 2026-05-14
 
-![openhuman](2026/05-13/2026-05-13_daily-top_openhuman.png)
+![cc-switch](2026/05-14/2026-05-14_daily-top_cc-switch.png)
 
-### 6. [react-doctor](https://github.com/millionco/react-doctor)
+### 4. [gstack](https://github.com/garrytan/gstack)
 
 > 🤖 **推荐理由**  
-> *React Doctor is a TypeScript tool designed to enhance React code quality by diagnosing issues across state management, performance, security, accessibility, and dead code. It provides a health score (0-100) based on actionable diagnostics, supporting frameworks like Next.js and Vite. Key features include installation for coding agents, GitHub Actions integration for CI/CD, and optional ESLint plugin support. Users can customize configurations, utilize diff and staged modes for selective scanning, and access a leaderboard of top-scored codebases. It is open-source and available on GitHub.*
+> *gstack is an open-source toolkit designed to enhance productivity for developers and teams, enabling rapid shipping of features with AI assistance. It features 23 specialized roles, including CEO, Designer, and QA, facilitating a structured workflow from planning to deployment. Key highlights include automated design reviews, real-time QA testing, and seamless integration with multiple AI agents. With commands for brainstorming, planning, coding, and testing, gstack streamlines the development process, allowing users to operate like a full engineering team. Ideal for founders and technical leads, it promotes efficient collaboration and continuous improvement.*
 
-- ⭐ 8842 stars
+- ⭐ 95847 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-13
+- 📅 Updated: 2026-05-14
 
-![react-doctor](2026/05-13/2026-05-13_daily-top_react-doctor.png)
+![gstack](2026/05-14/2026-05-14_daily-top_gstack.png)
 
-### 7. [gstack](https://github.com/garrytan/gstack)
+### 5. [AiToEarn](https://github.com/yikart/AiToEarn)
 
 > 🤖 **推荐理由**  
-> *gstack is an open-source TypeScript project designed to empower developers by simulating a virtual engineering team via AI tools. It integrates 23 specialized skills—acting as CEO, engineer, designer, QA lead, and more—streamlining the software development process from ideation to deployment. Key features include structured role assignments, real browser interactions, automated QA, and comprehensive documentation updates. With an emphasis on productivity, gstack enables rapid feature delivery while maintaining high-quality standards, making it ideal for founders, tech leads, and AI enthusiasts.*
+> *AiToEarn is an AI-driven content marketing platform designed for content creators, brands, and businesses to monetize, publish, and engage across major global platforms like TikTok, YouTube, and Instagram. With features like automated content creation, multi-platform publishing, and interactive engagement tools, AiToEarn streamlines the monetization process through various payment models (CPS, CPE, CPM). Users can quickly access the platform via a web interface, integration with AI assistants, or private deployment using Docker, making it versatile for different user needs.*
 
-- ⭐ 94953 stars
+- ⭐ 13111 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-13
+- 📅 Updated: 2026-05-14
 
-![gstack](2026/05-13/2026-05-13_daily-top_gstack.png)
+![AiToEarn](2026/05-14/2026-05-14_daily-top_AiToEarn.png)
 
-### 8. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
-
-> 🤖 **推荐理由**  
-> *UI-TARS-desktop is an open-source multimodal AI agent stack designed for seamless human-like task completion. It features a native GUI agent utilizing advanced Vision-Language models, enabling natural language control, visual recognition, and precise mouse and keyboard operations across platforms (Windows, MacOS, Browser). Key highlights include one-click CLI deployment, hybrid browser control, and real-time feedback. The project also supports local and remote operators, enhancing automation capabilities for various tasks, making it a powerful tool for developers and users alike.*
-
-- ⭐ 33570 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-05-13
-
-![UI-TARS-desktop](2026/05-13/2026-05-13_daily-top_UI-TARS-desktop.png)
-
-### 9. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
+### 6. [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
 > 🤖 **推荐理由**  
-> *Easy-Vibe is a modern coding course designed for beginners to master app development step by step, featuring interactive tutorials and a beginner-friendly learning map. With over 10,425 stars, it offers immersive simulated coding experiences, visual explanations of AI principles, and practical project-building guidance. Key services include full-stack development paths, AI integration, and a robust appendix covering foundational knowledge across nine areas. This resource empowers users to transform ideas into real products, making programming accessible and engaging.*
+> *Everything Claude Code is a cutting-edge performance optimization system for AI agents, offering skills, instincts, memory optimization, and security scanning for frameworks like Claude Code, Codex, and Cursor. With over 181K stars and 60 specialized agents, it enables continuous learning and production-ready workflows. Key features include a user-friendly dashboard, multi-language support, and advanced security auditing via AgentShield. The project fosters a collaborative ecosystem for AI development, providing extensive documentation and community contributions for enhanced adaptability and efficiency.*
 
-- ⭐ 10425 stars
+- ⭐ 181512 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-05-13
+- 📅 Updated: 2026-05-14
 
-![easy-vibe](2026/05-13/2026-05-13_daily-top_easy-vibe.png)
+![everything-claude-code](2026/05-14/2026-05-14_daily-top_everything-claude-code.png)
 
-### 10. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
+### 7. [supertonic](https://github.com/supertone-inc/supertonic)
 
 > 🤖 **推荐理由**  
-> *Personal_AI_Infrastructure (PAI) is a transformative Life Operating System designed to enhance human capabilities through AI. Key features include a unified Pulse daemon for life management, a Digital Assistant (DA) for personalized interaction, and a custom Algorithm that guides users from their current to ideal states. PAI supports 45 skills, 171 workflows, and offers structured memory for learning and self-improvement. With a focus on transparency and context, it prioritizes user goals over technology, making AI accessible and beneficial for everyone.*
+> *Supertonic is a lightning-fast, on-device multilingual text-to-speech (TTS) system utilizing ONNX Runtime for local inference, ensuring privacy and low latency. With support for 31 languages, Supertonic 3 enhances reading accuracy and reduces errors. Key features include a voice builder for custom TTS, batch processing, and compatibility across multiple platforms, including Python, Node.js, and iOS. It outputs 16-bit WAV files and provides a seamless experience with expressive tags for natural speech. Explore demos and models on Hugging Face.*
 
-- ⭐ 12952 stars
+- ⭐ 4486 stars
+- 💻 Swift
+- 📅 Updated: 2026-05-14
+
+![supertonic](2026/05-14/2026-05-14_daily-top_supertonic.png)
+
+### 8. [react-doctor](https://github.com/millionco/react-doctor)
+
+> 🤖 **推荐理由**  
+> *React Doctor is a TypeScript tool designed to analyze and improve React codebases. It scans your project with a single command, generating a health score (0-100) alongside actionable diagnostics in areas like state management, performance, architecture, security, and accessibility. It integrates seamlessly with frameworks like Next.js and Vite, and supports over 50 coding agents to enforce best practices. The tool also features GitHub Actions for CI integration, customizable configuration options, and optional linting plugins. With over 9,300 stars on GitHub, React Doctor is an essential resource for maintaining high-quality React applications.*
+
+- ⭐ 9345 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-13
+- 📅 Updated: 2026-05-14
 
-![Personal_AI_Infrastructure](2026/05-13/2026-05-13_daily-top_Personal_AI_Infrastructure.png)
+![react-doctor](2026/05-14/2026-05-14_daily-top_react-doctor.png)
+
+### 9. [scrcpy](https://github.com/Genymobile/scrcpy)
+
+> 🤖 **推荐理由**  
+> *scrcpy is an open-source application that enables users to display and control Android devices via USB or TCP/IP without requiring root access or additional apps. It supports Linux, Windows, and macOS, offering high performance (30–120fps) and low latency (35–70ms). Key features include audio forwarding, screen recording, virtual display, and keyboard/mouse simulation. It allows mirroring with the device screen off, copy-paste functionality, and gamepad support. scrcpy is free of ads and accounts, prioritizing user privacy and simplicity.*
+
+- ⭐ 140801 stars
+- 💻 C
+- 📅 Updated: 2026-05-14
+
+![scrcpy](2026/05-14/2026-05-14_daily-top_scrcpy.png)
+
+### 10. [9router](https://github.com/decolua/9router)
+
+> 🤖 **推荐理由**  
+> *9Router is a powerful AI coding router that connects various coding tools (Claude Code, Codex, Cursor, etc.) to over 40 AI providers, ensuring unlimited access to free models. Key features include an RTK token saver that reduces token usage by 20-40%, auto-fallback to cheaper or free models to prevent downtime, real-time quota tracking, and multi-account support. With a user-friendly dashboard, 9Router maximizes coding efficiency while minimizing costs, making it ideal for developers seeking reliable AI assistance without financial constraints.*
+
+- ⭐ 9952 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-05-14
+
+![9router](2026/05-14/2026-05-14_daily-top_9router.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-13 03:59:24 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-14 03:59:16 UTC
