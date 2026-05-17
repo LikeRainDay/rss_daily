@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-17
 
-![openhuman](2026/05-17/2026-05-17_daily-top_openhuman.png)
+![openhuman](2026-05-17_daily-top_openhuman.png)
 
 ### 2. [RuView](https://github.com/ruvnet/RuView)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-17
 
-![RuView](2026/05-17/2026-05-17_daily-top_RuView.png)
+![RuView](2026-05-17_daily-top_RuView.png)
 
 ### 3. [supertonic](https://github.com/supertone-inc/supertonic)
 
@@ -49,7 +49,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-05-17
 
-![supertonic](2026/05-17/2026-05-17_daily-top_supertonic.png)
+![supertonic](2026-05-17_daily-top_supertonic.png)
 
 ### 4. [opencode](https://github.com/anomalyco/opencode)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-17
 
-![opencode](2026/05-17/2026-05-17_daily-top_opencode.png)
+![opencode](2026-05-17_daily-top_opencode.png)
 
 ### 5. [codegraph](https://github.com/colbymchenry/codegraph)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-17
 
-![codegraph](2026/05-17/2026-05-17_daily-top_codegraph.png)
+![codegraph](2026-05-17_daily-top_codegraph.png)
 
 ### 6. [rtk](https://github.com/rtk-ai/rtk)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-17
 
-![rtk](2026/05-17/2026-05-17_daily-top_rtk.png)
+![rtk](2026-05-17_daily-top_rtk.png)
 
 ### 7. [bun](https://github.com/oven-sh/bun)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-17
 
-![bun](2026/05-17/2026-05-17_daily-top_bun.png)
+![bun](2026-05-17_daily-top_bun.png)
 
 ### 8. [shannon](https://github.com/KeygraphHQ/shannon)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-17
 
-![shannon](2026/05-17/2026-05-17_daily-top_shannon.png)
+![shannon](2026-05-17_daily-top_shannon.png)
 
 ### 9. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-17
 
-![Open-Generative-AI](2026/05-17/2026-05-17_daily-top_Open-Generative-AI.png)
+![Open-Generative-AI](2026-05-17_daily-top_Open-Generative-AI.png)
 
 ### 10. [reactive-resume](https://github.com/amruthpillai/reactive-resume)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-17
 
-![reactive-resume](2026/05-17/2026-05-17_daily-top_reactive-resume.png)
+![reactive-resume](2026-05-17_daily-top_reactive-resume.png)
 
 ---
 
