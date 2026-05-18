@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-18
 
-![openhuman](2026/05-18/2026-05-18_daily-top_openhuman.png)
+![openhuman](2026-05-18_daily-top_openhuman.png)
 
 ### 2. [RuView](https://github.com/ruvnet/RuView)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-18
 
-![RuView](2026/05-18/2026-05-18_daily-top_RuView.png)
+![RuView](2026-05-18_daily-top_RuView.png)
 
 ### 3. [bun](https://github.com/oven-sh/bun)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-18
 
-![bun](2026/05-18/2026-05-18_daily-top_bun.png)
+![bun](2026-05-18_daily-top_bun.png)
 
 ### 4. [codegraph](https://github.com/colbymchenry/codegraph)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-18
 
-![codegraph](2026/05-18/2026-05-18_daily-top_codegraph.png)
+![codegraph](2026-05-18_daily-top_codegraph.png)
 
 ### 5. [supertonic](https://github.com/supertone-inc/supertonic)
 
@@ -71,7 +71,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-05-18
 
-![supertonic](2026/05-18/2026-05-18_daily-top_supertonic.png)
+![supertonic](2026-05-18_daily-top_supertonic.png)
 
 ### 6. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-18
 
-![Open-Generative-AI](2026/05-18/2026-05-18_daily-top_Open-Generative-AI.png)
+![Open-Generative-AI](2026-05-18_daily-top_Open-Generative-AI.png)
 
 ### 7. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-18
 
-![easy-vibe](2026/05-18/2026-05-18_daily-top_easy-vibe.png)
+![easy-vibe](2026-05-18_daily-top_easy-vibe.png)
 
 ### 8. [cal.diy](https://github.com/calcom/cal.diy)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-18
 
-![cal.diy](2026/05-18/2026-05-18_daily-top_cal.diy.png)
+![cal.diy](2026-05-18_daily-top_cal.diy.png)
 
 ### 9. [OpenCLI](https://github.com/jackwener/OpenCLI)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-18
 
-![OpenCLI](2026/05-18/2026-05-18_daily-top_OpenCLI.png)
+![OpenCLI](2026-05-18_daily-top_OpenCLI.png)
 
 ### 10. [listmonk](https://github.com/knadh/listmonk)
 
@@ -126,7 +126,7 @@
 - 💻 Go
 - 📅 Updated: 2026-05-18
 
-![listmonk](2026/05-18/2026-05-18_daily-top_listmonk.png)
+![listmonk](2026-05-18_daily-top_listmonk.png)
 
 ---
 
