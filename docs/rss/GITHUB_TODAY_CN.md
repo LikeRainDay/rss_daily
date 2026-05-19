@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-05-18
+# 📊 🌟 GitHub Trending Daily - 2026-05-19
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **289624** ⭐ | **36100** 🍴
+**10** 个项目 | **327251** ⭐ | **45409** 🍴
 
-**热门语言:** `JavaScript` (3) · `Rust` (3) · `TypeScript` (2)
+**热门语言:** `TypeScript` (4) · `JavaScript` (3) · `Rust` (2)
 
-**更新时间:** 2026-05-18 04:16 UTC
+**更新时间:** 2026-05-19 04:10 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [openhuman](https://github.com/tinyhumansai/openhuman)
 
 > 🤖 **推荐理由**  
-> *OpenHuman is an open-source personal AI assistant designed for seamless integration into daily life. Key features include a user-friendly interface, over 118 third-party integrations with auto-fetch capabilities, and a Memory Tree that organizes your data into a local knowledge base. It offers built-in tools for web scraping, coding, and voice interaction, ensuring a holistic experience without complex setups. With its unique smart token compression, OpenHuman minimizes costs and enhances performance, making it a powerful tool for anyone seeking a personalized AI solution.*
+> *OpenHuman is an open-source personal AI superintelligence, designed for easy integration into daily life. Built with Rust, it features a user-friendly UI, supports 118+ third-party integrations, and employs a Memory Tree for local data storage and retrieval. Key highlights include auto-fetching data every 20 minutes, a built-in knowledge base compatible with Obsidian, and advanced token compression to optimize performance. With native tools for coding, web search, and voice interaction, OpenHuman prioritizes privacy and offers a seamless experience without vendor sprawl.*
 
-- ⭐ 13962 stars
+- ⭐ 17931 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-18
+- 📅 Updated: 2026-05-19
 
-![openhuman](2026/05-18/2026-05-18_daily-top_openhuman.png)
+![openhuman](2026/05-19/2026-05-19_daily-top_openhuman.png)
 
-### 2. [RuView](https://github.com/ruvnet/RuView)
+### 2. [OpenWA](https://github.com/rmyndharis/OpenWA)
 
 > 🤖 **推荐理由**  
-> *RuView is a cutting-edge WiFi sensing platform that transforms commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection without cameras. Key features include contactless detection of breathing and heart rate, occupancy tracking through walls, and activity recognition using Channel State Information (CSI) from low-cost ESP32 sensors. The system operates entirely on edge hardware, ensuring privacy and low power consumption. RuView supports applications in healthcare, retail, and smart buildings, offering advanced analytics and adaptive learning capabilities.*
+> *OpenWA is a free, open-source, self-hosted WhatsApp API Gateway designed for developers seeking full control over their messaging infrastructure. Key features include a pluggable architecture for easy integration with various databases and storage solutions, multi-session support, a modern web dashboard for management, and a comprehensive REST API. It supports text and media messaging, webhooks, and group management. Built with TypeScript and NestJS, OpenWA is Docker-ready, ensuring seamless deployment. With over 3,000 stars on GitHub, it fosters community contributions and offers extensive documentation.*
 
-- ⭐ 59305 stars
-- 💻 Rust
-- 📅 Updated: 2026-05-18
-
-![RuView](2026/05-18/2026-05-18_daily-top_RuView.png)
-
-### 3. [bun](https://github.com/oven-sh/bun)
-
-> 🤖 **推荐理由**  
-> *Bun is a high-performance JavaScript runtime, bundler, test runner, and package manager, designed as a drop-in replacement for Node.js. Built in Rust, it significantly reduces startup times and memory usage. Key features include support for TypeScript and JSX, a built-in test runner, and a streamlined package management system that minimizes dependencies. Bun offers a single executable for running scripts, installing packages, and testing, making it ideal for modern JavaScript and TypeScript applications. With over 91,000 stars on GitHub, Bun is rapidly gaining traction in the developer community.*
-
-- ⭐ 91772 stars
-- 💻 Rust
-- 📅 Updated: 2026-05-18
-
-![bun](2026/05-18/2026-05-18_daily-top_bun.png)
-
-### 4. [codegraph](https://github.com/colbymchenry/codegraph)
-
-> 🤖 **推荐理由**  
-> *CodeGraph is a pre-indexed code knowledge graph designed to enhance Claude Code, Codex, Cursor, and OpenCode, achieving 94% fewer tool calls and 77% faster exploration—all locally. Key features include smart context building, full-text search, impact analysis, and real-time auto-syncing. It supports 19+ programming languages and automatically recognizes web-framework routes. CodeGraph dramatically reduces the need for file scanning, allowing agents to query a semantic graph for instant results, making code exploration significantly more efficient.*
-
-- ⭐ 3551 stars
+- ⭐ 3064 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-18
+- 📅 Updated: 2026-05-19
 
-![codegraph](2026/05-18/2026-05-18_daily-top_codegraph.png)
+![OpenWA](2026/05-19/2026-05-19_daily-top_OpenWA.png)
 
-### 5. [supertonic](https://github.com/supertone-inc/supertonic)
+### 3. [agentmemory](https://github.com/rohitg00/agentmemory)
 
 > 🤖 **推荐理由**  
-> *Supertonic is a lightning-fast, on-device multilingual text-to-speech (TTS) system, utilizing ONNX Runtime for local inference. With support for 31 languages, it ensures low-latency, real-time audio synthesis without requiring cloud connectivity. Key features include a compact 99M-parameter model for quick loading, high-quality 44.1kHz audio output, and expression tags for natural speech nuances. Supertonic runs on various platforms, including desktop and mobile, making it ideal for resource-constrained devices like Raspberry Pi. Explore its capabilities through interactive demos and SDKs available for multiple programming languages.*
+> *agentmemory is a TypeScript-based persistent memory solution for AI coding agents, boasting over 13,000 stars on GitHub. It eliminates repetitive explanations by capturing interactions and compressing them into searchable memory, enhancing the efficiency of agents like Claude Code and Codex CLI. Key features include automatic observation capture, a hybrid semantic search system, and a real-time viewer for memory management. With 51 tools and extensive API endpoints, agentmemory offers a comprehensive memory toolkit, ensuring continuity across sessions while maintaining privacy.*
 
-- ⭐ 7698 stars
+- ⭐ 13090 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-19
+
+![agentmemory](2026/05-19/2026-05-19_daily-top_agentmemory.png)
+
+### 4. [agent-skills](https://github.com/tech-leads-club/agent-skills)
+
+> 🤖 **推荐理由**  
+> *Agent Skills is a secure, validated registry for AI coding agents, designed to enhance tools like Antigravity, Claude Code, and GitHub Copilot. It offers a library of verified and tested skills, ensuring safety in an ecosystem where many marketplace skills have vulnerabilities. Key features include an interactive CLI for skill installation, comprehensive caching, and a managed library with human-curated prompts. Skills cover various categories such as development, cloud, and automation, allowing users to extend agent capabilities confidently and efficiently.*
+
+- ⭐ 4121 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-19
+
+![agent-skills](2026/05-19/2026-05-19_daily-top_agent-skills.png)
+
+### 5. [codegraph](https://github.com/colbymchenry/codegraph)
+
+> 🤖 **推荐理由**  
+> *CodeGraph is a pre-indexed code knowledge graph designed for Claude Code, Codex, Cursor, and OpenCode, achieving 94% fewer tool calls and 77% faster code exploration, all while operating entirely locally. It enables smart context building, full-text search, and impact analysis across 19+ programming languages. Features include framework-aware routing, real-time synchronization, and a seamless setup process. CodeGraph enhances productivity by allowing agents to instantly query a semantic graph of code relationships, optimizing resource usage and response times.*
+
+- ⭐ 5152 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-19
+
+![codegraph](2026/05-19/2026-05-19_daily-top_codegraph.png)
+
+### 6. [ECC](https://github.com/affaan-m/ECC)
+
+> 🤖 **推荐理由**  
+> *ECC is an advanced performance optimization system for AI agents, enhancing workflows across Claude Code, Codex, Cursor, OpenCode, and more. With over 186,000 stars, it offers a comprehensive suite of features including skills and instincts for continuous learning, memory optimization, security scanning via AgentShield, and production-ready configurations. ECC supports multiple programming languages, features a user-friendly dashboard, and integrates seamlessly with GitHub for collaborative development. Its modular architecture allows for tailored installations, making it ideal for diverse development environments.*
+
+- ⭐ 186674 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-05-19
+
+![ECC](2026/05-19/2026-05-19_daily-top_ECC.png)
+
+### 7. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+
+> 🤖 **推荐理由**  
+> *Open-Generative-AI is a free, open-source platform for AI image and video generation, featuring over 200 models including Flux, Midjourney, and Veo. It offers no content filters, enabling unrestricted creative freedom. Users can generate images, videos, and lip-sync animations with a user-friendly interface, locally or via a hosted version. Key features include multi-image input, a workflow studio for automated media pipelines, and support for local and remote inference engines. Self-hosted and MIT licensed, it prioritizes data privacy and customization.*
+
+- ⭐ 15833 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-05-19
+
+![Open-Generative-AI](2026/05-19/2026-05-19_daily-top_Open-Generative-AI.png)
+
+### 8. [supertonic](https://github.com/supertone-inc/supertonic)
+
+> 🤖 **推荐理由**  
+> *Supertonic is a lightning-fast, on-device multilingual text-to-speech (TTS) system utilizing ONNX Runtime for efficient local inference. It supports 31 languages, providing low-latency synthesis without cloud dependency, ensuring privacy. Key features include a compact 99M-parameter model, 44.1kHz high-quality audio output, and expression tags for natural speech nuances. Supertonic is compatible across various platforms, including desktop and mobile, and offers multi-runtime SDKs in languages like Python, Swift, and Java. Voice Builder allows users to create custom voice profiles.*
+
+- ⭐ 8437 stars
 - 💻 Swift
-- 📅 Updated: 2026-05-18
+- 📅 Updated: 2026-05-19
 
-![supertonic](2026/05-18/2026-05-18_daily-top_supertonic.png)
+![supertonic](2026/05-19/2026-05-19_daily-top_supertonic.png)
 
-### 6. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+### 9. [RuView](https://github.com/ruvnet/RuView)
 
 > 🤖 **推荐理由**  
-> *Open Generative AI is a free, open-source studio for AI image and video generation, featuring over 200 models including Flux and Midjourney. Key highlights include no content filters, self-hosting capabilities, and support for text-to-image, image-to-video, and lip-sync generation. Users can automate media workflows with coding agents and enjoy a responsive design for both desktop and mobile. The platform offers a seamless hosted version at muapi.ai, extensive model options, and a customizable experience, ensuring full creative control and data privacy.*
+> *RuView is a cutting-edge WiFi sensing platform that transforms commodity WiFi signals into real-time spatial intelligence, presence detection, and vital sign monitoring without the need for cameras. Utilizing low-cost ESP32 sensors, it detects occupancy, breathing and heart rates, and activity recognition through walls and in darkness. Key features include camera-free pose estimation, environment mapping, and adaptive learning via on-device AI. RuView operates entirely on edge hardware for privacy and efficiency, making it ideal for healthcare, retail, and smart building applications.*
 
-- ⭐ 15282 stars
+- ⭐ 60029 stars
+- 💻 Rust
+- 📅 Updated: 2026-05-19
+
+![RuView](2026/05-19/2026-05-19_daily-top_RuView.png)
+
+### 10. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
+
+> 🤖 **推荐理由**  
+> *Easy-Vibe is a modern coding course designed for beginners, enabling users to learn how to build applications through engaging, step-by-step tutorials. Key features include a beginner-friendly learning map, immersive simulated coding environments, and interactive components that simplify complex concepts like AI integration and RAG workflows. With support for multiple languages and a focus on real-world applications, Easy-Vibe empowers users to transform ideas into tangible products while mastering modern development practices. Join 12,920 stars on GitHub and start your coding journey today!*
+
+- ⭐ 12920 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-05-18
+- 📅 Updated: 2026-05-19
 
-![Open-Generative-AI](2026/05-18/2026-05-18_daily-top_Open-Generative-AI.png)
-
-### 7. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
-
-> 🤖 **推荐理由**  
-> *Easy-Vibe is a beginner-friendly coding course designed to help users master modern programming through interactive tutorials and practical projects. With over 12,000 stars, it offers step-by-step guidance from concept to product launch, covering essential topics like AI integration, full-stack development, and version control. Key features include immersive coding simulations, visual explanations of AI principles, and a comprehensive learning map tailored for various skill levels. The platform encourages collaboration and sharing of user stories, making coding accessible and engaging for everyone.*
-
-- ⭐ 12459 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-05-18
-
-![easy-vibe](2026/05-18/2026-05-18_daily-top_easy-vibe.png)
-
-### 8. [cal.diy](https://github.com/calcom/cal.diy)
-
-> 🤖 **推荐理由**  
-> *Cal.diy is an open-source scheduling platform designed for self-hosting, offering complete control without commercial dependencies. Built with TypeScript, Next.js, and Prisma, it provides essential scheduling features without enterprise functionalities, ensuring a straightforward setup with no license required. Key highlights include 100% MIT licensing, community-driven maintenance, and support for integrations like Google Calendar and Zoom. Ideal for personal and non-production use, Cal.diy empowers users to manage their scheduling infrastructure independently.*
-
-- ⭐ 43358 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-05-18
-
-![cal.diy](2026/05-18/2026-05-18_daily-top_cal.diy.png)
-
-### 9. [OpenCLI](https://github.com/jackwener/OpenCLI)
-
-> 🤖 **推荐理由**  
-> *OpenCLI is a versatile command-line interface (CLI) hub that transforms websites, Electron apps, and local binaries into standardized interfaces for both humans and AI agents. Key features include live browser automation, multi-profile support, and over 100 built-in adapters for popular sites like Twitter, Reddit, and HackerNews. It enables AI agents to navigate, extract data, and execute commands seamlessly using your logged-in browser. Additionally, OpenCLI acts as a CLI hub for tools like Docker and GitHub, providing a unified platform for automation and command execution.*
-
-- ⭐ 21574 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-05-18
-
-![OpenCLI](2026/05-18/2026-05-18_daily-top_OpenCLI.png)
-
-### 10. [listmonk](https://github.com/knadh/listmonk)
-
-> 🤖 **推荐理由**  
-> *listmonk is a high-performance, self-hosted newsletter and mailing list manager designed for ease of use and efficiency. It features a modern dashboard and is encapsulated in a single binary, utilizing PostgreSQL for data storage. Key highlights include quick installation via Docker or as a binary, a rich set of features, and a user-friendly interface built with Vue and Buefy. With over 20,000 stars on GitHub, listmonk is open-source under the AGPLv3 license, making it an excellent choice for developers and organizations looking to manage their mailing lists effectively.*
-
-- ⭐ 20663 stars
-- 💻 Go
-- 📅 Updated: 2026-05-18
-
-![listmonk](2026/05-18/2026-05-18_daily-top_listmonk.png)
+![easy-vibe](2026/05-19/2026-05-19_daily-top_easy-vibe.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-18 04:16:00 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-19 04:10:31 UTC

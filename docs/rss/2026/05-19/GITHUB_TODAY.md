@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-19
 
-![openhuman](2026/05-19/2026-05-19_daily-top_openhuman.png)
+![openhuman](2026-05-19_daily-top_openhuman.png)
 
 ### 2. [OpenWA](https://github.com/rmyndharis/OpenWA)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-19
 
-![OpenWA](2026/05-19/2026-05-19_daily-top_OpenWA.png)
+![OpenWA](2026-05-19_daily-top_OpenWA.png)
 
 ### 3. [agentmemory](https://github.com/rohitg00/agentmemory)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-19
 
-![agentmemory](2026/05-19/2026-05-19_daily-top_agentmemory.png)
+![agentmemory](2026-05-19_daily-top_agentmemory.png)
 
 ### 4. [agent-skills](https://github.com/tech-leads-club/agent-skills)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-19
 
-![agent-skills](2026/05-19/2026-05-19_daily-top_agent-skills.png)
+![agent-skills](2026-05-19_daily-top_agent-skills.png)
 
 ### 5. [codegraph](https://github.com/colbymchenry/codegraph)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-19
 
-![codegraph](2026/05-19/2026-05-19_daily-top_codegraph.png)
+![codegraph](2026-05-19_daily-top_codegraph.png)
 
 ### 6. [ECC](https://github.com/affaan-m/ECC)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-19
 
-![ECC](2026/05-19/2026-05-19_daily-top_ECC.png)
+![ECC](2026-05-19_daily-top_ECC.png)
 
 ### 7. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-19
 
-![Open-Generative-AI](2026/05-19/2026-05-19_daily-top_Open-Generative-AI.png)
+![Open-Generative-AI](2026-05-19_daily-top_Open-Generative-AI.png)
 
 ### 8. [supertonic](https://github.com/supertone-inc/supertonic)
 
@@ -104,7 +104,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-05-19
 
-![supertonic](2026/05-19/2026-05-19_daily-top_supertonic.png)
+![supertonic](2026-05-19_daily-top_supertonic.png)
 
 ### 9. [RuView](https://github.com/ruvnet/RuView)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-19
 
-![RuView](2026/05-19/2026-05-19_daily-top_RuView.png)
+![RuView](2026-05-19_daily-top_RuView.png)
 
 ### 10. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-19
 
-![easy-vibe](2026/05-19/2026-05-19_daily-top_easy-vibe.png)
+![easy-vibe](2026-05-19_daily-top_easy-vibe.png)
 
 ---
 
