@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-05-19
+# 📊 🌟 GitHub Trending Daily - 2026-05-20
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **327251** ⭐ | **45409** 🍴
+**10** Projects | **256717** ⭐ | **29108** 🍴
 
-**Top Languages:** `TypeScript` (4) · `JavaScript` (3) · `Rust` (2)
+**Top Languages:** `TypeScript` (4) · `Rust` (2) · `C++` (1)
 
-**Updated:** 2026-05-19 04:10 UTC
+**Updated:** 2026-05-20 04:11 UTC
 
 **Categories:**
 
@@ -21,112 +21,112 @@
 ### 1. [openhuman](https://github.com/tinyhumansai/openhuman)
 
 > 🤖 **Why Recommend**  
-> *OpenHuman is an open-source personal AI superintelligence, designed for easy integration into daily life. Built with Rust, it features a user-friendly UI, supports 118+ third-party integrations, and employs a Memory Tree for local data storage and retrieval. Key highlights include auto-fetching data every 20 minutes, a built-in knowledge base compatible with Obsidian, and advanced token compression to optimize performance. With native tools for coding, web search, and voice interaction, OpenHuman prioritizes privacy and offers a seamless experience without vendor sprawl.*
+> *OpenHuman is an open-source AI assistant designed to integrate seamlessly into daily life, emphasizing privacy and usability. Key features include a user-friendly interface, over 118 third-party integrations with auto-fetch capabilities, and a unique Memory Tree that organizes user data into a local knowledge base. It offers built-in tools for web scraping, coding, and voice interaction. OpenHuman minimizes vendor sprawl, maintains on-device data security, and provides a persistent memory for enhanced context and efficiency, all while operating under an early beta status.*
 
-- ⭐ 17931 stars
+- ⭐ 21813 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-19
+- 📅 Updated: 2026-05-20
 
-![openhuman](2026/05-19/2026-05-19_daily-top_openhuman.png)
+![openhuman](2026/05-20/2026-05-20_daily-top_openhuman.png)
 
 ### 2. [OpenWA](https://github.com/rmyndharis/OpenWA)
 
 > 🤖 **Why Recommend**  
-> *OpenWA is a free, open-source, self-hosted WhatsApp API Gateway designed for developers seeking full control over their messaging infrastructure. Key features include a pluggable architecture for easy integration with various databases and storage solutions, multi-session support, a modern web dashboard for management, and a comprehensive REST API. It supports text and media messaging, webhooks, and group management. Built with TypeScript and NestJS, OpenWA is Docker-ready, ensuring seamless deployment. With over 3,000 stars on GitHub, it fosters community contributions and offers extensive documentation.*
+> *OpenWA is a free, open-source WhatsApp API Gateway enabling developers to manage their messaging infrastructure without vendor lock-in. Key features include a REST API for messaging, multi-session management, webhooks, and a modern dashboard for visual management. Its pluggable architecture allows easy swapping of databases (SQLite/PostgreSQL), storage backends (Local/S3), and caching layers (Redis). With Docker support for seamless deployment, OpenWA empowers automation and integration, making it ideal for custom WhatsApp solutions.*
 
-- ⭐ 3064 stars
+- ⭐ 4216 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-19
+- 📅 Updated: 2026-05-20
 
-![OpenWA](2026/05-19/2026-05-19_daily-top_OpenWA.png)
+![OpenWA](2026/05-20/2026-05-20_daily-top_OpenWA.png)
 
-### 3. [agentmemory](https://github.com/rohitg00/agentmemory)
+### 3. [codegraph](https://github.com/colbymchenry/codegraph)
 
 > 🤖 **Why Recommend**  
-> *agentmemory is a TypeScript-based persistent memory solution for AI coding agents, boasting over 13,000 stars on GitHub. It eliminates repetitive explanations by capturing interactions and compressing them into searchable memory, enhancing the efficiency of agents like Claude Code and Codex CLI. Key features include automatic observation capture, a hybrid semantic search system, and a real-time viewer for memory management. With 51 tools and extensive API endpoints, agentmemory offers a comprehensive memory toolkit, ensuring continuity across sessions while maintaining privacy.*
+> *CodeGraph is a pre-indexed code knowledge graph designed to enhance tools like Claude Code, Codex, Cursor, and OpenCode. It dramatically reduces tool calls by 94% and accelerates exploration by 77%, all while keeping data 100% local. Key features include smart context building, full-text search, impact analysis, and support for over 19 programming languages. The interactive installer simplifies setup, while automatic syncing ensures the graph remains current. With framework-aware routing, CodeGraph significantly streamlines codebase exploration and understanding.*
 
-- ⭐ 13090 stars
+- ⭐ 6889 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-19
+- 📅 Updated: 2026-05-20
 
-![agentmemory](2026/05-19/2026-05-19_daily-top_agentmemory.png)
+![codegraph](2026/05-20/2026-05-20_daily-top_codegraph.png)
 
-### 4. [agent-skills](https://github.com/tech-leads-club/agent-skills)
+### 4. [agentmemory](https://github.com/rohitg00/agentmemory)
 
 > 🤖 **Why Recommend**  
-> *Agent Skills is a secure, validated registry for AI coding agents, designed to enhance tools like Antigravity, Claude Code, and GitHub Copilot. It offers a library of verified and tested skills, ensuring safety in an ecosystem where many marketplace skills have vulnerabilities. Key features include an interactive CLI for skill installation, comprehensive caching, and a managed library with human-curated prompts. Skills cover various categories such as development, cloud, and automation, allowing users to extend agent capabilities confidently and efficiently.*
+> *Agentmemory is a TypeScript-based memory engine for AI coding agents, boasting over 14,000 stars on GitHub. It enables persistent memory across various agents such as Claude Code, Codex CLI, and Gemini, eliminating the need for repetitive explanations. Key features include automatic observation capture, hybrid semantic search, and a real-time viewer for monitoring memory. With a high retrieval accuracy of 95.2% and significant token savings, Agentmemory provides a robust solution for enhancing AI interactions. It supports multiple integration methods via a flexible MCP server and REST API.*
 
-- ⭐ 4121 stars
+- ⭐ 14331 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-19
+- 📅 Updated: 2026-05-20
 
-![agent-skills](2026/05-19/2026-05-19_daily-top_agent-skills.png)
+![agentmemory](2026/05-20/2026-05-20_daily-top_agentmemory.png)
 
-### 5. [codegraph](https://github.com/colbymchenry/codegraph)
+### 5. [streambert](https://github.com/truelockmc/streambert)
 
 > 🤖 **Why Recommend**  
-> *CodeGraph is a pre-indexed code knowledge graph designed for Claude Code, Codex, Cursor, and OpenCode, achieving 94% fewer tool calls and 77% faster code exploration, all while operating entirely locally. It enables smart context building, full-text search, and impact analysis across 19+ programming languages. Features include framework-aware routing, real-time synchronization, and a seamless setup process. CodeGraph enhances productivity by allowing agents to instantly query a semantic graph of code relationships, optimizing resource usage and response times.*
+> *Streambert is a cross-platform Electron desktop app designed for streaming and downloading movies, TV series, and anime without ads or tracking. Key features include fast streaming and downloading, subtitle management, a customizable interface, and a library to track watched content. Users can access a wide range of media sourced from VidSrc and AniList, ensuring a diverse viewing experience. Streambert prioritizes user privacy and offers trending content discovery, making it an ideal choice for entertainment enthusiasts seeking a streamlined viewing solution.*
 
-- ⭐ 5152 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-05-19
-
-![codegraph](2026/05-19/2026-05-19_daily-top_codegraph.png)
-
-### 6. [ECC](https://github.com/affaan-m/ECC)
-
-> 🤖 **Why Recommend**  
-> *ECC is an advanced performance optimization system for AI agents, enhancing workflows across Claude Code, Codex, Cursor, OpenCode, and more. With over 186,000 stars, it offers a comprehensive suite of features including skills and instincts for continuous learning, memory optimization, security scanning via AgentShield, and production-ready configurations. ECC supports multiple programming languages, features a user-friendly dashboard, and integrates seamlessly with GitHub for collaborative development. Its modular architecture allows for tailored installations, making it ideal for diverse development environments.*
-
-- ⭐ 186674 stars
+- ⭐ 2219 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-05-19
+- 📅 Updated: 2026-05-20
 
-![ECC](2026/05-19/2026-05-19_daily-top_ECC.png)
+![streambert](2026/05-20/2026-05-20_daily-top_streambert.png)
 
-### 7. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
-
-> 🤖 **Why Recommend**  
-> *Open-Generative-AI is a free, open-source platform for AI image and video generation, featuring over 200 models including Flux, Midjourney, and Veo. It offers no content filters, enabling unrestricted creative freedom. Users can generate images, videos, and lip-sync animations with a user-friendly interface, locally or via a hosted version. Key features include multi-image input, a workflow studio for automated media pipelines, and support for local and remote inference engines. Self-hosted and MIT licensed, it prioritizes data privacy and customization.*
-
-- ⭐ 15833 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-05-19
-
-![Open-Generative-AI](2026/05-19/2026-05-19_daily-top_Open-Generative-AI.png)
-
-### 8. [supertonic](https://github.com/supertone-inc/supertonic)
+### 6. [12-factor-agents](https://github.com/humanlayer/12-factor-agents)
 
 > 🤖 **Why Recommend**  
-> *Supertonic is a lightning-fast, on-device multilingual text-to-speech (TTS) system utilizing ONNX Runtime for efficient local inference. It supports 31 languages, providing low-latency synthesis without cloud dependency, ensuring privacy. Key features include a compact 99M-parameter model, 44.1kHz high-quality audio output, and expression tags for natural speech nuances. Supertonic is compatible across various platforms, including desktop and mobile, and offers multi-runtime SDKs in languages like Python, Swift, and Java. Voice Builder allows users to create custom voice profiles.*
+> *12-Factor Agents is a TypeScript project aimed at establishing principles for building reliable LLM-powered applications suitable for production environments. With over 21,000 stars, it emphasizes modular design patterns and integrates 12 key factors to enhance the reliability and scalability of AI agents, including owning prompts, managing context windows, and ensuring state unification. The project encourages community contributions and provides resources for developers seeking to build effective AI solutions. Key highlights include a focus on error management and the seamless integration of human interaction through tool calls.*
 
-- ⭐ 8437 stars
-- 💻 Swift
-- 📅 Updated: 2026-05-19
+- ⭐ 21262 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-20
 
-![supertonic](2026/05-19/2026-05-19_daily-top_supertonic.png)
+![12-factor-agents](2026/05-20/2026-05-20_daily-top_12-factor-agents.png)
 
-### 9. [RuView](https://github.com/ruvnet/RuView)
+### 7. [rtk](https://github.com/rtk-ai/rtk)
 
 > 🤖 **Why Recommend**  
-> *RuView is a cutting-edge WiFi sensing platform that transforms commodity WiFi signals into real-time spatial intelligence, presence detection, and vital sign monitoring without the need for cameras. Utilizing low-cost ESP32 sensors, it detects occupancy, breathing and heart rates, and activity recognition through walls and in darkness. Key features include camera-free pose estimation, environment mapping, and adaptive learning via on-device AI. RuView operates entirely on edge hardware for privacy and efficiency, making it ideal for healthcare, retail, and smart building applications.*
+> *RTK is a high-performance CLI proxy written in Rust that reduces LLM token consumption by 60-90% on common development commands, offering a single binary with zero dependencies. With support for over 100 commands, RTK employs smart filtering, grouping, truncation, and deduplication to optimize outputs before reaching the LLM context. Key features include Git, file management, and test runner integrations, providing analytics for token savings. Designed for developers, it enhances productivity while minimizing costs associated with LLM usage.*
 
-- ⭐ 60029 stars
+- ⭐ 51103 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-19
+- 📅 Updated: 2026-05-20
 
-![RuView](2026/05-19/2026-05-19_daily-top_RuView.png)
+![rtk](2026/05-20/2026-05-20_daily-top_rtk.png)
 
-### 10. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
+### 8. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
 > 🤖 **Why Recommend**  
-> *Easy-Vibe is a modern coding course designed for beginners, enabling users to learn how to build applications through engaging, step-by-step tutorials. Key features include a beginner-friendly learning map, immersive simulated coding environments, and interactive components that simplify complex concepts like AI integration and RAG workflows. With support for multiple languages and a focus on real-world applications, Easy-Vibe empowers users to transform ideas into tangible products while mastering modern development practices. Join 12,920 stars on GitHub and start your coding journey today!*
+> *llama.cpp is a powerful library for large language model (LLM) inference in C/C++, boasting over 111,000 stars on GitHub. It offers a plain C/C++ implementation with no dependencies, optimized for various architectures including ARM, AVX, and RISC-V. Key features include advanced quantization options, custom CUDA kernels, and multimodal support via llama-server. It provides easy installation via different package managers and Docker, along with a user-friendly CLI and HTTP server for model serving. Enhanced with extensive model support and integration tools, llama.cpp aims for high performance across diverse hardware setups.*
 
-- ⭐ 12920 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-05-19
+- ⭐ 111504 stars
+- 💻 C++
+- 📅 Updated: 2026-05-20
 
-![easy-vibe](2026/05-19/2026-05-19_daily-top_easy-vibe.png)
+![llama.cpp](2026/05-20/2026-05-20_daily-top_llama.cpp.png)
+
+### 9. [supertonic](https://github.com/supertone-inc/supertonic)
+
+> 🤖 **Why Recommend**  
+> *Supertonic is a lightning-fast, on-device multilingual text-to-speech (TTS) system that operates using ONNX Runtime, ensuring low-latency synthesis across various platforms, including desktop and mobile. It supports 31 languages with a compact 99M-parameter model, delivering studio-quality 44.1kHz audio. Key features include expression tags for natural speech nuances, zero network dependency, and compatibility with multiple programming languages via SDKs. Supertonic also offers a Voice Builder for custom voice profiles and provides ready-to-use examples for developers.*
+
+- ⭐ 8827 stars
+- 💻 Swift
+- 📅 Updated: 2026-05-20
+
+![supertonic](2026/05-20/2026-05-20_daily-top_supertonic.png)
+
+### 10. [quarkdown](https://github.com/iamgio/quarkdown)
+
+> 🤖 **Why Recommend**  
+> *Quarkdown is a versatile Markdown-based typesetting system that transforms your ideas into documents, presentations, websites, and more. Built in Kotlin, it features a Turing-complete Markdown extension, enabling functions, conditional statements, and dynamic content creation. Quarkdown supports various output formats, including HTML, PDF, and plain text, making it suitable for academic papers, books, and knowledge bases. With fast compilation, live preview, and a robust VS Code extension, Quarkdown empowers users to create complex documents effortlessly. Join its thriving community with over 14,500 stars on GitHub.*
+
+- ⭐ 14553 stars
+- 💻 Kotlin
+- 📅 Updated: 2026-05-20
+
+![quarkdown](2026/05-20/2026-05-20_daily-top_quarkdown.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-19 04:10:31 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-20 04:11:10 UTC

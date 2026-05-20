@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-20
 
-![openhuman](2026/05-20/2026-05-20_daily-top_openhuman.png)
+![openhuman](2026-05-20_daily-top_openhuman.png)
 
 ### 2. [OpenWA](https://github.com/rmyndharis/OpenWA)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-20
 
-![OpenWA](2026/05-20/2026-05-20_daily-top_OpenWA.png)
+![OpenWA](2026-05-20_daily-top_OpenWA.png)
 
 ### 3. [codegraph](https://github.com/colbymchenry/codegraph)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-20
 
-![codegraph](2026/05-20/2026-05-20_daily-top_codegraph.png)
+![codegraph](2026-05-20_daily-top_codegraph.png)
 
 ### 4. [agentmemory](https://github.com/rohitg00/agentmemory)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-20
 
-![agentmemory](2026/05-20/2026-05-20_daily-top_agentmemory.png)
+![agentmemory](2026-05-20_daily-top_agentmemory.png)
 
 ### 5. [streambert](https://github.com/truelockmc/streambert)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-20
 
-![streambert](2026/05-20/2026-05-20_daily-top_streambert.png)
+![streambert](2026-05-20_daily-top_streambert.png)
 
 ### 6. [12-factor-agents](https://github.com/humanlayer/12-factor-agents)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-20
 
-![12-factor-agents](2026/05-20/2026-05-20_daily-top_12-factor-agents.png)
+![12-factor-agents](2026-05-20_daily-top_12-factor-agents.png)
 
 ### 7. [rtk](https://github.com/rtk-ai/rtk)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-20
 
-![rtk](2026/05-20/2026-05-20_daily-top_rtk.png)
+![rtk](2026-05-20_daily-top_rtk.png)
 
 ### 8. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -104,7 +104,7 @@
 - 💻 C++
 - 📅 Updated: 2026-05-20
 
-![llama.cpp](2026/05-20/2026-05-20_daily-top_llama.cpp.png)
+![llama.cpp](2026-05-20_daily-top_llama.cpp.png)
 
 ### 9. [supertonic](https://github.com/supertone-inc/supertonic)
 
@@ -115,7 +115,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-05-20
 
-![supertonic](2026/05-20/2026-05-20_daily-top_supertonic.png)
+![supertonic](2026-05-20_daily-top_supertonic.png)
 
 ### 10. [quarkdown](https://github.com/iamgio/quarkdown)
 
@@ -126,7 +126,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-05-20
 
-![quarkdown](2026/05-20/2026-05-20_daily-top_quarkdown.png)
+![quarkdown](2026-05-20_daily-top_quarkdown.png)
 
 ---
 
