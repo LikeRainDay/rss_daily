@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-21
 
-![openhuman](2026/05-21/2026-05-21_daily-top_openhuman.png)
+![openhuman](2026-05-21_daily-top_openhuman.png)
 
 ### 2. [codegraph](https://github.com/colbymchenry/codegraph)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-21
 
-![codegraph](2026/05-21/2026-05-21_daily-top_codegraph.png)
+![codegraph](2026-05-21_daily-top_codegraph.png)
 
 ### 3. [rtk](https://github.com/rtk-ai/rtk)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-21
 
-![rtk](2026/05-21/2026-05-21_daily-top_rtk.png)
+![rtk](2026-05-21_daily-top_rtk.png)
 
 ### 4. [agentmemory](https://github.com/rohitg00/agentmemory)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-21
 
-![agentmemory](2026/05-21/2026-05-21_daily-top_agentmemory.png)
+![agentmemory](2026-05-21_daily-top_agentmemory.png)
 
 ### 5. [OpenWA](https://github.com/rmyndharis/OpenWA)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-21
 
-![OpenWA](2026/05-21/2026-05-21_daily-top_OpenWA.png)
+![OpenWA](2026-05-21_daily-top_OpenWA.png)
 
 ### 6. [streambert](https://github.com/truelockmc/streambert)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-21
 
-![streambert](2026/05-21/2026-05-21_daily-top_streambert.png)
+![streambert](2026-05-21_daily-top_streambert.png)
 
 ### 7. [files.md](https://github.com/zakirullin/files.md)
 
@@ -93,7 +93,7 @@
 - 💻 Go
 - 📅 Updated: 2026-05-21
 
-![files.md](2026/05-21/2026-05-21_daily-top_files.md.png)
+![files.md](2026-05-21_daily-top_files.md.png)
 
 ### 8. [12-factor-agents](https://github.com/humanlayer/12-factor-agents)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-21
 
-![12-factor-agents](2026/05-21/2026-05-21_daily-top_12-factor-agents.png)
+![12-factor-agents](2026-05-21_daily-top_12-factor-agents.png)
 
 ### 9. [easy-vibe](https://github.com/datawhalechina/easy-vibe)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-21
 
-![easy-vibe](2026/05-21/2026-05-21_daily-top_easy-vibe.png)
+![easy-vibe](2026-05-21_daily-top_easy-vibe.png)
 
 ### 10. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-21
 
-![clash-verge-rev](2026/05-21/2026-05-21_daily-top_clash-verge-rev.png)
+![clash-verge-rev](2026-05-21_daily-top_clash-verge-rev.png)
 
 ---
 
