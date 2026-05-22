@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-22
 
-![codegraph](2026/05-22/2026-05-22_daily-top_codegraph.png)
+![codegraph](2026-05-22_daily-top_codegraph.png)
 
 ### 2. [openhuman](https://github.com/tinyhumansai/openhuman)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-22
 
-![openhuman](2026/05-22/2026-05-22_daily-top_openhuman.png)
+![openhuman](2026-05-22_daily-top_openhuman.png)
 
 ### 3. [RuView](https://github.com/ruvnet/RuView)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-22
 
-![RuView](2026/05-22/2026-05-22_daily-top_RuView.png)
+![RuView](2026-05-22_daily-top_RuView.png)
 
 ### 4. [streambert](https://github.com/truelockmc/streambert)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-22
 
-![streambert](2026/05-22/2026-05-22_daily-top_streambert.png)
+![streambert](2026-05-22_daily-top_streambert.png)
 
 ### 5. [OpenWA](https://github.com/rmyndharis/OpenWA)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-22
 
-![OpenWA](2026/05-22/2026-05-22_daily-top_OpenWA.png)
+![OpenWA](2026-05-22_daily-top_OpenWA.png)
 
 ### 6. [Understand-Anything](https://github.com/Lum1104/Understand-Anything)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-22
 
-![Understand-Anything](2026/05-22/2026-05-22_daily-top_Understand-Anything.png)
+![Understand-Anything](2026-05-22_daily-top_Understand-Anything.png)
 
 ### 7. [rtk](https://github.com/rtk-ai/rtk)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-22
 
-![rtk](2026/05-22/2026-05-22_daily-top_rtk.png)
+![rtk](2026-05-22_daily-top_rtk.png)
 
 ### 8. [multica](https://github.com/multica-ai/multica)
 
@@ -105,7 +105,7 @@
 - 💻 Go
 - 📅 Updated: 2026-05-22
 
-![multica](2026/05-22/2026-05-22_daily-top_multica.png)
+![multica](2026-05-22_daily-top_multica.png)
 
 ### 9. [oh-my-pi](https://github.com/can1357/oh-my-pi)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-22
 
-![oh-my-pi](2026/05-22/2026-05-22_daily-top_oh-my-pi.png)
+![oh-my-pi](2026-05-22_daily-top_oh-my-pi.png)
 
 ### 10. [presenton](https://github.com/presenton/presenton)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-22
 
-![presenton](2026/05-22/2026-05-22_daily-top_presenton.png)
+![presenton](2026-05-22_daily-top_presenton.png)
 
 ---
 
