@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-23
 
-![codegraph](2026/05-23/2026-05-23_daily-top_codegraph.png)
+![codegraph](2026-05-23_daily-top_codegraph.png)
 
 ### 2. [Understand-Anything](https://github.com/Lum1104/Understand-Anything)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-23
 
-![Understand-Anything](2026/05-23/2026-05-23_daily-top_Understand-Anything.png)
+![Understand-Anything](2026-05-23_daily-top_Understand-Anything.png)
 
 ### 3. [RuView](https://github.com/ruvnet/RuView)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-23
 
-![RuView](2026/05-23/2026-05-23_daily-top_RuView.png)
+![RuView](2026-05-23_daily-top_RuView.png)
 
 ### 4. [multica](https://github.com/multica-ai/multica)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-23
 
-![multica](2026/05-23/2026-05-23_daily-top_multica.png)
+![multica](2026-05-23_daily-top_multica.png)
 
 ### 5. [streambert](https://github.com/truelockmc/streambert)
 
@@ -72,7 +72,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-23
 
-![streambert](2026/05-23/2026-05-23_daily-top_streambert.png)
+![streambert](2026-05-23_daily-top_streambert.png)
 
 ### 6. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-23
 
-![chrome-devtools-mcp](2026/05-23/2026-05-23_daily-top_chrome-devtools-mcp.png)
+![chrome-devtools-mcp](2026-05-23_daily-top_chrome-devtools-mcp.png)
 
 ### 7. [opencode](https://github.com/anomalyco/opencode)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-23
 
-![opencode](2026/05-23/2026-05-23_daily-top_opencode.png)
+![opencode](2026-05-23_daily-top_opencode.png)
 
 ### 8. [oh-my-pi](https://github.com/can1357/oh-my-pi)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-23
 
-![oh-my-pi](2026/05-23/2026-05-23_daily-top_oh-my-pi.png)
+![oh-my-pi](2026-05-23_daily-top_oh-my-pi.png)
 
 ### 9. [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 
@@ -116,7 +116,7 @@
 - 💻 Java
 - 📅 Updated: 2026-05-23
 
-![awesome-system-design-resources](2026/05-23/2026-05-23_daily-top_awesome-system-design-resources.png)
+![awesome-system-design-resources](2026-05-23_daily-top_awesome-system-design-resources.png)
 
 ### 10. [presenton](https://github.com/presenton/presenton)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-23
 
-![presenton](2026/05-23/2026-05-23_daily-top_presenton.png)
+![presenton](2026-05-23_daily-top_presenton.png)
 
 ---
 
