@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-24
 
-![codegraph](2026/05-24/2026-05-24_daily-top_codegraph.png)
+![codegraph](2026-05-24_daily-top_codegraph.png)
 
 ### 2. [Understand-Anything](https://github.com/Lum1104/Understand-Anything)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-24
 
-![Understand-Anything](2026/05-24/2026-05-24_daily-top_Understand-Anything.png)
+![Understand-Anything](2026-05-24_daily-top_Understand-Anything.png)
 
 ### 3. [RuView](https://github.com/ruvnet/RuView)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-24
 
-![RuView](2026/05-24/2026-05-24_daily-top_RuView.png)
+![RuView](2026-05-24_daily-top_RuView.png)
 
 ### 4. [cmux](https://github.com/manaflow-ai/cmux)
 
@@ -60,7 +60,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-05-24
 
-![cmux](2026/05-24/2026-05-24_daily-top_cmux.png)
+![cmux](2026-05-24_daily-top_cmux.png)
 
 ### 5. [oh-my-pi](https://github.com/can1357/oh-my-pi)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-24
 
-![oh-my-pi](2026/05-24/2026-05-24_daily-top_oh-my-pi.png)
+![oh-my-pi](2026-05-24_daily-top_oh-my-pi.png)
 
 ### 6. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-24
 
-![chrome-devtools-mcp](2026/05-24/2026-05-24_daily-top_chrome-devtools-mcp.png)
+![chrome-devtools-mcp](2026-05-24_daily-top_chrome-devtools-mcp.png)
 
 ### 7. [multica](https://github.com/multica-ai/multica)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-24
 
-![multica](2026/05-24/2026-05-24_daily-top_multica.png)
+![multica](2026-05-24_daily-top_multica.png)
 
 ### 8. [opencode](https://github.com/anomalyco/opencode)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-24
 
-![opencode](2026/05-24/2026-05-24_daily-top_opencode.png)
+![opencode](2026-05-24_daily-top_opencode.png)
 
 ### 9. [frigate](https://github.com/blakeblackshear/frigate)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-24
 
-![frigate](2026/05-24/2026-05-24_daily-top_frigate.png)
+![frigate](2026-05-24_daily-top_frigate.png)
 
 ### 10. [presenton](https://github.com/presenton/presenton)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-24
 
-![presenton](2026/05-24/2026-05-24_daily-top_presenton.png)
+![presenton](2026-05-24_daily-top_presenton.png)
 
 ---
 
