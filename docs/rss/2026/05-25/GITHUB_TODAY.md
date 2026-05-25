@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-25
 
-![Understand-Anything](2026/05-25/2026-05-25_daily-top_Understand-Anything.png)
+![Understand-Anything](2026-05-25_daily-top_Understand-Anything.png)
 
 ### 2. [codegraph](https://github.com/colbymchenry/codegraph)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-25
 
-![codegraph](2026/05-25/2026-05-25_daily-top_codegraph.png)
+![codegraph](2026-05-25_daily-top_codegraph.png)
 
 ### 3. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-25
 
-![cc-switch](2026/05-25/2026-05-25_daily-top_cc-switch.png)
+![cc-switch](2026-05-25_daily-top_cc-switch.png)
 
 ### 4. [RuView](https://github.com/ruvnet/RuView)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-25
 
-![RuView](2026/05-25/2026-05-25_daily-top_RuView.png)
+![RuView](2026-05-25_daily-top_RuView.png)
 
 ### 5. [cmux](https://github.com/manaflow-ai/cmux)
 
@@ -71,7 +71,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-05-25
 
-![cmux](2026/05-25/2026-05-25_daily-top_cmux.png)
+![cmux](2026-05-25_daily-top_cmux.png)
 
 ### 6. [multica](https://github.com/multica-ai/multica)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-25
 
-![multica](2026/05-25/2026-05-25_daily-top_multica.png)
+![multica](2026-05-25_daily-top_multica.png)
 
 ### 7. [presenton](https://github.com/presenton/presenton)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-25
 
-![presenton](2026/05-25/2026-05-25_daily-top_presenton.png)
+![presenton](2026-05-25_daily-top_presenton.png)
 
 ### 8. [pi](https://github.com/earendil-works/pi)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-25
 
-![pi](2026/05-25/2026-05-25_daily-top_pi.png)
+![pi](2026-05-25_daily-top_pi.png)
 
 ### 9. [oh-my-pi](https://github.com/can1357/oh-my-pi)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-25
 
-![oh-my-pi](2026/05-25/2026-05-25_daily-top_oh-my-pi.png)
+![oh-my-pi](2026-05-25_daily-top_oh-my-pi.png)
 
 ### 10. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-25
 
-![chrome-devtools-mcp](2026/05-25/2026-05-25_daily-top_chrome-devtools-mcp.png)
+![chrome-devtools-mcp](2026-05-25_daily-top_chrome-devtools-mcp.png)
 
 ---
 
