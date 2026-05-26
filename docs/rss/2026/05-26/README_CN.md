@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-26
 
-![Understand-Anything](2026/05-26/2026-05-26_daily-top_Understand-Anything.png)
+![Understand-Anything](2026-05-26_daily-top_Understand-Anything.png)
 
 ### 2. [codegraph](https://github.com/colbymchenry/codegraph)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-26
 
-![codegraph](2026/05-26/2026-05-26_daily-top_codegraph.png)
+![codegraph](2026-05-26_daily-top_codegraph.png)
 
 ### 3. [ECC](https://github.com/affaan-m/ECC)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-26
 
-![ECC](2026/05-26/2026-05-26_daily-top_ECC.png)
+![ECC](2026-05-26_daily-top_ECC.png)
 
 ### 4. [pi](https://github.com/earendil-works/pi)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-26
 
-![pi](2026/05-26/2026-05-26_daily-top_pi.png)
+![pi](2026-05-26_daily-top_pi.png)
 
 ### 5. [multica](https://github.com/multica-ai/multica)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-26
 
-![multica](2026/05-26/2026-05-26_daily-top_multica.png)
+![multica](2026-05-26_daily-top_multica.png)
 
 ### 6. [gstack](https://github.com/garrytan/gstack)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-26
 
-![gstack](2026/05-26/2026-05-26_daily-top_gstack.png)
+![gstack](2026-05-26_daily-top_gstack.png)
 
 ### 7. [cmux](https://github.com/manaflow-ai/cmux)
 
@@ -94,7 +94,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-05-26
 
-![cmux](2026/05-26/2026-05-26_daily-top_cmux.png)
+![cmux](2026-05-26_daily-top_cmux.png)
 
 ### 8. [codex](https://github.com/openai/codex)
 
@@ -105,7 +105,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-26
 
-![codex](2026/05-26/2026-05-26_daily-top_codex.png)
+![codex](2026-05-26_daily-top_codex.png)
 
 ### 9. [supertonic](https://github.com/supertone-inc/supertonic)
 
@@ -116,7 +116,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-05-26
 
-![supertonic](2026/05-26/2026-05-26_daily-top_supertonic.png)
+![supertonic](2026-05-26_daily-top_supertonic.png)
 
 ### 10. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -127,7 +127,7 @@
 - 💻 C++
 - 📅 Updated: 2026-05-26
 
-![llama.cpp](2026/05-26/2026-05-26_daily-top_llama.cpp.png)
+![llama.cpp](2026-05-26_daily-top_llama.cpp.png)
 
 ---
 
