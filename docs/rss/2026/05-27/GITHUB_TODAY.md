@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-27
 
-![Understand-Anything](2026/05-27/2026-05-27_daily-top_Understand-Anything.png)
+![Understand-Anything](2026-05-27_daily-top_Understand-Anything.png)
 
 ### 2. [codegraph](https://github.com/colbymchenry/codegraph)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-27
 
-![codegraph](2026/05-27/2026-05-27_daily-top_codegraph.png)
+![codegraph](2026-05-27_daily-top_codegraph.png)
 
 ### 3. [ECC](https://github.com/affaan-m/ECC)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-27
 
-![ECC](2026/05-27/2026-05-27_daily-top_ECC.png)
+![ECC](2026-05-27_daily-top_ECC.png)
 
 ### 4. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-27
 
-![cc-switch](2026/05-27/2026-05-27_daily-top_cc-switch.png)
+![cc-switch](2026-05-27_daily-top_cc-switch.png)
 
 ### 5. [pi](https://github.com/earendil-works/pi)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-27
 
-![pi](2026/05-27/2026-05-27_daily-top_pi.png)
+![pi](2026-05-27_daily-top_pi.png)
 
 ### 6. [gstack](https://github.com/garrytan/gstack)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-27
 
-![gstack](2026/05-27/2026-05-27_daily-top_gstack.png)
+![gstack](2026-05-27_daily-top_gstack.png)
 
 ### 7. [nango](https://github.com/NangoHQ/nango)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-27
 
-![nango](2026/05-27/2026-05-27_daily-top_nango.png)
+![nango](2026-05-27_daily-top_nango.png)
 
 ### 8. [awesome-free-apps](https://github.com/Axorax/awesome-free-apps)
 
@@ -105,7 +105,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-27
 
-![awesome-free-apps](2026/05-27/2026-05-27_daily-top_awesome-free-apps.png)
+![awesome-free-apps](2026-05-27_daily-top_awesome-free-apps.png)
 
 ### 9. [CodeWhale](https://github.com/Hmbown/CodeWhale)
 
@@ -116,7 +116,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-27
 
-![CodeWhale](2026/05-27/2026-05-27_daily-top_CodeWhale.png)
+![CodeWhale](2026-05-27_daily-top_CodeWhale.png)
 
 ### 10. [codex](https://github.com/openai/codex)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-27
 
-![codex](2026/05-27/2026-05-27_daily-top_codex.png)
+![codex](2026-05-27_daily-top_codex.png)
 
 ---
 
