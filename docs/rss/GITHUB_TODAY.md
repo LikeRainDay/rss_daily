@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-05-27
+# 📊 🌟 GitHub Trending Daily - 2026-05-28
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **636183** ⭐ | **78625** 🍴
+**10** Projects | **634308** ⭐ | **77423** 🍴
 
-**Top Languages:** `TypeScript` (5) · `Rust` (3) · `JavaScript` (2)
+**Top Languages:** `TypeScript` (7) · `JavaScript` (2) · `Rust` (1)
 
-**Updated:** 2026-05-27 04:24 UTC
+**Updated:** 2026-05-28 04:14 UTC
 
 **Categories:**
 
@@ -21,113 +21,113 @@
 ### 1. [Understand-Anything](https://github.com/Lum1104/Understand-Anything)
 
 > 🤖 **Why Recommend**  
-> *Understand-Anything transforms codebases into interactive knowledge graphs, enabling users to explore, search, and ask questions about their projects. It integrates with platforms like Claude Code, Codex, Copilot, and Gemini CLI. Key features include guided tours, fuzzy search, impact analysis, and domain visualization. The tool supports multi-agent analysis to create detailed graphs of files, functions, and dependencies, enhancing understanding of complex systems. With over 36,500 stars, it aims to improve code comprehension and streamline onboarding processes.*
+> *Understand-Anything transforms codebases into interactive knowledge graphs, enabling users to explore, search, and ask questions about their code. Key features include guided tours, fuzzy and semantic search, impact analysis, and adaptive UI for various user roles. The project supports multiple AI coding platforms, such as Claude Code, Codex, and Copilot, and offers a live demo for hands-on experience. With over 40,000 stars, it emphasizes understanding through visual representation, fostering better onboarding and collaboration.*
 
-- ⭐ 36597 stars
+- ⭐ 40576 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-27
+- 📅 Updated: 2026-05-28
 
-![Understand-Anything](2026/05-27/2026-05-27_daily-top_Understand-Anything.png)
+![Understand-Anything](2026/05-28/2026-05-28_daily-top_Understand-Anything.png)
 
-### 2. [codegraph](https://github.com/colbymchenry/codegraph)
+### 2. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **Why Recommend**  
-> *CodeGraph is a pre-indexed code knowledge graph designed to enhance AI coding agents like Claude Code, Codex, and Cursor. It enables approximately 35% cost savings, 70% fewer tool calls, and 100% local operation without the need for external services. Key features include smart context building, full-text search, impact analysis, and support for over 20 programming languages. Its auto-syncing capability ensures the knowledge graph remains up-to-date as code changes. CodeGraph simplifies code exploration, making it faster and more efficient for developers.*
+> *ECC is a powerful performance optimization system designed for AI agents like Claude Code, Codex, and Cursor, featuring over 61 agents and 246 skills. It emphasizes skills, instincts, memory optimization, continuous learning, and security scanning. Key highlights include a comprehensive dashboard, multi-agent orchestration, and support for various programming languages. ECC is backed by a robust community, offers extensive documentation, and integrates seamlessly with GitHub and other tools. With a focus on research-first development, it streamlines workflows and enhances productivity in AI-driven tasks.*
 
-- ⭐ 28266 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-05-27
-
-![codegraph](2026/05-27/2026-05-27_daily-top_codegraph.png)
-
-### 3. [ECC](https://github.com/affaan-m/ECC)
-
-> 🤖 **Why Recommend**  
-> *ECC is a performance optimization system for AI agents, integrating skills, memory optimization, security scanning, and continuous learning. It supports multiple platforms including Claude Code, Codex, Cursor, and OpenCode. Key features include 61 agents for task delegation, 246 reusable skills, and advanced security auditing via AgentShield. The system is designed for production readiness, facilitating efficient development workflows. With a user-friendly dashboard and extensive documentation, ECC empowers developers to optimize AI interactions effectively.*
-
-- ⭐ 194731 stars
+- ⭐ 196240 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-05-27
+- 📅 Updated: 2026-05-28
 
-![ECC](2026/05-27/2026-05-27_daily-top_ECC.png)
+![ECC](2026/05-28/2026-05-28_daily-top_ECC.png)
 
-### 4. [cc-switch](https://github.com/farion1231/cc-switch)
+### 3. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *CC Switch is a cross-platform desktop assistant for managing multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. Key features include unified management with over 50 built-in provider presets, one-click switching, and a visual interface for easy configuration. Users benefit from cloud sync, session management, and detailed usage tracking. Built with Rust and Tauri, it ensures performance and reliability across Windows, macOS, and Linux. The project has garnered significant attention with over 81,000 stars on GitHub. Visit ccswitch.io for more details.*
+> *CC Switch is a cross-platform desktop assistant designed to manage multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw, from a single interface. Key features include over 50 provider presets for easy configuration, unified management of MCP and Skills across apps, and a quick-switch system tray access. It supports cloud sync, local proxy for failover, and usage tracking. Built with Rust and Tauri, CC Switch is available for Windows, macOS, and Linux, streamlining AI-powered coding workflows. Visit ccswitch.io for more details.*
 
-- ⭐ 81958 stars
+- ⭐ 82964 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-27
+- 📅 Updated: 2026-05-28
 
-![cc-switch](2026/05-27/2026-05-27_daily-top_cc-switch.png)
+![cc-switch](2026/05-28/2026-05-28_daily-top_cc-switch.png)
 
-### 5. [pi](https://github.com/earendil-works/pi)
-
-> 🤖 **Why Recommend**  
-> *Pi is an AI agent toolkit featuring an interactive coding agent CLI, a unified multi-provider LLM API, and tools for both terminal and web UI development. With packages like `pi-coding-agent`, `pi-agent-core`, and `pi-ai`, it offers robust runtime capabilities, tool management, and integration with leading AI providers like OpenAI and Google. Key highlights include Slack bot integration, community sharing of coding sessions for real-world learning, and a strong focus on supply-chain security. Visit pi.dev for demos and documentation.*
-
-- ⭐ 55756 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-05-27
-
-![pi](2026/05-27/2026-05-27_daily-top_pi.png)
-
-### 6. [gstack](https://github.com/garrytan/gstack)
+### 4. [pi](https://github.com/earendil-works/pi)
 
 > 🤖 **Why Recommend**  
-> *gstack is an open-source software factory that empowers founders and technical leaders to ship products efficiently using AI-driven tools. With 23 specialized skills, it functions like a virtual team, covering roles such as CEO, Designer, and QA. Key features include structured planning, automated code reviews, real-time QA, and seamless deployment processes. gstack leverages Claude Code to enhance productivity, allowing users to manage multiple sprints simultaneously. Its integration with AI agents simplifies complex workflows, making it an invaluable resource for startups and developers.*
+> *Pi is an AI agent toolkit featuring an interactive coding agent CLI, a unified multi-provider LLM API, and robust TUI and web UI libraries. With over 56,000 stars, it serves as a comprehensive platform for building and managing AI agents. Key components include the coding agent for CLI interactions, an agent runtime for state management, and Slack automation capabilities. The project encourages sharing open-source coding sessions to enhance AI performance. Visit pi.dev for demos and documentation to explore its full potential.*
 
-- ⭐ 103324 stars
+- ⭐ 56472 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-27
+- 📅 Updated: 2026-05-28
 
-![gstack](2026/05-27/2026-05-27_daily-top_gstack.png)
+![pi](2026/05-28/2026-05-28_daily-top_pi.png)
 
-### 7. [nango](https://github.com/NangoHQ/nango)
+### 5. [awesome-free-apps](https://github.com/Axorax/awesome-free-apps)
+
+> 🤖 **Why Recommend**  
+> *"awesome-free-apps" is a curated repository featuring an extensive collection of the best free applications for PC and mobile platforms. With over 5,900 stars, it categorizes apps into various sections including audio, communication, graphics, and security tools, among others. Users can filter apps by operating system (Windows, macOS, Linux) and criteria like open-source or recommended options. The project emphasizes community contributions and offers a mobile version, making it a valuable resource for discovering high-quality software across diverse needs.*
+
+- ⭐ 5976 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-05-28
+
+![awesome-free-apps](2026/05-28/2026-05-28_daily-top_awesome-free-apps.png)
+
+### 6. [claude-mem](https://github.com/thedotmack/claude-mem)
+
+> 🤖 **Why Recommend**  
+> *Claude-Mem is a persistent memory system designed for AI agents like Claude Code, enabling seamless context retention across sessions. Key features include automatic observation capture, semantic summary generation, and skill-based search capabilities. It offers a web viewer for real-time memory access and supports various integrations, including OpenClaw and Gemini CLI. With privacy controls and a user-friendly setup, Claude-Mem enhances project continuity, allowing agents to leverage past interactions effectively. This TypeScript-based project has gained significant popularity with over 79,000 stars on GitHub.*
+
+- ⭐ 79199 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-28
+
+![claude-mem](2026/05-28/2026-05-28_daily-top_claude-mem.png)
+
+### 7. [OpenStock](https://github.com/Open-Dev-Society/OpenStock)
+
+> 🤖 **Why Recommend**  
+> *OpenStock is an open-source stock market platform designed as a free alternative to costly services. Key features include real-time price tracking, personalized alerts, and detailed company insights. Built using Next.js, TypeScript, and MongoDB, it offers user authentication, a customizable watchlist, and integrated market data via Finnhub and TradingView. OpenStock emphasizes accessibility and community engagement, ensuring that knowledge and tools are available to everyone. It is forever free and licensed under AGPL-3.0, promoting transparency and collaboration.*
+
+- ⭐ 12477 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-28
+
+![OpenStock](2026/05-28/2026-05-28_daily-top_OpenStock.png)
+
+### 8. [twenty](https://github.com/twentyhq/twenty)
+
+> 🤖 **Why Recommend**  
+> *Twenty is an open-source CRM designed for AI, offering a customizable solution that adapts to complex business needs. Key features include the ability to define objects, fields, and views as code, facilitating rapid app development. Users can quickly set up a workspace via the cloud or self-host using Docker. With a robust stack including TypeScript, NestJS, and PostgreSQL, Twenty provides essential CRM tools and AI-driven agents. Join the community for ongoing development and support through resources like documentation, Discord, and a comprehensive user guide.*
+
+- ⭐ 47412 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-28
+
+![twenty](2026/05-28/2026-05-28_daily-top_twenty.png)
+
+### 9. [gstack](https://github.com/garrytan/gstack)
+
+> 🤖 **Why Recommend**  
+> *gstack is an open-source software factory designed to enhance productivity for founders, CEOs, and engineers by utilizing AI-driven tools. It offers 23 specialized roles, including CEO, Designer, and QA Lead, enabling users to seamlessly manage the entire product development lifecycle: from planning to shipping. Key features include automated reviews, real-time QA testing, and a visual design process. With quick setup and integration with multiple AI agents, gstack empowers users to ship products at unprecedented speeds, transforming individual efforts into a coordinated team-like workflow.*
+
+- ⭐ 103726 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-28
+
+![gstack](2026/05-28/2026-05-28_daily-top_gstack.png)
+
+### 10. [nango](https://github.com/NangoHQ/nango)
 
 > 🤖 **Why Recommend**  
 > *Build product integrations with AI.. popular project, actively maintained, recently updated*
 
-- ⭐ 8994 stars
-- 🍴 889 forks
+- ⭐ 9266 stars
+- 🍴 921 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-05-27
+- 📅 Updated: 2026-05-28
 
-![nango](2026/05-27/2026-05-27_daily-top_nango.png)
-
-### 8. [awesome-free-apps](https://github.com/Axorax/awesome-free-apps)
-
-> 🤖 **Why Recommend**  
-> *awesome-free-apps is a curated collection of the best free applications for PC and mobile, boasting over 5,392 stars on GitHub. The project categorizes software into various sections, including audio, communication, developer tools, graphics, and more, allowing users to filter by platform (Windows, macOS, Linux, Android, iOS) and features (open-source, recommended). Key highlights include robust tools for productivity, media management, and security, alongside a strong focus on user contributions and community support.*
-
-- ⭐ 5392 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-05-27
-
-![awesome-free-apps](2026/05-27/2026-05-27_daily-top_awesome-free-apps.png)
-
-### 9. [CodeWhale](https://github.com/Hmbown/CodeWhale)
-
-> 🤖 **Why Recommend**  
-> *CodeWhale is a powerful terminal coding agent for DeepSeek V4, designed to enhance coding workflows. It features a dual binary setup with `codewhale` for command dispatch and `codewhale-tui` for interactive sessions. Key highlights include auto mode for dynamic model selection, a structured authority system to manage conflicting information, and support for concurrent sub-agents for multitasking. With real-time diagnostics, version control snapshots, and customizable configurations, CodeWhale streamlines coding and debugging, making it an essential tool for developers.*
-
-- ⭐ 35126 stars
-- 💻 Rust
-- 📅 Updated: 2026-05-27
-
-![CodeWhale](2026/05-27/2026-05-27_daily-top_CodeWhale.png)
-
-### 10. [codex](https://github.com/openai/codex)
-
-> 🤖 **Why Recommend**  
-> *Codex is a lightweight coding agent from OpenAI that operates directly in your terminal. With over 86,000 stars on GitHub, it offers a seamless coding experience for developers. Users can install Codex CLI easily on Mac, Linux, or Windows via scripts or package managers. Codex supports integration with popular IDEs like VS Code and provides a desktop app experience. Signing in with a ChatGPT account enhances functionality, while API key access is available for additional setup. Comprehensive documentation and open-source contributions are encouraged.*
-
-- ⭐ 86039 stars
-- 💻 Rust
-- 📅 Updated: 2026-05-27
-
-![codex](2026/05-27/2026-05-27_daily-top_codex.png)
+![nango](2026/05-28/2026-05-28_daily-top_nango.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-27 04:24:05 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-28 04:14:24 UTC

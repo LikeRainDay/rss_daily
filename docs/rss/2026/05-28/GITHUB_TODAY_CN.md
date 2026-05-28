@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-28
 
-![Understand-Anything](2026/05-28/2026-05-28_daily-top_Understand-Anything.png)
+![Understand-Anything](2026-05-28_daily-top_Understand-Anything.png)
 
 ### 2. [ECC](https://github.com/affaan-m/ECC)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-28
 
-![ECC](2026/05-28/2026-05-28_daily-top_ECC.png)
+![ECC](2026-05-28_daily-top_ECC.png)
 
 ### 3. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-28
 
-![cc-switch](2026/05-28/2026-05-28_daily-top_cc-switch.png)
+![cc-switch](2026-05-28_daily-top_cc-switch.png)
 
 ### 4. [pi](https://github.com/earendil-works/pi)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-28
 
-![pi](2026/05-28/2026-05-28_daily-top_pi.png)
+![pi](2026-05-28_daily-top_pi.png)
 
 ### 5. [awesome-free-apps](https://github.com/Axorax/awesome-free-apps)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-28
 
-![awesome-free-apps](2026/05-28/2026-05-28_daily-top_awesome-free-apps.png)
+![awesome-free-apps](2026-05-28_daily-top_awesome-free-apps.png)
 
 ### 6. [claude-mem](https://github.com/thedotmack/claude-mem)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-28
 
-![claude-mem](2026/05-28/2026-05-28_daily-top_claude-mem.png)
+![claude-mem](2026-05-28_daily-top_claude-mem.png)
 
 ### 7. [OpenStock](https://github.com/Open-Dev-Society/OpenStock)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-28
 
-![OpenStock](2026/05-28/2026-05-28_daily-top_OpenStock.png)
+![OpenStock](2026-05-28_daily-top_OpenStock.png)
 
 ### 8. [twenty](https://github.com/twentyhq/twenty)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-28
 
-![twenty](2026/05-28/2026-05-28_daily-top_twenty.png)
+![twenty](2026-05-28_daily-top_twenty.png)
 
 ### 9. [gstack](https://github.com/garrytan/gstack)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-28
 
-![gstack](2026/05-28/2026-05-28_daily-top_gstack.png)
+![gstack](2026-05-28_daily-top_gstack.png)
 
 ### 10. [nango](https://github.com/NangoHQ/nango)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-28
 
-![nango](2026/05-28/2026-05-28_daily-top_nango.png)
+![nango](2026-05-28_daily-top_nango.png)
 
 ---
 
