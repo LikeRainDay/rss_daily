@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-29
 
-![Understand-Anything](2026/05-29/2026-05-29_daily-top_Understand-Anything.png)
+![Understand-Anything](2026-05-29_daily-top_Understand-Anything.png)
 
 ### 2. [ECC](https://github.com/affaan-m/ECC)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-29
 
-![ECC](2026/05-29/2026-05-29_daily-top_ECC.png)
+![ECC](2026-05-29_daily-top_ECC.png)
 
 ### 3. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-29
 
-![cc-switch](2026/05-29/2026-05-29_daily-top_cc-switch.png)
+![cc-switch](2026-05-29_daily-top_cc-switch.png)
 
 ### 4. [liteparse](https://github.com/run-llama/liteparse)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-29
 
-![liteparse](2026/05-29/2026-05-29_daily-top_liteparse.png)
+![liteparse](2026-05-29_daily-top_liteparse.png)
 
 ### 5. [pi](https://github.com/earendil-works/pi)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-29
 
-![pi](2026/05-29/2026-05-29_daily-top_pi.png)
+![pi](2026-05-29_daily-top_pi.png)
 
 ### 6. [awesome-free-apps](https://github.com/Axorax/awesome-free-apps)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-29
 
-![awesome-free-apps](2026/05-29/2026-05-29_daily-top_awesome-free-apps.png)
+![awesome-free-apps](2026-05-29_daily-top_awesome-free-apps.png)
 
 ### 7. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-29
 
-![firecrawl](2026/05-29/2026-05-29_daily-top_firecrawl.png)
+![firecrawl](2026-05-29_daily-top_firecrawl.png)
 
 ### 8. [twenty](https://github.com/twentyhq/twenty)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-29
 
-![twenty](2026/05-29/2026-05-29_daily-top_twenty.png)
+![twenty](2026-05-29_daily-top_twenty.png)
 
 ### 9. [iii](https://github.com/iii-hq/iii)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-29
 
-![iii](2026/05-29/2026-05-29_daily-top_iii.png)
+![iii](2026-05-29_daily-top_iii.png)
 
 ### 10. [codex](https://github.com/openai/codex)
 
@@ -126,7 +126,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-29
 
-![codex](2026/05-29/2026-05-29_daily-top_codex.png)
+![codex](2026-05-29_daily-top_codex.png)
 
 ---
 
