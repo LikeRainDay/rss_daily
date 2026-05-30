@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-05-29
+# 📊 🌟 GitHub Trending Daily - 2026-05-30
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **672103** ⭐ | **74991** 🍴
+**10** 个项目 | **447943** ⭐ | **51019** 🍴
 
-**热门语言:** `Rust` (4) · `TypeScript` (4) · `JavaScript` (2)
+**热门语言:** `Rust` (4) · `TypeScript` (3) · `JavaScript` (2)
 
-**更新时间:** 2026-05-29 04:15 UTC
+**更新时间:** 2026-05-30 04:01 UTC
 
 **分类分布:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+### 1. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **推荐理由**  
-> *Understand-Anything transforms any codebase into an interactive knowledge graph, enabling users to explore, search, and ask questions about their projects. Key features include guided tours, fuzzy search, impact analysis, and persona-adaptive UI. It supports multiple platforms like Claude Code, Codex, and Copilot, making it versatile for developers. The tool emphasizes understanding business logic through domain views and offers seamless onboarding for new team members. With over 43,000 stars, it’s a valuable resource for comprehending complex codebases efficiently.*
+> *ECC is a comprehensive performance optimization system designed for AI coding agents such as Claude Code, Codex, and Cursor. With over 198K stars, it integrates skills, instincts, and memory optimization to enhance workflows across 12 programming languages. Key features include production-ready agents, security scanning via AgentShield, and continuous learning capabilities. Users can install as a GitHub app for private repositories or utilize extensive community support. ECC's focus on research-first development ensures robust agent performance across diverse applications.*
 
-- ⭐ 43166 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-05-29
-
-![Understand-Anything](2026/05-29/2026-05-29_daily-top_Understand-Anything.png)
-
-### 2. [ECC](https://github.com/affaan-m/ECC)
-
-> 🤖 **推荐理由**  
-> *ECC is a robust performance optimization system for AI agents, integrating skills, instincts, memory, and security into workflows across platforms like Claude Code and Codex. Key features include 63 specialized agents, 249 reusable skills, and a comprehensive hook system for automation. Users benefit from continuous learning, security scanning via AgentShield, and a powerful dashboard GUI. The project supports 12 language ecosystems and fosters community contributions, making it a versatile tool for developers seeking to enhance AI-driven development efficiency.*
-
-- ⭐ 197490 stars
+- ⭐ 198657 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-05-29
+- 📅 Updated: 2026-05-30
 
-![ECC](2026/05-29/2026-05-29_daily-top_ECC.png)
+![ECC](2026/05-30/2026-05-30_daily-top_ECC.png)
 
-### 3. [cc-switch](https://github.com/farion1231/cc-switch)
+### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop application designed to manage multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. Key features include a unified interface for seamless switching between over 50 provider presets, automated MCP and Skills management, and quick access from the system tray. Additional functionalities like cloud sync, usage tracking, and built-in utilities enhance user experience. Built with Rust and Tauri, CC Switch ensures robust performance while simplifying API management for developers. Visit ccswitch.io for more information.*
+> *CC Switch is a cross-platform desktop assistant designed for managing multiple AI CLI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. With over 84,000 stars on GitHub, it simplifies provider management through a unified interface, allowing users to switch between 50+ built-in presets without manual editing. Key features include system tray quick access, cloud sync, and comprehensive MCP and skills management. Built with Rust and Tauri, CC Switch supports Windows, macOS, and Linux, enhancing productivity for developers utilizing AI coding services.*
 
-- ⭐ 83938 stars
+- ⭐ 84785 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-29
+- 📅 Updated: 2026-05-30
 
-![cc-switch](2026/05-29/2026-05-29_daily-top_cc-switch.png)
+![cc-switch](2026/05-30/2026-05-30_daily-top_cc-switch.png)
 
-### 4. [liteparse](https://github.com/run-llama/liteparse)
+### 3. [liteparse](https://github.com/run-llama/liteparse)
 
 > 🤖 **推荐理由**  
-> *LiteParse is a fast, open-source document parser built in Rust, designed for efficient local PDF parsing without cloud dependencies. It offers high-quality spatial text extraction, bounding box details, and multi-format support (PDF, DOCX, images, etc.). Key features include a flexible OCR system (with built-in Tesseract), screenshot generation, and outputs in JSON and text formats. LiteParse supports multiple languages (Rust, Node.js, Python, WASM) and platforms (Linux, macOS, Windows). For complex documents, users can leverage LlamaParse, a cloud-based solution for enhanced parsing capabilities.*
+> *LiteParse is a fast, open-source document parser built in Rust, designed for efficient PDF parsing with high-quality spatial text extraction. Key features include flexible OCR support (Tesseract and HTTP servers), bounding box information, and multiple output formats (JSON and text). It supports various input formats, including PDFs, DOCX, and images, while running locally without cloud dependencies. LiteParse is available across platforms (Linux, macOS, Windows) and languages (Rust, Node.js, Python, and WASM). For complex documents, users can opt for the cloud-based LlamaParse service for enhanced performance.*
 
-- ⭐ 6529 stars
+- ⭐ 7407 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-29
+- 📅 Updated: 2026-05-30
 
-![liteparse](2026/05-29/2026-05-29_daily-top_liteparse.png)
+![liteparse](2026/05-30/2026-05-30_daily-top_liteparse.png)
 
-### 5. [pi](https://github.com/earendil-works/pi)
+### 4. [twenty](https://github.com/twentyhq/twenty)
 
 > 🤖 **推荐理由**  
-> *Pi is an AI agent toolkit featuring an interactive coding agent CLI, a unified multi-provider LLM API, and a range of web and terminal UI libraries. Key components include the coding agent for hands-on coding tasks, a robust agent runtime for tool management, and a Slack bot for automation workflows. With over 57,000 stars on GitHub, Pi emphasizes community contributions and real-world data sharing to enhance coding agents. Explore its capabilities at pi.dev, or dive into the documentation for in-depth insights on integrating and utilizing the toolkit.*
+> *Twenty is an open-source CRM designed as a customizable alternative to Salesforce, built with TypeScript. It empowers technical teams to create tailored solutions, adapting quickly to evolving business needs. Key features include a robust app development framework, version control for deployments, and AI integration for enhanced functionality. Users can choose between cloud hosting or self-hosting via Docker. With extensive documentation, a supportive community on Discord, and a focus on flexibility, Twenty provides all the essential tools for modern CRM needs.*
 
-- ⭐ 57074 stars
+- ⭐ 48454 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-05-29
+- 📅 Updated: 2026-05-30
 
-![pi](2026/05-29/2026-05-29_daily-top_pi.png)
+![twenty](2026/05-30/2026-05-30_daily-top_twenty.png)
 
-### 6. [awesome-free-apps](https://github.com/Axorax/awesome-free-apps)
+### 5. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
 
 > 🤖 **推荐理由**  
-> *awesome-free-apps is a curated collection of the best free applications for Windows, macOS, and Linux, boasting over 6,291 stars on GitHub. The project includes various categories such as audio, video, communication, developer tools, and security, with filtering options for OS-specific and open-source apps. Key features include an extensive list of recommended applications, a mobile version, and a focus on usability and contributions. This resource is ideal for users seeking quality software solutions across multiple platforms.*
+> *The Compound Engineering plugin enhances coding efficiency for Claude Code, Codex, and other platforms, boasting 18,183 stars on GitHub. It promotes a philosophy where each engineering task simplifies future work. Key features include comprehensive planning with `/ce-brainstorm` and `/ce-plan`, multi-agent code reviews via `/ce-code-review`, and knowledge codification with `/ce-compound`. The plugin facilitates a cyclical workflow of ideation, execution, and learning, ensuring high-quality outputs and minimal technical debt. It ships with 37 skills and 51 agents to streamline the development process.*
 
-- ⭐ 6291 stars
+- ⭐ 18183 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-30
+
+![compound-engineering-plugin](2026/05-30/2026-05-30_daily-top_compound-engineering-plugin.png)
+
+### 6. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+
+> 🤖 **推荐理由**  
+> *Project N.O.M.A.D. is an offline-first knowledge and education server designed for survival scenarios, featuring a suite of critical tools and resources. Key capabilities include an AI chat assistant, an offline information library with Wikipedia and medical references, Khan Academy courses, downloadable maps, and data analysis tools. The system is easily installed on Debian-based OS, primarily via terminal commands, and operates through a browser interface. With robust community support and no built-in telemetry, it empowers users with essential information anytime, anywhere.*
+
+- ⭐ 27011 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-05-30
+
+![project-nomad](2026/05-30/2026-05-30_daily-top_project-nomad.png)
+
+### 7. [impeccable](https://github.com/pbakaus/impeccable)
+
+> 🤖 **推荐理由**  
+> *Impeccable is a robust JavaScript design language tool that enhances AI-assisted frontend design, boasting over 31,000 stars on GitHub. It offers 23 commands for design tasks—from critiquing to polishing—alongside 7 domain-specific references covering typography, color, motion, and more. Users benefit from 27 anti-pattern rules and a standalone CLI for detecting common design issues. Impeccable integrates seamlessly with tools like Claude Code and Cursor, making it an essential resource for creating aesthetically pleasing and functional designs. Visit impeccable.style for quick start guides and examples.*
+
+- ⭐ 31403 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-05-29
+- 📅 Updated: 2026-05-30
 
-![awesome-free-apps](2026/05-29/2026-05-29_daily-top_awesome-free-apps.png)
+![impeccable](2026/05-30/2026-05-30_daily-top_impeccable.png)
 
-### 7. [firecrawl](https://github.com/firecrawl/firecrawl)
-
-> 🤖 **推荐理由**  
-> *Firecrawl is a powerful API designed for scalable web search, scraping, and interaction. Key features include reliable access to 96% of the web, fast response times (P95 latency of 3.4s), and support for JavaScript-heavy pages. It generates clean markdown, structured JSON, and screenshots, facilitating seamless integration with AI agents. Users can effortlessly search, scrape, and interact with web content, automate data gathering, and crawl entire websites. Open source and available as a hosted service, Firecrawl simplifies complex web data extraction while ensuring compliance with site policies.*
-
-- ⭐ 125830 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-05-29
-
-![firecrawl](2026/05-29/2026-05-29_daily-top_firecrawl.png)
-
-### 8. [twenty](https://github.com/twentyhq/twenty)
+### 8. [herdr](https://github.com/ogulcancelik/herdr)
 
 > 🤖 **推荐理由**  
-> *Twenty is an open-source CRM designed for technical teams, offering a customizable platform to meet complex business needs. Key features include the ability to define objects, fields, and views as code, facilitating rapid app development with the Twenty CLI. Users can opt for a cloud-based solution for quick setup or self-host using Docker. The platform supports AI integration, enabling smart agents and workflows. With a robust stack including TypeScript and React, Twenty provides essential CRM tools, version control, and comprehensive documentation to enhance user experience.*
+> *Herdr is a terminal-based agent multiplexer designed for efficient multitasking. With over 3000 stars, it supports workspaces, tabs, and panes, allowing users to manage multiple agents seamlessly. Key features include persistent sessions, real terminal views, and mouse-native interactions. Herdr enables easy detachment and reattachment, preserving agent processes, and features robust agent awareness, displaying their statuses directly. It integrates with various agents for enhanced functionality and provides customizable keybindings and themes. Herdr operates on Linux and macOS, prioritizing a lightweight, dependency-free experience.*
 
-- ⭐ 47948 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-05-29
-
-![twenty](2026/05-29/2026-05-29_daily-top_twenty.png)
-
-### 9. [iii](https://github.com/iii-hq/iii)
-
-> 🤖 **推荐理由**  
-> *iii is a real-time service composition and observability platform built in Rust. It simplifies the integration of various backend components, enabling users to effortlessly add capabilities with commands like `iii worker add`. The core model revolves around three primitives: Workers, Functions, and Triggers, allowing for seamless extensions and traceable workflows. Key features include a developer console for monitoring, SDKs for Node.js, Python, and Rust, and a shared catalog for agents and applications. With over 17,000 stars, iii transforms service development into a cohesive, observable experience.*
-
-- ⭐ 17135 stars
+- ⭐ 3007 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-29
+- 📅 Updated: 2026-05-30
 
-![iii](2026/05-29/2026-05-29_daily-top_iii.png)
+![herdr](2026/05-30/2026-05-30_daily-top_herdr.png)
 
-### 10. [codex](https://github.com/openai/codex)
+### 9. [CodexBar](https://github.com/steipete/CodexBar)
 
 > 🤖 **推荐理由**  
-> *Codex is a lightweight coding agent by OpenAI that operates locally in your terminal, built with Rust. With over 86,000 stars on GitHub, it facilitates seamless coding experiences in various environments, including VS Code and as a desktop app. Users can easily install Codex CLI via curl, npm, or Homebrew. It integrates with ChatGPT accounts for enhanced functionality, supporting various subscription plans. The project includes comprehensive documentation and encourages contributions, making it a valuable tool for developers seeking efficient coding assistance.*
+> *CodexBar is a macOS 14+ menu bar app that provides real-time usage statistics for various AI coding providers like OpenAI Codex, Claude, and more. Key features include per-provider usage meters, reset countdowns, credit balances, and billing summaries, allowing users to manage their coding limits effectively. It supports multiple providers with a privacy-first approach, reusing existing sessions without storing passwords. Users can access a bundled CLI for scripting and integration, making it a versatile tool for developers wanting to track AI usage efficiently.*
 
-- ⭐ 86702 stars
+- ⭐ 13854 stars
+- 💻 Swift
+- 📅 Updated: 2026-05-30
+
+![CodexBar](2026/05-30/2026-05-30_daily-top_CodexBar.png)
+
+### 10. [ccusage](https://github.com/ryoppippi/ccusage)
+
+> 🤖 **推荐理由**  
+> *ccusage is a Rust-based CLI tool designed for analyzing coding agent token usage and associated costs from local data. It supports various agents, including Claude Code, Codex, and GitHub Copilot, providing detailed daily, weekly, monthly, and session reports. Key features include unified reporting across multiple agents, customizable date filtering, compact output for sharing, and JSON export capabilities. Users can track costs in USD, monitor usage within billing blocks, and integrate with status lines for Claude Code. Full documentation is available at ccusage.com.*
+
+- ⭐ 15182 stars
 - 💻 Rust
-- 📅 Updated: 2026-05-29
+- 📅 Updated: 2026-05-30
 
-![codex](2026/05-29/2026-05-29_daily-top_codex.png)
+![ccusage](2026/05-30/2026-05-30_daily-top_ccusage.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-29 04:15:48 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-05-30 04:01:33 UTC

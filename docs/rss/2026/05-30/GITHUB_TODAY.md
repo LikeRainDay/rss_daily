@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-30
 
-![ECC](2026/05-30/2026-05-30_daily-top_ECC.png)
+![ECC](2026-05-30_daily-top_ECC.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-30
 
-![cc-switch](2026/05-30/2026-05-30_daily-top_cc-switch.png)
+![cc-switch](2026-05-30_daily-top_cc-switch.png)
 
 ### 3. [liteparse](https://github.com/run-llama/liteparse)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-30
 
-![liteparse](2026/05-30/2026-05-30_daily-top_liteparse.png)
+![liteparse](2026-05-30_daily-top_liteparse.png)
 
 ### 4. [twenty](https://github.com/twentyhq/twenty)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-30
 
-![twenty](2026/05-30/2026-05-30_daily-top_twenty.png)
+![twenty](2026-05-30_daily-top_twenty.png)
 
 ### 5. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-30
 
-![compound-engineering-plugin](2026/05-30/2026-05-30_daily-top_compound-engineering-plugin.png)
+![compound-engineering-plugin](2026-05-30_daily-top_compound-engineering-plugin.png)
 
 ### 6. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-30
 
-![project-nomad](2026/05-30/2026-05-30_daily-top_project-nomad.png)
+![project-nomad](2026-05-30_daily-top_project-nomad.png)
 
 ### 7. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-30
 
-![impeccable](2026/05-30/2026-05-30_daily-top_impeccable.png)
+![impeccable](2026-05-30_daily-top_impeccable.png)
 
 ### 8. [herdr](https://github.com/ogulcancelik/herdr)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-30
 
-![herdr](2026/05-30/2026-05-30_daily-top_herdr.png)
+![herdr](2026-05-30_daily-top_herdr.png)
 
 ### 9. [CodexBar](https://github.com/steipete/CodexBar)
 
@@ -115,7 +115,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-05-30
 
-![CodexBar](2026/05-30/2026-05-30_daily-top_CodexBar.png)
+![CodexBar](2026-05-30_daily-top_CodexBar.png)
 
 ### 10. [ccusage](https://github.com/ryoppippi/ccusage)
 
@@ -126,7 +126,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-30
 
-![ccusage](2026/05-30/2026-05-30_daily-top_ccusage.png)
+![ccusage](2026-05-30_daily-top_ccusage.png)
 
 ---
 
