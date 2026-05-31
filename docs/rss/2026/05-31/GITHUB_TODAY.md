@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-31
 
-![liteparse](2026/05-31/2026-05-31_daily-top_liteparse.png)
+![liteparse](2026-05-31_daily-top_liteparse.png)
 
 ### 2. [ECC](https://github.com/affaan-m/ECC)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-31
 
-![ECC](2026/05-31/2026-05-31_daily-top_ECC.png)
+![ECC](2026-05-31_daily-top_ECC.png)
 
 ### 3. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-31
 
-![cc-switch](2026/05-31/2026-05-31_daily-top_cc-switch.png)
+![cc-switch](2026-05-31_daily-top_cc-switch.png)
 
 ### 4. [RuView](https://github.com/ruvnet/RuView)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-05-31
 
-![RuView](2026/05-31/2026-05-31_daily-top_RuView.png)
+![RuView](2026-05-31_daily-top_RuView.png)
 
 ### 5. [twenty](https://github.com/twentyhq/twenty)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-31
 
-![twenty](2026/05-31/2026-05-31_daily-top_twenty.png)
+![twenty](2026-05-31_daily-top_twenty.png)
 
 ### 6. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-31
 
-![project-nomad](2026/05-31/2026-05-31_daily-top_project-nomad.png)
+![project-nomad](2026-05-31_daily-top_project-nomad.png)
 
 ### 7. [opencode](https://github.com/anomalyco/opencode)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-31
 
-![opencode](2026/05-31/2026-05-31_daily-top_opencode.png)
+![opencode](2026-05-31_daily-top_opencode.png)
 
 ### 8. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-31
 
-![compound-engineering-plugin](2026/05-31/2026-05-31_daily-top_compound-engineering-plugin.png)
+![compound-engineering-plugin](2026-05-31_daily-top_compound-engineering-plugin.png)
 
 ### 9. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-05-31
 
-![impeccable](2026/05-31/2026-05-31_daily-top_impeccable.png)
+![impeccable](2026-05-31_daily-top_impeccable.png)
 
 ### 10. [plugins](https://github.com/cursor/plugins)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-05-31
 
-![plugins](2026/05-31/2026-05-31_daily-top_plugins.png)
+![plugins](2026-05-31_daily-top_plugins.png)
 
 ---
 
