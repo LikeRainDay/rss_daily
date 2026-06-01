@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-01
 
-![cc-switch](2026/06-01/2026-06-01_daily-top_cc-switch.png)
+![cc-switch](2026-06-01_daily-top_cc-switch.png)
 
 ### 2. [RuView](https://github.com/ruvnet/RuView)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-01
 
-![RuView](2026/06-01/2026-06-01_daily-top_RuView.png)
+![RuView](2026-06-01_daily-top_RuView.png)
 
 ### 3. [liteparse](https://github.com/run-llama/liteparse)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-01
 
-![liteparse](2026/06-01/2026-06-01_daily-top_liteparse.png)
+![liteparse](2026-06-01_daily-top_liteparse.png)
 
 ### 4. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-01
 
-![project-nomad](2026/06-01/2026-06-01_daily-top_project-nomad.png)
+![project-nomad](2026-06-01_daily-top_project-nomad.png)
 
 ### 5. [motrix-next](https://github.com/AnInsomniacy/motrix-next)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-01
 
-![motrix-next](2026/06-01/2026-06-01_daily-top_motrix-next.png)
+![motrix-next](2026-06-01_daily-top_motrix-next.png)
 
 ### 6. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-01
 
-![impeccable](2026/06-01/2026-06-01_daily-top_impeccable.png)
+![impeccable](2026-06-01_daily-top_impeccable.png)
 
 ### 7. [BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-01
 
-![BPB-Worker-Panel](2026/06-01/2026-06-01_daily-top_BPB-Worker-Panel.png)
+![BPB-Worker-Panel](2026-06-01_daily-top_BPB-Worker-Panel.png)
 
 ### 8. [supermemory](https://github.com/supermemoryai/supermemory)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-01
 
-![supermemory](2026/06-01/2026-06-01_daily-top_supermemory.png)
+![supermemory](2026-06-01_daily-top_supermemory.png)
 
 ### 9. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-01
 
-![compound-engineering-plugin](2026/06-01/2026-06-01_daily-top_compound-engineering-plugin.png)
+![compound-engineering-plugin](2026-06-01_daily-top_compound-engineering-plugin.png)
 
 ### 10. [herdr](https://github.com/ogulcancelik/herdr)
 
@@ -126,7 +126,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-01
 
-![herdr](2026/06-01/2026-06-01_daily-top_herdr.png)
+![herdr](2026-06-01_daily-top_herdr.png)
 
 ---
 
