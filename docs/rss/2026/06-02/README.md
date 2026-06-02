@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-02
 
-![ECC](2026/06-02/2026-06-02_daily-top_ECC.png)
+![ECC](2026-06-02_daily-top_ECC.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-02
 
-![cc-switch](2026/06-02/2026-06-02_daily-top_cc-switch.png)
+![cc-switch](2026-06-02_daily-top_cc-switch.png)
 
 ### 3. [supermemory](https://github.com/supermemoryai/supermemory)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-02
 
-![supermemory](2026/06-02/2026-06-02_daily-top_supermemory.png)
+![supermemory](2026-06-02_daily-top_supermemory.png)
 
 ### 4. [RuView](https://github.com/ruvnet/RuView)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-02
 
-![RuView](2026/06-02/2026-06-02_daily-top_RuView.png)
+![RuView](2026-06-02_daily-top_RuView.png)
 
 ### 5. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-02
 
-![impeccable](2026/06-02/2026-06-02_daily-top_impeccable.png)
+![impeccable](2026-06-02_daily-top_impeccable.png)
 
 ### 6. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-02
 
-![compound-engineering-plugin](2026/06-02/2026-06-02_daily-top_compound-engineering-plugin.png)
+![compound-engineering-plugin](2026-06-02_daily-top_compound-engineering-plugin.png)
 
 ### 7. [liteparse](https://github.com/run-llama/liteparse)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-02
 
-![liteparse](2026/06-02/2026-06-02_daily-top_liteparse.png)
+![liteparse](2026-06-02_daily-top_liteparse.png)
 
 ### 8. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-02
 
-![project-nomad](2026/06-02/2026-06-02_daily-top_project-nomad.png)
+![project-nomad](2026-06-02_daily-top_project-nomad.png)
 
 ### 9. [ruflo](https://github.com/ruvnet/ruflo)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-02
 
-![ruflo](2026/06-02/2026-06-02_daily-top_ruflo.png)
+![ruflo](2026-06-02_daily-top_ruflo.png)
 
 ### 10. [oh-my-pi](https://github.com/can1357/oh-my-pi)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-02
 
-![oh-my-pi](2026/06-02/2026-06-02_daily-top_oh-my-pi.png)
+![oh-my-pi](2026-06-02_daily-top_oh-my-pi.png)
 
 ---
 
