@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-02
+# 📊 🌟 GitHub Trending Daily - 2026-06-03
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **540519** ⭐ | **62074** 🍴
+**10** 个项目 | **618108** ⭐ | **85966** 🍴
 
-**热门语言:** `TypeScript` (5) · `Rust` (3) · `JavaScript` (2)
+**热门语言:** `Rust` (3) · `JavaScript` (3) · `TypeScript` (2)
 
-**更新时间:** 2026-06-02 04:44 UTC
+**更新时间:** 2026-06-03 04:53 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **推荐理由**  
-> *ECC is a powerful performance optimization system designed for AI agents like Claude Code, Codex, and Cursor. It includes features such as skills, instincts, memory optimization, and security scanning, enabling continuous learning and research-first development. The system supports 63 agents and 249 skills, facilitating cross-harness workflows across multiple programming languages. Key services include a dashboard GUI for visualization, AgentShield for security audits, and a skill creator for generating new workflows. With over 200K stars, ECC is community-driven and open-source, fostering collaboration and contributions.*
+> *ECC is a powerful performance optimization system for AI agents, offering skills, instincts, memory management, and security features tailored for Claude Code, Codex, OpenCode, and Cursor. With over 204,000 stars, it supports real-world workflows through 63 agents, 249 skills, and extensive command shims. Key highlights include continuous learning, a comprehensive security scanner (AgentShield), and a user-friendly dashboard GUI. ECC promotes collaborative development and efficient code management, ensuring production-ready solutions across multiple programming languages and frameworks.*
 
-- ⭐ 202438 stars
+- ⭐ 204306 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-06-02
+- 📅 Updated: 2026-06-03
 
-![ECC](2026/06-02/2026-06-02_daily-top_ECC.png)
+![ECC](2026/06-03/2026-06-03_daily-top_ECC.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop assistant for managing five AI CLI tools: Claude Code, Codex, Gemini CLI, OpenCode, and OpenClaw. It offers a unified interface, eliminating the need for manual configuration edits with over 50 built-in provider presets. Key features include one-click switching, cloud sync, unified MCP and skills management, and a system tray quick access menu. Additionally, it provides robust usage tracking, session management, and built-in utilities. Built with Rust and Tauri, CC Switch supports Windows, macOS, and Linux, streamlining AI development workflows.*
+> *CC Switch is a cross-platform desktop assistant that consolidates multiple AI coding tools, including Claude Code, Codex, and Gemini CLI, into one interface. Key features include one-click provider switching, unified management of MCP and Skills, and over 50 built-in provider presets. It supports cloud sync and offers a system tray for quick access. Built using Rust and Tauri, CC Switch ensures reliable data storage and user-friendly navigation. The app streamlines API management, enhancing productivity for developers across Windows, macOS, and Linux. Visit ccswitch.io for more information.*
 
-- ⭐ 88265 stars
+- ⭐ 89624 stars
 - 💻 Rust
-- 📅 Updated: 2026-06-02
+- 📅 Updated: 2026-06-03
 
-![cc-switch](2026/06-02/2026-06-02_daily-top_cc-switch.png)
+![cc-switch](2026/06-03/2026-06-03_daily-top_cc-switch.png)
 
-### 3. [supermemory](https://github.com/supermemoryai/supermemory)
-
-> 🤖 **推荐理由**  
-> *Supermemory is a cutting-edge memory engine for AI, designed for speed and scalability. It enables AI to retain knowledge across conversations, automatically extracting facts, managing user profiles, and facilitating knowledge updates. Key features include hybrid search combining retrieval-augmented generation (RAG) and memory, real-time connectors to platforms like Google Drive and Notion, and multi-modal extractors for diverse content types. With top rankings in major AI memory benchmarks, Supermemory offers a comprehensive API for seamless integration into AI products and personal use.*
-
-- ⭐ 24112 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-02
-
-![supermemory](2026/06-02/2026-06-02_daily-top_supermemory.png)
-
-### 4. [RuView](https://github.com/ruvnet/RuView)
+### 3. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **推荐理由**  
-> *RuView is a cutting-edge WiFi sensing platform that transforms commodity WiFi signals into real-time spatial intelligence, enabling presence detection, vital sign monitoring, and activity recognition without cameras or wearables. It supports major smart home ecosystems, including Home Assistant, Apple Home, Google Home, and Amazon Alexa. Key features include through-wall sensing, contactless vital signs tracking, and environmental mapping. Built on low-cost ESP32 hardware, RuView operates entirely on edge devices, ensuring privacy and efficiency. Its self-learning AI adapts to unique environments, making it versatile for various applications in healthcare, retail, and security.*
+> *Impeccable is a powerful design language tool that enhances AI-driven frontend design with a curated vocabulary of 23 commands and 27 anti-pattern rules. It includes 7 domain reference files covering typography, color, motion, and more, allowing for comprehensive design guidance. Users can execute commands like `/impeccable audit`, `/impeccable polish`, and `/impeccable critique` for design reviews, technical checks, and final touches. Designed for seamless integration with various tools, it empowers developers to create visually compelling and accessible interfaces while avoiding common design pitfalls.*
 
-- ⭐ 69944 stars
-- 💻 Rust
-- 📅 Updated: 2026-06-02
-
-![RuView](2026/06-02/2026-06-02_daily-top_RuView.png)
-
-### 5. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **推荐理由**  
-> *Impeccable is a cutting-edge design language for enhancing AI-driven frontend design, featuring 23 commands and 7 domain-specific references covering typography, color, motion, and more. It offers tools for auditing, critiquing, and polishing designs while adhering to 27 anti-pattern rules to avoid common pitfalls. The CLI allows for quick installation and integration with various AI tools like Cursor and Claude Code. With a strong community and extensive documentation, Impeccable is essential for developers seeking to elevate their design processes. Visit impeccable.style for a quick start.*
-
-- ⭐ 32912 stars
+- ⭐ 33627 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-06-02
+- 📅 Updated: 2026-06-03
 
-![impeccable](2026/06-02/2026-06-02_daily-top_impeccable.png)
+![impeccable](2026/06-03/2026-06-03_daily-top_impeccable.png)
 
-### 6. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+### 4. [supermemory](https://github.com/supermemoryai/supermemory)
 
 > 🤖 **推荐理由**  
-> *The Compound Engineering plugin enhances coding efficiency for Claude Code, Codex, Cursor, and more, boasting 19,166 stars on GitHub. It promotes a philosophy where each engineering task aids future work through effective planning and review. Key features include `/ce-brainstorm` for requirement gathering, `/ce-plan` for detailed planning, `/ce-work` for executing tasks, and `/ce-code-review` for collaborative code assessments. The plugin supports 37 skills and 51 agents, emphasizing knowledge codification and high-quality output to streamline future development cycles.*
+> *Supermemory is a high-performance memory engine and app designed for AI, enabling persistent memory across conversations. Key features include automatic fact extraction, user profile maintenance, hybrid search combining retrieval-augmented generation (RAG) and memory, and real-time connectors for various platforms like Google Drive and GitHub. With support for multi-modal data processing and a single API for developers, Supermemory excels in AI memory benchmarks, ensuring your AI retains relevant context and adapts over time. Explore more at supermemory.ai.*
 
-- ⭐ 19166 stars
+- ⭐ 24757 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-02
+- 📅 Updated: 2026-06-03
 
-![compound-engineering-plugin](2026/06-02/2026-06-02_daily-top_compound-engineering-plugin.png)
+![supermemory](2026/06-03/2026-06-03_daily-top_supermemory.png)
 
-### 7. [liteparse](https://github.com/run-llama/liteparse)
+### 5. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 
 > 🤖 **推荐理由**  
-> *LiteParse is a fast, open-source document parser built in Rust, boasting over 8,700 stars on GitHub. It focuses on efficient PDF parsing, providing high-quality spatial text extraction with bounding boxes. Key features include a flexible OCR system (with built-in Tesseract and support for various OCR servers), multi-format input support (PDF, DOCX, XLSX, images), and multiple output formats (JSON and text). It runs locally, ensuring no cloud dependencies. LiteParse supports various programming languages, including Rust, Node.js, Python, and WASM, making it versatile for different environments.*
+> *OpenDataLoader PDF is an open-source PDF parser designed for AI-ready data extraction and PDF accessibility automation. It offers high extraction accuracy (0.907 overall) and supports various output formats, including Markdown, JSON, and Tagged PDFs. Key features include hybrid processing for complex documents, built-in OCR for scanned PDFs, and auto-tagging capabilities to create accessible Tagged PDFs. Collaborating with the PDF Association, it adheres to accessibility standards, making it a powerful tool for compliance with regulations like EAA and ADA. Available in Java, Python, and Node.js SDKs.*
 
-- ⭐ 8757 stars
+- ⭐ 22858 stars
+- 💻 Java
+- 📅 Updated: 2026-06-03
+
+![opendataloader-pdf](2026/06-03/2026-06-03_daily-top_opendataloader-pdf.png)
+
+### 6. [fff](https://github.com/dmtrKovalenko/fff)
+
+> 🤖 **推荐理由**  
+> *FFF is a high-performance file search toolkit designed for AI agents, Neovim, Rust, C, and NodeJS, achieving superior speed and accuracy over traditional CLIs like ripgrep and fzf. It features typo-resistant path and content search, frecency-ranked file access, and a background file watcher. FFF provides a lightweight in-memory content index, offering tools like `ffgrep` and `fffind` for efficient searching. It supports multiple programming languages through SDKs and libraries, including a Rust crate and a C library, making it ideal for IDEs and long-running processes.*
+
+- ⭐ 7456 stars
 - 💻 Rust
-- 📅 Updated: 2026-06-02
+- 📅 Updated: 2026-06-03
 
-![liteparse](2026/06-02/2026-06-02_daily-top_liteparse.png)
+![fff](2026/06-03/2026-06-03_daily-top_fff.png)
 
-### 8. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-
-> 🤖 **推荐理由**  
-> *Project N.O.M.A.D. is an offline survival computer that provides essential tools and knowledge for users anytime, anywhere. Key features include an AI chat powered by Ollama, an offline information library with Wikipedia and medical references, Khan Academy courses, regional offline maps, and data analysis tools. The management UI orchestrates containerized resources via Docker, allowing easy installation on Debian-based systems. With a focus on privacy, N.O.M.A.D. requires no internet after setup and has zero built-in telemetry, making it a secure choice for offline education and survival needs.*
-
-- ⭐ 28017 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-02
-
-![project-nomad](2026/06-02/2026-06-02_daily-top_project-nomad.png)
-
-### 9. [ruflo](https://github.com/ruvnet/ruflo)
+### 7. [godot](https://github.com/godotengine/godot)
 
 > 🤖 **推荐理由**  
-> *Ruflo is an advanced multi-agent AI harness for Claude, enabling the deployment of intelligent swarms and autonomous workflows. Key features include self-learning memory, adaptive swarm coordination, and integration with Claude Code and Codex. It supports over 100 specialized agents, zero-trust federation for secure communications, and a plugin marketplace with 32 native tools. Users can orchestrate complex tasks through a command-line interface or a web UI, facilitating seamless collaboration across machines and organizations. Ruflo's architecture enhances productivity by automating coordination and learning from past interactions.*
+> *Godot Engine is a powerful, open-source game engine for creating 2D and 3D games across multiple platforms, including desktop, mobile, and web. With a unified interface and comprehensive tools, developers can focus on game creation without unnecessary hurdles. Godot is community-driven, fully free under the MIT license, and offers one-click export options. It boasts extensive documentation, active community support, and various learning resources. The engine's development is independent, ensuring users retain full ownership of their games and creations.*
 
-- ⭐ 57355 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-02
+- ⭐ 111959 stars
+- 💻 C++
+- 📅 Updated: 2026-06-03
 
-![ruflo](2026/06-02/2026-06-02_daily-top_ruflo.png)
+![godot](2026/06-03/2026-06-03_daily-top_godot.png)
 
-### 10. [oh-my-pi](https://github.com/can1357/oh-my-pi)
+### 8. [codex](https://github.com/openai/codex)
 
 > 🤖 **推荐理由**  
-> *oh-my-pi is an AI coding agent designed for terminal environments, offering a seamless integration of coding tools and language services. With over 40 providers, 32 built-in tools, and robust support for LSP and debugging, it enhances coding workflows through features like hash-anchored edits, real-time search, and subagent task distribution. Users can execute code in persistent environments, navigate and refactor code with IDE-level intelligence, and manage projects effectively with memory capabilities. Built in TypeScript, it is open-source and designed for cross-platform use.*
+> *Codex is a lightweight coding agent developed by OpenAI, designed to run locally in your terminal. With over 88,000 stars, it offers seamless integration with code editors like VS Code and can be launched as a standalone desktop app. Installation is straightforward via scripts or package managers like npm and Homebrew. Users can connect to their ChatGPT accounts for enhanced functionality or utilize an API key for access. The project supports multiple platforms and provides comprehensive documentation for installation and usage.*
 
-- ⭐ 9553 stars
+- ⭐ 88082 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-03
+
+![codex](2026/06-03/2026-06-03_daily-top_codex.png)
+
+### 9. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+
+> 🤖 **推荐理由**  
+> *The Compound Engineering plugin enhances coding efficiency with AI skills tailored for Claude Code, Codex, and Cursor. Key features include thorough planning via `/ce-brainstorm` and `/ce-plan`, systematic code reviews with `/ce-code-review`, and knowledge documentation through `/ce-compound`. The workflow emphasizes iterative cycles of brainstorming, planning, execution, and review, fostering a compounding effect on knowledge and quality. With 37 skills and 51 agents, it aims to minimize technical debt and streamline engineering tasks, making future work easier.*
+
+- ⭐ 19437 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-02
+- 📅 Updated: 2026-06-03
 
-![oh-my-pi](2026/06-02/2026-06-02_daily-top_oh-my-pi.png)
+![compound-engineering-plugin](2026/06-03/2026-06-03_daily-top_compound-engineering-plugin.png)
+
+### 10. [9router](https://github.com/decolua/9router)
+
+> 🤖 **推荐理由**  
+> *9Router is an open-source AI coding router that connects multiple AI coding tools (e.g., Claude Code, Codex, Copilot) to over 40 providers, maximizing efficiency and cost savings. Key features include an RTK Token Saver that reduces token usage by 20-40%, automatic fallback between subscription, cheap, and free AI models, and real-time quota tracking. It supports multi-account setups and offers seamless integration with various CLI tools. With 9Router, developers can ensure uninterrupted coding experiences while optimizing costs and resources.*
+
+- ⭐ 16002 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-06-03
+
+![9router](2026/06-03/2026-06-03_daily-top_9router.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-02 04:44:25 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-03 04:53:45 UTC

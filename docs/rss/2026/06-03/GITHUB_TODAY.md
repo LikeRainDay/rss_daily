@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-03
 
-![ECC](2026/06-03/2026-06-03_daily-top_ECC.png)
+![ECC](2026-06-03_daily-top_ECC.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-03
 
-![cc-switch](2026/06-03/2026-06-03_daily-top_cc-switch.png)
+![cc-switch](2026-06-03_daily-top_cc-switch.png)
 
 ### 3. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-03
 
-![impeccable](2026/06-03/2026-06-03_daily-top_impeccable.png)
+![impeccable](2026-06-03_daily-top_impeccable.png)
 
 ### 4. [supermemory](https://github.com/supermemoryai/supermemory)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-03
 
-![supermemory](2026/06-03/2026-06-03_daily-top_supermemory.png)
+![supermemory](2026-06-03_daily-top_supermemory.png)
 
 ### 5. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 
@@ -71,7 +71,7 @@
 - 💻 Java
 - 📅 Updated: 2026-06-03
 
-![opendataloader-pdf](2026/06-03/2026-06-03_daily-top_opendataloader-pdf.png)
+![opendataloader-pdf](2026-06-03_daily-top_opendataloader-pdf.png)
 
 ### 6. [fff](https://github.com/dmtrKovalenko/fff)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-03
 
-![fff](2026/06-03/2026-06-03_daily-top_fff.png)
+![fff](2026-06-03_daily-top_fff.png)
 
 ### 7. [godot](https://github.com/godotengine/godot)
 
@@ -93,7 +93,7 @@
 - 💻 C++
 - 📅 Updated: 2026-06-03
 
-![godot](2026/06-03/2026-06-03_daily-top_godot.png)
+![godot](2026-06-03_daily-top_godot.png)
 
 ### 8. [codex](https://github.com/openai/codex)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-03
 
-![codex](2026/06-03/2026-06-03_daily-top_codex.png)
+![codex](2026-06-03_daily-top_codex.png)
 
 ### 9. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-03
 
-![compound-engineering-plugin](2026/06-03/2026-06-03_daily-top_compound-engineering-plugin.png)
+![compound-engineering-plugin](2026-06-03_daily-top_compound-engineering-plugin.png)
 
 ### 10. [9router](https://github.com/decolua/9router)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-03
 
-![9router](2026/06-03/2026-06-03_daily-top_9router.png)
+![9router](2026-06-03_daily-top_9router.png)
 
 ---
 
