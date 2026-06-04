@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-03
+# 📊 🌟 GitHub Trending Daily - 2026-06-04
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **618108** ⭐ | **85966** 🍴
+**10** 个项目 | **689968** ⭐ | **83011** 🍴
 
-**热门语言:** `Rust` (3) · `JavaScript` (3) · `TypeScript` (2)
+**热门语言:** `TypeScript` (5) · `Rust` (2) · `JavaScript` (2)
 
-**更新时间:** 2026-06-03 04:53 UTC
+**更新时间:** 2026-06-04 04:48 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **推荐理由**  
-> *ECC is a powerful performance optimization system for AI agents, offering skills, instincts, memory management, and security features tailored for Claude Code, Codex, OpenCode, and Cursor. With over 204,000 stars, it supports real-world workflows through 63 agents, 249 skills, and extensive command shims. Key highlights include continuous learning, a comprehensive security scanner (AgentShield), and a user-friendly dashboard GUI. ECC promotes collaborative development and efficient code management, ensuring production-ready solutions across multiple programming languages and frameworks.*
+> *ECC is a comprehensive performance optimization system designed for AI agents like Claude Code, Codex, and Cursor. It offers skills, instincts, memory optimization, and security scanning, fostering research-driven development. Key features include 63 specialized agents, 249 reusable skills, and advanced hooks for automation. The ECC v2.0.0-rc.1 introduces a user-friendly dashboard, enhanced operator workflows, and a security audit tool (AgentShield). This system is adaptable across multiple platforms, making it ideal for developers in various ecosystems.*
 
-- ⭐ 204306 stars
+- ⭐ 206033 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-06-03
+- 📅 Updated: 2026-06-04
 
-![ECC](2026/06-03/2026-06-03_daily-top_ECC.png)
+![ECC](2026/06-04/2026-06-04_daily-top_ECC.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop assistant that consolidates multiple AI coding tools, including Claude Code, Codex, and Gemini CLI, into one interface. Key features include one-click provider switching, unified management of MCP and Skills, and over 50 built-in provider presets. It supports cloud sync and offers a system tray for quick access. Built using Rust and Tauri, CC Switch ensures reliable data storage and user-friendly navigation. The app streamlines API management, enhancing productivity for developers across Windows, macOS, and Linux. Visit ccswitch.io for more information.*
+> *CC Switch is a cross-platform desktop application for managing AI coding tools like Claude Code, Codex, and Gemini CLI. It simplifies API management with a unified interface, allowing users to switch between 50+ provider presets without manual edits. Key features include a system tray for quick switching, cloud sync, and a unified MCP & Skills management panel. Built with Rust and Tauri, it supports Windows, macOS, and Linux. CC Switch enhances workflow efficiency, offering built-in utilities and detailed usage tracking, making it indispensable for AI-powered development.*
 
-- ⭐ 89624 stars
+- ⭐ 90833 stars
 - 💻 Rust
-- 📅 Updated: 2026-06-03
+- 📅 Updated: 2026-06-04
 
-![cc-switch](2026/06-03/2026-06-03_daily-top_cc-switch.png)
+![cc-switch](2026/06-04/2026-06-04_daily-top_cc-switch.png)
 
-### 3. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **推荐理由**  
-> *Impeccable is a powerful design language tool that enhances AI-driven frontend design with a curated vocabulary of 23 commands and 27 anti-pattern rules. It includes 7 domain reference files covering typography, color, motion, and more, allowing for comprehensive design guidance. Users can execute commands like `/impeccable audit`, `/impeccable polish`, and `/impeccable critique` for design reviews, technical checks, and final touches. Designed for seamless integration with various tools, it empowers developers to create visually compelling and accessible interfaces while avoiding common design pitfalls.*
-
-- ⭐ 33627 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-06-03
-
-![impeccable](2026/06-03/2026-06-03_daily-top_impeccable.png)
-
-### 4. [supermemory](https://github.com/supermemoryai/supermemory)
+### 3. [supermemory](https://github.com/supermemoryai/supermemory)
 
 > 🤖 **推荐理由**  
-> *Supermemory is a high-performance memory engine and app designed for AI, enabling persistent memory across conversations. Key features include automatic fact extraction, user profile maintenance, hybrid search combining retrieval-augmented generation (RAG) and memory, and real-time connectors for various platforms like Google Drive and GitHub. With support for multi-modal data processing and a single API for developers, Supermemory excels in AI memory benchmarks, ensuring your AI retains relevant context and adapts over time. Explore more at supermemory.ai.*
+> *Supermemory is a high-performance memory engine and API designed for AI applications, enabling persistent memory and context across conversations. It excels in benchmarks like LongMemEval and offers features such as automatic fact extraction, user profile maintenance, hybrid search, and real-time data syncing from platforms like Google Drive and Notion. With a single API, developers can integrate memory and context capabilities seamlessly. The user-friendly app allows individuals to build their personal memory graph, enhancing AI interactions over time.*
 
-- ⭐ 24757 stars
+- ⭐ 25279 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-03
+- 📅 Updated: 2026-06-04
 
-![supermemory](2026/06-03/2026-06-03_daily-top_supermemory.png)
+![supermemory](2026/06-04/2026-06-04_daily-top_supermemory.png)
 
-### 5. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+### 4. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **推荐理由**  
-> *OpenDataLoader PDF is an open-source PDF parser designed for AI-ready data extraction and PDF accessibility automation. It offers high extraction accuracy (0.907 overall) and supports various output formats, including Markdown, JSON, and Tagged PDFs. Key features include hybrid processing for complex documents, built-in OCR for scanned PDFs, and auto-tagging capabilities to create accessible Tagged PDFs. Collaborating with the PDF Association, it adheres to accessibility standards, making it a powerful tool for compliance with regulations like EAA and ADA. Available in Java, Python, and Node.js SDKs.*
+> *Impeccable is a JavaScript design language skill that enhances AI-assisted frontend design with 23 commands and 7 domain-specific reference files, including typography and UX writing. It offers a quick start via ready-to-use bundles at impeccable.style. Key features include deterministic anti-pattern rules, a CLI for direct command execution, and a browser extension for real-time design critique. Designed to overcome common design pitfalls, Impeccable provides tools for auditing, polishing, and critiquing designs, making it invaluable for developers seeking high-quality outputs in their projects.*
 
-- ⭐ 22858 stars
+- ⭐ 34149 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-06-04
+
+![impeccable](2026/06-04/2026-06-04_daily-top_impeccable.png)
+
+### 5. [opencode](https://github.com/anomalyco/opencode)
+
+> 🤖 **推荐理由**  
+> *OpenCode is an open-source AI coding agent built with TypeScript, boasting over 169,000 stars on GitHub. It features two main agents: a full-access "build" agent for development and a "plan" agent for code analysis, both switchable via the Tab key. OpenCode offers a user-friendly installation process across multiple platforms, including a desktop application (in beta). Extensive documentation is available to aid configuration, and the project encourages community contributions. Join the OpenCode community on Discord for support and collaboration.*
+
+- ⭐ 169566 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-04
+
+![opencode](2026/06-04/2026-06-04_daily-top_opencode.png)
+
+### 6. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+
+> 🤖 **推荐理由**  
+> *OpenDataLoader PDF is an open-source PDF parser designed for AI-ready data extraction and automated PDF accessibility. With an impressive benchmark accuracy of 0.907, it converts PDFs into structured Markdown, JSON (with bounding boxes), HTML, and Tagged PDFs. Key features include built-in OCR, hybrid processing for complex content, and auto-tagging for accessibility compliance. It supports multiple programming languages (Python, Node.js, Java) and collaborates with industry leaders for PDF/UA compliance. Ideal for enhancing document accessibility and streamlining data extraction workflows.*
+
+- ⭐ 23414 stars
 - 💻 Java
-- 📅 Updated: 2026-06-03
+- 📅 Updated: 2026-06-04
 
-![opendataloader-pdf](2026/06-03/2026-06-03_daily-top_opendataloader-pdf.png)
+![opendataloader-pdf](2026/06-04/2026-06-04_daily-top_opendataloader-pdf.png)
 
-### 6. [fff](https://github.com/dmtrKovalenko/fff)
-
-> 🤖 **推荐理由**  
-> *FFF is a high-performance file search toolkit designed for AI agents, Neovim, Rust, C, and NodeJS, achieving superior speed and accuracy over traditional CLIs like ripgrep and fzf. It features typo-resistant path and content search, frecency-ranked file access, and a background file watcher. FFF provides a lightweight in-memory content index, offering tools like `ffgrep` and `fffind` for efficient searching. It supports multiple programming languages through SDKs and libraries, including a Rust crate and a C library, making it ideal for IDEs and long-running processes.*
-
-- ⭐ 7456 stars
-- 💻 Rust
-- 📅 Updated: 2026-06-03
-
-![fff](2026/06-03/2026-06-03_daily-top_fff.png)
-
-### 7. [godot](https://github.com/godotengine/godot)
+### 7. [hyperframes](https://github.com/heygen-com/hyperframes)
 
 > 🤖 **推荐理由**  
-> *Godot Engine is a powerful, open-source game engine for creating 2D and 3D games across multiple platforms, including desktop, mobile, and web. With a unified interface and comprehensive tools, developers can focus on game creation without unnecessary hurdles. Godot is community-driven, fully free under the MIT license, and offers one-click export options. It boasts extensive documentation, active community support, and various learning resources. The engine's development is independent, ensuring users retain full ownership of their games and creations.*
+> *HyperFrames is an open-source framework designed for creating deterministic MP4 videos from HTML, CSS, and animations. With over 24,000 stars, it allows users to define video compositions as HTML files with data attributes for timing and effects, making it agent-friendly and eliminating complex build steps. Key features include a CLI for local rendering, reusable catalog components, support for various animation libraries, and AWS Lambda integration for distributed rendering. HyperFrames emphasizes simplicity and accessibility for both developers and AI coding agents.*
 
-- ⭐ 111959 stars
-- 💻 C++
-- 📅 Updated: 2026-06-03
-
-![godot](2026/06-03/2026-06-03_daily-top_godot.png)
-
-### 8. [codex](https://github.com/openai/codex)
-
-> 🤖 **推荐理由**  
-> *Codex is a lightweight coding agent developed by OpenAI, designed to run locally in your terminal. With over 88,000 stars, it offers seamless integration with code editors like VS Code and can be launched as a standalone desktop app. Installation is straightforward via scripts or package managers like npm and Homebrew. Users can connect to their ChatGPT accounts for enhanced functionality or utilize an API key for access. The project supports multiple platforms and provides comprehensive documentation for installation and usage.*
-
-- ⭐ 88082 stars
-- 💻 Rust
-- 📅 Updated: 2026-06-03
-
-![codex](2026/06-03/2026-06-03_daily-top_codex.png)
-
-### 9. [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
-
-> 🤖 **推荐理由**  
-> *The Compound Engineering plugin enhances coding efficiency with AI skills tailored for Claude Code, Codex, and Cursor. Key features include thorough planning via `/ce-brainstorm` and `/ce-plan`, systematic code reviews with `/ce-code-review`, and knowledge documentation through `/ce-compound`. The workflow emphasizes iterative cycles of brainstorming, planning, execution, and review, fostering a compounding effect on knowledge and quality. With 37 skills and 51 agents, it aims to minimize technical debt and streamline engineering tasks, making future work easier.*
-
-- ⭐ 19437 stars
+- ⭐ 24047 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-03
+- 📅 Updated: 2026-06-04
 
-![compound-engineering-plugin](2026/06-03/2026-06-03_daily-top_compound-engineering-plugin.png)
+![hyperframes](2026/06-04/2026-06-04_daily-top_hyperframes.png)
 
-### 10. [9router](https://github.com/decolua/9router)
+### 8. [oh-my-pi](https://github.com/can1357/oh-my-pi)
 
 > 🤖 **推荐理由**  
-> *9Router is an open-source AI coding router that connects multiple AI coding tools (e.g., Claude Code, Codex, Copilot) to over 40 providers, maximizing efficiency and cost savings. Key features include an RTK Token Saver that reduces token usage by 20-40%, automatic fallback between subscription, cheap, and free AI models, and real-time quota tracking. It supports multi-account setups and offers seamless integration with various CLI tools. With 9Router, developers can ensure uninterrupted coding experiences while optimizing costs and resources.*
+> *oh-my-pi is an AI coding agent for terminal environments, offering a robust set of features like hash-anchored edits, optimized tool integration, and LSP support. Key highlights include seamless code execution, real-time debugging, and the ability to manage multiple subagents for parallel tasks. It supports 40+ providers and provides tools for reading, writing, editing, and searching across various file types. The project is built with TypeScript and Rust, ensuring high performance and extensibility. With over 10,000 stars on GitHub, it’s designed to enhance productivity for developers.*
 
-- ⭐ 16002 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-06-03
+- ⭐ 10343 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-04
 
-![9router](2026/06-03/2026-06-03_daily-top_9router.png)
+![oh-my-pi](2026/06-04/2026-06-04_daily-top_oh-my-pi.png)
+
+### 9. [codex](https://github.com/openai/codex)
+
+> 🤖 **推荐理由**  
+> *Codex is a powerful lightweight coding agent from OpenAI, designed to run locally in your terminal. With over 88,000 stars on GitHub, it offers a seamless coding experience for developers. Users can easily install Codex CLI on Mac, Linux, or Windows using simple commands or package managers. Codex integrates with popular IDEs and provides a desktop app for enhanced usability. Signing in with a ChatGPT account unlocks additional features, while API key support allows for customization. Comprehensive documentation and contribution guidelines are available.*
+
+- ⭐ 88411 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-04
+
+![codex](2026/06-04/2026-06-04_daily-top_codex.png)
+
+### 10. [AiToEarn](https://github.com/yikart/AiToEarn)
+
+> 🤖 **推荐理由**  
+> *AiToEarn is a powerful AI-driven content marketing platform designed for creators, brands, and businesses to monetize, publish, and engage across major global platforms like TikTok, YouTube, and Instagram. Core features include automated content generation, multi-platform publishing, and interactive engagement tools, enabling users to streamline their content creation and distribution processes. With various monetization models—CPS, CPE, and CPM—AiToEarn helps creators earn from their content effectively. The platform supports easy access via web, integrations with AI assistants, and Docker deployment for teams.*
+
+- ⭐ 17893 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-04
+
+![AiToEarn](2026/06-04/2026-06-04_daily-top_AiToEarn.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-03 04:53:45 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-04 04:48:20 UTC

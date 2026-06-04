@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-04
 
-![ECC](2026/06-04/2026-06-04_daily-top_ECC.png)
+![ECC](2026-06-04_daily-top_ECC.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-04
 
-![cc-switch](2026/06-04/2026-06-04_daily-top_cc-switch.png)
+![cc-switch](2026-06-04_daily-top_cc-switch.png)
 
 ### 3. [supermemory](https://github.com/supermemoryai/supermemory)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-04
 
-![supermemory](2026/06-04/2026-06-04_daily-top_supermemory.png)
+![supermemory](2026-06-04_daily-top_supermemory.png)
 
 ### 4. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-04
 
-![impeccable](2026/06-04/2026-06-04_daily-top_impeccable.png)
+![impeccable](2026-06-04_daily-top_impeccable.png)
 
 ### 5. [opencode](https://github.com/anomalyco/opencode)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-04
 
-![opencode](2026/06-04/2026-06-04_daily-top_opencode.png)
+![opencode](2026-06-04_daily-top_opencode.png)
 
 ### 6. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 
@@ -82,7 +82,7 @@
 - 💻 Java
 - 📅 Updated: 2026-06-04
 
-![opendataloader-pdf](2026/06-04/2026-06-04_daily-top_opendataloader-pdf.png)
+![opendataloader-pdf](2026-06-04_daily-top_opendataloader-pdf.png)
 
 ### 7. [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-04
 
-![hyperframes](2026/06-04/2026-06-04_daily-top_hyperframes.png)
+![hyperframes](2026-06-04_daily-top_hyperframes.png)
 
 ### 8. [oh-my-pi](https://github.com/can1357/oh-my-pi)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-04
 
-![oh-my-pi](2026/06-04/2026-06-04_daily-top_oh-my-pi.png)
+![oh-my-pi](2026-06-04_daily-top_oh-my-pi.png)
 
 ### 9. [codex](https://github.com/openai/codex)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-04
 
-![codex](2026/06-04/2026-06-04_daily-top_codex.png)
+![codex](2026-06-04_daily-top_codex.png)
 
 ### 10. [AiToEarn](https://github.com/yikart/AiToEarn)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-04
 
-![AiToEarn](2026/06-04/2026-06-04_daily-top_AiToEarn.png)
+![AiToEarn](2026-06-04_daily-top_AiToEarn.png)
 
 ---
 
