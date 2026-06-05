@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-05
 
-![ECC](2026/06-05/2026-06-05_daily-top_ECC.png)
+![ECC](2026-06-05_daily-top_ECC.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-05
 
-![cc-switch](2026/06-05/2026-06-05_daily-top_cc-switch.png)
+![cc-switch](2026-06-05_daily-top_cc-switch.png)
 
 ### 3. [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 
@@ -49,7 +49,7 @@
 - 💻 Java
 - 📅 Updated: 2026-06-05
 
-![opendataloader-pdf](2026/06-05/2026-06-05_daily-top_opendataloader-pdf.png)
+![opendataloader-pdf](2026-06-05_daily-top_opendataloader-pdf.png)
 
 ### 4. [opencode](https://github.com/anomalyco/opencode)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-05
 
-![opencode](2026/06-05/2026-06-05_daily-top_opencode.png)
+![opencode](2026-06-05_daily-top_opencode.png)
 
 ### 5. [caveman](https://github.com/JuliusBrussee/caveman)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-05
 
-![caveman](2026/06-05/2026-06-05_daily-top_caveman.png)
+![caveman](2026-06-05_daily-top_caveman.png)
 
 ### 6. [supermemory](https://github.com/supermemoryai/supermemory)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-05
 
-![supermemory](2026/06-05/2026-06-05_daily-top_supermemory.png)
+![supermemory](2026-06-05_daily-top_supermemory.png)
 
 ### 7. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-05
 
-![impeccable](2026/06-05/2026-06-05_daily-top_impeccable.png)
+![impeccable](2026-06-05_daily-top_impeccable.png)
 
 ### 8. [hermes-desktop](https://github.com/fathah/hermes-desktop)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-05
 
-![hermes-desktop](2026/06-05/2026-06-05_daily-top_hermes-desktop.png)
+![hermes-desktop](2026-06-05_daily-top_hermes-desktop.png)
 
 ### 9. [codex](https://github.com/openai/codex)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-05
 
-![codex](2026/06-05/2026-06-05_daily-top_codex.png)
+![codex](2026-06-05_daily-top_codex.png)
 
 ### 10. [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-05
 
-![next-ai-draw-io](2026/06-05/2026-06-05_daily-top_next-ai-draw-io.png)
+![next-ai-draw-io](2026-06-05_daily-top_next-ai-draw-io.png)
 
 ---
 
