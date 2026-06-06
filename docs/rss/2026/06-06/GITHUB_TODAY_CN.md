@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-06
 
-![ECC](2026/06-06/2026-06-06_daily-top_ECC.png)
+![ECC](2026-06-06_daily-top_ECC.png)
 
 ### 2. [open-notebook](https://github.com/lfnovo/open-notebook)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-06
 
-![open-notebook](2026/06-06/2026-06-06_daily-top_open-notebook.png)
+![open-notebook](2026-06-06_daily-top_open-notebook.png)
 
 ### 3. [caveman](https://github.com/JuliusBrussee/caveman)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-06
 
-![caveman](2026/06-06/2026-06-06_daily-top_caveman.png)
+![caveman](2026-06-06_daily-top_caveman.png)
 
 ### 4. [tolaria](https://github.com/refactoringhq/tolaria)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-06
 
-![tolaria](2026/06-06/2026-06-06_daily-top_tolaria.png)
+![tolaria](2026-06-06_daily-top_tolaria.png)
 
 ### 5. [flowsint](https://github.com/reconurge/flowsint)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-06
 
-![flowsint](2026/06-06/2026-06-06_daily-top_flowsint.png)
+![flowsint](2026-06-06_daily-top_flowsint.png)
 
 ### 6. [CopilotKit](https://github.com/CopilotKit/CopilotKit)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-06
 
-![CopilotKit](2026/06-06/2026-06-06_daily-top_CopilotKit.png)
+![CopilotKit](2026-06-06_daily-top_CopilotKit.png)
 
 ### 7. [openclaw](https://github.com/openclaw/openclaw)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-06
 
-![openclaw](2026/06-06/2026-06-06_daily-top_openclaw.png)
+![openclaw](2026-06-06_daily-top_openclaw.png)
 
 ### 8. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-06
 
-![project-nomad](2026/06-06/2026-06-06_daily-top_project-nomad.png)
+![project-nomad](2026-06-06_daily-top_project-nomad.png)
 
 ### 9. [copilot-sdk](https://github.com/github/copilot-sdk)
 
@@ -116,7 +116,7 @@
 - 💻 Java
 - 📅 Updated: 2026-06-06
 
-![copilot-sdk](2026/06-06/2026-06-06_daily-top_copilot-sdk.png)
+![copilot-sdk](2026-06-06_daily-top_copilot-sdk.png)
 
 ### 10. [goose](https://github.com/aaif-goose/goose)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-06
 
-![goose](2026/06-06/2026-06-06_daily-top_goose.png)
+![goose](2026-06-06_daily-top_goose.png)
 
 ---
 
