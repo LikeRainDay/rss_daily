@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-07
 
-![open-notebook](2026/06-07/2026-06-07_daily-top_open-notebook.png)
+![open-notebook](2026-06-07_daily-top_open-notebook.png)
 
 ### 2. [CopilotKit](https://github.com/CopilotKit/CopilotKit)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-07
 
-![CopilotKit](2026/06-07/2026-06-07_daily-top_CopilotKit.png)
+![CopilotKit](2026-06-07_daily-top_CopilotKit.png)
 
 ### 3. [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-07
 
-![hyperframes](2026/06-07/2026-06-07_daily-top_hyperframes.png)
+![hyperframes](2026-06-07_daily-top_hyperframes.png)
 
 ### 4. [caveman](https://github.com/JuliusBrussee/caveman)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-07
 
-![caveman](2026/06-07/2026-06-07_daily-top_caveman.png)
+![caveman](2026-06-07_daily-top_caveman.png)
 
 ### 5. [goose](https://github.com/aaif-goose/goose)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-07
 
-![goose](2026/06-07/2026-06-07_daily-top_goose.png)
+![goose](2026-06-07_daily-top_goose.png)
 
 ### 6. [copilot-sdk](https://github.com/github/copilot-sdk)
 
@@ -82,7 +82,7 @@
 - 💻 Java
 - 📅 Updated: 2026-06-07
 
-![copilot-sdk](2026/06-07/2026-06-07_daily-top_copilot-sdk.png)
+![copilot-sdk](2026-06-07_daily-top_copilot-sdk.png)
 
 ### 7. [herdr](https://github.com/ogulcancelik/herdr)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-07
 
-![herdr](2026/06-07/2026-06-07_daily-top_herdr.png)
+![herdr](2026-06-07_daily-top_herdr.png)
 
 ### 8. [plugins](https://github.com/openai/plugins)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-07
 
-![plugins](2026/06-07/2026-06-07_daily-top_plugins.png)
+![plugins](2026-06-07_daily-top_plugins.png)
 
 ### 9. [codex](https://github.com/openai/codex)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-07
 
-![codex](2026/06-07/2026-06-07_daily-top_codex.png)
+![codex](2026-06-07_daily-top_codex.png)
 
 ### 10. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -126,7 +126,7 @@
 - 💻 C++
 - 📅 Updated: 2026-06-07
 
-![llama.cpp](2026/06-07/2026-06-07_daily-top_llama.cpp.png)
+![llama.cpp](2026-06-07_daily-top_llama.cpp.png)
 
 ---
 

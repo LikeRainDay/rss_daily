@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-06
+# 📊 🌟 GitHub Trending Daily - 2026-06-07
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **816671** ⭐ | **132415** 🍴
+**10** 个项目 | **421886** ⭐ | **52693** 🍴
 
-**热门语言:** `TypeScript` (6) · `JavaScript` (2) · `Java` (1)
+**热门语言:** `TypeScript` (3) · `Rust` (3) · `JavaScript` (2)
 
-**更新时间:** 2026-06-06 04:05 UTC
+**更新时间:** 2026-06-07 04:41 UTC
 
 **分类分布:**
 
@@ -18,116 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [ECC](https://github.com/affaan-m/ECC)
+### 1. [open-notebook](https://github.com/lfnovo/open-notebook)
 
 > 🤖 **推荐理由**  
-> *ECC is a comprehensive performance optimization system for AI agents like Claude Code and Codex. It offers skills, instincts, memory optimization, continuous learning, and security scanning, enabling streamlined workflows across multiple platforms. With over 63 agents and 251 skills, ECC supports tasks from planning and coding to testing and security reviews. Its features include a desktop GUI for easy exploration, a security auditing tool (AgentShield), and customizable installation options. ECC is open-source and actively maintained, with a strong community and extensive documentation.*
+> *Open Notebook is an open-source, privacy-focused alternative to Google's Notebook LM, designed for flexibility and control over your data. It supports 18+ AI models, including OpenAI and Anthropic, enabling users to choose their preferred providers. Key features include multi-modal content organization (PDFs, audio, etc.), intelligent search, context-aware AI chat, and advanced podcast generation with multiple speakers. Its self-hosted nature guarantees complete data sovereignty, making it a powerful tool for researchers seeking customization and privacy in their workflows.*
 
-- ⭐ 208454 stars
+- ⭐ 26702 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-07
+
+![open-notebook](2026/06-07/2026-06-07_daily-top_open-notebook.png)
+
+### 2. [CopilotKit](https://github.com/CopilotKit/CopilotKit)
+
+> 🤖 **推荐理由**  
+> *CopilotKit is a versatile SDK for building agent-native applications across various platforms, including React, Angular, Vue, and mobile. Key features include a customizable chat UI, generative UI for dynamic component rendering, shared state for real-time data synchronization, and human-in-the-loop workflows. It supports integration with Slack and Microsoft Teams, enabling deployment in familiar environments. With self-learning capabilities, agents improve over time using user feedback. The framework is backed by the AG-UI Protocol, adopted by major tech companies.*
+
+- ⭐ 33300 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-07
+
+![CopilotKit](2026/06-07/2026-06-07_daily-top_CopilotKit.png)
+
+### 3. [hyperframes](https://github.com/heygen-com/hyperframes)
+
+> 🤖 **推荐理由**  
+> *HyperFrames is an open-source framework that transforms HTML, CSS, and media into deterministic MP4 videos, catering to developers and AI agents. Key features include a CLI for local video production, reusable components via a catalog, and seamless integration with popular animation libraries like GSAP and Lottie. It emphasizes HTML-native authoring without a build step, ensuring replicable outputs. The platform supports distributed rendering through AWS Lambda and offers a community-driven playground for sharing projects. With 25,066 stars, HyperFrames is designed for efficient video creation and automation workflows.*
+
+- ⭐ 25066 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-07
+
+![hyperframes](2026/06-07/2026-06-07_daily-top_hyperframes.png)
+
+### 4. [caveman](https://github.com/JuliusBrussee/caveman)
+
+> 🤖 **推荐理由**  
+> *Caveman is a JavaScript-based Claude Code skill designed to significantly reduce token usage by simplifying responses—achieving an average of 65% reduction while maintaining technical accuracy. Users can choose from four levels of brevity: lite, full, ultra, or wenyan. Key features include token-saving commands for PR reviews, commit messages, and memory files, alongside a suite of tools like caveman-code for full terminal agent usage. With over 69,000 stars, it promotes efficient communication in coding environments while enhancing readability and speed.*
+
+- ⭐ 69568 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-06-06
+- 📅 Updated: 2026-06-07
 
-![ECC](2026/06-06/2026-06-06_daily-top_ECC.png)
+![caveman](2026/06-07/2026-06-07_daily-top_caveman.png)
 
-### 2. [open-notebook](https://github.com/lfnovo/open-notebook)
-
-> 🤖 **推荐理由**  
-> *Open Notebook is an open-source, privacy-focused alternative to Google's Notebook LM, boasting over 26,000 stars on GitHub. Key features include support for 18+ AI models (OpenAI, Anthropic, etc.), multi-modal content organization (PDFs, videos, etc.), advanced podcast generation with custom profiles, and intelligent full-text search. Users can maintain complete data control with self-hosting options and a comprehensive REST API. The platform offers a multi-language UI, customizable deployments, and enhanced citation management, making it a versatile tool for research and content creation.*
-
-- ⭐ 26094 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-06
-
-![open-notebook](2026/06-06/2026-06-06_daily-top_open-notebook.png)
-
-### 3. [caveman](https://github.com/JuliusBrussee/caveman)
+### 5. [goose](https://github.com/aaif-goose/goose)
 
 > 🤖 **推荐理由**  
-> *Caveman is a JavaScript plugin that enhances Claude Code and other agents by reducing output tokens by up to 75% while maintaining technical accuracy. Key features include adjustable output levels (lite, full, ultra, wenyan), commands for generating concise commit messages and PR comments, and real-time token usage statistics. It integrates seamlessly with various agents, offering a lightweight installation process. Caveman promotes efficiency in communication, making it ideal for developers seeking to streamline their interactions with AI while saving costs and improving readability.*
+> *Goose is an open-source AI agent designed for various tasks beyond code suggestions, including research, writing, and automation. Available as a native desktop app for macOS, Linux, and Windows, it also features a full CLI and API for integration. Built in Rust, Goose supports 15+ AI providers like OpenAI and Google, and connects to over 70 extensions via the Model Context Protocol. It is now part of the Agentic AI Foundation at the Linux Foundation. Join the community on Discord or access extensive documentation and tutorials to get started.*
 
-- ⭐ 69325 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-06-06
-
-![caveman](2026/06-06/2026-06-06_daily-top_caveman.png)
-
-### 4. [tolaria](https://github.com/refactoringhq/tolaria)
-
-> 🤖 **推荐理由**  
-> *Tolaria is a versatile desktop app for managing markdown knowledge bases on macOS, Windows, and Linux, boasting over 12,000 stars on GitHub. It enables users to operate second brains, organize company documents, and store assistant memories without cloud dependency. Key features include a "files-first" approach with plain markdown files, Git integration for version control, and an offline-first design. Tolaria is open source, keyboard-centric, and supports AI tools while ensuring user data remains portable and secure. Ideal for power users, it enhances productivity through customizable workflows.*
-
-- ⭐ 12296 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-06
-
-![tolaria](2026/06-06/2026-06-06_daily-top_tolaria.png)
-
-### 5. [flowsint](https://github.com/reconurge/flowsint)
-
-> 🤖 **推荐理由**  
-> *A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.. popular project, actively maintained, recently updated*
-
-- ⭐ 5545 stars
-- 🍴 666 forks
-- 💻 TypeScript
-- 📅 Updated: 2026-06-06
-
-![flowsint](2026/06-06/2026-06-06_daily-top_flowsint.png)
-
-### 6. [CopilotKit](https://github.com/CopilotKit/CopilotKit)
-
-> 🤖 **推荐理由**  
-> *CopilotKit is a versatile SDK for building agent-native applications across various platforms, including React, Angular, and mobile environments. With its core features such as customizable chat UI, generative UI for dynamic component rendering, and a shared state layer, it supports real-time interactions. The framework enables human-in-the-loop workflows and self-learning agents that adapt based on user feedback. Positioned as the backbone for the AG-UI Protocol, adopted by major companies, CopilotKit facilitates seamless integration into existing workflows, including Slack and Microsoft Teams.*
-
-- ⭐ 32767 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-06
-
-![CopilotKit](2026/06-06/2026-06-06_daily-top_CopilotKit.png)
-
-### 7. [openclaw](https://github.com/openclaw/openclaw)
-
-> 🤖 **推荐理由**  
-> *OpenClaw is a versatile personal AI assistant designed for any platform (macOS, Windows, Linux, iOS, Android) that operates locally on your devices. It supports multiple messaging channels including WhatsApp, Telegram, Discord, and more, allowing seamless interaction. Key features include a local-first gateway, multi-channel inbox, voice commands, and a live canvas for visual tasks. The onboarding process is user-friendly, guiding users through setup while ensuring robust security protocols. With over 377,000 stars on GitHub, OpenClaw aims to provide a fast, efficient, and personalized AI experience.*
-
-- ⭐ 377136 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-06
-
-![openclaw](2026/06-06/2026-06-06_daily-top_openclaw.png)
-
-### 8. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-
-> 🤖 **推荐理由**  
-> *Project N.O.M.A.D. is a self-contained offline survival computer, offering essential tools and AI to empower users anytime, anywhere. Key features include an AI chat with a knowledge base, an offline information library (Wikipedia, medical references), an education platform with Khan Academy courses, and offline maps. The system supports data tools for encoding and encryption, local note-taking, and a performance benchmark leaderboard. Designed for Debian-based systems, it emphasizes easy installation and robust functionality, making it ideal for offline knowledge management.*
-
-- ⭐ 29014 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-06
-
-![project-nomad](2026/06-06/2026-06-06_daily-top_project-nomad.png)
-
-### 9. [copilot-sdk](https://github.com/github/copilot-sdk)
-
-> 🤖 **推荐理由**  
-> *The GitHub Copilot SDK is a multi-platform SDK designed for integrating the GitHub Copilot Agent into applications across various languages, including Java, Python, TypeScript, Go, .NET, and Rust. It provides a production-tested agent runtime that simplifies embedding AI workflows, handling planning, tool invocation, and file edits. The SDK supports multiple authentication methods, including GitHub OAuth and BYOK (Bring Your Own Key). With detailed documentation, quick-start guides, and a robust architecture using JSON-RPC, developers can easily create custom agents and tools for enhanced functionality.*
-
-- ⭐ 9280 stars
-- 💻 Java
-- 📅 Updated: 2026-06-06
-
-![copilot-sdk](2026/06-06/2026-06-06_daily-top_copilot-sdk.png)
-
-### 10. [goose](https://github.com/aaif-goose/goose)
-
-> 🤖 **推荐理由**  
-> *goose is an open-source, extensible AI agent that operates as a desktop app, CLI, and API, designed for a variety of tasks including coding, research, automation, and data analysis. Built in Rust for performance, it supports over 15 AI providers such as OpenAI, Google, and Anthropic, allowing users to leverage existing subscriptions. With compatibility across macOS, Linux, and Windows, goose connects to 70+ extensions via the Model Context Protocol. Now part of the Agentic AI Foundation at the Linux Foundation, it offers a robust framework for enhancing workflows.*
-
-- ⭐ 46760 stars
+- ⭐ 47055 stars
 - 💻 Rust
-- 📅 Updated: 2026-06-06
+- 📅 Updated: 2026-06-07
 
-![goose](2026/06-06/2026-06-06_daily-top_goose.png)
+![goose](2026/06-07/2026-06-07_daily-top_goose.png)
+
+### 6. [copilot-sdk](https://github.com/github/copilot-sdk)
+
+> 🤖 **推荐理由**  
+> *The GitHub Copilot SDK is a multi-platform SDK designed for integrating the GitHub Copilot Agent into various applications. With support for languages like Java, Python, TypeScript, Go, .NET, and Rust, it streamlines the embedding of Copilot's agent workflows. Key features include a production-tested agent runtime, customizable tool invocation, and support for Bring Your Own Key (BYOK) authentication. The SDK facilitates easy interaction with the Copilot CLI via JSON-RPC, allowing developers to define custom agents and skills. Comprehensive documentation and quick-start guides are provided to assist users.*
+
+- ⭐ 9362 stars
+- 💻 Java
+- 📅 Updated: 2026-06-07
+
+![copilot-sdk](2026/06-07/2026-06-07_daily-top_copilot-sdk.png)
+
+### 7. [herdr](https://github.com/ogulcancelik/herdr)
+
+> 🤖 **推荐理由**  
+> *Herdr is a powerful terminal-based agent multiplexer developed in Rust, boasting 4,799 stars on GitHub. It enables users to manage workspaces, tabs, and panes seamlessly, offering mouse-native interactions and real terminal views. Key features include session persistence, agent awareness for monitoring tasks, and built-in support for various integrations like Claude Code and GitHub Copilot. It provides a lightweight, GUI-free experience that runs directly in the terminal, with customizable keybindings and themes. Ideal for developers seeking efficient management of concurrent tasks.*
+
+- ⭐ 4799 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-07
+
+![herdr](2026/06-07/2026-06-07_daily-top_herdr.png)
+
+### 8. [plugins](https://github.com/openai/plugins)
+
+> 🤖 **推荐理由**  
+> *The "plugins" repository offers a curated collection of Codex plugin examples in JavaScript, featuring diverse functionalities across various applications. Key highlights include plugins for Figma (design systems), Notion (planning and knowledge capture), and workflows for building iOS, macOS, and web apps. Additional plugins support Expo for React Native apps and integration with services like Netlify, Remotion, and Google Slides. Each plugin is structured with a manifest and optional companion files, enabling developers to enhance their applications with rich, customizable features.*
+
+- ⭐ 1811 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-06-07
+
+![plugins](2026/06-07/2026-06-07_daily-top_plugins.png)
+
+### 9. [codex](https://github.com/openai/codex)
+
+> 🤖 **推荐理由**  
+> *Codex is a lightweight coding agent from OpenAI that runs locally in your terminal, designed to enhance your coding experience. With 89,187 stars on GitHub, it supports installation on Mac, Linux, and Windows via scripts or package managers like npm and Homebrew. Codex integrates seamlessly with IDEs like VS Code and offers a desktop app version. Users can sign in with their ChatGPT accounts for enhanced functionality, or use an API key. Comprehensive documentation and community contributions are available to guide users.*
+
+- ⭐ 89187 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-07
+
+![codex](2026/06-07/2026-06-07_daily-top_codex.png)
+
+### 10. [llama.cpp](https://github.com/ggml-org/llama.cpp)
+
+> 🤖 **推荐理由**  
+> *llama.cpp is a C/C++ library for high-performance large language model (LLM) inference, featuring minimal dependencies and optimized for diverse hardware, including Apple Silicon and NVIDIA GPUs. With support for various quantization formats (1.5-8 bits), it enables faster inference and reduced memory usage. Key services include a CLI for local model execution, a REST API server for integration, and compatibility with Hugging Face models. The project supports multimodal capabilities, customizable grammar constraints, and a range of bindings across multiple programming languages, making it versatile for developers.*
+
+- ⭐ 115036 stars
+- 💻 C++
+- 📅 Updated: 2026-06-07
+
+![llama.cpp](2026/06-07/2026-06-07_daily-top_llama.cpp.png)
 
 ---
 
@@ -141,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-06 04:05:21 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-07 04:41:55 UTC
