@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-08
 
-![career-ops](2026/06-08/2026-06-08_daily-top_career-ops.png)
+![career-ops](2026-06-08_daily-top_career-ops.png)
 
 ### 2. [CopilotKit](https://github.com/CopilotKit/CopilotKit)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-08
 
-![CopilotKit](2026/06-08/2026-06-08_daily-top_CopilotKit.png)
+![CopilotKit](2026-06-08_daily-top_CopilotKit.png)
 
 ### 3. [open-notebook](https://github.com/lfnovo/open-notebook)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-08
 
-![open-notebook](2026/06-08/2026-06-08_daily-top_open-notebook.png)
+![open-notebook](2026-06-08_daily-top_open-notebook.png)
 
 ### 4. [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-08
 
-![hyperframes](2026/06-08/2026-06-08_daily-top_hyperframes.png)
+![hyperframes](2026-06-08_daily-top_hyperframes.png)
 
 ### 5. [iptv](https://github.com/iptv-org/iptv)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-08
 
-![iptv](2026/06-08/2026-06-08_daily-top_iptv.png)
+![iptv](2026-06-08_daily-top_iptv.png)
 
 ### 6. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-08
 
-![Personal_AI_Infrastructure](2026/06-08/2026-06-08_daily-top_Personal_AI_Infrastructure.png)
+![Personal_AI_Infrastructure](2026-06-08_daily-top_Personal_AI_Infrastructure.png)
 
 ### 7. [goose](https://github.com/aaif-goose/goose)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-08
 
-![goose](2026/06-08/2026-06-08_daily-top_goose.png)
+![goose](2026-06-08_daily-top_goose.png)
 
 ### 8. [pg_durable](https://github.com/microsoft/pg_durable)
 
@@ -105,7 +105,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-08
 
-![pg_durable](2026/06-08/2026-06-08_daily-top_pg_durable.png)
+![pg_durable](2026-06-08_daily-top_pg_durable.png)
 
 ### 9. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-08
 
-![project-nomad](2026/06-08/2026-06-08_daily-top_project-nomad.png)
+![project-nomad](2026-06-08_daily-top_project-nomad.png)
 
 ### 10. [plugins](https://github.com/openai/plugins)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-08
 
-![plugins](2026/06-08/2026-06-08_daily-top_plugins.png)
+![plugins](2026-06-08_daily-top_plugins.png)
 
 ---
 
