@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-09
 
-![open-notebook](2026/06-09/2026-06-09_daily-top_open-notebook.png)
+![open-notebook](2026-06-09_daily-top_open-notebook.png)
 
 ### 2. [AiToEarn](https://github.com/yikart/AiToEarn)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-09
 
-![AiToEarn](2026/06-09/2026-06-09_daily-top_AiToEarn.png)
+![AiToEarn](2026-06-09_daily-top_AiToEarn.png)
 
 ### 3. [goose](https://github.com/aaif-goose/goose)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-09
 
-![goose](2026/06-09/2026-06-09_daily-top_goose.png)
+![goose](2026-06-09_daily-top_goose.png)
 
 ### 4. [tolaria](https://github.com/refactoringhq/tolaria)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-09
 
-![tolaria](2026/06-09/2026-06-09_daily-top_tolaria.png)
+![tolaria](2026-06-09_daily-top_tolaria.png)
 
 ### 5. [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
@@ -72,7 +72,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-09
 
-![sniffnet](2026/06-09/2026-06-09_daily-top_sniffnet.png)
+![sniffnet](2026-06-09_daily-top_sniffnet.png)
 
 ### 6. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-09
 
-![project-nomad](2026/06-09/2026-06-09_daily-top_project-nomad.png)
+![project-nomad](2026-06-09_daily-top_project-nomad.png)
 
 ### 7. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -94,7 +94,7 @@
 - 💻 C++
 - 📅 Updated: 2026-06-09
 
-![llama.cpp](2026/06-09/2026-06-09_daily-top_llama.cpp.png)
+![llama.cpp](2026-06-09_daily-top_llama.cpp.png)
 
 ### 8. [sub2api](https://github.com/Wei-Shaw/sub2api)
 
@@ -105,7 +105,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-09
 
-![sub2api](2026/06-09/2026-06-09_daily-top_sub2api.png)
+![sub2api](2026-06-09_daily-top_sub2api.png)
 
 ### 9. [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-09
 
-![hyperframes](2026/06-09/2026-06-09_daily-top_hyperframes.png)
+![hyperframes](2026-06-09_daily-top_hyperframes.png)
 
 ### 10. [opencv](https://github.com/opencv/opencv)
 
@@ -127,7 +127,7 @@
 - 💻 C++
 - 📅 Updated: 2026-06-09
 
-![opencv](2026/06-09/2026-06-09_daily-top_opencv.png)
+![opencv](2026-06-09_daily-top_opencv.png)
 
 ---
 

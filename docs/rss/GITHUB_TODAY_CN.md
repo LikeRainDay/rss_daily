@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-08
+# 📊 🌟 GitHub Trending Daily - 2026-06-09
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **350150** ⭐ | **36711** 🍴
+**10** 个项目 | **434636** ⭐ | **100472** 🍴
 
-**热门语言:** `TypeScript` (6) · `JavaScript` (2) · `Rust` (2)
+**热门语言:** `TypeScript` (5) · `Rust` (2) · `C++` (2)
 
-**更新时间:** 2026-06-08 04:46 UTC
+**更新时间:** 2026-06-09 04:08 UTC
 
 **分类分布:**
 
@@ -18,116 +18,116 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [career-ops](https://github.com/santifer/career-ops)
+### 1. [open-notebook](https://github.com/lfnovo/open-notebook)
 
 > 🤖 **推荐理由**  
-> *Career-Ops is an AI-powered job search system designed to optimize the job application process. Key features include a structured A-F evaluation system for job offers, personalized ATS-optimized CV generation, automated scanning of over 45 job portals, and batch processing to handle multiple job applications simultaneously. The system provides a dashboard for tracking applications and integrates with Claude Code for intelligent resume adaptation. Its open-source nature empowers users to customize workflows, making it a valuable tool for job seekers to efficiently navigate their career paths.*
+> *Open Notebook is an open-source, privacy-focused alternative to Google's Notebook LM, featuring a self-hosted environment for data control. It supports 18+ AI models, including OpenAI and Anthropic, enabling users to generate multi-speaker podcasts and organize diverse content types like PDFs and videos. Key features include intelligent search capabilities, context-aware AI conversations, and a comprehensive REST API for integrations. With multi-language support and customizable options, Open Notebook empowers users to manage research securely and efficiently.*
 
-- ⭐ 49870 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-06-08
-
-![career-ops](2026/06-08/2026-06-08_daily-top_career-ops.png)
-
-### 2. [CopilotKit](https://github.com/CopilotKit/CopilotKit)
-
-> 🤖 **推荐理由**  
-> *CopilotKit is a powerful SDK for building full-stack agentic applications across multiple platforms, including React, Angular, and mobile. Key features include a customizable chat UI, dynamic Generative UI, real-time shared state, and human-in-the-loop workflows. The framework enables seamless integration with Slack and Microsoft Teams, allowing agents to operate in existing workflows. With self-learning capabilities and the AG-UI Protocol adopted by major companies, CopilotKit delivers an innovative solution for developing intelligent applications. Explore the documentation and examples to get started.*
-
-- ⭐ 33772 stars
+- ⭐ 28046 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-08
+- 📅 Updated: 2026-06-09
 
-![CopilotKit](2026/06-08/2026-06-08_daily-top_CopilotKit.png)
+![open-notebook](2026/06-09/2026-06-09_daily-top_open-notebook.png)
 
-### 3. [open-notebook](https://github.com/lfnovo/open-notebook)
+### 2. [AiToEarn](https://github.com/yikart/AiToEarn)
 
 > 🤖 **推荐理由**  
-> *Open Notebook is an open-source, privacy-focused alternative to Google's Notebook LM, offering enhanced flexibility and features. Key highlights include support for 18+ AI providers, allowing users to select models from OpenAI, Anthropic, and more. It enables multi-modal content organization, professional podcast generation, and intelligent search across all materials. Users can maintain complete data control with self-hosting options. The platform supports various languages and features a comprehensive REST API for customization, making it a robust tool for research and content management.*
+> *AiToEarn is a powerful AI-driven content marketing platform designed for creators, brands, and businesses to monetize and distribute content across major platforms like TikTok, YouTube, Facebook, and Instagram. Key features include automated content creation, multi-platform publishing, and engagement tools that enhance interaction and brand monitoring. Users can monetize through various models such as CPS and CPM. With easy access via web or Docker deployment, AiToEarn simplifies the content lifecycle, making it accessible for both casual users and enterprises.*
 
-- ⭐ 27448 stars
+- ⭐ 19522 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-08
+- 📅 Updated: 2026-06-09
 
-![open-notebook](2026/06-08/2026-06-08_daily-top_open-notebook.png)
+![AiToEarn](2026/06-09/2026-06-09_daily-top_AiToEarn.png)
 
-### 4. [hyperframes](https://github.com/heygen-com/hyperframes)
-
-> 🤖 **推荐理由**  
-> *HyperFrames is an open-source framework that transforms HTML, CSS, and media into deterministic MP4 videos, designed for both developers and AI agents. Key features include a CLI for local project management, agent skills for automated video creation, and a catalog of reusable components. It supports various animation libraries (GSAP, Lottie, etc.) and offers a straightforward authoring model without a build step. HyperFrames can be run locally or via AWS Lambda, making it ideal for CI and automated rendering. Explore more at hyperframes.dev.*
-
-- ⭐ 25456 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-08
-
-![hyperframes](2026/06-08/2026-06-08_daily-top_hyperframes.png)
-
-### 5. [iptv](https://github.com/iptv-org/iptv)
+### 3. [goose](https://github.com/aaif-goose/goose)
 
 > 🤖 **推荐理由**  
-> *IPTV is a comprehensive collection of publicly available IPTV channels from around the globe, built with TypeScript and boasting over 117,000 stars on GitHub. Users can easily access channels by pasting playlist links into compatible video players. The project includes an extensive main playlist, an Electronic Program Guide (EPG) for channel scheduling, and a database of channel data. Additionally, it offers an API, resources for further exploration, and a community for discussions and contributions. Legal disclaimers clarify that no video files are stored, only links to publicly available streams.*
+> *goose is an open-source, extensible AI agent designed for various tasks beyond code suggestions, including research, writing, and automation. It features a native desktop app for macOS, Linux, and Windows, a CLI for terminal workflows, and an API for integration. Built in Rust, it supports 15+ AI providers like OpenAI and Google, and connects to 70+ extensions via the Model Context Protocol. Now under the Agentic AI Foundation at the Linux Foundation, goose aims to enhance productivity through a versatile, high-performance platform.*
 
-- ⭐ 117377 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-08
-
-![iptv](2026/06-08/2026-06-08_daily-top_iptv.png)
-
-### 6. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
-
-> 🤖 **推荐理由**  
-> *Personal_AI_Infrastructure (PAI) is a transformative Life Operating System designed to enhance human capabilities through AI. Key features include a unified Pulse daemon for life management, a Digital Assistant (DA) for personalized interactions, and an advanced Algorithm that guides users from their current state to their ideal state through a structured process. PAI supports a text-based memory system, custom skills, and seamless integration of personal context. With over 45 skills and 171 workflows, it empowers users to articulate goals, manage tasks, and optimize their lives effectively.*
-
-- ⭐ 15194 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-08
-
-![Personal_AI_Infrastructure](2026/06-08/2026-06-08_daily-top_Personal_AI_Infrastructure.png)
-
-### 7. [goose](https://github.com/aaif-goose/goose)
-
-> 🤖 **推荐理由**  
-> *goose is an open-source, extensible AI agent designed for various tasks, including coding, research, automation, and data analysis. Built in Rust for performance, it offers a native desktop app for macOS, Linux, and Windows, along with a full CLI and API for seamless integration. It supports over 15 AI providers, such as OpenAI and Google, and connects to 70+ extensions via the Model Context Protocol. Now part of the Agentic AI Foundation at the Linux Foundation, goose prioritizes user collaboration and customization, making it a versatile tool for diverse workflows.*
-
-- ⭐ 47620 stars
+- ⭐ 48170 stars
 - 💻 Rust
-- 📅 Updated: 2026-06-08
+- 📅 Updated: 2026-06-09
 
-![goose](2026/06-08/2026-06-08_daily-top_goose.png)
+![goose](2026/06-09/2026-06-09_daily-top_goose.png)
 
-### 8. [pg_durable](https://github.com/microsoft/pg_durable)
-
-> 🤖 **推荐理由**  
-> *PostgreSQL in-database durable execution. popular project, recently updated*
-
-- ⭐ 1511 stars
-- 🍴 33 forks
-- 💻 Rust
-- 📅 Updated: 2026-06-08
-
-![pg_durable](2026/06-08/2026-06-08_daily-top_pg_durable.png)
-
-### 9. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+### 4. [tolaria](https://github.com/refactoringhq/tolaria)
 
 > 🤖 **推荐理由**  
-> *Project N.O.M.A.D. is an offline-first survival computer designed to provide essential tools, knowledge, and AI capabilities anytime, anywhere. Key features include a local AI chat assistant, offline Wikipedia, medical references, Khan Academy courses, and regional maps. It also offers data analysis tools, local note-taking, and system benchmarking. The project is built on Docker for easy management and installation on Debian-based systems. With no built-in telemetry and minimal internet reliance, N.O.M.A.D. prioritizes user privacy and security.*
+> *Tolaria is an open-source desktop app for macOS, Windows, and Linux, designed to manage markdown knowledge bases. With over 13,700 stars on GitHub, it enables users to operate second brains, organize company documentation, and store AI assistant memories. Key features include a files-first approach with portable markdown notes, Git integration for version control, offline functionality, and keyboard-centric navigation. Tolaria supports AI interactions while ensuring user data remains private and accessible. It’s built with Tauri, React, and TypeScript, making it a powerful tool for personal and professional knowledge management.*
 
-- ⭐ 29808 stars
+- ⭐ 13706 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-08
+- 📅 Updated: 2026-06-09
 
-![project-nomad](2026/06-08/2026-06-08_daily-top_project-nomad.png)
+![tolaria](2026/06-09/2026-06-09_daily-top_tolaria.png)
 
-### 10. [plugins](https://github.com/openai/plugins)
+### 5. [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
 > 🤖 **推荐理由**  
-> *The "plugins" GitHub repository offers a curated collection of OpenAI Codex plugin examples, featuring a variety of core functionalities. Each plugin, organized under `plugins/<name>/`, includes a `.codex-plugin/plugin.json` manifest and optional components like `skills/`, `commands/`, and `assets/`. Notable plugins include `figma` for design integration, `notion` for research and planning, and `build-ios-apps` for SwiftUI development. Additional plugins support web, macOS, and React Native applications, enhancing deployment, performance, and debugging workflows. With 2094 stars, this repository serves as a valuable resource for developers leveraging Codex plugins.*
+> *Comfortably monitor your Internet traffic 🕵️‍♂️. popular project, actively maintained, recently updated*
 
-- ⭐ 2094 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-06-08
+- ⭐ 38795 stars
+- 🍴 1617 forks
+- 💻 Rust
+- 📅 Updated: 2026-06-09
 
-![plugins](2026/06-08/2026-06-08_daily-top_plugins.png)
+![sniffnet](2026/06-09/2026-06-09_daily-top_sniffnet.png)
+
+### 6. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+
+> 🤖 **推荐理由**  
+> *Project N.O.M.A.D. is an offline-first survival computer designed to provide critical tools and knowledge anytime, anywhere. Key features include an AI-powered chat assistant, an offline information library (Wikipedia and more), an education platform with Khan Academy courses, downloadable offline maps, and data analysis tools. The system is easily installed on Debian-based OS through a terminal and supports containerized applications via Docker. Emphasizing privacy, it requires no internet post-installation and has zero built-in telemetry. With over 30,000 stars on GitHub, it fosters a vibrant community for support and enhancement.*
+
+- ⭐ 30112 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-09
+
+![project-nomad](2026/06-09/2026-06-09_daily-top_project-nomad.png)
+
+### 7. [llama.cpp](https://github.com/ggml-org/llama.cpp)
+
+> 🤖 **推荐理由**  
+> *llama.cpp is a high-performance library for large language model (LLM) inference implemented in C++. It supports diverse hardware architectures, including Apple Silicon and x86, with optimizations for AVX and ARM. Key features include support for multiple quantization formats, custom CUDA kernels for NVIDIA GPUs, and multimodal capabilities via the llama-server. It offers a user-friendly CLI, REST API support, and integration with tools like Hugging Face for model management. With over 115k stars, it provides extensive documentation and a vibrant ecosystem for developers.*
+
+- ⭐ 115657 stars
+- 💻 C++
+- 📅 Updated: 2026-06-09
+
+![llama.cpp](2026/06-09/2026-06-09_daily-top_llama.cpp.png)
+
+### 8. [sub2api](https://github.com/Wei-Shaw/sub2api)
+
+> 🤖 **推荐理由**  
+> *Sub2API is an open-source relay platform that consolidates Claude, OpenAI, Gemini, and Antigravity subscriptions into a single API endpoint. Key features include multi-account management, API key generation, precise billing, smart scheduling, concurrency control, and built-in payment support for various methods. An admin dashboard allows monitoring and management, while external system integration is possible via iframes. With over 26,000 stars, it offers a robust solution for distributing API quotas, making it ideal for developers seeking seamless access and cost-sharing among AI services.*
+
+- ⭐ 26446 stars
+- 💻 Go
+- 📅 Updated: 2026-06-09
+
+![sub2api](2026/06-09/2026-06-09_daily-top_sub2api.png)
+
+### 9. [hyperframes](https://github.com/heygen-com/hyperframes)
+
+> 🤖 **推荐理由**  
+> *HyperFrames is an open-source TypeScript framework designed to transform HTML and CSS into deterministic MP4 videos, making video creation accessible for both developers and AI coding agents. Key features include a CLI for local project management, real-time previews, and integration with animation libraries like GSAP and Lottie. HyperFrames supports various use cases, from product videos to data visualizations, and offers a catalog of reusable components. With its HTML-native approach and no build step, it streamlines video production while ensuring consistent output.*
+
+- ⭐ 25808 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-09
+
+![hyperframes](2026/06-09/2026-06-09_daily-top_hyperframes.png)
+
+### 10. [opencv](https://github.com/opencv/opencv)
+
+> 🤖 **推荐理由**  
+> *OpenCV is an open-source computer vision library written in C++, boasting 88,374 stars on GitHub. It provides extensive resources including comprehensive documentation, online courses, and a Q&A forum. Key features include image processing, machine learning, and real-time computer vision functionalities. The project encourages community contributions, with clear guidelines and support for users. Additional services like OpenCV.ai offer specialized development in computer vision and AI. Stay connected through various social platforms for updates and community engagement.*
+
+- ⭐ 88374 stars
+- 💻 C++
+- 📅 Updated: 2026-06-09
+
+![opencv](2026/06-09/2026-06-09_daily-top_opencv.png)
 
 ---
 
@@ -141,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-08 04:46:46 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-09 04:08:18 UTC
