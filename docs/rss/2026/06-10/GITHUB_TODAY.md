@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-10
 
-![career-ops](2026/06-10/2026-06-10_daily-top_career-ops.png)
+![career-ops](2026-06-10_daily-top_career-ops.png)
 
 ### 2. [tolaria](https://github.com/refactoringhq/tolaria)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-10
 
-![tolaria](2026/06-10/2026-06-10_daily-top_tolaria.png)
+![tolaria](2026-06-10_daily-top_tolaria.png)
 
 ### 3. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-10
 
-![impeccable](2026/06-10/2026-06-10_daily-top_impeccable.png)
+![impeccable](2026-06-10_daily-top_impeccable.png)
 
 ### 4. [open-notebook](https://github.com/lfnovo/open-notebook)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-10
 
-![open-notebook](2026/06-10/2026-06-10_daily-top_open-notebook.png)
+![open-notebook](2026-06-10_daily-top_open-notebook.png)
 
 ### 5. [goose](https://github.com/aaif-goose/goose)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-10
 
-![goose](2026/06-10/2026-06-10_daily-top_goose.png)
+![goose](2026-06-10_daily-top_goose.png)
 
 ### 6. [CopilotKit](https://github.com/CopilotKit/CopilotKit)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-10
 
-![CopilotKit](2026/06-10/2026-06-10_daily-top_CopilotKit.png)
+![CopilotKit](2026-06-10_daily-top_CopilotKit.png)
 
 ### 7. [RuView](https://github.com/ruvnet/RuView)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-10
 
-![RuView](2026/06-10/2026-06-10_daily-top_RuView.png)
+![RuView](2026-06-10_daily-top_RuView.png)
 
 ### 8. [AiToEarn](https://github.com/yikart/AiToEarn)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-10
 
-![AiToEarn](2026/06-10/2026-06-10_daily-top_AiToEarn.png)
+![AiToEarn](2026-06-10_daily-top_AiToEarn.png)
 
 ### 9. [sub2api](https://github.com/Wei-Shaw/sub2api)
 
@@ -115,7 +115,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-10
 
-![sub2api](2026/06-10/2026-06-10_daily-top_sub2api.png)
+![sub2api](2026-06-10_daily-top_sub2api.png)
 
 ### 10. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-10
 
-![Personal_AI_Infrastructure](2026/06-10/2026-06-10_daily-top_Personal_AI_Infrastructure.png)
+![Personal_AI_Infrastructure](2026-06-10_daily-top_Personal_AI_Infrastructure.png)
 
 ---
 
