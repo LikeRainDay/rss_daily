@@ -27,7 +27,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-12
 
-![container](2026/06-12/2026-06-12_daily-top_container.png)
+![container](2026-06-12_daily-top_container.png)
 
 ### 2. [tolaria](https://github.com/refactoringhq/tolaria)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-12
 
-![tolaria](2026/06-12/2026-06-12_daily-top_tolaria.png)
+![tolaria](2026-06-12_daily-top_tolaria.png)
 
 ### 3. [opencode](https://github.com/anomalyco/opencode)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-12
 
-![opencode](2026/06-12/2026-06-12_daily-top_opencode.png)
+![opencode](2026-06-12_daily-top_opencode.png)
 
 ### 4. [MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
 
@@ -60,7 +60,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-12
 
-![MasterDnsVPN](2026/06-12/2026-06-12_daily-top_MasterDnsVPN.png)
+![MasterDnsVPN](2026-06-12_daily-top_MasterDnsVPN.png)
 
 ### 5. [caveman](https://github.com/JuliusBrussee/caveman)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-12
 
-![caveman](2026/06-12/2026-06-12_daily-top_caveman.png)
+![caveman](2026-06-12_daily-top_caveman.png)
 
 ### 6. [RuView](https://github.com/ruvnet/RuView)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-12
 
-![RuView](2026/06-12/2026-06-12_daily-top_RuView.png)
+![RuView](2026-06-12_daily-top_RuView.png)
 
 ### 7. [hivemind](https://github.com/activeloopai/hivemind)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-12
 
-![hivemind](2026/06-12/2026-06-12_daily-top_hivemind.png)
+![hivemind](2026-06-12_daily-top_hivemind.png)
 
 ### 8. [career-ops](https://github.com/santifer/career-ops)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-12
 
-![career-ops](2026/06-12/2026-06-12_daily-top_career-ops.png)
+![career-ops](2026-06-12_daily-top_career-ops.png)
 
 ### 9. [AiToEarn](https://github.com/yikart/AiToEarn)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-12
 
-![AiToEarn](2026/06-12/2026-06-12_daily-top_AiToEarn.png)
+![AiToEarn](2026-06-12_daily-top_AiToEarn.png)
 
 ### 10. [claude-mem](https://github.com/thedotmack/claude-mem)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-12
 
-![claude-mem](2026/06-12/2026-06-12_daily-top_claude-mem.png)
+![claude-mem](2026-06-12_daily-top_claude-mem.png)
 
 ---
 

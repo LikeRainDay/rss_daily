@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-10
+# 📊 🌟 GitHub Trending Daily - 2026-06-12
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **349886** ⭐ | **46370** 🍴
+**10** 个项目 | **529171** ⭐ | **57990** 🍴
 
-**热门语言:** `TypeScript` (5) · `Rust` (2) · `JavaScript` (2)
+**热门语言:** `TypeScript` (4) · `JavaScript` (3) · `Swift` (1)
 
-**更新时间:** 2026-06-10 04:20 UTC
+**更新时间:** 2026-06-12 04:45 UTC
 
 **分类分布:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [career-ops](https://github.com/santifer/career-ops)
+### 1. [container](https://github.com/apple/container)
 
 > 🤖 **推荐理由**  
-> *Career-Ops is an AI-powered job search platform designed to streamline the application process. Key features include a structured A-F scoring system for job evaluations, tailored ATS-optimized PDF CV generation, and batch processing of multiple job offers. It integrates with over 45 job portals for automatic scanning and provides a terminal dashboard for pipeline management. The system emphasizes personalized assistance, ensuring candidates can effectively filter opportunities and enhance their job search strategy. With over 51,000 stars on GitHub, it is a valuable tool for job seekers.*
+> *`container` is a Swift-based tool for creating and running Linux containers as lightweight virtual machines on Macs, optimized for Apple silicon. It supports OCI-compatible container images, allowing users to pull, run, and push images from standard registries. Key features include easy installation, system service management, and upgrade/downgrade capabilities. Users can explore tutorials and documentation for a guided experience. The project is actively developed, focusing on stability and contributing to a growing community.*
 
-- ⭐ 51871 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-06-10
+- ⭐ 33103 stars
+- 💻 Swift
+- 📅 Updated: 2026-06-12
 
-![career-ops](2026/06-10/2026-06-10_daily-top_career-ops.png)
+![container](2026/06-12/2026-06-12_daily-top_container.png)
 
 ### 2. [tolaria](https://github.com/refactoringhq/tolaria)
 
 > 🤖 **推荐理由**  
-> *Tolaria is a powerful open-source desktop application for managing markdown knowledge bases on macOS, Windows, and Linux. With over 14,000 stars on GitHub, it emphasizes a files-first and Git-first approach, ensuring users retain full control over their data. Key features include offline functionality, a keyboard-first interface, and AI integration, allowing seamless interaction with AI agents. Users can easily organize personal notes, company documentation, and more without vendor lock-in. Tolaria is designed for efficiency, addressing real user needs with a focus on portability and accessibility.*
+> *Tolaria is a cross-platform desktop app designed for managing markdown knowledge bases, catering to both personal and professional use cases. It features a files-first approach, storing notes as portable markdown files in a Git repository for version control and offline access. Key highlights include AI integration, a keyboard-first interface for power users, and open-source availability. Tolaria supports customization and local setup, making it a versatile tool for organizing information, enhancing productivity, and maintaining personal knowledge systems.*
 
-- ⭐ 14436 stars
+- ⭐ 15472 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-10
+- 📅 Updated: 2026-06-12
 
-![tolaria](2026/06-10/2026-06-10_daily-top_tolaria.png)
+![tolaria](2026/06-12/2026-06-12_daily-top_tolaria.png)
 
-### 3. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **推荐理由**  
-> *Impeccable is a design language tool for AI coding agents, offering 23 commands and 41 deterministic detector rules to enhance frontend design quality. Key features include a streamlined setup with `/impeccable init`, a shared design vocabulary for collaborative commands, and live browser iteration for visual refinement. It supports multiple AI coding tools like Claude, Cursor, and Codex. The CLI also enables standalone design audits and anti-pattern detection, ensuring adherence to best practices. Visit impeccable.style for documentation and case studies.*
-
-- ⭐ 36862 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-06-10
-
-![impeccable](2026/06-10/2026-06-10_daily-top_impeccable.png)
-
-### 4. [open-notebook](https://github.com/lfnovo/open-notebook)
+### 3. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **推荐理由**  
-> *Open Notebook is an open-source, privacy-focused alternative to Google's Notebook LM, empowering users to manage their research with enhanced flexibility. Key features include support for 18+ AI models (OpenAI, Anthropic, etc.), multi-modal content organization (PDFs, videos, etc.), advanced podcast generation, intelligent full-text and vector search, and context-aware AI chat. With a self-hosted architecture, users retain data control while benefiting from customizable REST API access and multi-language support. Join the community for support and feature suggestions.*
+> *OpenCode is an open-source AI coding agent designed for seamless development. With over 173,000 stars on GitHub, it supports multiple platforms and offers a desktop application in beta. Key features include two built-in agents: a full-access "build" agent for development and a read-only "plan" agent for code exploration. It facilitates complex searches via a general subagent. Installation is straightforward using various package managers. Comprehensive documentation and a vibrant community on Discord support users and contributors alike. Explore more at opencode.ai.*
 
-- ⭐ 28645 stars
+- ⭐ 173357 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-10
+- 📅 Updated: 2026-06-12
 
-![open-notebook](2026/06-10/2026-06-10_daily-top_open-notebook.png)
+![opencode](2026/06-12/2026-06-12_daily-top_opencode.png)
 
-### 5. [goose](https://github.com/aaif-goose/goose)
-
-> 🤖 **推荐理由**  
-> *goose is an open-source AI agent designed for diverse tasks beyond code suggestions, including research, writing, and data analysis. Available as a native desktop app for macOS, Linux, and Windows, it features a CLI for terminal workflows and an API for integration. Built in Rust, goose supports over 15 providers like OpenAI and Google and connects with 70+ extensions via the Model Context Protocol. Now under the Agentic AI Foundation at the Linux Foundation, goose emphasizes performance, extensibility, and community engagement through resources like tutorials and a Discord channel.*
-
-- ⭐ 48557 stars
-- 💻 Rust
-- 📅 Updated: 2026-06-10
-
-![goose](2026/06-10/2026-06-10_daily-top_goose.png)
-
-### 6. [CopilotKit](https://github.com/CopilotKit/CopilotKit)
+### 4. [MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
 
 > 🤖 **推荐理由**  
-> *CopilotKit is a versatile SDK for building agent-native applications across multiple platforms, including React, Angular, Vue, and mobile. It supports Generative UI, shared state, and human-in-the-loop workflows, enabling seamless integration into web apps and chat platforms like Slack and Microsoft Teams. Key features include a customizable chat interface, backend tool rendering, and self-learning agents that improve through user interactions. Backed by the AG-UI Protocol, CopilotKit ensures a unified experience for developers and users alike, facilitating quick deployment and extensive customization.*
+> *MasterDnsVPN is an advanced DNS tunneling VPN designed for bypassing censorship with optimized features such as low-overhead ARQ, resolver load balancing, and impressive packet-loss stability. Engineered in Go, it outperforms existing solutions like DNSTT and SlipStream by significantly reducing overhead and enhancing speed, achieving up to 9x faster performance. Key capabilities include strong resilience in harsh network conditions, multipath traffic routing, smart resolver selection, and integrated SOCKS5 support. MasterDnsVPN has been battle-tested in extreme scenarios, ensuring robust connectivity even during internet blackouts.*
 
-- ⭐ 34483 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-10
-
-![CopilotKit](2026/06-10/2026-06-10_daily-top_CopilotKit.png)
-
-### 7. [RuView](https://github.com/ruvnet/RuView)
-
-> 🤖 **推荐理由**  
-> *RuView is a cutting-edge WiFi sensing platform that transforms commodity WiFi signals into real-time spatial intelligence, enabling vital sign monitoring and presence detection without cameras or wearables. It integrates seamlessly with major smart home ecosystems like Home Assistant, Apple Home, Google Home, and Alexa. Key features include contactless monitoring of breathing and heart rates, activity recognition, and through-wall sensing, all powered by low-cost ESP32 sensors. Built on Rust, RuView operates entirely on edge hardware, ensuring privacy and real-time responsiveness. With a strong focus on adaptability and privacy, RuView opens new avenues for smart home automation and health monitoring.*
-
-- ⭐ 72494 stars
-- 💻 Rust
-- 📅 Updated: 2026-06-10
-
-![RuView](2026/06-10/2026-06-10_daily-top_RuView.png)
-
-### 8. [AiToEarn](https://github.com/yikart/AiToEarn)
-
-> 🤖 **推荐理由**  
-> *AiToEarn is an AI-driven content marketing platform designed to help creators, brands, and businesses monetize their content across major global platforms like TikTok, YouTube, and Instagram. With over 20,000 stars on GitHub, it offers features including automated content creation, publishing, and engagement through AI agents. Users can monetize via various payment models, publish to over 10 platforms with a unified scheduling system, and engage with audiences through automated interactions. AiToEarn supports easy access via web, integration with AI assistants, and Docker deployment for private use.*
-
-- ⭐ 20079 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-10
-
-![AiToEarn](2026/06-10/2026-06-10_daily-top_AiToEarn.png)
-
-### 9. [sub2api](https://github.com/Wei-Shaw/sub2api)
-
-> 🤖 **推荐理由**  
-> *Sub2API is an open-source AI API gateway that consolidates subscriptions from Claude, OpenAI, Gemini, and Antigravity into a single endpoint, supporting account and cost-sharing. Key features include multi-account management, API key distribution, token-level billing, smart scheduling, concurrency control, and built-in payment systems (EasyPay, Alipay, Stripe). It offers an admin dashboard for monitoring and integrates seamlessly with external systems. Built with Go, Vue, PostgreSQL, and Redis, Sub2API provides a robust and scalable solution for managing AI service access efficiently.*
-
-- ⭐ 26787 stars
+- ⭐ 5755 stars
 - 💻 Go
-- 📅 Updated: 2026-06-10
+- 📅 Updated: 2026-06-12
 
-![sub2api](2026/06-10/2026-06-10_daily-top_sub2api.png)
+![MasterDnsVPN](2026/06-12/2026-06-12_daily-top_MasterDnsVPN.png)
 
-### 10. [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
+### 5. [caveman](https://github.com/JuliusBrussee/caveman)
 
 > 🤖 **推荐理由**  
-> *Personal_AI_Infrastructure (PAI) is an innovative Life Operating System designed to enhance human capabilities through a structured AI framework. Key features include a unified **Pulse** daemon for monitoring life goals, a **Digital Assistant** (DA) for personalized interaction, and a robust **Algorithm** for transitioning from current to ideal states. With 45 skills, 171 workflows, and advanced memory systems, PAI prioritizes user context and self-improvement. Its focus on transparency, user-centric design, and AI-driven installation makes it a powerful tool for individuals and teams alike.*
+> *Caveman is a JavaScript plugin that enhances Claude Code by significantly reducing output tokens, achieving approximately 65% reduction while maintaining technical accuracy. Users can select from various grunt levels—lite, full, ultra, or wenyan—tailored for different verbosity needs. Key features include `/caveman` commands for compressed replies, conventional commit messages, and one-line PR comments. The tool integrates seamlessly with multiple coding agents, offering an efficient way to communicate while saving costs. Caveman also supports the `caveman-code` project, which compresses entire coding interactions.*
 
-- ⭐ 15672 stars
+- ⭐ 71586 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-06-12
+
+![caveman](2026/06-12/2026-06-12_daily-top_caveman.png)
+
+### 6. [RuView](https://github.com/ruvnet/RuView)
+
+> 🤖 **推荐理由**  
+> *RuView is a Rust-based project that transforms commodity WiFi signals into real-time spatial intelligence, enabling vital sign monitoring and presence detection without cameras or wearables. Key features include through-wall occupancy detection, breathing and heart rate monitoring, and activity recognition using low-cost ESP32 sensors. It seamlessly integrates with major smart-home ecosystems like Home Assistant, Apple Home, Google Home, and Alexa via MQTT and Matter. RuView operates entirely on edge hardware, ensuring privacy and low latency, making it ideal for healthcare, retail, and smart home applications.*
+
+- ⭐ 73274 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-12
+
+![RuView](2026/06-12/2026-06-12_daily-top_RuView.png)
+
+### 7. [hivemind](https://github.com/activeloopai/hivemind)
+
+> 🤖 **推荐理由**  
+> *Hivemind is a TypeScript-based tool designed to enhance collaboration among coding agents such as Claude Code, OpenClaw, Codex, Cursor, Hermes, and pi. With over 1,000 stars on GitHub, it provides a cloud-backed shared memory system that captures agent interactions, codifies reusable skills, and propagates knowledge in real-time. Key features include natural language search, AI-generated session summaries, and the ability to store data in your own cloud. Hivemind improves efficiency by reducing costs and resource usage compared to traditional methods, making it a powerful asset for teams.*
+
+- ⭐ 1062 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-10
+- 📅 Updated: 2026-06-12
 
-![Personal_AI_Infrastructure](2026/06-10/2026-06-10_daily-top_Personal_AI_Infrastructure.png)
+![hivemind](2026/06-12/2026-06-12_daily-top_hivemind.png)
+
+### 8. [career-ops](https://github.com/santifer/career-ops)
+
+> 🤖 **推荐理由**  
+> *Career-Ops is an AI-powered job search system designed to streamline the application process. It features 14 skill modes, a Go dashboard, and capabilities for PDF generation and batch processing. Users can evaluate job offers with a structured scoring system and generate tailored CVs optimized for ATS. The system automates job portal scanning and offers a unique interview story bank and negotiation scripts. With a focus on efficiency, Career-Ops helps users filter through job listings, ensuring only the most relevant opportunities are pursued.*
+
+- ⭐ 52879 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-06-12
+
+![career-ops](2026/06-12/2026-06-12_daily-top_career-ops.png)
+
+### 9. [AiToEarn](https://github.com/yikart/AiToEarn)
+
+> 🤖 **推荐理由**  
+> *AiToEarn is an innovative AI-driven content marketing platform designed for individuals, creators, brands, and businesses to monetize, publish, and engage across major social media channels like TikTok, YouTube, and Instagram. With over 20,000 stars on GitHub, its core features include automated content creation, distribution to 10+ platforms, and interactive engagement tools like automated replies and brand monitoring. AiToEarn supports multiple usage modes, including direct web access, integration with AI assistants, and Docker deployment for private servers, making it versatile for all users.*
+
+- ⭐ 20816 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-12
+
+![AiToEarn](2026/06-12/2026-06-12_daily-top_AiToEarn.png)
+
+### 10. [claude-mem](https://github.com/thedotmack/claude-mem)
+
+> 🤖 **推荐理由**  
+> *Claude-Mem is an advanced memory management tool for AI agents, enabling persistent context across sessions. It captures user interactions, compresses data using AI, and seamlessly injects relevant context into future sessions. Core features include persistent memory, skill-based search, a web viewer UI, and privacy controls. Compatible with tools like Claude Code and OpenClaw, it supports multiple languages and offers a beta channel for experimental features. Claude-Mem enhances continuity and efficiency in project management, making it essential for developers and AI users alike.*
+
+- ⭐ 81867 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-06-12
+
+![claude-mem](2026/06-12/2026-06-12_daily-top_claude-mem.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-10 04:20:16 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-12 04:45:00 UTC
