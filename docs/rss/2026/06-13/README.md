@@ -27,7 +27,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-13
 
-![container](2026/06-13/2026-06-13_daily-top_container.png)
+![container](2026-06-13_daily-top_container.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-13
 
-![cc-switch](2026/06-13/2026-06-13_daily-top_cc-switch.png)
+![cc-switch](2026-06-13_daily-top_cc-switch.png)
 
 ### 3. [fanqiang](https://github.com/bannedbook/fanqiang)
 
@@ -49,7 +49,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-06-13
 
-![fanqiang](2026/06-13/2026-06-13_daily-top_fanqiang.png)
+![fanqiang](2026-06-13_daily-top_fanqiang.png)
 
 ### 4. [agentsview](https://github.com/kenn-io/agentsview)
 
@@ -60,7 +60,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-13
 
-![agentsview](2026/06-13/2026-06-13_daily-top_agentsview.png)
+![agentsview](2026-06-13_daily-top_agentsview.png)
 
 ### 5. [opencode](https://github.com/anomalyco/opencode)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-13
 
-![opencode](2026/06-13/2026-06-13_daily-top_opencode.png)
+![opencode](2026-06-13_daily-top_opencode.png)
 
 ### 6. [caveman](https://github.com/JuliusBrussee/caveman)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-13
 
-![caveman](2026/06-13/2026-06-13_daily-top_caveman.png)
+![caveman](2026-06-13_daily-top_caveman.png)
 
 ### 7. [MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
 
@@ -93,7 +93,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-13
 
-![MasterDnsVPN](2026/06-13/2026-06-13_daily-top_MasterDnsVPN.png)
+![MasterDnsVPN](2026-06-13_daily-top_MasterDnsVPN.png)
 
 ### 8. [mattermost](https://github.com/mattermost/mattermost)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-13
 
-![mattermost](2026/06-13/2026-06-13_daily-top_mattermost.png)
+![mattermost](2026-06-13_daily-top_mattermost.png)
 
 ### 9. [tolaria](https://github.com/refactoringhq/tolaria)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-13
 
-![tolaria](2026/06-13/2026-06-13_daily-top_tolaria.png)
+![tolaria](2026-06-13_daily-top_tolaria.png)
 
 ### 10. [restic](https://github.com/restic/restic)
 
@@ -126,7 +126,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-13
 
-![restic](2026/06-13/2026-06-13_daily-top_restic.png)
+![restic](2026-06-13_daily-top_restic.png)
 
 ---
 
