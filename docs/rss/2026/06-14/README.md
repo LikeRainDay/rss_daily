@@ -27,7 +27,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-14
 
-![container](2026/06-14/2026-06-14_daily-top_container.png)
+![container](2026-06-14_daily-top_container.png)
 
 ### 2. [iptv](https://github.com/iptv-org/iptv)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-14
 
-![iptv](2026/06-14/2026-06-14_daily-top_iptv.png)
+![iptv](2026-06-14_daily-top_iptv.png)
 
 ### 3. [PowerToys](https://github.com/microsoft/PowerToys)
 
@@ -49,7 +49,7 @@
 - 💻 C
 - 📅 Updated: 2026-06-14
 
-![PowerToys](2026/06-14/2026-06-14_daily-top_PowerToys.png)
+![PowerToys](2026-06-14_daily-top_PowerToys.png)
 
 ### 4. [opencode](https://github.com/anomalyco/opencode)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-14
 
-![opencode](2026/06-14/2026-06-14_daily-top_opencode.png)
+![opencode](2026-06-14_daily-top_opencode.png)
 
 ### 5. [MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
 
@@ -71,7 +71,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-14
 
-![MasterDnsVPN](2026/06-14/2026-06-14_daily-top_MasterDnsVPN.png)
+![MasterDnsVPN](2026-06-14_daily-top_MasterDnsVPN.png)
 
 ### 6. [caveman](https://github.com/JuliusBrussee/caveman)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-14
 
-![caveman](2026/06-14/2026-06-14_daily-top_caveman.png)
+![caveman](2026-06-14_daily-top_caveman.png)
 
 ### 7. [mattermost](https://github.com/mattermost/mattermost)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-14
 
-![mattermost](2026/06-14/2026-06-14_daily-top_mattermost.png)
+![mattermost](2026-06-14_daily-top_mattermost.png)
 
 ### 8. [agentsview](https://github.com/kenn-io/agentsview)
 
@@ -104,7 +104,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-14
 
-![agentsview](2026/06-14/2026-06-14_daily-top_agentsview.png)
+![agentsview](2026-06-14_daily-top_agentsview.png)
 
 ### 9. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-14
 
-![system_prompts_leaks](2026/06-14/2026-06-14_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-06-14_daily-top_system_prompts_leaks.png)
 
 ### 10. [supertonic](https://github.com/supertone-inc/supertonic)
 
@@ -126,7 +126,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-14
 
-![supertonic](2026/06-14/2026-06-14_daily-top_supertonic.png)
+![supertonic](2026-06-14_daily-top_supertonic.png)
 
 ---
 
