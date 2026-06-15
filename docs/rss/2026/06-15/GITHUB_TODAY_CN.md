@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-15
 
-![iptv](2026/06-15/2026-06-15_daily-top_iptv.png)
+![iptv](2026-06-15_daily-top_iptv.png)
 
 ### 2. [container](https://github.com/apple/container)
 
@@ -38,7 +38,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-15
 
-![container](2026/06-15/2026-06-15_daily-top_container.png)
+![container](2026-06-15_daily-top_container.png)
 
 ### 3. [supertonic](https://github.com/supertone-inc/supertonic)
 
@@ -49,7 +49,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-15
 
-![supertonic](2026/06-15/2026-06-15_daily-top_supertonic.png)
+![supertonic](2026-06-15_daily-top_supertonic.png)
 
 ### 4. [open-notebook](https://github.com/lfnovo/open-notebook)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-15
 
-![open-notebook](2026/06-15/2026-06-15_daily-top_open-notebook.png)
+![open-notebook](2026-06-15_daily-top_open-notebook.png)
 
 ### 5. [hetty](https://github.com/dstotijn/hetty)
 
@@ -71,7 +71,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-15
 
-![hetty](2026/06-15/2026-06-15_daily-top_hetty.png)
+![hetty](2026-06-15_daily-top_hetty.png)
 
 ### 6. [agentsview](https://github.com/kenn-io/agentsview)
 
@@ -82,7 +82,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-15
 
-![agentsview](2026/06-15/2026-06-15_daily-top_agentsview.png)
+![agentsview](2026-06-15_daily-top_agentsview.png)
 
 ### 7. [PowerToys](https://github.com/microsoft/PowerToys)
 
@@ -93,7 +93,7 @@
 - 💻 C
 - 📅 Updated: 2026-06-15
 
-![PowerToys](2026/06-15/2026-06-15_daily-top_PowerToys.png)
+![PowerToys](2026-06-15_daily-top_PowerToys.png)
 
 ### 8. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-15
 
-![Open-Generative-AI](2026/06-15/2026-06-15_daily-top_Open-Generative-AI.png)
+![Open-Generative-AI](2026-06-15_daily-top_Open-Generative-AI.png)
 
 ### 9. [openhuman](https://github.com/tinyhumansai/openhuman)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-15
 
-![openhuman](2026/06-15/2026-06-15_daily-top_openhuman.png)
+![openhuman](2026-06-15_daily-top_openhuman.png)
 
 ### 10. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-15
 
-![system_prompts_leaks](2026/06-15/2026-06-15_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-06-15_daily-top_system_prompts_leaks.png)
 
 ---
 

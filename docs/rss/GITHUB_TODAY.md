@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-14
+# 📊 🌟 GitHub Trending Daily - 2026-06-15
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **637026** ⭐ | **58278** 🍴
+**10** Projects | **443896** ⭐ | **34775** 🍴
 
-**Top Languages:** `TypeScript` (3) · `JavaScript` (2) · `Go` (2)
+**Top Languages:** `JavaScript` (2) · `TypeScript` (2) · `Go` (2)
 
-**Updated:** 2026-06-14 04:52 UTC
+**Updated:** 2026-06-15 05:07 UTC
 
 **Categories:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [container](https://github.com/apple/container)
+### 1. [iptv](https://github.com/iptv-org/iptv)
 
 > 🤖 **Why Recommend**  
-> *`container` is a Swift-based tool for creating and running Linux containers as lightweight virtual machines on macOS, optimized for Apple silicon. It supports OCI-compatible container images, enabling seamless integration with standard container registries for image pulling and pushing. Key features include easy installation, upgrade/downgrade scripts, and comprehensive command documentation. The project actively encourages contributions and offers detailed tutorials and technical overviews, making it user-friendly for developers. With over 36,000 stars, it's a robust choice for container management on Mac.*
+> *The IPTV project is a comprehensive collection of publicly available IPTV channels from around the globe, built in TypeScript and boasting over 121,000 stars. Key features include easy access to playlists, an Electronic Program Guide (EPG), and an API for integration. Users can stream content by simply pasting playlist links into compatible video players. The project also emphasizes community contributions and provides resources for discussions, FAQs, and legal guidance regarding copyright. It serves as a valuable hub for IPTV enthusiasts, curating and maintaining a diverse range of channels.*
 
-- ⭐ 36433 stars
-- 💻 Swift
-- 📅 Updated: 2026-06-14
-
-![container](2026/06-14/2026-06-14_daily-top_container.png)
-
-### 2. [iptv](https://github.com/iptv-org/iptv)
-
-> 🤖 **Why Recommend**  
-> *The IPTV project is a comprehensive collection of publicly available IPTV channels from around the globe, featuring over 119,000 stars on GitHub. Users can easily access playlists by pasting links into compatible video players. Key features include a main playlist, Electronic Program Guide (EPG) support, and an API for integration. The repository also provides resources and a discussion platform for users. It emphasizes legal compliance, ensuring all links are user-submitted and publicly accessible. Contributions are welcomed to enhance the repository further.*
-
-- ⭐ 119337 stars
+- ⭐ 121453 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-14
+- 📅 Updated: 2026-06-15
 
-![iptv](2026/06-14/2026-06-14_daily-top_iptv.png)
+![iptv](2026/06-15/2026-06-15_daily-top_iptv.png)
 
-### 3. [PowerToys](https://github.com/microsoft/PowerToys)
+### 2. [container](https://github.com/apple/container)
 
 > 🤖 **Why Recommend**  
-> *Microsoft PowerToys is a powerful suite of over 30 utilities designed to enhance productivity and customization on Windows. Key features include Advanced Paste, FancyZones for window management, PowerRename for batch renaming files, and Color Picker for design tasks. With a vibrant community and ongoing development, PowerToys continues to evolve, offering tools that streamline workflows and optimize the Windows experience. Installation options include GitHub releases, Microsoft Store, and WinGet, making it accessible to all users.*
+> *`container` is a Swift-based tool for creating and running Linux containers as lightweight virtual machines on Macs with Apple silicon. It supports OCI-compatible images, enabling users to pull from and push to standard container registries. Key features include easy installation, upgrade/downgrade scripts, and a system service for management. The project leverages the Containerization Swift package for low-level operations and is actively developed, aiming for stability in patch versions. Comprehensive documentation and a guided tour are available for new users.*
 
-- ⭐ 134721 stars
+- ⭐ 37087 stars
+- 💻 Swift
+- 📅 Updated: 2026-06-15
+
+![container](2026/06-15/2026-06-15_daily-top_container.png)
+
+### 3. [supertonic](https://github.com/supertone-inc/supertonic)
+
+> 🤖 **Why Recommend**  
+> *Supertonic is a lightning-fast, on-device multilingual text-to-speech (TTS) system that runs natively via ONNX, supporting 31 languages. Key features include low-latency synthesis, a compact 99M-parameter model, and high-quality 44.1kHz audio output. It operates without cloud dependency, ensuring privacy and efficiency on various devices, including mobile and Raspberry Pi. Supertonic also includes expression tags for natural speech, multi-runtime SDK support, and a Voice Builder for custom voice profiles. Experience it via interactive demos or integrate through the Python SDK.*
+
+- ⭐ 12224 stars
+- 💻 Swift
+- 📅 Updated: 2026-06-15
+
+![supertonic](2026/06-15/2026-06-15_daily-top_supertonic.png)
+
+### 4. [open-notebook](https://github.com/lfnovo/open-notebook)
+
+> 🤖 **Why Recommend**  
+> *Open Notebook is an open-source, privacy-focused alternative to Google's Notebook LM, offering users enhanced flexibility and features. Key highlights include support for 18+ AI models (like OpenAI and Anthropic), complete data control, and the ability to organize multi-modal content (PDFs, videos, etc.). Users can generate professional podcasts, conduct intelligent searches, and engage in context-aware AI conversations. It supports a multi-language UI and offers a comprehensive REST API for custom integrations. Ideal for researchers seeking privacy, customization, and cost control.*
+
+- ⭐ 30610 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-15
+
+![open-notebook](2026/06-15/2026-06-15_daily-top_open-notebook.png)
+
+### 5. [hetty](https://github.com/dstotijn/hetty)
+
+> 🤖 **Why Recommend**  
+> *Hetty is an open-source HTTP toolkit for security research, designed as an alternative to commercial tools like Burp Suite Pro. With over 11,000 stars on GitHub, its core features include a machine-in-the-middle (MITM) HTTP proxy, advanced request interception and editing, project-based storage, and an intuitive web-based admin interface. Hetty supports organization through scope management and offers a GraphQL service. It is actively developed, with installation options via package managers, Docker, or direct download. Comprehensive documentation and community support are available.*
+
+- ⭐ 11166 stars
+- 💻 Go
+- 📅 Updated: 2026-06-15
+
+![hetty](2026/06-15/2026-06-15_daily-top_hetty.png)
+
+### 6. [agentsview](https://github.com/kenn-io/agentsview)
+
+> 🤖 **Why Recommend**  
+> *agentsview is a local-first tool for browsing, searching, and tracking costs across AI coding agents, supporting Claude Code, Codex, and over 20 others. Key features include a user-friendly web UI for session analytics, token usage tracking, and cost summaries. It automatically indexes session data into a local SQLite database for rapid queries. The project supports various deployment methods, including Docker and local binaries, and offers PostgreSQL sync for team collaboration. Users can generate detailed reports on token consumption and session statistics, ensuring efficient cost management.*
+
+- ⭐ 2594 stars
+- 💻 Go
+- 📅 Updated: 2026-06-15
+
+![agentsview](2026/06-15/2026-06-15_daily-top_agentsview.png)
+
+### 7. [PowerToys](https://github.com/microsoft/PowerToys)
+
+> 🤖 **Why Recommend**  
+> *Microsoft PowerToys is a powerful suite of over 30 utilities designed to enhance productivity and customization on Windows. Key features include Advanced Paste, Color Picker, FancyZones for window management, PowerRename for file organization, and the Command Palette for quick access to tools. With a strong community backing, PowerToys continually evolves with new features and improvements. Installation options include GitHub, Microsoft Store, and WinGet. This project encourages contributions to further enhance its capabilities for power users.*
+
+- ⭐ 134911 stars
 - 💻 C
-- 📅 Updated: 2026-06-14
+- 📅 Updated: 2026-06-15
 
-![PowerToys](2026/06-14/2026-06-14_daily-top_PowerToys.png)
+![PowerToys](2026/06-15/2026-06-15_daily-top_PowerToys.png)
 
-### 4. [opencode](https://github.com/anomalyco/opencode)
-
-> 🤖 **Why Recommend**  
-> *OpenCode is an open-source AI coding agent designed to enhance software development. Written in TypeScript and boasting over 174,000 stars, it features two primary agents: a full-access "build" agent for development and a read-only "plan" agent for code exploration. Users can easily install OpenCode via various package managers or download a desktop app for macOS, Windows, and Linux. The project emphasizes community engagement through Discord and offers comprehensive documentation for configuration and usage. Explore more at opencode.ai.*
-
-- ⭐ 174105 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-14
-
-![opencode](2026/06-14/2026-06-14_daily-top_opencode.png)
-
-### 5. [MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
+### 8. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
 > 🤖 **Why Recommend**  
-> *MasterDnsVPN is an advanced DNS tunneling VPN designed for bypassing censorship, optimized for speed and stability under harsh network conditions. Key features include low-overhead ARQ, resolver load balancing, and multi-resolver support, ensuring high packet-loss resilience and efficient data delivery. It employs a custom protocol for superior performance compared to similar tools like DNSTT and SlipStream. Additionally, it supports SOCKS5 and offers built-in health checks for resolvers, making it a robust solution for secure and reliable internet access in restricted environments.*
+> *Open Generative AI is an open-source platform for AI image and video generation, featuring over 200 models like Flux and Midjourney, with no content filters or subscription fees. Users can generate images, videos, and lip-sync animations, leveraging dual-mode studios for text-to-image and image-to-video creation. The platform supports local inference through bundled and remote engines, ensuring privacy and customization. Community-driven, it offers extensive workflows and automation capabilities, making it a versatile alternative to traditional AI video platforms. Self-hosted and MIT licensed, it empowers full creative freedom.*
 
-- ⭐ 6183 stars
-- 💻 Go
-- 📅 Updated: 2026-06-14
-
-![MasterDnsVPN](2026/06-14/2026-06-14_daily-top_MasterDnsVPN.png)
-
-### 6. [caveman](https://github.com/JuliusBrussee/caveman)
-
-> 🤖 **Why Recommend**  
-> *Caveman is a JavaScript-based plugin that enhances Claude Code by drastically reducing token usage in responses, achieving up to 75% savings while maintaining technical accuracy. Key features include multiple compression levels (lite, full, ultra, wenyan), conventional commit messages, one-line PR reviews, and session token statistics. It seamlessly integrates with various agents, ensuring concise communication without losing context. The project boasts over 72,000 stars, reflecting its popularity and effectiveness in optimizing output for developers. The ecosystem includes related tools like caveman-code and cavemem for broader functionality.*
-
-- ⭐ 72209 stars
+- ⭐ 19464 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-06-14
+- 📅 Updated: 2026-06-15
 
-![caveman](2026/06-14/2026-06-14_daily-top_caveman.png)
+![Open-Generative-AI](2026/06-15/2026-06-15_daily-top_Open-Generative-AI.png)
 
-### 7. [mattermost](https://github.com/mattermost/mattermost)
-
-> 🤖 **Why Recommend**  
-> *Mattermost is an open-source, self-hosted collaboration platform designed for secure communication throughout the software development lifecycle. With over 37,000 stars, it supports chat, workflow automation, voice calls, screen sharing, and AI integration. Written in TypeScript and Go, it runs as a single binary and uses PostgreSQL. Users can deploy Mattermost on-premises or try it in the cloud. Key features include native mobile and desktop apps, extensive API support, and integration options. Monthly updates are released under the MIT license, ensuring continuous improvement and security.*
-
-- ⭐ 37758 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-14
-
-![mattermost](2026/06-14/2026-06-14_daily-top_mattermost.png)
-
-### 8. [agentsview](https://github.com/kenn-io/agentsview)
+### 9. [openhuman](https://github.com/tinyhumansai/openhuman)
 
 > 🤖 **Why Recommend**  
-> *agentsview is a local-first analytics tool for managing AI coding agents like Claude Code and Codex, boasting 2,416 stars on GitHub. Key features include automatic session discovery, token usage tracking, and cost estimation, all presented in a user-friendly web interface. It offers 100x faster performance than ccusage, supports multiple agents, and provides detailed session statistics. Users can install it easily on various platforms, utilize PostgreSQL for team dashboards, and leverage DuckDB for analytics mirroring. Privacy is prioritized, with all data stored locally.*
+> *OpenHuman is a powerful open-source personal AI superintelligence built in Rust, designed for seamless integration into your daily life. It features a user-friendly interface, local memory storage, and over 118 third-party integrations, enabling efficient auto-fetching of data. Key highlights include a Memory Tree for organizing knowledge, an Obsidian-compatible vault, and built-in tools for web search and coding. With an emphasis on privacy and security, OpenHuman prioritizes user control while minimizing vendor sprawl. Currently in early beta, the project has gained significant traction with over 32,000 stars on GitHub.*
 
-- ⭐ 2416 stars
-- 💻 Go
-- 📅 Updated: 2026-06-14
+- ⭐ 32147 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-15
 
-![agentsview](2026/06-14/2026-06-14_daily-top_agentsview.png)
+![openhuman](2026/06-15/2026-06-15_daily-top_openhuman.png)
 
-### 9. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+### 10. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
 > 🤖 **Why Recommend**  
-> *The "system_prompts_leaks" GitHub project documents and regularly updates the system prompts from various AI models, including Anthropic's Claude, OpenAI's ChatGPT, Google's Gemini, and xAI's Grok. With over 42,000 stars, it provides insights into the hidden instructions behind these AI chatbots, enabling users to understand and utilize their functionalities better. Key highlights include detailed prompt documentation, version comparisons, and integration details for tools like GitHub Copilot and VS Code. The repository serves as a valuable resource for developers and researchers in AI.*
+> *The "system_prompts_leaks" GitHub project documents extracted system prompts from major AI chatbots, including Anthropic's Claude, OpenAI's ChatGPT, Google's Gemini, and xAI's Grok. It features regular updates, detailed comparisons of prompt versions, and links to system prompts for various models. With over 42,240 stars, it serves as a vital resource for understanding AI behavior and instructions. The project also includes integration details, older versions, and community contributions, making it a comprehensive guide for developers and researchers in AI.*
 
-- ⭐ 42015 stars
+- ⭐ 42240 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-06-14
+- 📅 Updated: 2026-06-15
 
-![system_prompts_leaks](2026/06-14/2026-06-14_daily-top_system_prompts_leaks.png)
-
-### 10. [supertonic](https://github.com/supertone-inc/supertonic)
-
-> 🤖 **Why Recommend**  
-> *Supertonic is a lightning-fast, on-device multilingual text-to-speech (TTS) system utilizing ONNX for efficient local inference. It supports 31 languages, delivering high-quality 44.1kHz audio with low latency, making it capable of synthesizing entire web pages in under a second. Key features include a compact 99M-parameter model, expression tags for natural speech nuances, and compatibility across multiple programming environments (Python, Node.js, Swift, etc.). Supertonic ensures privacy and operates without network dependencies, making it ideal for edge devices.*
-
-- ⭐ 11849 stars
-- 💻 Swift
-- 📅 Updated: 2026-06-14
-
-![supertonic](2026/06-14/2026-06-14_daily-top_supertonic.png)
+![system_prompts_leaks](2026/06-15/2026-06-15_daily-top_system_prompts_leaks.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-14 04:52:06 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-15 05:07:47 UTC
