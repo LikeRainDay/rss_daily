@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-16
 
-![iptv](2026/06-16/2026-06-16_daily-top_iptv.png)
+![iptv](2026-06-16_daily-top_iptv.png)
 
 ### 2. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-16
 
-![freeCodeCamp](2026/06-16/2026-06-16_daily-top_freeCodeCamp.png)
+![freeCodeCamp](2026-06-16_daily-top_freeCodeCamp.png)
 
 ### 3. [LinkSwift](https://github.com/hmjz100/LinkSwift)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-16
 
-![LinkSwift](2026/06-16/2026-06-16_daily-top_LinkSwift.png)
+![LinkSwift](2026-06-16_daily-top_LinkSwift.png)
 
 ### 4. [zvec](https://github.com/alibaba/zvec)
 
@@ -60,7 +60,7 @@
 - 💻 C++
 - 📅 Updated: 2026-06-16
 
-![zvec](2026/06-16/2026-06-16_daily-top_zvec.png)
+![zvec](2026-06-16_daily-top_zvec.png)
 
 ### 5. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-16
 
-![system_prompts_leaks](2026/06-16/2026-06-16_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-06-16_daily-top_system_prompts_leaks.png)
 
 ### 6. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-16
 
-![Open-Generative-AI](2026/06-16/2026-06-16_daily-top_Open-Generative-AI.png)
+![Open-Generative-AI](2026-06-16_daily-top_Open-Generative-AI.png)
 
 ### 7. [meshery](https://github.com/meshery/meshery)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-16
 
-![meshery](2026/06-16/2026-06-16_daily-top_meshery.png)
+![meshery](2026-06-16_daily-top_meshery.png)
 
 ### 8. [supertonic](https://github.com/supertone-inc/supertonic)
 
@@ -104,7 +104,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-16
 
-![supertonic](2026/06-16/2026-06-16_daily-top_supertonic.png)
+![supertonic](2026-06-16_daily-top_supertonic.png)
 
 ### 9. [developer-roadmap](https://github.com/nilbuild/developer-roadmap)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-16
 
-![developer-roadmap](2026/06-16/2026-06-16_daily-top_developer-roadmap.png)
+![developer-roadmap](2026-06-16_daily-top_developer-roadmap.png)
 
 ### 10. [hetty](https://github.com/dstotijn/hetty)
 
@@ -126,7 +126,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-16
 
-![hetty](2026/06-16/2026-06-16_daily-top_hetty.png)
+![hetty](2026-06-16_daily-top_hetty.png)
 
 ---
 
