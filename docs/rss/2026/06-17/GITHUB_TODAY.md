@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-17
 
-![iptv](2026/06-17/2026-06-17_daily-top_iptv.png)
+![iptv](2026-06-17_daily-top_iptv.png)
 
 ### 2. [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-17
 
-![Understand-Anything](2026/06-17/2026-06-17_daily-top_Understand-Anything.png)
+![Understand-Anything](2026-06-17_daily-top_Understand-Anything.png)
 
 ### 3. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-17
 
-![cc-switch](2026/06-17/2026-06-17_daily-top_cc-switch.png)
+![cc-switch](2026-06-17_daily-top_cc-switch.png)
 
 ### 4. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-17
 
-![freeCodeCamp](2026/06-17/2026-06-17_daily-top_freeCodeCamp.png)
+![freeCodeCamp](2026-06-17_daily-top_freeCodeCamp.png)
 
 ### 5. [caveman](https://github.com/JuliusBrussee/caveman)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-17
 
-![caveman](2026/06-17/2026-06-17_daily-top_caveman.png)
+![caveman](2026-06-17_daily-top_caveman.png)
 
 ### 6. [hello-algo](https://github.com/krahets/hello-algo)
 
@@ -82,7 +82,7 @@
 - 💻 Java
 - 📅 Updated: 2026-06-17
 
-![hello-algo](2026/06-17/2026-06-17_daily-top_hello-algo.png)
+![hello-algo](2026-06-17_daily-top_hello-algo.png)
 
 ### 7. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
@@ -94,7 +94,7 @@
 - 💻 C
 - 📅 Updated: 2026-06-17
 
-![codebase-memory-mcp](2026/06-17/2026-06-17_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-06-17_daily-top_codebase-memory-mcp.png)
 
 ### 8. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -105,7 +105,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-17
 
-![system_prompts_leaks](2026/06-17/2026-06-17_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-06-17_daily-top_system_prompts_leaks.png)
 
 ### 9. [iroh](https://github.com/n0-computer/iroh)
 
@@ -116,7 +116,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-17
 
-![iroh](2026/06-17/2026-06-17_daily-top_iroh.png)
+![iroh](2026-06-17_daily-top_iroh.png)
 
 ### 10. [pi](https://github.com/earendil-works/pi)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-17
 
-![pi](2026/06-17/2026-06-17_daily-top_pi.png)
+![pi](2026-06-17_daily-top_pi.png)
 
 ---
 

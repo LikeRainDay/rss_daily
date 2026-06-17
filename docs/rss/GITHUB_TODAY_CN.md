@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-16
+# 📊 🌟 GitHub Trending Daily - 2026-06-17
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **1051696** ⭐ | **113227** 🍴
+**10** 个项目 | **1058376** ⭐ | **98669** 🍴
 
-**热门语言:** `TypeScript` (4) · `JavaScript` (3) · `C++` (1)
+**热门语言:** `TypeScript` (4) · `Rust` (2) · `JavaScript` (2)
 
-**更新时间:** 2026-06-16 05:09 UTC
+**更新时间:** 2026-06-17 04:52 UTC
 
 **分类分布:**
 
@@ -21,112 +21,113 @@
 ### 1. [iptv](https://github.com/iptv-org/iptv)
 
 > 🤖 **推荐理由**  
-> *The IPTV project offers a comprehensive collection of publicly available IPTV channels from around the globe, enabling users to stream content easily. Key features include a main playlist for all channels, Electronic Program Guide (EPG) support, and a robust API for integration. Users can access playlists directly via any compatible video player. The project is actively maintained, with contributions welcomed. Legal compliance is emphasized, as the repository contains links to publicly shared streams, not the content itself. With over 123,000 stars, it's a valuable resource for IPTV enthusiasts.*
+> *The IPTV project is a comprehensive repository of publicly available IPTV channels from around the globe, utilizing TypeScript. With over 124,000 stars, it offers playlists for easy streaming via various video players, an Electronic Program Guide (EPG) for channel scheduling, and a robust API for developers. Users can access the main playlist at https://iptv-org.github.io/iptv/index.m3u, while community discussions, contribution guidelines, and legal information are also provided. This project emphasizes user-contributed links, ensuring a wide selection of content without hosting any video files.*
 
-- ⭐ 123141 stars
+- ⭐ 124340 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-16
+- 📅 Updated: 2026-06-17
 
-![iptv](2026/06-16/2026-06-16_daily-top_iptv.png)
+![iptv](2026/06-17/2026-06-17_daily-top_iptv.png)
 
-### 2. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+### 2. [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
 
 > 🤖 **推荐理由**  
-> *freeCodeCamp is an open-source platform offering free coding education, powered by a supportive community and a donor-supported charity. With over 448,000 stars on GitHub, it features a comprehensive curriculum in full-stack web development and machine learning. Users can earn certifications in various areas such as Responsive Web Design and Python through interactive lessons and projects. The platform also includes a forum, YouTube channel, and Discord server for community support, along with interview preparation resources to help learners transition into tech careers.*
+> *Understand-Anything is an open-source tool that transforms codebases into interactive knowledge graphs for exploration and understanding. Compatible with platforms like Claude Code, Codex, and Copilot, it offers features such as guided tours, fuzzy search, impact analysis, and persona-adaptive UI. Users can analyze code structure, visualize architectural layers, and explore business logic, enhancing onboarding and collaboration. With over 61k stars, it emphasizes clarity and comprehension over complexity, making it an essential resource for developers and teams.*
 
-- ⭐ 448014 stars
+- ⭐ 61917 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-16
+- 📅 Updated: 2026-06-17
 
-![freeCodeCamp](2026/06-16/2026-06-16_daily-top_freeCodeCamp.png)
+![Understand-Anything](2026/06-17/2026-06-17_daily-top_Understand-Anything.png)
 
-### 3. [LinkSwift](https://github.com/hmjz100/LinkSwift)
+### 3. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **推荐理由**  
-> *LinkSwift is a JavaScript-based tool designed to fetch direct download links from various cloud storage services, including Baidu Cloud, Alibaba Cloud, China Mobile Cloud, and more. With over 16,000 stars, it enhances user experience by offering features like UI beautification, multi-threaded download support, and compatibility with multiple download managers. The project focuses on providing legal and compliant access to files without bypassing any service limitations. Users can install the script from multiple sources for optimal performance.*
+> *CC Switch is a cross-platform desktop assistant designed to streamline the management of AI coding tools like Claude Code, Codex, Gemini CLI, and more. It features a unified interface for managing multiple providers, with 50+ presets for easy configuration, quick switching from the system tray, and cloud sync capabilities. Key highlights include a unified MCP and Skills management panel, usage tracking, and built-in utilities. Built with Rust and Tauri, it ensures data integrity with atomic writes. Available for Windows, macOS, and Linux, CC Switch enhances productivity by simplifying API management.*
 
-- ⭐ 16534 stars
+- ⭐ 102832 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-17
+
+![cc-switch](2026/06-17/2026-06-17_daily-top_cc-switch.png)
+
+### 4. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
+> 🤖 **推荐理由**  
+> *freeCodeCamp is an open-source platform offering a comprehensive curriculum to learn programming, math, and computer science for free. With over 448,000 stars on GitHub, it provides an extensive range of interactive coding challenges and certifications in full-stack development, machine learning, and languages. Key features include a supportive community, a forum for help, a YouTube channel with free courses, and resources for job interview preparation. The platform prioritizes academic integrity and encourages contributions from volunteers, helping millions transition into tech careers.*
+
+- ⭐ 448694 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-17
+
+![freeCodeCamp](2026/06-17/2026-06-17_daily-top_freeCodeCamp.png)
+
+### 5. [caveman](https://github.com/JuliusBrussee/caveman)
+
+> 🤖 **推荐理由**  
+> *Caveman is a JavaScript plugin for Claude Code that significantly reduces output tokens by simplifying language while maintaining technical accuracy. It achieves an average of 65% token reduction, enhancing readability and speed. Users can select from different compression levels (lite, full, ultra, wenyan) and utilize commands for various tasks, including generating compact commit messages and one-line PR reviews. Caveman integrates seamlessly with 30+ AI agents, making it a versatile tool for efficient communication in coding and technical documentation.*
+
+- ⭐ 73671 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-06-16
+- 📅 Updated: 2026-06-17
 
-![LinkSwift](2026/06-16/2026-06-16_daily-top_LinkSwift.png)
+![caveman](2026/06-17/2026-06-17_daily-top_caveman.png)
 
-### 4. [zvec](https://github.com/alibaba/zvec)
-
-> 🤖 **推荐理由**  
-> *Zvec is a lightweight, in-process vector database designed for high-performance similarity search. With over 10,200 stars on GitHub, it supports dense and sparse vectors, hybrid queries combining full-text and vector searches, and durable storage through write-ahead logging. Key features include blazing-fast search capabilities, simple installation, and concurrent access support. Zvec is compatible with multiple languages via SDKs (Python, Node.js, Go, Rust) and can run on various platforms. It also offers a visual tool, Zvec Studio, for easy data management.*
-
-- ⭐ 10205 stars
-- 💻 C++
-- 📅 Updated: 2026-06-16
-
-![zvec](2026/06-16/2026-06-16_daily-top_zvec.png)
-
-### 5. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+### 6. [hello-algo](https://github.com/krahets/hello-algo)
 
 > 🤖 **推荐理由**  
-> *The "system_prompts_leaks" GitHub repository documents extracted system prompts from various AI chatbots, including Claude (Anthropic), ChatGPT (OpenAI), Gemini (Google), and Grok (xAI). With over 42,514 stars, it features regularly updated prompts for multiple models, allowing users to compare changes between versions, such as Claude Fable 5 and Opus 4.8. Key highlights include easy access to official prompts, tools, and integrations across platforms like VS Code and GitHub Copilot, making it a valuable resource for developers and researchers interested in AI behavior and capabilities.*
+> *Hello-algo is an open-source, user-friendly tutorial for data structures and algorithms, featuring animated illustrations and runnable code examples. It supports multiple languages, including Simplified and Traditional Chinese, English, and Japanese, with implementations in Python, Java, C++, C, C#, JavaScript, Go, Swift, Rust, Ruby, Kotlin, TypeScript, and Dart. With over 127,000 stars, this project aims to help beginners grasp algorithmic concepts and improve programming skills through interactive learning and community collaboration.*
 
-- ⭐ 42514 stars
+- ⭐ 127310 stars
+- 💻 Java
+- 📅 Updated: 2026-06-17
+
+![hello-algo](2026/06-17/2026-06-17_daily-top_hello-algo.png)
+
+### 7. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+
+> 🤖 **推荐理由**  
+> *High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, su. popular project, actively maintained, recently updated*
+
+- ⭐ 4039 stars
+- 🍴 413 forks
+- 💻 C
+- 📅 Updated: 2026-06-17
+
+![codebase-memory-mcp](2026/06-17/2026-06-17_daily-top_codebase-memory-mcp.png)
+
+### 8. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
+> 🤖 **推荐理由**  
+> *The "system_prompts_leaks" GitHub project documents extracted system prompts from leading AI chatbots, including Anthropic's Claude, OpenAI's ChatGPT, Google's Gemini, and xAI's Grok. With 42,882 stars, it serves as a comprehensive resource for understanding the underlying instructions of various AI models, including Claude Fable 5 and GPT-5.5. The repository is regularly updated, offering detailed insights, comparison diffs, and links to specific model prompts. It is a valuable tool for researchers and developers interested in AI behavior and capabilities.*
+
+- ⭐ 42882 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-06-16
+- 📅 Updated: 2026-06-17
 
-![system_prompts_leaks](2026/06-16/2026-06-16_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026/06-17/2026-06-17_daily-top_system_prompts_leaks.png)
 
-### 6. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
-
-> 🤖 **推荐理由**  
-> *Open Generative AI is an open-source alternative to AI video platforms, providing a free studio for AI image and video generation with over 200 models, including Flux, Midjourney, and Veo. Key features include no content filters, self-hosting capabilities, multi-image input support, and dedicated lip sync tools. Users can automate media generation through AI coding agents and customize the platform. The project encourages community engagement via Reddit and Discord, and offers a hosted version for instant access. It is MIT licensed and designed for both creativity and privacy.*
-
-- ⭐ 19638 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-06-16
-
-![Open-Generative-AI](2026/06-16/2026-06-16_daily-top_Open-Generative-AI.png)
-
-### 7. [meshery](https://github.com/meshery/meshery)
+### 9. [iroh](https://github.com/n0-computer/iroh)
 
 > 🤖 **推荐理由**  
-> *Meshery is an open-source cloud-native manager designed for Kubernetes infrastructure and application management across multiple clouds. Key features include visual GitOps for collaborative infrastructure design, support for over 380 integrations, and the ability to manage multiple Kubernetes clusters seamlessly. It offers dry-run capabilities for safe deployments, performance management tools with load generation, and workspace functionalities for team collaboration. Meshery promotes extensibility through various APIs and plugins, making it an ideal foundation for internal developer platforms.*
+> *Iroh is a modular networking stack in Rust that enables connections via public keys rather than traditional IP addresses. With a focus on performance, it employs hole-punching techniques and a network of public relays to maintain fast connections. Built on QUIC, Iroh supports authenticated encryption and concurrent streams. Key features include pre-built protocols like iroh-blobs for scalable blob transfer, iroh-gossip for publish-subscribe networks, and iroh-docs for a key-value store. The project is well-documented and actively maintained, boasting over 9,300 stars on GitHub.*
 
-- ⭐ 10672 stars
+- ⭐ 9347 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-17
+
+![iroh](2026/06-17/2026-06-17_daily-top_iroh.png)
+
+### 10. [pi](https://github.com/earendil-works/pi)
+
+> 🤖 **推荐理由**  
+> *Pi is an AI agent toolkit offering a unified LLM API, agent loop, terminal UI, and an interactive coding agent CLI, all built in TypeScript. Key features include the multi-provider LLM API supporting OpenAI and Google, a robust agent runtime for tool management, and a coding agent for streamlined development. The project encourages sharing OSS coding sessions to enhance agent capabilities, and supports containerization for security. With a strong community presence and extensive documentation, Pi aims to empower developers in AI-driven coding tasks.*
+
+- ⭐ 63344 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-16
+- 📅 Updated: 2026-06-17
 
-![meshery](2026/06-16/2026-06-16_daily-top_meshery.png)
-
-### 8. [supertonic](https://github.com/supertone-inc/supertonic)
-
-> 🤖 **推荐理由**  
-> *Supertonic is a lightning-fast, on-device multilingual text-to-speech (TTS) system that runs natively via ONNX, ensuring privacy with zero network dependency. It supports 31 languages and delivers real-time synthesis, generating high-quality 44.1kHz audio. Key features include a compact 99M-parameter model for efficient performance and expressive speech with 10 inline tags for natural nuances. Supertonic is compatible with various platforms, including Python, Node.js, and mobile, making it versatile for developers. Try it with a demo or integrate it through the Supertonic API.*
-
-- ⭐ 12326 stars
-- 💻 Swift
-- 📅 Updated: 2026-06-16
-
-![supertonic](2026/06-16/2026-06-16_daily-top_supertonic.png)
-
-### 9. [developer-roadmap](https://github.com/nilbuild/developer-roadmap)
-
-> 🤖 **推荐理由**  
-> *developer-roadmap is an interactive platform offering community-driven roadmaps, guides, and resources to assist developers in their career growth. With over 357,000 stars on GitHub, it features a variety of interactive roadmaps covering topics like Frontend, Backend, DevOps, Data Science, and more. Users can explore best practices and test their knowledge through a series of questions. The project encourages community contributions and includes a dedicated YouTube channel for further learning. Access the full suite of resources at roadmap.sh.*
-
-- ⭐ 357380 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-16
-
-![developer-roadmap](2026/06-16/2026-06-16_daily-top_developer-roadmap.png)
-
-### 10. [hetty](https://github.com/dstotijn/hetty)
-
-> 🤖 **推荐理由**  
-> *Hetty is an open-source HTTP toolkit designed for security research, providing a robust alternative to commercial tools like Burp Suite Pro. Key features include a machine-in-the-middle (MITM) HTTP proxy with advanced logging, an HTTP client for crafting requests, and request interception capabilities for manual review. It offers a user-friendly web-based admin interface and project-based database storage for organized workflows. Actively developed, Hetty supports various installation methods, including package managers and Docker, making it accessible for security professionals and bug bounty hunters.*
-
-- ⭐ 11272 stars
-- 💻 Go
-- 📅 Updated: 2026-06-16
-
-![hetty](2026/06-16/2026-06-16_daily-top_hetty.png)
+![pi](2026/06-17/2026-06-17_daily-top_pi.png)
 
 ---
 
@@ -140,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-16 05:09:43 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-17 04:52:04 UTC
