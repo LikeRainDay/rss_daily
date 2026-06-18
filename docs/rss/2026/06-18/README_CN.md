@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-18
 
-![cc-switch](2026/06-18/2026-06-18_daily-top_cc-switch.png)
+![cc-switch](2026-06-18_daily-top_cc-switch.png)
 
 ### 2. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-18
 
-![freeCodeCamp](2026/06-18/2026-06-18_daily-top_freeCodeCamp.png)
+![freeCodeCamp](2026-06-18_daily-top_freeCodeCamp.png)
 
 ### 3. [caveman](https://github.com/JuliusBrussee/caveman)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-18
 
-![caveman](2026/06-18/2026-06-18_daily-top_caveman.png)
+![caveman](2026-06-18_daily-top_caveman.png)
 
 ### 4. [universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-18
 
-![universal-android-debloater-next-generation](2026/06-18/2026-06-18_daily-top_universal-android-debloater-next-generation.png)
+![universal-android-debloater-next-generation](2026-06-18_daily-top_universal-android-debloater-next-generation.png)
 
 ### 5. [zvec](https://github.com/alibaba/zvec)
 
@@ -71,7 +71,7 @@
 - 💻 C++
 - 📅 Updated: 2026-06-18
 
-![zvec](2026/06-18/2026-06-18_daily-top_zvec.png)
+![zvec](2026-06-18_daily-top_zvec.png)
 
 ### 6. [iroh](https://github.com/n0-computer/iroh)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-18
 
-![iroh](2026/06-18/2026-06-18_daily-top_iroh.png)
+![iroh](2026-06-18_daily-top_iroh.png)
 
 ### 7. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
@@ -94,7 +94,7 @@
 - 💻 C
 - 📅 Updated: 2026-06-18
 
-![codebase-memory-mcp](2026/06-18/2026-06-18_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-06-18_daily-top_codebase-memory-mcp.png)
 
 ### 8. [OpenWA](https://github.com/rmyndharis/OpenWA)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-18
 
-![OpenWA](2026/06-18/2026-06-18_daily-top_OpenWA.png)
+![OpenWA](2026-06-18_daily-top_OpenWA.png)
 
 ### 9. [pi](https://github.com/earendil-works/pi)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-18
 
-![pi](2026/06-18/2026-06-18_daily-top_pi.png)
+![pi](2026-06-18_daily-top_pi.png)
 
 ### 10. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-18
 
-![system_prompts_leaks](2026/06-18/2026-06-18_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-06-18_daily-top_system_prompts_leaks.png)
 
 ---
 

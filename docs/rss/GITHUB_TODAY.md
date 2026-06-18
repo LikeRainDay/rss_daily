@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-17
+# 📊 🌟 GitHub Trending Daily - 2026-06-18
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **1058376** ⭐ | **98669** 🍴
+**10** Projects | **777191** ⭐ | **74966** 🍴
 
-**Top Languages:** `TypeScript` (4) · `Rust` (2) · `JavaScript` (2)
+**Top Languages:** `Rust` (3) · `TypeScript` (3) · `JavaScript` (2)
 
-**Updated:** 2026-06-17 04:52 UTC
+**Updated:** 2026-06-18 04:45 UTC
 
 **Categories:**
 
@@ -18,116 +18,116 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [iptv](https://github.com/iptv-org/iptv)
+### 1. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *The IPTV project is a comprehensive repository of publicly available IPTV channels from around the globe, utilizing TypeScript. With over 124,000 stars, it offers playlists for easy streaming via various video players, an Electronic Program Guide (EPG) for channel scheduling, and a robust API for developers. Users can access the main playlist at https://iptv-org.github.io/iptv/index.m3u, while community discussions, contribution guidelines, and legal information are also provided. This project emphasizes user-contributed links, ensuring a wide selection of content without hosting any video files.*
+> *CC Switch is a cross-platform desktop assistant that streamlines the management of AI coding tools like Claude Code, Codex, Gemini CLI, and more. Key features include one-click provider switching, unified MCP and Skills management, and a user-friendly interface with over 50 presets. It offers system tray quick access, cloud sync, and built-in utilities for enhanced user experience. The app is built with Rust and Tauri, ensuring high performance across Windows, macOS, and Linux. For more information, visit ccswitch.io.*
 
-- ⭐ 124340 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-17
-
-![iptv](2026/06-17/2026-06-17_daily-top_iptv.png)
-
-### 2. [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
-
-> 🤖 **Why Recommend**  
-> *Understand-Anything is an open-source tool that transforms codebases into interactive knowledge graphs for exploration and understanding. Compatible with platforms like Claude Code, Codex, and Copilot, it offers features such as guided tours, fuzzy search, impact analysis, and persona-adaptive UI. Users can analyze code structure, visualize architectural layers, and explore business logic, enhancing onboarding and collaboration. With over 61k stars, it emphasizes clarity and comprehension over complexity, making it an essential resource for developers and teams.*
-
-- ⭐ 61917 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-17
-
-![Understand-Anything](2026/06-17/2026-06-17_daily-top_Understand-Anything.png)
-
-### 3. [cc-switch](https://github.com/farion1231/cc-switch)
-
-> 🤖 **Why Recommend**  
-> *CC Switch is a cross-platform desktop assistant designed to streamline the management of AI coding tools like Claude Code, Codex, Gemini CLI, and more. It features a unified interface for managing multiple providers, with 50+ presets for easy configuration, quick switching from the system tray, and cloud sync capabilities. Key highlights include a unified MCP and Skills management panel, usage tracking, and built-in utilities. Built with Rust and Tauri, it ensures data integrity with atomic writes. Available for Windows, macOS, and Linux, CC Switch enhances productivity by simplifying API management.*
-
-- ⭐ 102832 stars
+- ⭐ 103653 stars
 - 💻 Rust
-- 📅 Updated: 2026-06-17
+- 📅 Updated: 2026-06-18
 
-![cc-switch](2026/06-17/2026-06-17_daily-top_cc-switch.png)
+![cc-switch](2026/06-18/2026-06-18_daily-top_cc-switch.png)
 
-### 4. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+### 2. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
 > 🤖 **Why Recommend**  
-> *freeCodeCamp is an open-source platform offering a comprehensive curriculum to learn programming, math, and computer science for free. With over 448,000 stars on GitHub, it provides an extensive range of interactive coding challenges and certifications in full-stack development, machine learning, and languages. Key features include a supportive community, a forum for help, a YouTube channel with free courses, and resources for job interview preparation. The platform prioritizes academic integrity and encourages contributions from volunteers, helping millions transition into tech careers.*
+> *freeCodeCamp is an open-source platform offering a comprehensive curriculum for learning math, programming, and computer science at no cost. With over 449,000 stars on GitHub, it provides a self-paced learning experience through interactive coding challenges and certifications in areas like Full-Stack Development and language proficiency. Key features include a supportive community forum, a YouTube channel with free courses, and tools for interview preparation. The platform empowers individuals to transition into tech careers, having already helped over 100,000 people secure developer jobs.*
 
-- ⭐ 448694 stars
+- ⭐ 449201 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-17
+- 📅 Updated: 2026-06-18
 
-![freeCodeCamp](2026/06-17/2026-06-17_daily-top_freeCodeCamp.png)
+![freeCodeCamp](2026/06-18/2026-06-18_daily-top_freeCodeCamp.png)
 
-### 5. [caveman](https://github.com/JuliusBrussee/caveman)
+### 3. [caveman](https://github.com/JuliusBrussee/caveman)
 
 > 🤖 **Why Recommend**  
-> *Caveman is a JavaScript plugin for Claude Code that significantly reduces output tokens by simplifying language while maintaining technical accuracy. It achieves an average of 65% token reduction, enhancing readability and speed. Users can select from different compression levels (lite, full, ultra, wenyan) and utilize commands for various tasks, including generating compact commit messages and one-line PR reviews. Caveman integrates seamlessly with 30+ AI agents, making it a versatile tool for efficient communication in coding and technical documentation.*
+> *Caveman is a JavaScript skill/plugin that optimizes communication by reducing response tokens by approximately 75% while maintaining technical accuracy. It transforms verbose outputs into concise, clear messages, enhancing readability and speed. Users can choose from various compression levels: `lite`, `full`, `ultra`, or `wenyan`. Key features include commands for compressing replies, generating commit messages, and rewriting files in caveman-speak. With over 74,000 stars, it integrates seamlessly with multiple agents, enabling efficient coding and communication across languages.*
 
-- ⭐ 73671 stars
+- ⭐ 74162 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-06-17
+- 📅 Updated: 2026-06-18
 
-![caveman](2026/06-17/2026-06-17_daily-top_caveman.png)
+![caveman](2026/06-18/2026-06-18_daily-top_caveman.png)
 
-### 6. [hello-algo](https://github.com/krahets/hello-algo)
+### 4. [universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
 
 > 🤖 **Why Recommend**  
-> *Hello-algo is an open-source, user-friendly tutorial for data structures and algorithms, featuring animated illustrations and runnable code examples. It supports multiple languages, including Simplified and Traditional Chinese, English, and Japanese, with implementations in Python, Java, C++, C, C#, JavaScript, Go, Swift, Rust, Ruby, Kotlin, TypeScript, and Dart. With over 127,000 stars, this project aims to help beginners grasp algorithmic concepts and improve programming skills through interactive learning and community collaboration.*
+> *Universal Android Debloater Next Generation is a cross-platform GUI tool written in Rust that utilizes ADB to debloat non-rooted Android devices, enhancing privacy, security, and battery life. With over 7,600 stars, it allows users to remove unnecessary system apps, reducing the attack surface of their devices. UAD-ng does not collect user data and provides comprehensive documentation on usage, features, and suggested app replacements. It also integrates with various projects for enhanced debloating capabilities. Join the community on Discord for support.*
 
-- ⭐ 127310 stars
-- 💻 Java
-- 📅 Updated: 2026-06-17
+- ⭐ 7686 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-18
 
-![hello-algo](2026/06-17/2026-06-17_daily-top_hello-algo.png)
+![universal-android-debloater-next-generation](2026/06-18/2026-06-18_daily-top_universal-android-debloater-next-generation.png)
+
+### 5. [zvec](https://github.com/alibaba/zvec)
+
+> 🤖 **Why Recommend**  
+> *Zvec is a lightweight, high-performance in-process vector database designed for seamless integration into applications. With over 10,800 stars on GitHub, it offers rapid similarity search capabilities for billions of vectors. Key features include support for dense and sparse vectors, native full-text search, hybrid retrieval, and durable storage with write-ahead logging. Zvec runs on various platforms and provides official SDKs for Python, Node.js, Go, and Rust. It’s ideal for production environments requiring low-latency and scalable data operations.*
+
+- ⭐ 10896 stars
+- 💻 C++
+- 📅 Updated: 2026-06-18
+
+![zvec](2026/06-18/2026-06-18_daily-top_zvec.png)
+
+### 6. [iroh](https://github.com/n0-computer/iroh)
+
+> 🤖 **Why Recommend**  
+> *Iroh is a modular networking stack built in Rust, allowing connections via public keys instead of IP addresses. With features like hole-punching and fallback to public relay servers, it optimizes connectivity. Leveraging QUIC for secure and efficient communication, Iroh provides pre-built protocols such as iroh-blobs for scalable blob transfers and iroh-gossip for publish-subscribe networks. The project has garnered over 9,700 stars on GitHub, highlighting its community interest and robust capabilities for networking applications.*
+
+- ⭐ 9718 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-18
+
+![iroh](2026/06-18/2026-06-18_daily-top_iroh.png)
 
 ### 7. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
 > 🤖 **Why Recommend**  
 > *High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, su. popular project, actively maintained, recently updated*
 
-- ⭐ 4039 stars
-- 🍴 413 forks
+- ⭐ 5700 stars
+- 🍴 497 forks
 - 💻 C
-- 📅 Updated: 2026-06-17
+- 📅 Updated: 2026-06-18
 
-![codebase-memory-mcp](2026/06-17/2026-06-17_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026/06-18/2026-06-18_daily-top_codebase-memory-mcp.png)
 
-### 8. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-
-> 🤖 **Why Recommend**  
-> *The "system_prompts_leaks" GitHub project documents extracted system prompts from leading AI chatbots, including Anthropic's Claude, OpenAI's ChatGPT, Google's Gemini, and xAI's Grok. With 42,882 stars, it serves as a comprehensive resource for understanding the underlying instructions of various AI models, including Claude Fable 5 and GPT-5.5. The repository is regularly updated, offering detailed insights, comparison diffs, and links to specific model prompts. It is a valuable tool for researchers and developers interested in AI behavior and capabilities.*
-
-- ⭐ 42882 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-06-17
-
-![system_prompts_leaks](2026/06-17/2026-06-17_daily-top_system_prompts_leaks.png)
-
-### 9. [iroh](https://github.com/n0-computer/iroh)
+### 8. [OpenWA](https://github.com/rmyndharis/OpenWA)
 
 > 🤖 **Why Recommend**  
-> *Iroh is a modular networking stack in Rust that enables connections via public keys rather than traditional IP addresses. With a focus on performance, it employs hole-punching techniques and a network of public relays to maintain fast connections. Built on QUIC, Iroh supports authenticated encryption and concurrent streams. Key features include pre-built protocols like iroh-blobs for scalable blob transfer, iroh-gossip for publish-subscribe networks, and iroh-docs for a key-value store. The project is well-documented and actively maintained, boasting over 9,300 stars on GitHub.*
+> *OpenWA is a free, open-source, self-hosted WhatsApp API Gateway designed for developers seeking control over their messaging infrastructure. Key features include a pluggable architecture for easy customization of databases (SQLite/PostgreSQL), storage (Local/S3), and caching (Memory/Redis). It offers a REST API, multi-session management, webhooks, and a modern React dashboard for user-friendly management. OpenWA supports Docker for seamless deployment and integrates with tools like n8n for workflow automation, making it a versatile solution for WhatsApp automation and messaging needs.*
 
 - ⭐ 9347 stars
-- 💻 Rust
-- 📅 Updated: 2026-06-17
+- 💻 TypeScript
+- 📅 Updated: 2026-06-18
 
-![iroh](2026/06-17/2026-06-17_daily-top_iroh.png)
+![OpenWA](2026/06-18/2026-06-18_daily-top_OpenWA.png)
 
-### 10. [pi](https://github.com/earendil-works/pi)
+### 9. [pi](https://github.com/earendil-works/pi)
 
 > 🤖 **Why Recommend**  
-> *Pi is an AI agent toolkit offering a unified LLM API, agent loop, terminal UI, and an interactive coding agent CLI, all built in TypeScript. Key features include the multi-provider LLM API supporting OpenAI and Google, a robust agent runtime for tool management, and a coding agent for streamlined development. The project encourages sharing OSS coding sessions to enhance agent capabilities, and supports containerization for security. With a strong community presence and extensive documentation, Pi aims to empower developers in AI-driven coding tasks.*
+> *Pi is an AI agent toolkit offering a unified LLM API, an agent loop, a terminal user interface (TUI), and an interactive coding agent CLI. Key features include the ability to integrate multiple LLM providers (OpenAI, Anthropic, Google) through the `@earendil-works/pi-ai` package, a robust agent runtime for tool management in `@earendil-works/pi-agent-core`, and the coding agent CLI for seamless coding interactions. The project encourages sharing open-source coding agent sessions to enhance real-world task performance. Contributions are welcome, with a focus on security and supply-chain integrity.*
 
-- ⭐ 63344 stars
+- ⭐ 63651 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-17
+- 📅 Updated: 2026-06-18
 
-![pi](2026/06-17/2026-06-17_daily-top_pi.png)
+![pi](2026/06-18/2026-06-18_daily-top_pi.png)
+
+### 10. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
+> 🤖 **Why Recommend**  
+> *The "system_prompts_leaks" GitHub project documents extracted system prompts from major AI models, including Anthropic's Claude, OpenAI's ChatGPT, Google's Gemini, and xAI's Grok. With over 43,000 stars, it offers an extensive repository of prompts, regularly updated with the latest versions and changes. Key features include detailed comparisons of model updates, integration guides, and various AI tools. This project serves as a valuable resource for understanding and utilizing AI chatbot instructions across multiple platforms.*
+
+- ⭐ 43177 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-06-18
+
+![system_prompts_leaks](2026/06-18/2026-06-18_daily-top_system_prompts_leaks.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-17 04:52:04 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-18 04:45:14 UTC
