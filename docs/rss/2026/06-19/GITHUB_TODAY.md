@@ -28,7 +28,7 @@
 - 💻 C
 - 📅 Updated: 2026-06-19
 
-![codebase-memory-mcp](2026/06-19/2026-06-19_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-06-19_daily-top_codebase-memory-mcp.png)
 
 ### 2. [kilocode](https://github.com/Kilo-Org/kilocode)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-19
 
-![kilocode](2026/06-19/2026-06-19_daily-top_kilocode.png)
+![kilocode](2026-06-19_daily-top_kilocode.png)
 
 ### 3. [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-19
 
-![Understand-Anything](2026/06-19/2026-06-19_daily-top_Understand-Anything.png)
+![Understand-Anything](2026-06-19_daily-top_Understand-Anything.png)
 
 ### 4. [plane](https://github.com/makeplane/plane)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-19
 
-![plane](2026/06-19/2026-06-19_daily-top_plane.png)
+![plane](2026-06-19_daily-top_plane.png)
 
 ### 5. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-19
 
-![freeCodeCamp](2026/06-19/2026-06-19_daily-top_freeCodeCamp.png)
+![freeCodeCamp](2026-06-19_daily-top_freeCodeCamp.png)
 
 ### 6. [iroh](https://github.com/n0-computer/iroh)
 
@@ -83,7 +83,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-19
 
-![iroh](2026/06-19/2026-06-19_daily-top_iroh.png)
+![iroh](2026-06-19_daily-top_iroh.png)
 
 ### 7. [CADAM](https://github.com/Adam-CAD/CADAM)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-19
 
-![CADAM](2026/06-19/2026-06-19_daily-top_CADAM.png)
+![CADAM](2026-06-19_daily-top_CADAM.png)
 
 ### 8. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 
@@ -105,7 +105,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-19
 
-![nautilus_trader](2026/06-19/2026-06-19_daily-top_nautilus_trader.png)
+![nautilus_trader](2026-06-19_daily-top_nautilus_trader.png)
 
 ### 9. [codex](https://github.com/openai/codex)
 
@@ -116,7 +116,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-19
 
-![codex](2026/06-19/2026-06-19_daily-top_codex.png)
+![codex](2026-06-19_daily-top_codex.png)
 
 ### 10. [hello-algo](https://github.com/krahets/hello-algo)
 
@@ -127,7 +127,7 @@
 - 💻 Java
 - 📅 Updated: 2026-06-19
 
-![hello-algo](2026/06-19/2026-06-19_daily-top_hello-algo.png)
+![hello-algo](2026-06-19_daily-top_hello-algo.png)
 
 ---
 

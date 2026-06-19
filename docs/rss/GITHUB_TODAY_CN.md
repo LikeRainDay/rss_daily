@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-18
+# 📊 🌟 GitHub Trending Daily - 2026-06-19
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **777191** ⭐ | **74966** 🍴
+**10** 个项目 | **852906** ⭐ | **91143** 🍴
 
-**热门语言:** `TypeScript` (3) · `Rust` (3) · `JavaScript` (2)
+**热门语言:** `TypeScript` (5) · `Rust` (3) · `C` (1)
 
-**更新时间:** 2026-06-18 04:45 UTC
+**更新时间:** 2026-06-19 05:03 UTC
 
 **分类分布:**
 
@@ -18,116 +18,116 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [cc-switch](https://github.com/farion1231/cc-switch)
-
-> 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop assistant that streamlines the management of AI coding tools like Claude Code, Codex, Gemini CLI, and more. Key features include one-click provider switching, unified MCP and Skills management, and a user-friendly interface with over 50 presets. It offers system tray quick access, cloud sync, and built-in utilities for enhanced user experience. The app is built with Rust and Tauri, ensuring high performance across Windows, macOS, and Linux. For more information, visit ccswitch.io.*
-
-- ⭐ 103653 stars
-- 💻 Rust
-- 📅 Updated: 2026-06-18
-
-![cc-switch](2026/06-18/2026-06-18_daily-top_cc-switch.png)
-
-### 2. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-
-> 🤖 **推荐理由**  
-> *freeCodeCamp is an open-source platform offering a comprehensive curriculum for learning math, programming, and computer science at no cost. With over 449,000 stars on GitHub, it provides a self-paced learning experience through interactive coding challenges and certifications in areas like Full-Stack Development and language proficiency. Key features include a supportive community forum, a YouTube channel with free courses, and tools for interview preparation. The platform empowers individuals to transition into tech careers, having already helped over 100,000 people secure developer jobs.*
-
-- ⭐ 449201 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-18
-
-![freeCodeCamp](2026/06-18/2026-06-18_daily-top_freeCodeCamp.png)
-
-### 3. [caveman](https://github.com/JuliusBrussee/caveman)
-
-> 🤖 **推荐理由**  
-> *Caveman is a JavaScript skill/plugin that optimizes communication by reducing response tokens by approximately 75% while maintaining technical accuracy. It transforms verbose outputs into concise, clear messages, enhancing readability and speed. Users can choose from various compression levels: `lite`, `full`, `ultra`, or `wenyan`. Key features include commands for compressing replies, generating commit messages, and rewriting files in caveman-speak. With over 74,000 stars, it integrates seamlessly with multiple agents, enabling efficient coding and communication across languages.*
-
-- ⭐ 74162 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-06-18
-
-![caveman](2026/06-18/2026-06-18_daily-top_caveman.png)
-
-### 4. [universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
-
-> 🤖 **推荐理由**  
-> *Universal Android Debloater Next Generation is a cross-platform GUI tool written in Rust that utilizes ADB to debloat non-rooted Android devices, enhancing privacy, security, and battery life. With over 7,600 stars, it allows users to remove unnecessary system apps, reducing the attack surface of their devices. UAD-ng does not collect user data and provides comprehensive documentation on usage, features, and suggested app replacements. It also integrates with various projects for enhanced debloating capabilities. Join the community on Discord for support.*
-
-- ⭐ 7686 stars
-- 💻 Rust
-- 📅 Updated: 2026-06-18
-
-![universal-android-debloater-next-generation](2026/06-18/2026-06-18_daily-top_universal-android-debloater-next-generation.png)
-
-### 5. [zvec](https://github.com/alibaba/zvec)
-
-> 🤖 **推荐理由**  
-> *Zvec is a lightweight, high-performance in-process vector database designed for seamless integration into applications. With over 10,800 stars on GitHub, it offers rapid similarity search capabilities for billions of vectors. Key features include support for dense and sparse vectors, native full-text search, hybrid retrieval, and durable storage with write-ahead logging. Zvec runs on various platforms and provides official SDKs for Python, Node.js, Go, and Rust. It’s ideal for production environments requiring low-latency and scalable data operations.*
-
-- ⭐ 10896 stars
-- 💻 C++
-- 📅 Updated: 2026-06-18
-
-![zvec](2026/06-18/2026-06-18_daily-top_zvec.png)
-
-### 6. [iroh](https://github.com/n0-computer/iroh)
-
-> 🤖 **推荐理由**  
-> *Iroh is a modular networking stack built in Rust, allowing connections via public keys instead of IP addresses. With features like hole-punching and fallback to public relay servers, it optimizes connectivity. Leveraging QUIC for secure and efficient communication, Iroh provides pre-built protocols such as iroh-blobs for scalable blob transfers and iroh-gossip for publish-subscribe networks. The project has garnered over 9,700 stars on GitHub, highlighting its community interest and robust capabilities for networking applications.*
-
-- ⭐ 9718 stars
-- 💻 Rust
-- 📅 Updated: 2026-06-18
-
-![iroh](2026/06-18/2026-06-18_daily-top_iroh.png)
-
-### 7. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+### 1. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
 > 🤖 **推荐理由**  
 > *High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, su. popular project, actively maintained, recently updated*
 
-- ⭐ 5700 stars
-- 🍴 497 forks
+- ⭐ 7231 stars
+- 🍴 574 forks
 - 💻 C
-- 📅 Updated: 2026-06-18
+- 📅 Updated: 2026-06-19
 
-![codebase-memory-mcp](2026/06-18/2026-06-18_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026/06-19/2026-06-19_daily-top_codebase-memory-mcp.png)
 
-### 8. [OpenWA](https://github.com/rmyndharis/OpenWA)
+### 2. [kilocode](https://github.com/Kilo-Org/kilocode)
 
 > 🤖 **推荐理由**  
-> *OpenWA is a free, open-source, self-hosted WhatsApp API Gateway designed for developers seeking control over their messaging infrastructure. Key features include a pluggable architecture for easy customization of databases (SQLite/PostgreSQL), storage (Local/S3), and caching (Memory/Redis). It offers a REST API, multi-session management, webhooks, and a modern React dashboard for user-friendly management. OpenWA supports Docker for seamless deployment and integrates with tools like n8n for workflow automation, making it a versatile solution for WhatsApp automation and messaging needs.*
+> *KiloCode is an open-source, all-in-one coding agentic engineering platform that accelerates development in VS Code, JetBrains, and the CLI. With over 22,000 stars, it supports 500+ models for tasks like code generation, debugging, and reviews. Key features include inline autocomplete, self-checking capabilities, and terminal/browser control. Users can switch models mid-task and operate in autonomous mode for CI/CD. KiloCode also offers cloud access and specialized agents tailored for different coding tasks. Join the community on Discord and Reddit for support and collaboration.*
 
-- ⭐ 9347 stars
+- ⭐ 22284 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-18
+- 📅 Updated: 2026-06-19
 
-![OpenWA](2026/06-18/2026-06-18_daily-top_OpenWA.png)
+![kilocode](2026/06-19/2026-06-19_daily-top_kilocode.png)
 
-### 9. [pi](https://github.com/earendil-works/pi)
+### 3. [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
 
 > 🤖 **推荐理由**  
-> *Pi is an AI agent toolkit offering a unified LLM API, an agent loop, a terminal user interface (TUI), and an interactive coding agent CLI. Key features include the ability to integrate multiple LLM providers (OpenAI, Anthropic, Google) through the `@earendil-works/pi-ai` package, a robust agent runtime for tool management in `@earendil-works/pi-agent-core`, and the coding agent CLI for seamless coding interactions. The project encourages sharing open-source coding agent sessions to enhance real-world task performance. Contributions are welcome, with a focus on security and supply-chain integrity.*
+> *Understand-Anything is an open-source project that transforms any codebase into an interactive knowledge graph, enabling exploration, search, and inquiry. It supports tools like Claude Code, Codex, and Copilot. Key features include structural graph navigation, business logic visualization, guided tours, fuzzy search, and impact analysis. The dashboard dynamically adapts to different user roles, making it suitable for developers and project managers alike. With a focus on enhancing understanding rather than mere presentation, it aims to streamline onboarding and code comprehension.*
 
-- ⭐ 63651 stars
+- ⭐ 63624 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-18
+- 📅 Updated: 2026-06-19
 
-![pi](2026/06-18/2026-06-18_daily-top_pi.png)
+![Understand-Anything](2026/06-19/2026-06-19_daily-top_Understand-Anything.png)
 
-### 10. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+### 4. [plane](https://github.com/makeplane/plane)
 
 > 🤖 **推荐理由**  
-> *The "system_prompts_leaks" GitHub project documents extracted system prompts from major AI models, including Anthropic's Claude, OpenAI's ChatGPT, Google's Gemini, and xAI's Grok. With over 43,000 stars, it offers an extensive repository of prompts, regularly updated with the latest versions and changes. Key features include detailed comparisons of model updates, integration guides, and various AI tools. This project serves as a valuable resource for understanding and utilizing AI chatbot instructions across multiple platforms.*
+> *Plane is an open-source project management platform designed as an alternative to Jira, Linear, Monday, and ClickUp. With over 51,000 stars, it offers features like task management with rich text editing, sprint tracking through Cycles, customizable workflow views, and AI-enhanced note-taking with Plane Pages. Users can choose between a cloud setup or self-hosting for data control. Real-time analytics provide insights for project optimization. Engage with the community through forums and GitHub discussions for support and contributions.*
 
-- ⭐ 43177 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-06-18
+- ⭐ 51892 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-19
 
-![system_prompts_leaks](2026/06-18/2026-06-18_daily-top_system_prompts_leaks.png)
+![plane](2026/06-19/2026-06-19_daily-top_plane.png)
+
+### 5. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
+> 🤖 **推荐理由**  
+> *freeCodeCamp is an open-source platform offering a comprehensive curriculum for learning math, programming, and computer science for free. With over 449,000 stars on GitHub, it features self-paced full-stack web development and machine learning courses, alongside certifications in various programming languages. Users can access thousands of interactive challenges, a supportive community forum, a YouTube channel with free courses, and additional resources for job interview preparation. The platform is operated by a donor-supported nonprofit, helping over 100,000 individuals start their tech careers.*
+
+- ⭐ 449608 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-19
+
+![freeCodeCamp](2026/06-19/2026-06-19_daily-top_freeCodeCamp.png)
+
+### 6. [iroh](https://github.com/n0-computer/iroh)
+
+> 🤖 **推荐理由**  
+> *Iroh is a modular networking stack written in Rust, enabling connections via public key dialing instead of IP addresses. Key features include efficient hole-punching to establish direct connections and fallback to public relay servers for optimal performance. Built on QUIC, Iroh offers authenticated encryption and concurrent streams. It supports various protocols like iroh-blobs for scalable blob transfers, iroh-gossip for publish-subscribe networks, and iroh-docs for key-value storage. With over 10,000 stars, it provides bindings for multiple languages and comprehensive documentation.*
+
+- ⭐ 10053 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-19
+
+![iroh](2026/06-19/2026-06-19_daily-top_iroh.png)
+
+### 7. [CADAM](https://github.com/Adam-CAD/CADAM)
+
+> 🤖 **推荐理由**  
+> *CADAM is an open-source text-to-CAD web application that enables users to generate 3D models from natural language descriptions and images, all within the browser. Key features include AI-powered model generation, interactive parametric controls for real-time adjustments, and multiple export formats (.STL, .SCAD, .DXF). It utilizes WebAssembly for efficient performance and offers support for libraries like BOSL and MCAD. CADAM’s user-friendly interface allows for instant previews and smart updates, making it a valuable tool for designers and engineers.*
+
+- ⭐ 4479 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-19
+
+![CADAM](2026/06-19/2026-06-19_daily-top_CADAM.png)
+
+### 8. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+
+> 🤖 **推荐理由**  
+> *NautilusTrader is a production-grade, Rust-native trading engine designed for multi-asset, multi-venue trading systems. It features a deterministic event-driven architecture, enabling seamless transitions from research to live execution without code changes. Key highlights include high performance via Rust, Python integration for strategy development, and support for various asset classes and trading venues. The engine offers advanced order types, backtesting capabilities, and modular adapters for easy integration with APIs. NautilusTrader prioritizes reliability, portability, and customization, making it ideal for quantitative traders.*
+
+- ⭐ 23996 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-19
+
+![nautilus_trader](2026/06-19/2026-06-19_daily-top_nautilus_trader.png)
+
+### 9. [codex](https://github.com/openai/codex)
+
+> 🤖 **推荐理由**  
+> *Codex is a lightweight coding agent from OpenAI that runs locally on your terminal, developed in Rust. With over 92,000 stars on GitHub, it seamlessly integrates with various IDEs and offers a desktop app experience. Users can quickly install Codex CLI via curl, PowerShell, npm, or Homebrew. It supports ChatGPT account integration for enhanced functionality, catering to Plus, Pro, Business, Edu, or Enterprise plans. Comprehensive documentation, contributing guidelines, and installation instructions are available, making it user-friendly for developers.*
+
+- ⭐ 92052 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-19
+
+![codex](2026/06-19/2026-06-19_daily-top_codex.png)
+
+### 10. [hello-algo](https://github.com/krahets/hello-algo)
+
+> 🤖 **推荐理由**  
+> *Hello-algo is an open-source tutorial designed to teach data structures and algorithms through interactive animations and runnable code. It supports multiple languages, including Python, Java, C++, and more, making it accessible to a diverse audience. With a focus on clarity and ease of understanding, it guides beginners through complex concepts while encouraging collaborative learning. Users can engage through comments and contributions, enhancing the content continuously. The project is available in Simplified Chinese, Traditional Chinese, English, and Japanese, making it a valuable resource for learners worldwide.*
+
+- ⭐ 127687 stars
+- 💻 Java
+- 📅 Updated: 2026-06-19
+
+![hello-algo](2026/06-19/2026-06-19_daily-top_hello-algo.png)
 
 ---
 
@@ -141,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-18 04:45:14 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-19 05:03:51 UTC
