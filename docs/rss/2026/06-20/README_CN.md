@@ -28,7 +28,7 @@
 - 💻 C
 - 📅 Updated: 2026-06-20
 
-![codebase-memory-mcp](2026/06-20/2026-06-20_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-06-20_daily-top_codebase-memory-mcp.png)
 
 ### 2. [kilocode](https://github.com/Kilo-Org/kilocode)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-20
 
-![kilocode](2026/06-20/2026-06-20_daily-top_kilocode.png)
+![kilocode](2026-06-20_daily-top_kilocode.png)
 
 ### 3. [palmier-pro](https://github.com/palmier-io/palmier-pro)
 
@@ -50,7 +50,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-20
 
-![palmier-pro](2026/06-20/2026-06-20_daily-top_palmier-pro.png)
+![palmier-pro](2026-06-20_daily-top_palmier-pro.png)
 
 ### 4. [zvec](https://github.com/alibaba/zvec)
 
@@ -61,7 +61,7 @@
 - 💻 C++
 - 📅 Updated: 2026-06-20
 
-![zvec](2026/06-20/2026-06-20_daily-top_zvec.png)
+![zvec](2026-06-20_daily-top_zvec.png)
 
 ### 5. [plane](https://github.com/makeplane/plane)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-20
 
-![plane](2026/06-20/2026-06-20_daily-top_plane.png)
+![plane](2026-06-20_daily-top_plane.png)
 
 ### 6. [flue](https://github.com/withastro/flue)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-20
 
-![flue](2026/06-20/2026-06-20_daily-top_flue.png)
+![flue](2026-06-20_daily-top_flue.png)
 
 ### 7. [iroh](https://github.com/n0-computer/iroh)
 
@@ -94,7 +94,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-20
 
-![iroh](2026/06-20/2026-06-20_daily-top_iroh.png)
+![iroh](2026-06-20_daily-top_iroh.png)
 
 ### 8. [insomnia](https://github.com/Kong/insomnia)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-20
 
-![insomnia](2026/06-20/2026-06-20_daily-top_insomnia.png)
+![insomnia](2026-06-20_daily-top_insomnia.png)
 
 ### 9. [universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
 
@@ -116,7 +116,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-20
 
-![universal-android-debloater-next-generation](2026/06-20/2026-06-20_daily-top_universal-android-debloater-next-generation.png)
+![universal-android-debloater-next-generation](2026-06-20_daily-top_universal-android-debloater-next-generation.png)
 
 ### 10. [codex](https://github.com/openai/codex)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-20
 
-![codex](2026/06-20/2026-06-20_daily-top_codex.png)
+![codex](2026-06-20_daily-top_codex.png)
 
 ---
 

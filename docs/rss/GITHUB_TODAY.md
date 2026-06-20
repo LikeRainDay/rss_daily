@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-19
+# 📊 🌟 GitHub Trending Daily - 2026-06-20
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **852906** ⭐ | **91143** 🍴
+**10** Projects | **252516** ⭐ | **25947** 🍴
 
-**Top Languages:** `TypeScript` (5) · `Rust` (3) · `C` (1)
+**Top Languages:** `TypeScript` (4) · `Rust` (3) · `C` (1)
 
-**Updated:** 2026-06-19 05:03 UTC
+**Updated:** 2026-06-20 04:17 UTC
 
 **Categories:**
 
@@ -23,111 +23,111 @@
 > 🤖 **Why Recommend**  
 > *High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, su. popular project, actively maintained, recently updated*
 
-- ⭐ 7231 stars
-- 🍴 574 forks
+- ⭐ 8399 stars
+- 🍴 639 forks
 - 💻 C
-- 📅 Updated: 2026-06-19
+- 📅 Updated: 2026-06-20
 
-![codebase-memory-mcp](2026/06-19/2026-06-19_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026/06-20/2026-06-20_daily-top_codebase-memory-mcp.png)
 
 ### 2. [kilocode](https://github.com/Kilo-Org/kilocode)
 
 > 🤖 **Why Recommend**  
-> *KiloCode is an open-source, all-in-one coding agentic engineering platform that accelerates development in VS Code, JetBrains, and the CLI. With over 22,000 stars, it supports 500+ models for tasks like code generation, debugging, and reviews. Key features include inline autocomplete, self-checking capabilities, and terminal/browser control. Users can switch models mid-task and operate in autonomous mode for CI/CD. KiloCode also offers cloud access and specialized agents tailored for different coding tasks. Join the community on Discord and Reddit for support and collaboration.*
+> *KiloCode is an all-in-one open-source coding agent platform designed to enhance development speed and efficiency. With over 22,000 stars, it supports integration with VS Code, JetBrains, and CLI environments. Key features include access to 500+ AI models, task-specific agents for coding, planning, debugging, and automated code reviews. Kilo offers inline autocomplete, self-checking code generation, and autonomous operation for CI/CD pipelines. Built for flexibility, it allows mid-task model switching and requires no API keys, making it user-friendly and accessible for developers.*
 
-- ⭐ 22284 stars
+- ⭐ 22959 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-19
+- 📅 Updated: 2026-06-20
 
-![kilocode](2026/06-19/2026-06-19_daily-top_kilocode.png)
+![kilocode](2026/06-20/2026-06-20_daily-top_kilocode.png)
 
-### 3. [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
+### 3. [palmier-pro](https://github.com/palmier-io/palmier-pro)
 
 > 🤖 **Why Recommend**  
-> *Understand-Anything is an open-source project that transforms any codebase into an interactive knowledge graph, enabling exploration, search, and inquiry. It supports tools like Claude Code, Codex, and Copilot. Key features include structural graph navigation, business logic visualization, guided tours, fuzzy search, and impact analysis. The dashboard dynamically adapts to different user roles, making it suitable for developers and project managers alike. With a focus on enhancing understanding rather than mere presentation, it aims to streamline onboarding and code comprehension.*
+> *Palmier Pro is an open-source video editor for macOS, designed for seamless integration with AI tools. Built in Swift, it offers a user-friendly timeline for collaborative editing alongside generative AI features, utilizing models like Seedance and Kling. Users can connect to agents such as Claude and Codex via a built-in MCP server, enhancing the editing experience. While the core editor is free and open-source, generative AI features require a subscription. Compatible exclusively with macOS 26 (Tahoe) on Apple Silicon, Palmier Pro aims to redefine video editing workflows.*
 
-- ⭐ 63624 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-19
+- ⭐ 2020 stars
+- 💻 Swift
+- 📅 Updated: 2026-06-20
 
-![Understand-Anything](2026/06-19/2026-06-19_daily-top_Understand-Anything.png)
+![palmier-pro](2026/06-20/2026-06-20_daily-top_palmier-pro.png)
 
-### 4. [plane](https://github.com/makeplane/plane)
-
-> 🤖 **Why Recommend**  
-> *Plane is an open-source project management platform designed as an alternative to Jira, Linear, Monday, and ClickUp. With over 51,000 stars, it offers features like task management with rich text editing, sprint tracking through Cycles, customizable workflow views, and AI-enhanced note-taking with Plane Pages. Users can choose between a cloud setup or self-hosting for data control. Real-time analytics provide insights for project optimization. Engage with the community through forums and GitHub discussions for support and contributions.*
-
-- ⭐ 51892 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-19
-
-![plane](2026/06-19/2026-06-19_daily-top_plane.png)
-
-### 5. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+### 4. [zvec](https://github.com/alibaba/zvec)
 
 > 🤖 **Why Recommend**  
-> *freeCodeCamp is an open-source platform offering a comprehensive curriculum for learning math, programming, and computer science for free. With over 449,000 stars on GitHub, it features self-paced full-stack web development and machine learning courses, alongside certifications in various programming languages. Users can access thousands of interactive challenges, a supportive community forum, a YouTube channel with free courses, and additional resources for job interview preparation. The platform is operated by a donor-supported nonprofit, helping over 100,000 individuals start their tech careers.*
+> *Zvec is a lightweight, in-process vector database designed for high-performance similarity search, boasting over 11,600 stars on GitHub. Key features include support for both dense and sparse vectors, native full-text search, and hybrid queries that combine vector and text-based searches. It enables efficient data storage with write-ahead logging for persistence and concurrent access. With SDKs available for Python, Node.js, Go, and Rust, Zvec easily integrates into various applications. Ideal for production workloads, it emphasizes speed and scalability.*
 
-- ⭐ 449608 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-19
+- ⭐ 11655 stars
+- 💻 C++
+- 📅 Updated: 2026-06-20
 
-![freeCodeCamp](2026/06-19/2026-06-19_daily-top_freeCodeCamp.png)
+![zvec](2026/06-20/2026-06-20_daily-top_zvec.png)
 
-### 6. [iroh](https://github.com/n0-computer/iroh)
+### 5. [plane](https://github.com/makeplane/plane)
 
 > 🤖 **Why Recommend**  
-> *Iroh is a modular networking stack written in Rust, enabling connections via public key dialing instead of IP addresses. Key features include efficient hole-punching to establish direct connections and fallback to public relay servers for optimal performance. Built on QUIC, Iroh offers authenticated encryption and concurrent streams. It supports various protocols like iroh-blobs for scalable blob transfers, iroh-gossip for publish-subscribe networks, and iroh-docs for key-value storage. With over 10,000 stars, it provides bindings for multiple languages and comprehensive documentation.*
+> *Plane is an open-source project management platform designed to streamline task management, sprints, and documentation. Key features include customizable work items with a rich text editor, cycle tracking with burn-down charts, modular project organization, and real-time analytics. Users can choose between a cloud solution for quick setup or self-hosting for full data control. With a strong community focus, Plane encourages contributions and feedback through forums and GitHub discussions. Explore more at [plane.so](https://plane.so).*
 
-- ⭐ 10053 stars
+- ⭐ 52065 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-20
+
+![plane](2026/06-20/2026-06-20_daily-top_plane.png)
+
+### 6. [flue](https://github.com/withastro/flue)
+
+> 🤖 **Why Recommend**  
+> *Flue is a TypeScript framework designed for building autonomous agents and AI workflows. It allows developers to create agents that maintain context, execute tasks, and interact with existing systems. Key features include secure sandboxes for executing tasks, durable execution for progress recovery, and the ability to define specialized subagents. Flue supports various deployment environments, including Node.js and cloud platforms. With built-in tools for observability and integration with services like Slack and GitHub, Flue empowers developers to create robust and intelligent workflows.*
+
+- ⭐ 5872 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-20
+
+![flue](2026/06-20/2026-06-20_daily-top_flue.png)
+
+### 7. [iroh](https://github.com/n0-computer/iroh)
+
+> 🤖 **Why Recommend**  
+> *Iroh is a modular networking stack developed in Rust that enables seamless communication by dialing via public keys instead of IP addresses. It features efficient hole-punching for direct connections and a fallback to public relay servers, ensuring optimal performance. Built on the QUIC protocol, Iroh offers authenticated encryption and concurrent streams. Key services include iroh-blobs for scalable blob transfers, iroh-gossip for publish-subscribe networks, and an eventually-consistent key-value store. The project has gained significant traction with over 10,000 stars on GitHub.*
+
+- ⭐ 10266 stars
 - 💻 Rust
-- 📅 Updated: 2026-06-19
+- 📅 Updated: 2026-06-20
 
-![iroh](2026/06-19/2026-06-19_daily-top_iroh.png)
+![iroh](2026/06-20/2026-06-20_daily-top_iroh.png)
 
-### 7. [CADAM](https://github.com/Adam-CAD/CADAM)
+### 8. [insomnia](https://github.com/Kong/insomnia)
 
 > 🤖 **Why Recommend**  
-> *CADAM is an open-source text-to-CAD web application that enables users to generate 3D models from natural language descriptions and images, all within the browser. Key features include AI-powered model generation, interactive parametric controls for real-time adjustments, and multiple export formats (.STL, .SCAD, .DXF). It utilizes WebAssembly for efficient performance and offers support for libraries like BOSL and MCAD. CADAM’s user-friendly interface allows for instant previews and smart updates, making it a valuable tool for designers and engineers.*
+> *Insomnia is an open-source, cross-platform API client designed for GraphQL, REST, WebSockets, SSE, and gRPC, boasting over 39,000 stars on GitHub. Key features include API debugging, design with an OpenAPI editor, testing with native suites, and mocking capabilities via cloud or self-hosted servers. It supports Local Vault, Git Sync, and Cloud Sync for flexible project storage. Insomnia also offers collaboration tools, a CLI for CI/CD integration, and a rich ecosystem of plugins. Available for Mac, Windows, and Linux, it enables users to manage sensitive data securely while ensuring ease of collaboration.*
 
-- ⭐ 4479 stars
+- ⭐ 39023 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-19
+- 📅 Updated: 2026-06-20
 
-![CADAM](2026/06-19/2026-06-19_daily-top_CADAM.png)
+![insomnia](2026/06-20/2026-06-20_daily-top_insomnia.png)
 
-### 8. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+### 9. [universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
 
 > 🤖 **Why Recommend**  
-> *NautilusTrader is a production-grade, Rust-native trading engine designed for multi-asset, multi-venue trading systems. It features a deterministic event-driven architecture, enabling seamless transitions from research to live execution without code changes. Key highlights include high performance via Rust, Python integration for strategy development, and support for various asset classes and trading venues. The engine offers advanced order types, backtesting capabilities, and modular adapters for easy integration with APIs. NautilusTrader prioritizes reliability, portability, and customization, making it ideal for quantitative traders.*
+> *Universal Android Debloater Next Generation is a cross-platform GUI tool written in Rust that uses ADB to debloat non-rooted Android devices, enhancing privacy, security, and battery life. With over 8,000 stars on GitHub, it helps users remove unnecessary system apps, thus reducing the attack surface. The project prioritizes user privacy, collecting no data, and offers comprehensive documentation, including a usage guide and app replacements. Community integrations include Canta for rootless debloating and AppManager for advanced app management. Join the Discord for support and collaboration.*
 
-- ⭐ 23996 stars
+- ⭐ 8044 stars
 - 💻 Rust
-- 📅 Updated: 2026-06-19
+- 📅 Updated: 2026-06-20
 
-![nautilus_trader](2026/06-19/2026-06-19_daily-top_nautilus_trader.png)
+![universal-android-debloater-next-generation](2026/06-20/2026-06-20_daily-top_universal-android-debloater-next-generation.png)
 
-### 9. [codex](https://github.com/openai/codex)
+### 10. [codex](https://github.com/openai/codex)
 
 > 🤖 **Why Recommend**  
-> *Codex is a lightweight coding agent from OpenAI that runs locally on your terminal, developed in Rust. With over 92,000 stars on GitHub, it seamlessly integrates with various IDEs and offers a desktop app experience. Users can quickly install Codex CLI via curl, PowerShell, npm, or Homebrew. It supports ChatGPT account integration for enhanced functionality, catering to Plus, Pro, Business, Edu, or Enterprise plans. Comprehensive documentation, contributing guidelines, and installation instructions are available, making it user-friendly for developers.*
+> *Codex is a lightweight coding agent by OpenAI that runs locally in your terminal, designed for seamless integration with code editors like VS Code and desktop app experiences. With over 92,000 stars, it offers easy installation via curl, npm, or Homebrew. Users can sign in with a ChatGPT account to access features, or utilize an API key for advanced setups. Codex enhances coding efficiency by providing advanced AI assistance, making it suitable for developers across various plans. Comprehensive documentation and contribution guidelines are available on GitHub.*
 
-- ⭐ 92052 stars
+- ⭐ 92213 stars
 - 💻 Rust
-- 📅 Updated: 2026-06-19
+- 📅 Updated: 2026-06-20
 
-![codex](2026/06-19/2026-06-19_daily-top_codex.png)
-
-### 10. [hello-algo](https://github.com/krahets/hello-algo)
-
-> 🤖 **Why Recommend**  
-> *Hello-algo is an open-source tutorial designed to teach data structures and algorithms through interactive animations and runnable code. It supports multiple languages, including Python, Java, C++, and more, making it accessible to a diverse audience. With a focus on clarity and ease of understanding, it guides beginners through complex concepts while encouraging collaborative learning. Users can engage through comments and contributions, enhancing the content continuously. The project is available in Simplified Chinese, Traditional Chinese, English, and Japanese, making it a valuable resource for learners worldwide.*
-
-- ⭐ 127687 stars
-- 💻 Java
-- 📅 Updated: 2026-06-19
-
-![hello-algo](2026/06-19/2026-06-19_daily-top_hello-algo.png)
+![codex](2026/06-20/2026-06-20_daily-top_codex.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-19 05:03:51 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-20 04:17:21 UTC
