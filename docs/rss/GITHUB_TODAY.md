@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-20
+# 📊 🌟 GitHub Trending Daily - 2026-06-21
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **252516** ⭐ | **25947** 🍴
+**10** Projects | **478079** ⭐ | **68403** 🍴
 
-**Top Languages:** `TypeScript` (4) · `Rust` (3) · `C` (1)
+**Top Languages:** `TypeScript` (4) · `Rust` (2) · `JavaScript` (2)
 
-**Updated:** 2026-06-20 04:17 UTC
+**Updated:** 2026-06-21 04:59 UTC
 
 **Categories:**
 
@@ -18,116 +18,117 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+### 1. [Pake](https://github.com/tw93/Pake)
+
+> 🤖 **Why Recommend**  
+> *Pake is a Rust-based tool that enables users to convert any webpage into a lightweight desktop app with a single command, supporting macOS, Windows, and Linux. Key features include a package size nearly 20 times smaller than Electron, fast performance, and ease of use with one-command packaging via CLI. It offers customization options, immersive windows, and support for shortcuts. Users can quickly start with pre-made packages or utilize the CLI for advanced packaging options. Pake is open-source under GPL-3.0, allowing full ownership of built applications.*
+
+- ⭐ 55077 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-21
+
+![Pake](2026/06-21/2026-06-21_daily-top_Pake.png)
+
+### 2. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
 > 🤖 **Why Recommend**  
 > *High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, su. popular project, actively maintained, recently updated*
 
-- ⭐ 8399 stars
-- 🍴 639 forks
+- ⭐ 9512 stars
+- 🍴 718 forks
 - 💻 C
-- 📅 Updated: 2026-06-20
+- 📅 Updated: 2026-06-21
 
-![codebase-memory-mcp](2026/06-20/2026-06-20_daily-top_codebase-memory-mcp.png)
-
-### 2. [kilocode](https://github.com/Kilo-Org/kilocode)
-
-> 🤖 **Why Recommend**  
-> *KiloCode is an all-in-one open-source coding agent platform designed to enhance development speed and efficiency. With over 22,000 stars, it supports integration with VS Code, JetBrains, and CLI environments. Key features include access to 500+ AI models, task-specific agents for coding, planning, debugging, and automated code reviews. Kilo offers inline autocomplete, self-checking code generation, and autonomous operation for CI/CD pipelines. Built for flexibility, it allows mid-task model switching and requires no API keys, making it user-friendly and accessible for developers.*
-
-- ⭐ 22959 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-20
-
-![kilocode](2026/06-20/2026-06-20_daily-top_kilocode.png)
+![codebase-memory-mcp](2026/06-21/2026-06-21_daily-top_codebase-memory-mcp.png)
 
 ### 3. [palmier-pro](https://github.com/palmier-io/palmier-pro)
 
 > 🤖 **Why Recommend**  
-> *Palmier Pro is an open-source video editor for macOS, designed for seamless integration with AI tools. Built in Swift, it offers a user-friendly timeline for collaborative editing alongside generative AI features, utilizing models like Seedance and Kling. Users can connect to agents such as Claude and Codex via a built-in MCP server, enhancing the editing experience. While the core editor is free and open-source, generative AI features require a subscription. Compatible exclusively with macOS 26 (Tahoe) on Apple Silicon, Palmier Pro aims to redefine video editing workflows.*
+> *Palmier Pro is an open-source video editor designed for macOS, built in Swift with a focus on integrating AI into the editing workflow. Key features include generative AI for video and image creation, seamless collaboration with AI agents via an MCP server, and a user-friendly timeline editor. While the core editor is free and open-source, generative AI capabilities require a subscription. Compatible with macOS 26 (Tahoe) on Apple Silicon, Palmier Pro offers a modern alternative to traditional editors like Premiere Pro, promoting creative collaboration and innovation.*
 
-- ⭐ 2020 stars
+- ⭐ 3626 stars
 - 💻 Swift
-- 📅 Updated: 2026-06-20
+- 📅 Updated: 2026-06-21
 
-![palmier-pro](2026/06-20/2026-06-20_daily-top_palmier-pro.png)
+![palmier-pro](2026/06-21/2026-06-21_daily-top_palmier-pro.png)
 
-### 4. [zvec](https://github.com/alibaba/zvec)
-
-> 🤖 **Why Recommend**  
-> *Zvec is a lightweight, in-process vector database designed for high-performance similarity search, boasting over 11,600 stars on GitHub. Key features include support for both dense and sparse vectors, native full-text search, and hybrid queries that combine vector and text-based searches. It enables efficient data storage with write-ahead logging for persistence and concurrent access. With SDKs available for Python, Node.js, Go, and Rust, Zvec easily integrates into various applications. Ideal for production workloads, it emphasizes speed and scalability.*
-
-- ⭐ 11655 stars
-- 💻 C++
-- 📅 Updated: 2026-06-20
-
-![zvec](2026/06-20/2026-06-20_daily-top_zvec.png)
-
-### 5. [plane](https://github.com/makeplane/plane)
+### 4. [turso](https://github.com/tursodatabase/turso)
 
 > 🤖 **Why Recommend**  
-> *Plane is an open-source project management platform designed to streamline task management, sprints, and documentation. Key features include customizable work items with a rich text editor, cycle tracking with burn-down charts, modular project organization, and real-time analytics. Users can choose between a cloud solution for quick setup or self-hosting for full data control. With a strong community focus, Plane encourages contributions and feedback through forums and GitHub discussions. Explore more at [plane.so](https://plane.so).*
+> *Turso is an in-process SQL database, compatible with SQLite.. popular project, actively maintained, recently updated*
 
-- ⭐ 52065 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-20
-
-![plane](2026/06-20/2026-06-20_daily-top_plane.png)
-
-### 6. [flue](https://github.com/withastro/flue)
-
-> 🤖 **Why Recommend**  
-> *Flue is a TypeScript framework designed for building autonomous agents and AI workflows. It allows developers to create agents that maintain context, execute tasks, and interact with existing systems. Key features include secure sandboxes for executing tasks, durable execution for progress recovery, and the ability to define specialized subagents. Flue supports various deployment environments, including Node.js and cloud platforms. With built-in tools for observability and integration with services like Slack and GitHub, Flue empowers developers to create robust and intelligent workflows.*
-
-- ⭐ 5872 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-20
-
-![flue](2026/06-20/2026-06-20_daily-top_flue.png)
-
-### 7. [iroh](https://github.com/n0-computer/iroh)
-
-> 🤖 **Why Recommend**  
-> *Iroh is a modular networking stack developed in Rust that enables seamless communication by dialing via public keys instead of IP addresses. It features efficient hole-punching for direct connections and a fallback to public relay servers, ensuring optimal performance. Built on the QUIC protocol, Iroh offers authenticated encryption and concurrent streams. Key services include iroh-blobs for scalable blob transfers, iroh-gossip for publish-subscribe networks, and an eventually-consistent key-value store. The project has gained significant traction with over 10,000 stars on GitHub.*
-
-- ⭐ 10266 stars
+- ⭐ 20398 stars
+- 🍴 1043 forks
 - 💻 Rust
-- 📅 Updated: 2026-06-20
+- 📅 Updated: 2026-06-21
 
-![iroh](2026/06-20/2026-06-20_daily-top_iroh.png)
+![turso](2026/06-21/2026-06-21_daily-top_turso.png)
 
-### 8. [insomnia](https://github.com/Kong/insomnia)
+### 5. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **Why Recommend**  
-> *Insomnia is an open-source, cross-platform API client designed for GraphQL, REST, WebSockets, SSE, and gRPC, boasting over 39,000 stars on GitHub. Key features include API debugging, design with an OpenAPI editor, testing with native suites, and mocking capabilities via cloud or self-hosted servers. It supports Local Vault, Git Sync, and Cloud Sync for flexible project storage. Insomnia also offers collaboration tools, a CLI for CI/CD integration, and a rich ecosystem of plugins. Available for Mac, Windows, and Linux, it enables users to manage sensitive data securely while ensuring ease of collaboration.*
+> *ECC is a performance optimization system for AI agents like Claude Code, Codex, and Cursor, boasting over 218,000 stars on GitHub. Core features include skills, instincts, memory optimization, security scanning, and continuous learning, facilitating cross-harness workflows. ECC supports 12 programming languages and offers a robust ecosystem with 67 agents and 271 skills. Key highlights are the AgentShield security auditor, a user-friendly dashboard GUI, and customizable workflows. It integrates seamlessly with various platforms, providing a comprehensive solution for AI-driven development.*
 
-- ⭐ 39023 stars
+- ⭐ 218926 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-06-21
+
+![ECC](2026/06-21/2026-06-21_daily-top_ECC.png)
+
+### 6. [worldmonitor](https://github.com/koala73/worldmonitor)
+
+> 🤖 **Why Recommend**  
+> *World Monitor is a real-time global intelligence dashboard that utilizes AI for news aggregation, geopolitical monitoring, and infrastructure tracking. Key features include over 500 curated news feeds across 15 categories, a dual map engine with 3D and flat map visualizations, and a Country Instability Index for 31 Tier-1 countries. The platform supports multiple site variants (world, tech, finance, etc.) and offers a native desktop application for macOS, Windows, and Linux. With a focus on situational awareness, World Monitor integrates diverse data from over 65 sources, providing users with comprehensive insights.*
+
+- ⭐ 57686 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-20
+- 📅 Updated: 2026-06-21
 
-![insomnia](2026/06-20/2026-06-20_daily-top_insomnia.png)
+![worldmonitor](2026/06-21/2026-06-21_daily-top_worldmonitor.png)
 
-### 9. [universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
-
-> 🤖 **Why Recommend**  
-> *Universal Android Debloater Next Generation is a cross-platform GUI tool written in Rust that uses ADB to debloat non-rooted Android devices, enhancing privacy, security, and battery life. With over 8,000 stars on GitHub, it helps users remove unnecessary system apps, thus reducing the attack surface. The project prioritizes user privacy, collecting no data, and offers comprehensive documentation, including a usage guide and app replacements. Community integrations include Canta for rootless debloating and AppManager for advanced app management. Join the Discord for support and collaboration.*
-
-- ⭐ 8044 stars
-- 💻 Rust
-- 📅 Updated: 2026-06-20
-
-![universal-android-debloater-next-generation](2026/06-20/2026-06-20_daily-top_universal-android-debloater-next-generation.png)
-
-### 10. [codex](https://github.com/openai/codex)
+### 7. [kilocode](https://github.com/Kilo-Org/kilocode)
 
 > 🤖 **Why Recommend**  
-> *Codex is a lightweight coding agent by OpenAI that runs locally in your terminal, designed for seamless integration with code editors like VS Code and desktop app experiences. With over 92,000 stars, it offers easy installation via curl, npm, or Homebrew. Users can sign in with a ChatGPT account to access features, or utilize an API key for advanced setups. Codex enhances coding efficiency by providing advanced AI assistance, making it suitable for developers across various plans. Comprehensive documentation and contribution guidelines are available on GitHub.*
+> *KiloCode is an all-in-one, open-source coding agent platform designed for faster development across VS Code, JetBrains, and CLI environments. With over 500 models available, users can seamlessly switch between coding, planning, debugging, and reviewing tasks without API keys. Key features include natural language code generation, inline autocompletion, self-checking, terminal automation, and autonomous CI/CD operations. KiloCode supports collaboration through a community-driven approach and offers flexible pricing based on model providers. Join the community on Discord and Reddit for support and insights.*
 
-- ⭐ 92213 stars
-- 💻 Rust
-- 📅 Updated: 2026-06-20
+- ⭐ 23410 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-21
 
-![codex](2026/06-20/2026-06-20_daily-top_codex.png)
+![kilocode](2026/06-21/2026-06-21_daily-top_kilocode.png)
+
+### 8. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
+> 🤖 **Why Recommend**  
+> *The "system_prompts_leaks" GitHub project documents extracted system prompts from major AI models including Anthropic's Claude, OpenAI's ChatGPT, Google's Gemini, and xAI's Grok. With over 43,000 stars, it serves as a comprehensive resource for accessing and comparing the instructions behind these AI systems. Key features include regular updates, detailed model prompts, and diffs to track changes across versions. The repository aims to enhance understanding of AI functionalities by revealing the underlying prompts that guide their responses.*
+
+- ⭐ 43933 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-06-21
+
+![system_prompts_leaks](2026/06-21/2026-06-21_daily-top_system_prompts_leaks.png)
+
+### 9. [insomnia](https://github.com/Kong/insomnia)
+
+> 🤖 **Why Recommend**  
+> *Insomnia is an open-source, cross-platform API client supporting GraphQL, REST, WebSockets, SSE, and gRPC. With 39,377 stars on GitHub, it offers powerful features for debugging, designing, testing, and mocking APIs. Key highlights include a native OpenAPI editor, CI/CD pipeline integration via the Insomnia CLI, and collaboration tools. Users can choose from Local Vault, Cloud Sync, or Git Sync for project storage, ensuring flexibility in data management. Insomnia also supports third-party plugins, enhancing functionality further. Available for Mac, Windows, and Linux, it provides a robust solution for API development.*
+
+- ⭐ 39377 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-21
+
+![insomnia](2026/06-21/2026-06-21_daily-top_insomnia.png)
+
+### 10. [flue](https://github.com/withastro/flue)
+
+> 🤖 **Why Recommend**  
+> *Flue is a powerful TypeScript framework designed for building autonomous agents and AI workflows. With features like durable execution, secure sandboxes, and the ability to maintain context across interactions, Flue enables agents to autonomously tackle complex tasks. Key highlights include customizable agents, structured workflows, reusable skills, and integration with various tools and services. Flue supports deployment on platforms like Node.js, Cloudflare Workers, and GitHub Actions, making it versatile for any developer looking to leverage AI-driven automation.*
+
+- ⭐ 6134 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-21
+
+![flue](2026/06-21/2026-06-21_daily-top_flue.png)
 
 ---
 
@@ -141,4 +142,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-20 04:17:21 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-21 04:59:52 UTC

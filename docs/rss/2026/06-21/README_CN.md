@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-21
 
-![Pake](2026/06-21/2026-06-21_daily-top_Pake.png)
+![Pake](2026-06-21_daily-top_Pake.png)
 
 ### 2. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
@@ -39,7 +39,7 @@
 - 💻 C
 - 📅 Updated: 2026-06-21
 
-![codebase-memory-mcp](2026/06-21/2026-06-21_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-06-21_daily-top_codebase-memory-mcp.png)
 
 ### 3. [palmier-pro](https://github.com/palmier-io/palmier-pro)
 
@@ -50,7 +50,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-21
 
-![palmier-pro](2026/06-21/2026-06-21_daily-top_palmier-pro.png)
+![palmier-pro](2026-06-21_daily-top_palmier-pro.png)
 
 ### 4. [turso](https://github.com/tursodatabase/turso)
 
@@ -62,7 +62,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-21
 
-![turso](2026/06-21/2026-06-21_daily-top_turso.png)
+![turso](2026-06-21_daily-top_turso.png)
 
 ### 5. [ECC](https://github.com/affaan-m/ECC)
 
@@ -73,7 +73,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-21
 
-![ECC](2026/06-21/2026-06-21_daily-top_ECC.png)
+![ECC](2026-06-21_daily-top_ECC.png)
 
 ### 6. [worldmonitor](https://github.com/koala73/worldmonitor)
 
@@ -84,7 +84,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-21
 
-![worldmonitor](2026/06-21/2026-06-21_daily-top_worldmonitor.png)
+![worldmonitor](2026-06-21_daily-top_worldmonitor.png)
 
 ### 7. [kilocode](https://github.com/Kilo-Org/kilocode)
 
@@ -95,7 +95,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-21
 
-![kilocode](2026/06-21/2026-06-21_daily-top_kilocode.png)
+![kilocode](2026-06-21_daily-top_kilocode.png)
 
 ### 8. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -106,7 +106,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-21
 
-![system_prompts_leaks](2026/06-21/2026-06-21_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-06-21_daily-top_system_prompts_leaks.png)
 
 ### 9. [insomnia](https://github.com/Kong/insomnia)
 
@@ -117,7 +117,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-21
 
-![insomnia](2026/06-21/2026-06-21_daily-top_insomnia.png)
+![insomnia](2026-06-21_daily-top_insomnia.png)
 
 ### 10. [flue](https://github.com/withastro/flue)
 
@@ -128,7 +128,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-21
 
-![flue](2026/06-21/2026-06-21_daily-top_flue.png)
+![flue](2026-06-21_daily-top_flue.png)
 
 ---
 
