@@ -27,7 +27,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-22
 
-![palmier-pro](2026/06-22/2026-06-22_daily-top_palmier-pro.png)
+![palmier-pro](2026-06-22_daily-top_palmier-pro.png)
 
 ### 2. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
@@ -39,7 +39,7 @@
 - 💻 C
 - 📅 Updated: 2026-06-22
 
-![codebase-memory-mcp](2026/06-22/2026-06-22_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-06-22_daily-top_codebase-memory-mcp.png)
 
 ### 3. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
@@ -50,7 +50,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-22
 
-![taste-skill](2026/06-22/2026-06-22_daily-top_taste-skill.png)
+![taste-skill](2026-06-22_daily-top_taste-skill.png)
 
 ### 4. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-22
 
-![voicebox](2026/06-22/2026-06-22_daily-top_voicebox.png)
+![voicebox](2026-06-22_daily-top_voicebox.png)
 
 ### 5. [turso](https://github.com/tursodatabase/turso)
 
@@ -73,7 +73,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-22
 
-![turso](2026/06-22/2026-06-22_daily-top_turso.png)
+![turso](2026-06-22_daily-top_turso.png)
 
 ### 6. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -84,7 +84,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-22
 
-![firecrawl](2026/06-22/2026-06-22_daily-top_firecrawl.png)
+![firecrawl](2026-06-22_daily-top_firecrawl.png)
 
 ### 7. [ECC](https://github.com/affaan-m/ECC)
 
@@ -95,7 +95,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-22
 
-![ECC](2026/06-22/2026-06-22_daily-top_ECC.png)
+![ECC](2026-06-22_daily-top_ECC.png)
 
 ### 8. [gstack](https://github.com/garrytan/gstack)
 
@@ -106,7 +106,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-22
 
-![gstack](2026/06-22/2026-06-22_daily-top_gstack.png)
+![gstack](2026-06-22_daily-top_gstack.png)
 
 ### 9. [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 
@@ -117,7 +117,7 @@
 - 💻 Java
 - 📅 Updated: 2026-06-22
 
-![Stirling-PDF](2026/06-22/2026-06-22_daily-top_Stirling-PDF.png)
+![Stirling-PDF](2026-06-22_daily-top_Stirling-PDF.png)
 
 ### 10. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -128,7 +128,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-22
 
-![system_prompts_leaks](2026/06-22/2026-06-22_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-06-22_daily-top_system_prompts_leaks.png)
 
 ---
 
