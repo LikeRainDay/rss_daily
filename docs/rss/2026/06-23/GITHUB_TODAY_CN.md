@@ -27,7 +27,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-23
 
-![palmier-pro](2026/06-23/2026-06-23_daily-top_palmier-pro.png)
+![palmier-pro](2026-06-23_daily-top_palmier-pro.png)
 
 ### 2. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
@@ -39,7 +39,7 @@
 - 💻 C
 - 📅 Updated: 2026-06-23
 
-![codebase-memory-mcp](2026/06-23/2026-06-23_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-06-23_daily-top_codebase-memory-mcp.png)
 
 ### 3. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -50,7 +50,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-23
 
-![system_prompts_leaks](2026/06-23/2026-06-23_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-06-23_daily-top_system_prompts_leaks.png)
 
 ### 4. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
@@ -61,7 +61,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-23
 
-![taste-skill](2026/06-23/2026-06-23_daily-top_taste-skill.png)
+![taste-skill](2026-06-23_daily-top_taste-skill.png)
 
 ### 5. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-23
 
-![firecrawl](2026/06-23/2026-06-23_daily-top_firecrawl.png)
+![firecrawl](2026-06-23_daily-top_firecrawl.png)
 
 ### 6. [gstack](https://github.com/garrytan/gstack)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-23
 
-![gstack](2026/06-23/2026-06-23_daily-top_gstack.png)
+![gstack](2026-06-23_daily-top_gstack.png)
 
 ### 7. [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-23
 
-![Stirling-PDF](2026/06-23/2026-06-23_daily-top_Stirling-PDF.png)
+![Stirling-PDF](2026-06-23_daily-top_Stirling-PDF.png)
 
 ### 8. [turso](https://github.com/tursodatabase/turso)
 
@@ -106,7 +106,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-23
 
-![turso](2026/06-23/2026-06-23_daily-top_turso.png)
+![turso](2026-06-23_daily-top_turso.png)
 
 ### 9. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -117,7 +117,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-23
 
-![voicebox](2026/06-23/2026-06-23_daily-top_voicebox.png)
+![voicebox](2026-06-23_daily-top_voicebox.png)
 
 ### 10. [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -128,7 +128,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-23
 
-![hyperframes](2026/06-23/2026-06-23_daily-top_hyperframes.png)
+![hyperframes](2026-06-23_daily-top_hyperframes.png)
 
 ---
 
