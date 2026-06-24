@@ -27,7 +27,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-24
 
-![palmier-pro](2026/06-24/2026-06-24_daily-top_palmier-pro.png)
+![palmier-pro](2026-06-24_daily-top_palmier-pro.png)
 
 ### 2. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
@@ -39,7 +39,7 @@
 - 💻 C
 - 📅 Updated: 2026-06-24
 
-![codebase-memory-mcp](2026/06-24/2026-06-24_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-06-24_daily-top_codebase-memory-mcp.png)
 
 ### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-24
 
-![firecrawl](2026/06-24/2026-06-24_daily-top_firecrawl.png)
+![firecrawl](2026-06-24_daily-top_firecrawl.png)
 
 ### 4. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-24
 
-![voicebox](2026/06-24/2026-06-24_daily-top_voicebox.png)
+![voicebox](2026-06-24_daily-top_voicebox.png)
 
 ### 5. [gstack](https://github.com/garrytan/gstack)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-24
 
-![gstack](2026/06-24/2026-06-24_daily-top_gstack.png)
+![gstack](2026-06-24_daily-top_gstack.png)
 
 ### 6. [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 
@@ -83,7 +83,7 @@
 - 💻 Java
 - 📅 Updated: 2026-06-24
 
-![Stirling-PDF](2026/06-24/2026-06-24_daily-top_Stirling-PDF.png)
+![Stirling-PDF](2026-06-24_daily-top_Stirling-PDF.png)
 
 ### 7. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-24
 
-![ai-website-cloner-template](2026/06-24/2026-06-24_daily-top_ai-website-cloner-template.png)
+![ai-website-cloner-template](2026-06-24_daily-top_ai-website-cloner-template.png)
 
 ### 8. [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-24
 
-![hyperframes](2026/06-24/2026-06-24_daily-top_hyperframes.png)
+![hyperframes](2026-06-24_daily-top_hyperframes.png)
 
 ### 9. [turso](https://github.com/tursodatabase/turso)
 
@@ -117,7 +117,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-24
 
-![turso](2026/06-24/2026-06-24_daily-top_turso.png)
+![turso](2026-06-24_daily-top_turso.png)
 
 ### 10. [ECC](https://github.com/affaan-m/ECC)
 
@@ -128,7 +128,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-24
 
-![ECC](2026/06-24/2026-06-24_daily-top_ECC.png)
+![ECC](2026-06-24_daily-top_ECC.png)
 
 ---
 

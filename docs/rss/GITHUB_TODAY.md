@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-23
+# 📊 🌟 GitHub Trending Daily - 2026-06-24
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **531796** ⭐ | **52118** 🍴
+**10** Projects | **683312** ⭐ | **78317** 🍴
 
-**Top Languages:** `TypeScript` (5) · `JavaScript` (2) · `C` (1)
+**Top Languages:** `TypeScript` (5) · `Java` (1) · `C` (1)
 
-**Updated:** 2026-06-23 04:06 UTC
+**Updated:** 2026-06-24 04:09 UTC
 
 **Categories:**
 
@@ -21,114 +21,114 @@
 ### 1. [palmier-pro](https://github.com/palmier-io/palmier-pro)
 
 > 🤖 **Why Recommend**  
-> *Palmier Pro is an open-source macOS video editor designed for AI integration, built with Swift. It allows users to collaboratively generate and edit videos using advanced generative AI models like Seedance and Nano Banana Pro. Key features include a seamless timeline editor, connectivity with AI agents via MCP server, and free usage of the core video editing tools, with optional subscription-based generative AI capabilities. Exclusively for macOS 26 on Apple Silicon, Palmier Pro aims to redefine video editing workflows by merging traditional editing with cutting-edge AI technology.*
+> *Palmier Pro is an open-source macOS video editor designed for AI integration, built from the ground up using Swift. It features a timeline where users can collaboratively generate and edit videos with advanced AI models like Seedance and Nano Banana Pro. The editor supports connections with AI agents such as Claude and Codex via an MCP server, enabling seamless project collaboration. While the core editor is free, generative AI features require a subscription. Palmier Pro is optimized for macOS 26 on Apple Silicon and emphasizes community engagement through Discord and social media.*
 
-- ⭐ 7632 stars
+- ⭐ 8527 stars
 - 💻 Swift
-- 📅 Updated: 2026-06-23
+- 📅 Updated: 2026-06-24
 
-![palmier-pro](2026/06-23/2026-06-23_daily-top_palmier-pro.png)
+![palmier-pro](2026/06-24/2026-06-24_daily-top_palmier-pro.png)
 
 ### 2. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
 > 🤖 **Why Recommend**  
 > *High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, su. popular project, actively maintained, recently updated*
 
-- ⭐ 11811 stars
-- 🍴 869 forks
+- ⭐ 13220 stars
+- 🍴 965 forks
 - 💻 C
-- 📅 Updated: 2026-06-23
+- 📅 Updated: 2026-06-24
 
-![codebase-memory-mcp](2026/06-23/2026-06-23_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026/06-24/2026-06-24_daily-top_codebase-memory-mcp.png)
 
-### 3. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-
-> 🤖 **Why Recommend**  
-> *The "system_prompts_leaks" GitHub repository documents extracted system prompts from various AI chatbots, including Claude, ChatGPT, Gemini, and Grok. With over 45,000 stars, it serves as a comprehensive resource for understanding the internal instructions guiding these models. Key features include regular updates on new models, detailed prompt comparisons (e.g., Claude Fable 5 vs. Opus 4.8), and a variety of prompts for tools like GitHub Copilot and Google Assistant. This project enhances transparency in AI behavior and is frequently referenced in media, including The Washington Post.*
-
-- ⭐ 45091 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-06-23
-
-![system_prompts_leaks](2026/06-23/2026-06-23_daily-top_system_prompts_leaks.png)
-
-### 4. [taste-skill](https://github.com/Leonxlnx/taste-skill)
+### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
 
 > 🤖 **Why Recommend**  
-> *Taste-Skill is a JavaScript framework designed to enhance AI-generated interfaces by promoting visually appealing, non-generic designs. With over 49,000 stars, it offers portable Agent Skills that improve layout, typography, and motion. Key features include various skills for image generation, redesigning existing projects, and enforcing output quality. Users can easily install skills via `npx`, and the framework supports multiple coding agents like Codex and ChatGPT. Taste-Skill aims to elevate the aesthetics of AI-driven frontends, making them more engaging and sophisticated.*
+> *Firecrawl is an open-source API designed for scalable web searching, scraping, and interaction. Key features include industry-leading reliability with 96% web coverage, rapid response times (P95 latency of 3.4s), and LLM-ready outputs in markdown and structured formats. Users can easily search the web, scrape content, and automate data gathering through its Agent feature. Additional capabilities include crawling websites, mapping URLs, and batch scraping. Firecrawl integrates seamlessly with AI agents and supports various programming languages via SDKs.*
 
-- ⭐ 49164 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-06-23
-
-![taste-skill](2026/06-23/2026-06-23_daily-top_taste-skill.png)
-
-### 5. [firecrawl](https://github.com/firecrawl/firecrawl)
-
-> 🤖 **Why Recommend**  
-> *Firecrawl is a powerful API for searching, scraping, and interacting with the web at scale, built in TypeScript and open-source. With industry-leading reliability, it covers 96% of the web, including JavaScript-heavy pages, providing clean data in various formats like Markdown and JSON. Key features include web search, content scraping, page interaction, automated data gathering, and website crawling. It integrates seamlessly with AI agents and supports batch scraping. Firecrawl is designed for real-time applications, ensuring rapid and efficient data extraction.*
-
-- ⭐ 137489 stars
+- ⭐ 138256 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-23
+- 📅 Updated: 2026-06-24
 
-![firecrawl](2026/06-23/2026-06-23_daily-top_firecrawl.png)
+![firecrawl](2026/06-24/2026-06-24_daily-top_firecrawl.png)
 
-### 6. [gstack](https://github.com/garrytan/gstack)
-
-> 🤖 **Why Recommend**  
-> *gstack is an open-source project that transforms Garry Tan's "Claude Code" setup into a powerful AI-driven software development toolkit. It features 23 specialized tools, acting as a virtual engineering team, facilitating roles such as CEO, Designer, and QA. Key capabilities include streamlined planning with `/office-hours`, automated code reviews with `/review`, and effective QA testing with `/qa`. gstack empowers founders and engineers to ship high-quality products rapidly by integrating AI into every stage of development, from ideation to deployment, significantly enhancing productivity.*
-
-- ⭐ 113304 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-23
-
-![gstack](2026/06-23/2026-06-23_daily-top_gstack.png)
-
-### 7. [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+### 4. [voicebox](https://github.com/jamiepine/voicebox)
 
 > 🤖 **Why Recommend**  
-> *Stirling PDF is a leading open-source PDF editing platform, boasting over 83,000 stars on GitHub. It enables users to edit, sign, redact, convert, and automate PDFs on any device or via self-hosted servers, ensuring data privacy. Key features include a desktop client, a browser-based UI, 50+ editing tools, no-code automation workflows, and REST APIs for integration. The platform supports enterprise-grade solutions with SSO and auditing. Available in 40+ languages, Stirling PDF is ideal for both individual users and organizations seeking robust PDF management solutions.*
+> *Voicebox is an open-source AI voice studio that enables users to clone voices, generate speech, and dictate text across applications, all while ensuring complete privacy as it runs locally. Key features include voice cloning from audio samples, support for 23 languages via seven TTS engines, and expressive speech with paralinguistic tags. It offers global dictation hotkeys, a multi-track stories editor, and a REST API for integration. Voicebox is built with Tauri for native performance, making it compatible across macOS, Windows, and Linux, and includes a built-in LLM for refining voice outputs.*
 
-- ⭐ 83133 stars
+- ⭐ 33306 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-23
+- 📅 Updated: 2026-06-24
 
-![Stirling-PDF](2026/06-23/2026-06-23_daily-top_Stirling-PDF.png)
+![voicebox](2026/06-24/2026-06-24_daily-top_voicebox.png)
 
-### 8. [turso](https://github.com/tursodatabase/turso)
+### 5. [gstack](https://github.com/garrytan/gstack)
+
+> 🤖 **Why Recommend**  
+> *gstack is an open-source project that transforms AI into a virtual engineering team, featuring 23 specialized tools to streamline product development for CEOs, designers, and engineers. Key functionalities include planning, reviewing, testing, and shipping software efficiently. It automates feedback loops with commands like `/office-hours`, `/plan-ceo-review`, and `/qa`, ensuring comprehensive oversight. With the capability to run multiple parallel sprints, gstack enhances productivity through structured workflows, making it ideal for startups and tech leads. Available under MIT license, it encourages community contributions and improvements.*
+
+- ⭐ 114258 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-24
+
+![gstack](2026/06-24/2026-06-24_daily-top_gstack.png)
+
+### 6. [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
+> 🤖 **Why Recommend**  
+> *Stirling-PDF is a leading open-source PDF editing platform available on GitHub, boasting over 83,760 stars. It offers versatile functionality across desktop, browser, and self-hosted environments, allowing users to edit, sign, redact, convert, and automate PDFs without relying on external services. Key features include 50+ PDF tools, no-code automation workflows, enterprise-grade security with SSO, and REST APIs for seamless integration. The platform supports 40+ languages, making it accessible globally. Explore more at the [documentation](https://docs.stirlingpdf.com).*
+
+- ⭐ 83760 stars
+- 💻 Java
+- 📅 Updated: 2026-06-24
+
+![Stirling-PDF](2026/06-24/2026-06-24_daily-top_Stirling-PDF.png)
+
+### 7. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+
+> 🤖 **Why Recommend**  
+> *The AI Website Cloner Template allows users to effortlessly clone any website into a modern Next.js codebase using AI coding agents with a single command. Key features include design token extraction, component specification generation, and parallel assembly of site components. It supports multiple AI agents, with Claude Code recommended for optimal results. Ideal for platform migrations, recovering lost code, or learning about web design, the project is built on TypeScript and Next.js, ensuring a clean and efficient structure. The template is licensed under MIT.*
+
+- ⭐ 18670 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-24
+
+![ai-website-cloner-template](2026/06-24/2026-06-24_daily-top_ai-website-cloner-template.png)
+
+### 8. [hyperframes](https://github.com/heygen-com/hyperframes)
+
+> 🤖 **Why Recommend**  
+> *HyperFrames is an open-source framework that transforms HTML, CSS, and media into deterministic MP4 videos, designed for easy integration with AI coding agents. Key features include a CLI for local video creation, support for various animation libraries, and a catalog of reusable components. Users can quickly scaffold projects, preview compositions, and render videos using headless Chrome and FFmpeg. HyperFrames emphasizes HTML-native authoring, making it accessible for developers, and offers a community-driven playground at hyperframes.dev. It's ideal for product launches, data visualizations, and automated content creation.*
+
+- ⭐ 30718 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-24
+
+![hyperframes](2026/06-24/2026-06-24_daily-top_hyperframes.png)
+
+### 9. [turso](https://github.com/tursodatabase/turso)
 
 > 🤖 **Why Recommend**  
 > *Turso is an in-process SQL database, compatible with SQLite.. popular project, actively maintained, recently updated*
 
-- ⭐ 21566 stars
-- 🍴 1092 forks
+- ⭐ 21945 stars
+- 🍴 1109 forks
 - 💻 Rust
-- 📅 Updated: 2026-06-23
+- 📅 Updated: 2026-06-24
 
-![turso](2026/06-23/2026-06-23_daily-top_turso.png)
+![turso](2026/06-24/2026-06-24_daily-top_turso.png)
 
-### 9. [voicebox](https://github.com/jamiepine/voicebox)
-
-> 🤖 **Why Recommend**  
-> *Voicebox is an open-source AI voice studio enabling users to clone voices, generate speech, and dictate across applications, all locally on their devices. Key features include voice cloning from brief audio samples, support for 23 languages through 7 TTS engines, and advanced post-processing effects. It offers global dictation hotkeys, a multi-track stories editor, and seamless integration with MCP-aware agents for voice output. With a focus on privacy, all data remains on the user's machine, making Voicebox a versatile tool for content creation, accessibility, and interactive applications.*
-
-- ⭐ 32440 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-23
-
-![voicebox](2026/06-23/2026-06-23_daily-top_voicebox.png)
-
-### 10. [hyperframes](https://github.com/heygen-com/hyperframes)
+### 10. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **Why Recommend**  
-> *HyperFrames is an open-source framework that transforms HTML and CSS into deterministic MP4 videos, designed for both manual and AI-driven workflows. With a powerful CLI and agent skills integration, users can create videos by simply writing HTML, adding media, and utilizing seekable animations. Key features include a browser-based editor, reusable components, and AWS Lambda rendering for distributed workflows. Its HTML-native approach allows easy collaboration and ensures consistent output. Explore the community-driven catalog for ready-to-use blocks and templates at hyperframes.dev.*
+> *ECC is a powerful performance optimization system designed for AI agent workflows, supporting tools like Claude Code, Codex, and Cursor. Key features include skills and instincts for enhanced learning, security scanning via AgentShield, and a cross-harness architecture that facilitates seamless integration across multiple platforms. With over 220,000 stars, ECC offers a comprehensive set of agents, skills, and commands, alongside a user-friendly dashboard for visual management. It emphasizes security, continuous learning, and collaboration, making it ideal for developers seeking to enhance their AI-driven projects.*
 
-- ⭐ 30166 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-23
+- ⭐ 220652 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-06-24
 
-![hyperframes](2026/06-23/2026-06-23_daily-top_hyperframes.png)
+![ECC](2026/06-24/2026-06-24_daily-top_ECC.png)
 
 ---
 
@@ -142,4 +142,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-23 04:06:58 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-24 04:09:31 UTC
