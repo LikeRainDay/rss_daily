@@ -27,7 +27,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-25
 
-![container](2026/06-25/2026-06-25_daily-top_container.png)
+![container](2026-06-25_daily-top_container.png)
 
 ### 2. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
@@ -39,7 +39,7 @@
 - 💻 C
 - 📅 Updated: 2026-06-25
 
-![codebase-memory-mcp](2026/06-25/2026-06-25_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-06-25_daily-top_codebase-memory-mcp.png)
 
 ### 3. [cli](https://github.com/googleworkspace/cli)
 
@@ -50,7 +50,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-25
 
-![cli](2026/06-25/2026-06-25_daily-top_cli.png)
+![cli](2026-06-25_daily-top_cli.png)
 
 ### 4. [gstack](https://github.com/garrytan/gstack)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-25
 
-![gstack](2026/06-25/2026-06-25_daily-top_gstack.png)
+![gstack](2026-06-25_daily-top_gstack.png)
 
 ### 5. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-25
 
-![voicebox](2026/06-25/2026-06-25_daily-top_voicebox.png)
+![voicebox](2026-06-25_daily-top_voicebox.png)
 
 ### 6. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-25
 
-![ai-website-cloner-template](2026/06-25/2026-06-25_daily-top_ai-website-cloner-template.png)
+![ai-website-cloner-template](2026-06-25_daily-top_ai-website-cloner-template.png)
 
 ### 7. [design.md](https://github.com/google-labs-code/design.md)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-25
 
-![design.md](2026/06-25/2026-06-25_daily-top_design.md.png)
+![design.md](2026-06-25_daily-top_design.md.png)
 
 ### 8. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-25
 
-![firecrawl](2026/06-25/2026-06-25_daily-top_firecrawl.png)
+![firecrawl](2026-06-25_daily-top_firecrawl.png)
 
 ### 9. [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-25
 
-![hyperframes](2026/06-25/2026-06-25_daily-top_hyperframes.png)
+![hyperframes](2026-06-25_daily-top_hyperframes.png)
 
 ### 10. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-25
 
-![impeccable](2026/06-25/2026-06-25_daily-top_impeccable.png)
+![impeccable](2026-06-25_daily-top_impeccable.png)
 
 ---
 
