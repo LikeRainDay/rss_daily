@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-26
 
-![design.md](2026/06-26/2026-06-26_daily-top_design.md.png)
+![design.md](2026-06-26_daily-top_design.md.png)
 
 ### 2. [container](https://github.com/apple/container)
 
@@ -38,7 +38,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-26
 
-![container](2026/06-26/2026-06-26_daily-top_container.png)
+![container](2026-06-26_daily-top_container.png)
 
 ### 3. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-26
 
-![ai-website-cloner-template](2026/06-26/2026-06-26_daily-top_ai-website-cloner-template.png)
+![ai-website-cloner-template](2026-06-26_daily-top_ai-website-cloner-template.png)
 
 ### 4. [no-mistakes](https://github.com/kunchenguid/no-mistakes)
 
@@ -60,7 +60,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-26
 
-![no-mistakes](2026/06-26/2026-06-26_daily-top_no-mistakes.png)
+![no-mistakes](2026-06-26_daily-top_no-mistakes.png)
 
 ### 5. [gstack](https://github.com/garrytan/gstack)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-26
 
-![gstack](2026/06-26/2026-06-26_daily-top_gstack.png)
+![gstack](2026-06-26_daily-top_gstack.png)
 
 ### 6. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-26
 
-![cc-switch](2026/06-26/2026-06-26_daily-top_cc-switch.png)
+![cc-switch](2026-06-26_daily-top_cc-switch.png)
 
 ### 7. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
@@ -94,7 +94,7 @@
 - 💻 C
 - 📅 Updated: 2026-06-26
 
-![codebase-memory-mcp](2026/06-26/2026-06-26_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-06-26_daily-top_codebase-memory-mcp.png)
 
 ### 8. [orca](https://github.com/stablyai/orca)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-26
 
-![orca](2026/06-26/2026-06-26_daily-top_orca.png)
+![orca](2026-06-26_daily-top_orca.png)
 
 ### 9. [ECC](https://github.com/affaan-m/ECC)
 
@@ -116,7 +116,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-26
 
-![ECC](2026/06-26/2026-06-26_daily-top_ECC.png)
+![ECC](2026-06-26_daily-top_ECC.png)
 
 ### 10. [cli](https://github.com/googleworkspace/cli)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-26
 
-![cli](2026/06-26/2026-06-26_daily-top_cli.png)
+![cli](2026-06-26_daily-top_cli.png)
 
 ---
 

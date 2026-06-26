@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-25
+# 📊 🌟 GitHub Trending Daily - 2026-06-26
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **482056** ⭐ | **42587** 🍴
+**10** 个项目 | **584130** ⭐ | **67702** 🍴
 
-**热门语言:** `TypeScript` (6) · `JavaScript` (1) · `Rust` (1)
+**热门语言:** `TypeScript` (4) · `Rust` (2) · `JavaScript` (1)
 
-**更新时间:** 2026-06-25 04:10 UTC
+**更新时间:** 2026-06-26 04:17 UTC
 
 **分类分布:**
 
@@ -18,116 +18,116 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [container](https://github.com/apple/container)
+### 1. [design.md](https://github.com/google-labs-code/design.md)
 
 > 🤖 **推荐理由**  
-> *`container` is a Swift-based tool for creating and running Linux containers as lightweight virtual machines on Mac, optimized for Apple silicon. It supports OCI-compatible container images, enabling users to pull, run, and push images from standard registries. Key features include seamless installation, upgrade, downgrade, and uninstallation processes, alongside robust documentation and a guided tour for new users. The project is actively developed, with stability guaranteed within patch versions. Contributions are encouraged, enhancing its growing ecosystem.*
+> *DESIGN.md is a TypeScript-based format specification for defining visual identities for coding agents, combining machine-readable design tokens with human-readable design rationale. It allows agents to understand a design system thoroughly. Key features include linting for structural correctness, token comparison, and exporting to various formats like Tailwind and DTCG. The platform supports validation of design tokens, checks WCAG compliance, and facilitates tracking changes between design versions. With over 19,600 stars, DESIGN.md is positioned as a robust tool for modern design systems.*
 
-- ⭐ 42428 stars
+- ⭐ 19623 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-26
+
+![design.md](2026/06-26/2026-06-26_daily-top_design.md.png)
+
+### 2. [container](https://github.com/apple/container)
+
+> 🤖 **推荐理由**  
+> *`container` is a Swift-based tool for creating and running Linux containers as lightweight virtual machines on Mac, optimized for Apple silicon. It supports OCI-compatible container images, allowing users to pull, run, and push images from standard registries. Key features include easy installation, upgrade/downgrade scripts, and a guided tour for building and publishing containers. Active development ensures ongoing enhancements, with contributions encouraged. The project leverages Apple’s Containerization package for efficient management of containers and images.*
+
+- ⭐ 43304 stars
 - 💻 Swift
-- 📅 Updated: 2026-06-25
+- 📅 Updated: 2026-06-26
 
-![container](2026/06-25/2026-06-25_daily-top_container.png)
+![container](2026/06-26/2026-06-26_daily-top_container.png)
 
-### 2. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+### 3. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+
+> 🤖 **推荐理由**  
+> *AI Website Cloner Template enables users to reverse-engineer any website into a modern Next.js codebase with a single command. Utilizing AI coding agents, this template inspects a target URL to extract design tokens, assets, and component specifications, facilitating a streamlined rebuilding process. Key features include support for various AI agents, a detailed multi-phase cloning pipeline, and a focus on clean, maintainable code. Ideal for platform migrations, recovering lost code, or learning from existing websites, it emphasizes ethical usage and compliance with terms of service.*
+
+- ⭐ 20636 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-26
+
+![ai-website-cloner-template](2026/06-26/2026-06-26_daily-top_ai-website-cloner-template.png)
+
+### 4. [no-mistakes](https://github.com/kunchenguid/no-mistakes)
+
+> 🤖 **推荐理由**  
+> *`no-mistakes` is a Go-based Git proxy tool designed to streamline code submissions by ensuring clean pull requests. It operates by launching a disposable worktree for every push to `no-mistakes`, running an AI-driven validation pipeline, and only forwarding to the remote once all checks pass. Key features include non-blocking operation, support for multiple AI agents, and the ability to auto-fix issues while allowing developer oversight. It simplifies workflow with commands like `git push no-mistakes` and integrates with coding agents to enhance productivity. Full documentation is available online.*
+
+- ⭐ 3064 stars
+- 💻 Go
+- 📅 Updated: 2026-06-26
+
+![no-mistakes](2026/06-26/2026-06-26_daily-top_no-mistakes.png)
+
+### 5. [gstack](https://github.com/garrytan/gstack)
+
+> 🤖 **推荐理由**  
+> *gstack is an open-source project designed to enhance productivity for tech founders and engineers, leveraging AI to replicate a full team of specialists. With 23 unique tools, gstack facilitates roles such as CEO, Designer, and QA, streamlining processes from ideation to deployment. Key features include automated reviews, real-time debugging, and comprehensive documentation updates. It integrates seamlessly with Claude Code and supports multiple AI agents. This innovative setup allows users to ship products efficiently, transforming how software is built and managed.*
+
+- ⭐ 115938 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-26
+
+![gstack](2026/06-26/2026-06-26_daily-top_gstack.png)
+
+### 6. [cc-switch](https://github.com/farion1231/cc-switch)
+
+> 🤖 **推荐理由**  
+> *CC Switch is a cross-platform desktop application designed to manage multiple AI coding tools, including Claude Code, Codex, and Gemini CLI, all from a single interface. Key features include over 50 provider presets for easy switching, unified management of MCP and skills, cloud sync across devices, and a system tray quick-switch option. Built with Rust and Tauri, it ensures reliable configuration through atomic writes. With extensive tracking for usage and costs, CC Switch streamlines AI-assisted programming, making it an essential tool for developers. Visit ccswitch.io for more details.*
+
+- ⭐ 108596 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-26
+
+![cc-switch](2026/06-26/2026-06-26_daily-top_cc-switch.png)
+
+### 7. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
 > 🤖 **推荐理由**  
 > *High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, su. popular project, actively maintained, recently updated*
 
-- ⭐ 14242 stars
-- 🍴 1048 forks
+- ⭐ 14883 stars
+- 🍴 1094 forks
 - 💻 C
-- 📅 Updated: 2026-06-25
+- 📅 Updated: 2026-06-26
 
-![codebase-memory-mcp](2026/06-25/2026-06-25_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026/06-26/2026-06-26_daily-top_codebase-memory-mcp.png)
 
-### 3. [cli](https://github.com/googleworkspace/cli)
-
-> 🤖 **推荐理由**  
-> *The Google Workspace CLI (`gws`) is a dynamic command-line tool for managing Google services like Drive, Gmail, Calendar, Sheets, and Docs, built in Rust. It leverages Google’s Discovery Service to automatically adapt to new API endpoints, ensuring a seamless experience. Key features include structured JSON output, 40+ AI agent skills for enhanced automation, and user-friendly commands with built-in help and dry-run options. Ideal for both humans and AI agents, it simplifies API interactions while supporting various authentication methods. Note: This is not an official Google product.*
-
-- ⭐ 28410 stars
-- 💻 Rust
-- 📅 Updated: 2026-06-25
-
-![cli](2026/06-25/2026-06-25_daily-top_cli.png)
-
-### 4. [gstack](https://github.com/garrytan/gstack)
+### 8. [orca](https://github.com/stablyai/orca)
 
 > 🤖 **推荐理由**  
-> *gstack is an open-source toolset designed to enhance productivity for founders, engineers, and designers by leveraging AI. It transforms Claude Code into a virtual team, offering 23 specialized roles such as CEO, Designer, and QA Lead, through simple slash commands. Key features include automated planning, code reviews, QA testing, and documentation updates, streamlining the entire product development process from ideation to deployment. With robust support for multiple AI agents and a focus on safety, gstack enables rapid, efficient shipping of software, significantly increasing productivity while ensuring quality.*
+> *Orca is an advanced development environment (ADE) designed for managing a fleet of parallel coding agents, compatible with desktop and mobile platforms. Key features include parallel worktrees for running multiple agents simultaneously, a mobile companion for remote monitoring, and integrated GitHub & Linear task management. Users can leverage powerful terminal splits, design mode for UI elements, and SSH support for remote operations. With over 7,500 stars on GitHub, Orca is ideal for developers seeking to streamline their workflows and enhance productivity.*
 
-- ⭐ 114993 stars
+- ⭐ 7567 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-25
+- 📅 Updated: 2026-06-26
 
-![gstack](2026/06-25/2026-06-25_daily-top_gstack.png)
+![orca](2026/06-26/2026-06-26_daily-top_orca.png)
 
-### 5. [voicebox](https://github.com/jamiepine/voicebox)
-
-> 🤖 **推荐理由**  
-> *Voicebox is an open-source AI voice studio enabling users to clone voices, generate speech, and dictate into any application. Key features include voice cloning from audio samples, support for seven TTS engines across 23 languages, and global dictation hotkeys. Voicebox ensures complete privacy, with all processing done locally. It offers advanced post-processing effects, expressive speech capabilities, and a multi-track stories editor. Additionally, it provides REST API integration for custom applications and runs on macOS, Windows, and Linux. With over 33,000 stars, Voicebox is a robust alternative to proprietary solutions.*
-
-- ⭐ 33922 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-25
-
-![voicebox](2026/06-25/2026-06-25_daily-top_voicebox.png)
-
-### 6. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+### 9. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **推荐理由**  
-> *The AI Website Cloner Template allows users to effortlessly clone any website into a clean, modern Next.js codebase with a single command using various AI coding agents, such as Claude Code. Key features include design token extraction, detailed component specifications, and parallel builders for efficient reconstruction. Ideal for platform migrations, recovering lost code, or educational purposes, it supports multiple AI agents and leverages a robust tech stack including Next.js and TypeScript. The project is open-source under the MIT license and has garnered significant interest with nearly 20,000 stars on GitHub.*
+> *ECC is a powerful performance optimization system designed for AI agents, integrating skills, instincts, memory, and security into workflows across platforms like Claude Code, Codex, and Cursor. With over 221,000 stars, it features 67 specialized agents, 271 skills, and extensive support for multiple programming languages. Key highlights include continuous learning capabilities, a security auditor (AgentShield), and a user-friendly dashboard for managing components. ECC enables seamless automation and optimization in coding, testing, and deployment tasks, enhancing productivity and code quality.*
 
-- ⭐ 19496 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-25
-
-![ai-website-cloner-template](2026/06-25/2026-06-25_daily-top_ai-website-cloner-template.png)
-
-### 7. [design.md](https://github.com/google-labs-code/design.md)
-
-> 🤖 **推荐理由**  
-> *DESIGN.md is a TypeScript-based format specification that enables coding agents to understand and implement design systems with a structured approach. It combines machine-readable design tokens in YAML with human-readable rationale in Markdown, offering clarity on design choices. Key features include linting for structural correctness, version comparison for detecting changes, and exporting tokens to formats like Tailwind. With over 17,500 stars, DESIGN.md facilitates seamless integration of visual identity into coding workflows, enhancing consistency and efficiency in UI development.*
-
-- ⭐ 17523 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-25
-
-![design.md](2026/06-25/2026-06-25_daily-top_design.md.png)
-
-### 8. [firecrawl](https://github.com/firecrawl/firecrawl)
-
-> 🤖 **推荐理由**  
-> *Firecrawl is a powerful API designed for scalable web search, scraping, and interaction, built with TypeScript. With over 138k stars, it offers industry-leading reliability, covering 96% of the web, including JavaScript-heavy pages. Key features include real-time data extraction in clean Markdown or structured JSON, autonomous data gathering via an AI agent, and capabilities to interact with web pages. Firecrawl simplifies complex tasks like crawling entire websites and batch scraping multiple URLs, all while managing proxies and rate limits seamlessly. It's open-source, inviting community collaboration.*
-
-- ⭐ 138763 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-25
-
-![firecrawl](2026/06-25/2026-06-25_daily-top_firecrawl.png)
-
-### 9. [hyperframes](https://github.com/heygen-com/hyperframes)
-
-> 🤖 **推荐理由**  
-> *HyperFrames is an open-source framework that transforms HTML and CSS into deterministic MP4 videos, designed for use with AI agents. Key features include a CLI for composition scaffolding, live previewing, and rendering, as well as support for seekable animations via various libraries like GSAP and Lottie. Users can create diverse video content—from product launches to data visualizations—using simple HTML files. HyperFrames emphasizes agent-friendliness, deterministic output, and direct browser compatibility, making video creation accessible and efficient. Explore its capabilities at hyperframes.dev.*
-
-- ⭐ 31094 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-25
-
-![hyperframes](2026/06-25/2026-06-25_daily-top_hyperframes.png)
-
-### 10. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **推荐理由**  
-> *Impeccable is a JavaScript design language tool that enhances AI-driven frontend design with 23 commands and 44 deterministic rules. It streamlines the design process through a single setup command (`/impeccable init`), providing context for later commands. Key features include visual iteration, UX audits, and performance checks, all accessible via a unified CLI. It integrates with major tools like Claude Code and GitHub Copilot, ensuring high-quality design while avoiding common anti-patterns. Full documentation is available at impeccable.style.*
-
-- ⭐ 41185 stars
+- ⭐ 221803 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-06-25
+- 📅 Updated: 2026-06-26
 
-![impeccable](2026/06-25/2026-06-25_daily-top_impeccable.png)
+![ECC](2026/06-26/2026-06-26_daily-top_ECC.png)
+
+### 10. [cli](https://github.com/googleworkspace/cli)
+
+> 🤖 **推荐理由**  
+> *Google Workspace CLI (gws) is a command-line tool designed for seamless interaction with Google Workspace APIs, including Drive, Gmail, Calendar, Sheets, and Docs. Built dynamically from Google's Discovery Service, it allows real-time command generation as new APIs are added. Key features include structured JSON outputs, over 40 AI agent skills for automated workflows, and a user-friendly authentication process. With zero boilerplate code, it simplifies operations for both humans and AI agents, making it an essential tool for efficient Workspace management.*
+
+- ⭐ 28716 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-26
+
+![cli](2026/06-26/2026-06-26_daily-top_cli.png)
 
 ---
 
@@ -141,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-25 04:10:12 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-26 04:17:00 UTC
