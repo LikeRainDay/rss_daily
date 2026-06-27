@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-27
 
-![design.md](2026/06-27/2026-06-27_daily-top_design.md.png)
+![design.md](2026-06-27_daily-top_design.md.png)
 
 ### 2. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-27
 
-![ai-website-cloner-template](2026/06-27/2026-06-27_daily-top_ai-website-cloner-template.png)
+![ai-website-cloner-template](2026-06-27_daily-top_ai-website-cloner-template.png)
 
 ### 3. [TREK](https://github.com/mauriceboe/TREK)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-27
 
-![TREK](2026/06-27/2026-06-27_daily-top_TREK.png)
+![TREK](2026-06-27_daily-top_TREK.png)
 
 ### 4. [gstack](https://github.com/garrytan/gstack)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-27
 
-![gstack](2026/06-27/2026-06-27_daily-top_gstack.png)
+![gstack](2026-06-27_daily-top_gstack.png)
 
 ### 5. [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 
@@ -71,7 +71,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-27
 
-![CasaOS](2026/06-27/2026-06-27_daily-top_CasaOS.png)
+![CasaOS](2026-06-27_daily-top_CasaOS.png)
 
 ### 6. [container](https://github.com/apple/container)
 
@@ -82,7 +82,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-27
 
-![container](2026/06-27/2026-06-27_daily-top_container.png)
+![container](2026-06-27_daily-top_container.png)
 
 ### 7. [open-seo](https://github.com/every-app/open-seo)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-27
 
-![open-seo](2026/06-27/2026-06-27_daily-top_open-seo.png)
+![open-seo](2026-06-27_daily-top_open-seo.png)
 
 ### 8. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-27
 
-![taste-skill](2026/06-27/2026-06-27_daily-top_taste-skill.png)
+![taste-skill](2026-06-27_daily-top_taste-skill.png)
 
 ### 9. [orca](https://github.com/stablyai/orca)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-27
 
-![orca](2026/06-27/2026-06-27_daily-top_orca.png)
+![orca](2026-06-27_daily-top_orca.png)
 
 ### 10. [opencode](https://github.com/anomalyco/opencode)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-27
 
-![opencode](2026/06-27/2026-06-27_daily-top_opencode.png)
+![opencode](2026-06-27_daily-top_opencode.png)
 
 ---
 

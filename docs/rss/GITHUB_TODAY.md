@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-26
+# 📊 🌟 GitHub Trending Daily - 2026-06-27
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **584130** ⭐ | **67702** 🍴
+**10** Projects | **488439** ⭐ | **52621** 🍴
 
-**Top Languages:** `TypeScript` (4) · `Rust` (2) · `C` (1)
+**Top Languages:** `TypeScript` (7) · `Go` (1) · `Swift` (1)
 
-**Updated:** 2026-06-26 04:17 UTC
+**Updated:** 2026-06-27 04:03 UTC
 
 **Categories:**
 
@@ -21,113 +21,112 @@
 ### 1. [design.md](https://github.com/google-labs-code/design.md)
 
 > 🤖 **Why Recommend**  
-> *DESIGN.md is a TypeScript-based format specification for defining visual identities for coding agents, combining machine-readable design tokens with human-readable design rationale. It allows agents to understand a design system thoroughly. Key features include linting for structural correctness, token comparison, and exporting to various formats like Tailwind and DTCG. The platform supports validation of design tokens, checks WCAG compliance, and facilitates tracking changes between design versions. With over 19,600 stars, DESIGN.md is positioned as a robust tool for modern design systems.*
+> *DESIGN.md is a TypeScript-based format specification designed to define a visual identity for coding agents, combining machine-readable design tokens with human-readable rationale. Key features include token validation, structural linting, and version comparison to identify changes. The CLI allows users to validate DESIGN.md files, export tokens to various formats (like Tailwind), and ensure compliance with WCAG standards. With over 21,000 stars, DESIGN.md provides a robust framework for maintaining design consistency across projects, making it a valuable tool for developers and designers alike.*
 
-- ⭐ 19623 stars
+- ⭐ 21443 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-26
+- 📅 Updated: 2026-06-27
 
-![design.md](2026/06-26/2026-06-26_daily-top_design.md.png)
+![design.md](2026/06-27/2026-06-27_daily-top_design.md.png)
 
-### 2. [container](https://github.com/apple/container)
-
-> 🤖 **Why Recommend**  
-> *`container` is a Swift-based tool for creating and running Linux containers as lightweight virtual machines on Mac, optimized for Apple silicon. It supports OCI-compatible container images, allowing users to pull, run, and push images from standard registries. Key features include easy installation, upgrade/downgrade scripts, and a guided tour for building and publishing containers. Active development ensures ongoing enhancements, with contributions encouraged. The project leverages Apple’s Containerization package for efficient management of containers and images.*
-
-- ⭐ 43304 stars
-- 💻 Swift
-- 📅 Updated: 2026-06-26
-
-![container](2026/06-26/2026-06-26_daily-top_container.png)
-
-### 3. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+### 2. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 
 > 🤖 **Why Recommend**  
-> *AI Website Cloner Template enables users to reverse-engineer any website into a modern Next.js codebase with a single command. Utilizing AI coding agents, this template inspects a target URL to extract design tokens, assets, and component specifications, facilitating a streamlined rebuilding process. Key features include support for various AI agents, a detailed multi-phase cloning pipeline, and a focus on clean, maintainable code. Ideal for platform migrations, recovering lost code, or learning from existing websites, it emphasizes ethical usage and compliance with terms of service.*
+> *The AI Website Cloner Template enables users to clone any website effortlessly using AI coding agents. With a simple command, `/clone-website <target-url>`, it inspects, extracts design tokens, and reconstructs the site into a clean Next.js codebase. Key features include multi-phase cloning, detailed component specifications, and support for various AI agents like Claude Code and GitHub Copilot. Ideal for platform migration, recovering lost code, or learning web design techniques. Built with TypeScript and Next.js, it prioritizes modern web standards and usability.*
 
-- ⭐ 20636 stars
+- ⭐ 21442 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-26
+- 📅 Updated: 2026-06-27
 
-![ai-website-cloner-template](2026/06-26/2026-06-26_daily-top_ai-website-cloner-template.png)
+![ai-website-cloner-template](2026/06-27/2026-06-27_daily-top_ai-website-cloner-template.png)
 
-### 4. [no-mistakes](https://github.com/kunchenguid/no-mistakes)
+### 3. [TREK](https://github.com/mauriceboe/TREK)
 
 > 🤖 **Why Recommend**  
-> *`no-mistakes` is a Go-based Git proxy tool designed to streamline code submissions by ensuring clean pull requests. It operates by launching a disposable worktree for every push to `no-mistakes`, running an AI-driven validation pipeline, and only forwarding to the remote once all checks pass. Key features include non-blocking operation, support for multiple AI agents, and the ability to auto-fix issues while allowing developer oversight. It simplifies workflow with commands like `git push no-mistakes` and integrates with coding agents to enhance productivity. Full documentation is available online.*
+> *TREK is a self-hosted travel planner that offers real-time collaboration, interactive maps, and comprehensive travel management tools. Key features include a drag-and-drop trip planner, budget tracking, packing lists, and a journey journal. The platform supports Single Sign-On (SSO), two-factor authentication, and is accessible as a Progressive Web App (PWA). With a focus on user collaboration, TREK allows multi-user trips and instant updates via WebSocket. It integrates AI for automated trip planning and provides extensive customization options for a personalized experience.*
 
-- ⭐ 3064 stars
+- ⭐ 7742 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-27
+
+![TREK](2026/06-27/2026-06-27_daily-top_TREK.png)
+
+### 4. [gstack](https://github.com/garrytan/gstack)
+
+> 🤖 **Why Recommend**  
+> *gstack is an open-source toolkit by Garry Tan, designed to supercharge individual productivity using AI-driven workflows. With 23 specialized tools, it transforms Claude Code into a virtual engineering team, facilitating roles like CEO, Designer, and QA. Key features include streamlined project management, automated reviews, and comprehensive QA testing, enabling users to ship products faster than traditional teams. Ideal for founders and tech leads, gstack enhances collaboration, ensures code quality, and keeps documentation up-to-date, all while being free and MIT licensed.*
+
+- ⭐ 116695 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-27
+
+![gstack](2026/06-27/2026-06-27_daily-top_gstack.png)
+
+### 5. [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+
+> 🤖 **Why Recommend**  
+> *CasaOS is an open-source personal cloud system designed for simplicity and elegance, built with Go. With over 35,000 stars on GitHub, it offers a user-friendly interface for managing personal data, supporting various hardware like ZimaBoard and Raspberry Pi. Key features include one-click app installations (e.g., Nextcloud, HomeAssistant), Docker app compatibility, and intuitive drive management. CasaOS empowers users to control their data, reduce SaaS costs, and enhance smart device integration, making it a robust solution for individual and small organizational needs.*
+
+- ⭐ 35447 stars
 - 💻 Go
-- 📅 Updated: 2026-06-26
+- 📅 Updated: 2026-06-27
 
-![no-mistakes](2026/06-26/2026-06-26_daily-top_no-mistakes.png)
+![CasaOS](2026/06-27/2026-06-27_daily-top_CasaOS.png)
 
-### 5. [gstack](https://github.com/garrytan/gstack)
+### 6. [container](https://github.com/apple/container)
 
 > 🤖 **Why Recommend**  
-> *gstack is an open-source project designed to enhance productivity for tech founders and engineers, leveraging AI to replicate a full team of specialists. With 23 unique tools, gstack facilitates roles such as CEO, Designer, and QA, streamlining processes from ideation to deployment. Key features include automated reviews, real-time debugging, and comprehensive documentation updates. It integrates seamlessly with Claude Code and supports multiple AI agents. This innovative setup allows users to ship products efficiently, transforming how software is built and managed.*
+> *`container` is a Swift-based tool for creating and running Linux containers as lightweight virtual machines on Macs, specifically optimized for Apple silicon. With 43,740 stars on GitHub, it supports OCI-compatible container images, allowing users to pull, run, and push images from standard registries. Key features include easy installation, upgrade/downgrade options, and comprehensive documentation for building and managing containers. It leverages the Containerization Swift package for efficient process management and is actively developed, ensuring ongoing enhancements and support.*
 
-- ⭐ 115938 stars
+- ⭐ 43740 stars
+- 💻 Swift
+- 📅 Updated: 2026-06-27
+
+![container](2026/06-27/2026-06-27_daily-top_container.png)
+
+### 7. [open-seo](https://github.com/every-app/open-seo)
+
+> 🤖 **Why Recommend**  
+> *OpenSEO is an open-source SEO tool designed as a cost-effective alternative to Semrush and Ahrefs, offering a pay-as-you-go model. Key features include keyword research, rank tracking, competitor insights, and site audits, all powered by a simple, user-friendly interface. Users can connect AI agents like Claude Code and OpenClaw to enhance SEO tasks with pre-built or custom workflows. OpenSEO supports self-hosting via Docker or Cloudflare, and its pricing structure allows users to pay only for DataForSEO API usage, making it budget-friendly.*
+
+- ⭐ 3084 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-26
+- 📅 Updated: 2026-06-27
 
-![gstack](2026/06-26/2026-06-26_daily-top_gstack.png)
+![open-seo](2026/06-27/2026-06-27_daily-top_open-seo.png)
 
-### 6. [cc-switch](https://github.com/farion1231/cc-switch)
-
-> 🤖 **Why Recommend**  
-> *CC Switch is a cross-platform desktop application designed to manage multiple AI coding tools, including Claude Code, Codex, and Gemini CLI, all from a single interface. Key features include over 50 provider presets for easy switching, unified management of MCP and skills, cloud sync across devices, and a system tray quick-switch option. Built with Rust and Tauri, it ensures reliable configuration through atomic writes. With extensive tracking for usage and costs, CC Switch streamlines AI-assisted programming, making it an essential tool for developers. Visit ccswitch.io for more details.*
-
-- ⭐ 108596 stars
-- 💻 Rust
-- 📅 Updated: 2026-06-26
-
-![cc-switch](2026/06-26/2026-06-26_daily-top_cc-switch.png)
-
-### 7. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+### 8. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 > 🤖 **Why Recommend**  
-> *High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, su. popular project, actively maintained, recently updated*
+> *Taste Skill is a JavaScript framework designed to enhance AI-generated frontends, preventing the creation of generic designs. It offers a suite of portable Agent Skills, including layout, typography, and image generation capabilities for web and mobile applications. Key features include adjustable design parameters (variance, motion, density) and multiple specialized skills for various design needs, such as redesigning existing projects and generating brand kits. With over 51,000 stars, it's a popular tool for developers seeking to elevate UI aesthetics using AI.*
 
-- ⭐ 14883 stars
-- 🍴 1094 forks
-- 💻 C
-- 📅 Updated: 2026-06-26
-
-![codebase-memory-mcp](2026/06-26/2026-06-26_daily-top_codebase-memory-mcp.png)
-
-### 8. [orca](https://github.com/stablyai/orca)
-
-> 🤖 **Why Recommend**  
-> *Orca is an advanced development environment (ADE) designed for managing a fleet of parallel coding agents, compatible with desktop and mobile platforms. Key features include parallel worktrees for running multiple agents simultaneously, a mobile companion for remote monitoring, and integrated GitHub & Linear task management. Users can leverage powerful terminal splits, design mode for UI elements, and SSH support for remote operations. With over 7,500 stars on GitHub, Orca is ideal for developers seeking to streamline their workflows and enhance productivity.*
-
-- ⭐ 7567 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-26
-
-![orca](2026/06-26/2026-06-26_daily-top_orca.png)
-
-### 9. [ECC](https://github.com/affaan-m/ECC)
-
-> 🤖 **Why Recommend**  
-> *ECC is a powerful performance optimization system designed for AI agents, integrating skills, instincts, memory, and security into workflows across platforms like Claude Code, Codex, and Cursor. With over 221,000 stars, it features 67 specialized agents, 271 skills, and extensive support for multiple programming languages. Key highlights include continuous learning capabilities, a security auditor (AgentShield), and a user-friendly dashboard for managing components. ECC enables seamless automation and optimization in coding, testing, and deployment tasks, enhancing productivity and code quality.*
-
-- ⭐ 221803 stars
+- ⭐ 51646 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-06-26
+- 📅 Updated: 2026-06-27
 
-![ECC](2026/06-26/2026-06-26_daily-top_ECC.png)
+![taste-skill](2026/06-27/2026-06-27_daily-top_taste-skill.png)
 
-### 10. [cli](https://github.com/googleworkspace/cli)
+### 9. [orca](https://github.com/stablyai/orca)
 
 > 🤖 **Why Recommend**  
-> *Google Workspace CLI (gws) is a command-line tool designed for seamless interaction with Google Workspace APIs, including Drive, Gmail, Calendar, Sheets, and Docs. Built dynamically from Google's Discovery Service, it allows real-time command generation as new APIs are added. Key features include structured JSON outputs, over 40 AI agent skills for automated workflows, and a user-friendly authentication process. With zero boilerplate code, it simplifies operations for both humans and AI agents, making it an essential tool for efficient Workspace management.*
+> *Orca is an advanced development environment (ADE) designed for managing a fleet of parallel coding agents, allowing users to run any coding agent with their subscription. Key features include mobile companion apps for iOS and Android, parallel worktrees for testing multiple agents simultaneously, terminal splits with WebGL rendering, and integrated GitHub/Linear support for seamless task management. Users can also annotate AI-generated diffs, utilize drag-and-drop functionality, and automate workflows via the Orca CLI. Available on macOS, Windows, and Linux, Orca is ideal for enhancing productivity for developers.*
 
-- ⭐ 28716 stars
-- 💻 Rust
-- 📅 Updated: 2026-06-26
+- ⭐ 7962 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-27
 
-![cli](2026/06-26/2026-06-26_daily-top_cli.png)
+![orca](2026/06-27/2026-06-27_daily-top_orca.png)
+
+### 10. [opencode](https://github.com/anomalyco/opencode)
+
+> 🤖 **Why Recommend**  
+> *OpenCode is an open-source AI coding agent built with TypeScript, boasting over 179,000 stars on GitHub. It features two main agents: a full-access development agent and a read-only analysis agent, facilitating code exploration and planning. OpenCode is available as a desktop app for macOS, Windows, and Linux, with easy installation via various package managers. It emphasizes community engagement through Discord and provides comprehensive documentation for users and contributors. Explore more at opencode.ai.*
+
+- ⭐ 179238 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-27
+
+![opencode](2026/06-27/2026-06-27_daily-top_opencode.png)
 
 ---
 
@@ -141,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-26 04:17:00 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-27 04:03:20 UTC
