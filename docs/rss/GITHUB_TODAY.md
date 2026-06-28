@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-27
+# 📊 🌟 GitHub Trending Daily - 2026-06-28
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **488439** ⭐ | **52621** 🍴
+**10** Projects | **461714** ⭐ | **53103** 🍴
 
-**Top Languages:** `TypeScript` (7) · `Go` (1) · `Swift` (1)
+**Top Languages:** `TypeScript` (7) · `Go` (2) · `Swift` (1)
 
-**Updated:** 2026-06-27 04:03 UTC
+**Updated:** 2026-06-28 04:25 UTC
 
 **Categories:**
 
@@ -21,112 +21,112 @@
 ### 1. [design.md](https://github.com/google-labs-code/design.md)
 
 > 🤖 **Why Recommend**  
-> *DESIGN.md is a TypeScript-based format specification designed to define a visual identity for coding agents, combining machine-readable design tokens with human-readable rationale. Key features include token validation, structural linting, and version comparison to identify changes. The CLI allows users to validate DESIGN.md files, export tokens to various formats (like Tailwind), and ensure compliance with WCAG standards. With over 21,000 stars, DESIGN.md provides a robust framework for maintaining design consistency across projects, making it a valuable tool for developers and designers alike.*
+> *DESIGN.md is a TypeScript-based format specification that enables coding agents to understand and implement a visual identity through structured design tokens and rationale. It combines machine-readable YAML tokens with human-readable markdown, ensuring a clear design system. Key features include linting for structural correctness, comparison of design versions, and export options to formats like Tailwind and DTCG. The project emphasizes accessibility by checking WCAG compliance and provides a robust CLI for validation and integration, making it an essential tool for modern design systems.*
 
-- ⭐ 21443 stars
+- ⭐ 22434 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-27
+- 📅 Updated: 2026-06-28
 
-![design.md](2026/06-27/2026-06-27_daily-top_design.md.png)
+![design.md](2026/06-28/2026-06-28_daily-top_design.md.png)
 
 ### 2. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 
 > 🤖 **Why Recommend**  
-> *The AI Website Cloner Template enables users to clone any website effortlessly using AI coding agents. With a simple command, `/clone-website <target-url>`, it inspects, extracts design tokens, and reconstructs the site into a clean Next.js codebase. Key features include multi-phase cloning, detailed component specifications, and support for various AI agents like Claude Code and GitHub Copilot. Ideal for platform migration, recovering lost code, or learning web design techniques. Built with TypeScript and Next.js, it prioritizes modern web standards and usability.*
+> *The AI Website Cloner Template enables users to clone any website with a single command using AI coding agents. Built on a modern Next.js codebase, it extracts design tokens, assets, and constructs detailed component specifications. Users can initiate the cloning process by pointing to a URL and running the `/clone-website` command. The template supports various AI tools, with Claude Code recommended for optimal results. Ideal for platform migration, recovering lost code, or educational purposes, it emphasizes ethical use while providing a robust development environment in TypeScript.*
 
-- ⭐ 21442 stars
+- ⭐ 22215 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-27
+- 📅 Updated: 2026-06-28
 
-![ai-website-cloner-template](2026/06-27/2026-06-27_daily-top_ai-website-cloner-template.png)
+![ai-website-cloner-template](2026/06-28/2026-06-28_daily-top_ai-website-cloner-template.png)
 
-### 3. [TREK](https://github.com/mauriceboe/TREK)
+### 3. [gstack](https://github.com/garrytan/gstack)
 
 > 🤖 **Why Recommend**  
-> *TREK is a self-hosted travel planner that offers real-time collaboration, interactive maps, and comprehensive travel management tools. Key features include a drag-and-drop trip planner, budget tracking, packing lists, and a journey journal. The platform supports Single Sign-On (SSO), two-factor authentication, and is accessible as a Progressive Web App (PWA). With a focus on user collaboration, TREK allows multi-user trips and instant updates via WebSocket. It integrates AI for automated trip planning and provides extensive customization options for a personalized experience.*
+> *gstack is an open-source project designed by Garry Tan to enhance productivity for developers using AI tools. It provides a structured workflow with 23 specialized skills, enabling roles such as CEO, Designer, and QA in a single environment. Key features include automated planning, design reviews, coding, testing, and deployment processes, all managed through intuitive commands. gstack integrates with Claude Code and various AI agents, allowing users to ship products faster than traditional teams. It emphasizes collaboration, rigorous quality assurance, and continuous learning, making it ideal for founders and technical leads.*
 
-- ⭐ 7742 stars
+- ⭐ 117340 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-27
+- 📅 Updated: 2026-06-28
 
-![TREK](2026/06-27/2026-06-27_daily-top_TREK.png)
+![gstack](2026/06-28/2026-06-28_daily-top_gstack.png)
 
-### 4. [gstack](https://github.com/garrytan/gstack)
+### 4. [TREK](https://github.com/mauriceboe/TREK)
 
 > 🤖 **Why Recommend**  
-> *gstack is an open-source toolkit by Garry Tan, designed to supercharge individual productivity using AI-driven workflows. With 23 specialized tools, it transforms Claude Code into a virtual engineering team, facilitating roles like CEO, Designer, and QA. Key features include streamlined project management, automated reviews, and comprehensive QA testing, enabling users to ship products faster than traditional teams. Ideal for founders and tech leads, gstack enhances collaboration, ensures code quality, and keeps documentation up-to-date, all while being free and MIT licensed.*
+> *TREK is a self-hosted travel planner that enables real-time collaboration and offers a comprehensive suite of features for managing trips. Key highlights include an interactive map for planning, budget tracking, packing lists, and a journal. It supports Single Sign-On (SSO) and two-factor authentication for secure access. Users can sync changes in real-time, create multi-user trips, and utilize AI for trip automation. The application is a Progressive Web App (PWA) with offline support, making it accessible on mobile devices. With over 8,000 stars on GitHub, TREK is built using TypeScript and runs seamlessly on Docker.*
 
-- ⭐ 116695 stars
+- ⭐ 8099 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-27
+- 📅 Updated: 2026-06-28
 
-![gstack](2026/06-27/2026-06-27_daily-top_gstack.png)
+![TREK](2026/06-28/2026-06-28_daily-top_TREK.png)
 
 ### 5. [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 
 > 🤖 **Why Recommend**  
-> *CasaOS is an open-source personal cloud system designed for simplicity and elegance, built with Go. With over 35,000 stars on GitHub, it offers a user-friendly interface for managing personal data, supporting various hardware like ZimaBoard and Raspberry Pi. Key features include one-click app installations (e.g., Nextcloud, HomeAssistant), Docker app compatibility, and intuitive drive management. CasaOS empowers users to control their data, reduce SaaS costs, and enhance smart device integration, making it a robust solution for individual and small organizational needs.*
+> *CasaOS is an open-source personal cloud system designed for ease of use and elegance, boasting over 35,800 stars on GitHub. Built in Go, it supports various hardware, including ZimaBoard, Intel NUC, and Raspberry Pi. Key features include a user-friendly interface, one-click app installations from a curated app store, and seamless Docker app integration. CasaOS enables efficient file management and smart device control, offering a comprehensive solution for managing personal data and fostering data ownership. Join the community for collaborative innovation in reshaping digital home experiences.*
 
-- ⭐ 35447 stars
+- ⭐ 35836 stars
 - 💻 Go
-- 📅 Updated: 2026-06-27
+- 📅 Updated: 2026-06-28
 
-![CasaOS](2026/06-27/2026-06-27_daily-top_CasaOS.png)
+![CasaOS](2026/06-28/2026-06-28_daily-top_CasaOS.png)
 
-### 6. [container](https://github.com/apple/container)
+### 6. [no-mistakes](https://github.com/kunchenguid/no-mistakes)
 
 > 🤖 **Why Recommend**  
-> *`container` is a Swift-based tool for creating and running Linux containers as lightweight virtual machines on Macs, specifically optimized for Apple silicon. With 43,740 stars on GitHub, it supports OCI-compatible container images, allowing users to pull, run, and push images from standard registries. Key features include easy installation, upgrade/downgrade options, and comprehensive documentation for building and managing containers. It leverages the Containerization Swift package for efficient process management and is actively developed, ensuring ongoing enhancements and support.*
+> *The `no-mistakes` project provides a Git proxy that enhances the push process by validating code through an AI-driven pipeline before forwarding it to the remote repository. Core features include non-blocking operation in disposable worktrees, support for various AI agents, and automated clean pull requests. Users can trigger the pipeline via `git push no-mistakes`, through a TUI, or via coding agents. The system ensures safe automatic fixes while allowing human oversight for critical decisions. It aims to streamline the development workflow while minimizing errors.*
 
-- ⭐ 43740 stars
+- ⭐ 3840 stars
+- 💻 Go
+- 📅 Updated: 2026-06-28
+
+![no-mistakes](2026/06-28/2026-06-28_daily-top_no-mistakes.png)
+
+### 7. [opencode](https://github.com/anomalyco/opencode)
+
+> 🤖 **Why Recommend**  
+> *OpenCode is an open-source AI coding agent developed in TypeScript, boasting over 179,000 stars on GitHub. It features two built-in agents: a full-access "build" agent for development and a read-only "plan" agent for code exploration. Users can easily install it via various package managers, and it also offers a desktop application for macOS, Windows, and Linux. Key highlights include a user-friendly terminal UI, multi-language support, and active community engagement on Discord. Comprehensive documentation is available for configuration and contributions.*
+
+- ⭐ 179839 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-28
+
+![opencode](2026/06-28/2026-06-28_daily-top_opencode.png)
+
+### 8. [codegraph](https://github.com/colbymchenry/codegraph)
+
+> 🤖 **Why Recommend**  
+> *CodeGraph is a pre-indexed code knowledge graph that automatically syncs with code changes, enhancing AI coding agents like Claude Code, Codex, and Cursor. Key features include surgical context for faster queries, a full-text search across 20+ programming languages, and impact analysis to trace code dependencies. It operates entirely locally, ensuring data privacy, and integrates seamlessly with various agents. CodeGraph saves time and costs by reducing tool calls and file reads, making it ideal for large codebases.*
+
+- ⭐ 55423 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-28
+
+![codegraph](2026/06-28/2026-06-28_daily-top_codegraph.png)
+
+### 9. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
+
+> 🤖 **Why Recommend**  
+> *FreeLLMAPI is an OpenAI-compatible proxy that consolidates free tier access to 16 LLM providers, offering around 1.7 billion tokens per month via a single `/v1` endpoint. Key features include smart routing, automatic failover, and encrypted key storage, ensuring seamless requests even when providers hit rate limits. It supports chat, embeddings, image generation, and audio services, with comprehensive analytics and an admin dashboard for management. Perfect for personal experimentation, it simplifies access to multiple AI models while maintaining user privacy and security.*
+
+- ⭐ 13545 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-28
+
+![freellmapi](2026/06-28/2026-06-28_daily-top_freellmapi.png)
+
+### 10. [FluidVoice](https://github.com/altic-dev/FluidVoice)
+
+> 🤖 **Why Recommend**  
+> *FluidVoice is an open-source, macOS dictation app that offers fast, offline voice-to-text transcription using local AI. Key features include Fluid Intelligence for on-device enhancement, real-time transcription with minimal delay, and dual modes for command execution and text entry. It supports multiple speech models and provides privacy by ensuring no data leaves the device. The app includes adaptive theming, audio history, and customizable hotkeys, making it user-friendly and efficient. Ideal for users seeking a powerful, local dictation solution.*
+
+- ⭐ 3143 stars
 - 💻 Swift
-- 📅 Updated: 2026-06-27
+- 📅 Updated: 2026-06-28
 
-![container](2026/06-27/2026-06-27_daily-top_container.png)
-
-### 7. [open-seo](https://github.com/every-app/open-seo)
-
-> 🤖 **Why Recommend**  
-> *OpenSEO is an open-source SEO tool designed as a cost-effective alternative to Semrush and Ahrefs, offering a pay-as-you-go model. Key features include keyword research, rank tracking, competitor insights, and site audits, all powered by a simple, user-friendly interface. Users can connect AI agents like Claude Code and OpenClaw to enhance SEO tasks with pre-built or custom workflows. OpenSEO supports self-hosting via Docker or Cloudflare, and its pricing structure allows users to pay only for DataForSEO API usage, making it budget-friendly.*
-
-- ⭐ 3084 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-27
-
-![open-seo](2026/06-27/2026-06-27_daily-top_open-seo.png)
-
-### 8. [taste-skill](https://github.com/Leonxlnx/taste-skill)
-
-> 🤖 **Why Recommend**  
-> *Taste Skill is a JavaScript framework designed to enhance AI-generated frontends, preventing the creation of generic designs. It offers a suite of portable Agent Skills, including layout, typography, and image generation capabilities for web and mobile applications. Key features include adjustable design parameters (variance, motion, density) and multiple specialized skills for various design needs, such as redesigning existing projects and generating brand kits. With over 51,000 stars, it's a popular tool for developers seeking to elevate UI aesthetics using AI.*
-
-- ⭐ 51646 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-06-27
-
-![taste-skill](2026/06-27/2026-06-27_daily-top_taste-skill.png)
-
-### 9. [orca](https://github.com/stablyai/orca)
-
-> 🤖 **Why Recommend**  
-> *Orca is an advanced development environment (ADE) designed for managing a fleet of parallel coding agents, allowing users to run any coding agent with their subscription. Key features include mobile companion apps for iOS and Android, parallel worktrees for testing multiple agents simultaneously, terminal splits with WebGL rendering, and integrated GitHub/Linear support for seamless task management. Users can also annotate AI-generated diffs, utilize drag-and-drop functionality, and automate workflows via the Orca CLI. Available on macOS, Windows, and Linux, Orca is ideal for enhancing productivity for developers.*
-
-- ⭐ 7962 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-27
-
-![orca](2026/06-27/2026-06-27_daily-top_orca.png)
-
-### 10. [opencode](https://github.com/anomalyco/opencode)
-
-> 🤖 **Why Recommend**  
-> *OpenCode is an open-source AI coding agent built with TypeScript, boasting over 179,000 stars on GitHub. It features two main agents: a full-access development agent and a read-only analysis agent, facilitating code exploration and planning. OpenCode is available as a desktop app for macOS, Windows, and Linux, with easy installation via various package managers. It emphasizes community engagement through Discord and provides comprehensive documentation for users and contributors. Explore more at opencode.ai.*
-
-- ⭐ 179238 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-27
-
-![opencode](2026/06-27/2026-06-27_daily-top_opencode.png)
+![FluidVoice](2026/06-28/2026-06-28_daily-top_FluidVoice.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-27 04:03:20 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-28 04:25:20 UTC

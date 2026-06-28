@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-28
 
-![design.md](2026/06-28/2026-06-28_daily-top_design.md.png)
+![design.md](2026-06-28_daily-top_design.md.png)
 
 ### 2. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-28
 
-![ai-website-cloner-template](2026/06-28/2026-06-28_daily-top_ai-website-cloner-template.png)
+![ai-website-cloner-template](2026-06-28_daily-top_ai-website-cloner-template.png)
 
 ### 3. [gstack](https://github.com/garrytan/gstack)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-28
 
-![gstack](2026/06-28/2026-06-28_daily-top_gstack.png)
+![gstack](2026-06-28_daily-top_gstack.png)
 
 ### 4. [TREK](https://github.com/mauriceboe/TREK)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-28
 
-![TREK](2026/06-28/2026-06-28_daily-top_TREK.png)
+![TREK](2026-06-28_daily-top_TREK.png)
 
 ### 5. [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 
@@ -71,7 +71,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-28
 
-![CasaOS](2026/06-28/2026-06-28_daily-top_CasaOS.png)
+![CasaOS](2026-06-28_daily-top_CasaOS.png)
 
 ### 6. [no-mistakes](https://github.com/kunchenguid/no-mistakes)
 
@@ -82,7 +82,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-28
 
-![no-mistakes](2026/06-28/2026-06-28_daily-top_no-mistakes.png)
+![no-mistakes](2026-06-28_daily-top_no-mistakes.png)
 
 ### 7. [opencode](https://github.com/anomalyco/opencode)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-28
 
-![opencode](2026/06-28/2026-06-28_daily-top_opencode.png)
+![opencode](2026-06-28_daily-top_opencode.png)
 
 ### 8. [codegraph](https://github.com/colbymchenry/codegraph)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-28
 
-![codegraph](2026/06-28/2026-06-28_daily-top_codegraph.png)
+![codegraph](2026-06-28_daily-top_codegraph.png)
 
 ### 9. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-28
 
-![freellmapi](2026/06-28/2026-06-28_daily-top_freellmapi.png)
+![freellmapi](2026-06-28_daily-top_freellmapi.png)
 
 ### 10. [FluidVoice](https://github.com/altic-dev/FluidVoice)
 
@@ -126,7 +126,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-28
 
-![FluidVoice](2026/06-28/2026-06-28_daily-top_FluidVoice.png)
+![FluidVoice](2026-06-28_daily-top_FluidVoice.png)
 
 ---
 
