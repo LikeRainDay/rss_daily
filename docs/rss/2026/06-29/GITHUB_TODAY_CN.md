@@ -28,7 +28,7 @@
 - 💻 C
 - 📅 Updated: 2026-06-29
 
-![codebase-memory-mcp](2026/06-29/2026-06-29_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-06-29_daily-top_codebase-memory-mcp.png)
 
 ### 2. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-29
 
-![ai-website-cloner-template](2026/06-29/2026-06-29_daily-top_ai-website-cloner-template.png)
+![ai-website-cloner-template](2026-06-29_daily-top_ai-website-cloner-template.png)
 
 ### 3. [design.md](https://github.com/google-labs-code/design.md)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-29
 
-![design.md](2026/06-29/2026-06-29_daily-top_design.md.png)
+![design.md](2026-06-29_daily-top_design.md.png)
 
 ### 4. [open-seo](https://github.com/every-app/open-seo)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-29
 
-![open-seo](2026/06-29/2026-06-29_daily-top_open-seo.png)
+![open-seo](2026-06-29_daily-top_open-seo.png)
 
 ### 5. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
@@ -72,7 +72,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-29
 
-![Open-Generative-AI](2026/06-29/2026-06-29_daily-top_Open-Generative-AI.png)
+![Open-Generative-AI](2026-06-29_daily-top_Open-Generative-AI.png)
 
 ### 6. [FluidVoice](https://github.com/altic-dev/FluidVoice)
 
@@ -83,7 +83,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-29
 
-![FluidVoice](2026/06-29/2026-06-29_daily-top_FluidVoice.png)
+![FluidVoice](2026-06-29_daily-top_FluidVoice.png)
 
 ### 7. [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 
@@ -94,7 +94,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-29
 
-![CasaOS](2026/06-29/2026-06-29_daily-top_CasaOS.png)
+![CasaOS](2026-06-29_daily-top_CasaOS.png)
 
 ### 8. [canopy](https://github.com/canopy-network/canopy)
 
@@ -105,7 +105,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-29
 
-![canopy](2026/06-29/2026-06-29_daily-top_canopy.png)
+![canopy](2026-06-29_daily-top_canopy.png)
 
 ### 9. [openhuman](https://github.com/tinyhumansai/openhuman)
 
@@ -116,7 +116,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-29
 
-![openhuman](2026/06-29/2026-06-29_daily-top_openhuman.png)
+![openhuman](2026-06-29_daily-top_openhuman.png)
 
 ### 10. [skills](https://github.com/vercel-labs/skills)
 
@@ -128,7 +128,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-29
 
-![skills](2026/06-29/2026-06-29_daily-top_skills.png)
+![skills](2026-06-29_daily-top_skills.png)
 
 ---
 

@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-28
+# 📊 🌟 GitHub Trending Daily - 2026-06-29
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **461714** ⭐ | **53103** 🍴
+**10** Projects | **201524** ⭐ | **33439** 🍴
 
-**Top Languages:** `TypeScript` (7) · `Go` (2) · `Swift` (1)
+**Top Languages:** `TypeScript` (4) · `Go` (2) · `Rust` (1)
 
-**Updated:** 2026-06-28 04:25 UTC
+**Updated:** 2026-06-29 04:44 UTC
 
 **Categories:**
 
@@ -18,115 +18,117 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [design.md](https://github.com/google-labs-code/design.md)
+### 1. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
 > 🤖 **Why Recommend**  
-> *DESIGN.md is a TypeScript-based format specification that enables coding agents to understand and implement a visual identity through structured design tokens and rationale. It combines machine-readable YAML tokens with human-readable markdown, ensuring a clear design system. Key features include linting for structural correctness, comparison of design versions, and export options to formats like Tailwind and DTCG. The project emphasizes accessibility by checking WCAG compliance and provides a robust CLI for validation and integration, making it an essential tool for modern design systems.*
+> *High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, su. popular project, actively maintained, recently updated*
 
-- ⭐ 22434 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-28
+- ⭐ 20101 stars
+- 🍴 1450 forks
+- 💻 C
+- 📅 Updated: 2026-06-29
 
-![design.md](2026/06-28/2026-06-28_daily-top_design.md.png)
+![codebase-memory-mcp](2026/06-29/2026-06-29_daily-top_codebase-memory-mcp.png)
 
 ### 2. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 
 > 🤖 **Why Recommend**  
-> *The AI Website Cloner Template enables users to clone any website with a single command using AI coding agents. Built on a modern Next.js codebase, it extracts design tokens, assets, and constructs detailed component specifications. Users can initiate the cloning process by pointing to a URL and running the `/clone-website` command. The template supports various AI tools, with Claude Code recommended for optimal results. Ideal for platform migration, recovering lost code, or educational purposes, it emphasizes ethical use while providing a robust development environment in TypeScript.*
+> *The AI Website Cloner Template allows users to effortlessly clone any website into a modern Next.js codebase using AI coding agents. With over 23,000 stars, it features a streamlined process: point to a URL, run the `/clone-website` command, and let the AI extract design tokens, assets, and generate component specifications. It supports various AI platforms, including Claude Code and GitHub Copilot. Ideal for site migrations, recovering lost code, or learning from existing designs, this tool ensures a clean, customizable output while adhering to ethical standards.*
 
-- ⭐ 22215 stars
+- ⭐ 23054 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-28
+- 📅 Updated: 2026-06-29
 
-![ai-website-cloner-template](2026/06-28/2026-06-28_daily-top_ai-website-cloner-template.png)
+![ai-website-cloner-template](2026/06-29/2026-06-29_daily-top_ai-website-cloner-template.png)
 
-### 3. [gstack](https://github.com/garrytan/gstack)
+### 3. [design.md](https://github.com/google-labs-code/design.md)
 
 > 🤖 **Why Recommend**  
-> *gstack is an open-source project designed by Garry Tan to enhance productivity for developers using AI tools. It provides a structured workflow with 23 specialized skills, enabling roles such as CEO, Designer, and QA in a single environment. Key features include automated planning, design reviews, coding, testing, and deployment processes, all managed through intuitive commands. gstack integrates with Claude Code and various AI agents, allowing users to ship products faster than traditional teams. It emphasizes collaboration, rigorous quality assurance, and continuous learning, making it ideal for founders and technical leads.*
+> *DESIGN.md is a TypeScript-based project that provides a format specification for defining a visual identity to coding agents. With over 22,000 stars, it combines machine-readable design tokens (YAML) and human-readable rationale (Markdown) to create a structured design system. Key features include linting for structural correctness, comparison of design versions for regressions, and export capabilities to various formats like Tailwind and DTCG. Its CLI tools validate design files, enhancing token interoperability and ensuring adherence to accessibility standards.*
 
-- ⭐ 117340 stars
+- ⭐ 22943 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-28
+- 📅 Updated: 2026-06-29
 
-![gstack](2026/06-28/2026-06-28_daily-top_gstack.png)
+![design.md](2026/06-29/2026-06-29_daily-top_design.md.png)
 
-### 4. [TREK](https://github.com/mauriceboe/TREK)
+### 4. [open-seo](https://github.com/every-app/open-seo)
 
 > 🤖 **Why Recommend**  
-> *TREK is a self-hosted travel planner that enables real-time collaboration and offers a comprehensive suite of features for managing trips. Key highlights include an interactive map for planning, budget tracking, packing lists, and a journal. It supports Single Sign-On (SSO) and two-factor authentication for secure access. Users can sync changes in real-time, create multi-user trips, and utilize AI for trip automation. The application is a Progressive Web App (PWA) with offline support, making it accessible on mobile devices. With over 8,000 stars on GitHub, TREK is built using TypeScript and runs seamlessly on Docker.*
+> *OpenSEO is an open-source SEO tool designed as an affordable alternative to Semrush and Ahrefs, offering a pay-as-you-go model. Key features include a user-friendly interface, essential workflows for keyword research, rank tracking, competitor insights, and AI integration with agents like Claude Code and Hermes. Users can self-host via Docker or Cloudflare and leverage pre-built agent skills for tailored SEO tasks. OpenSEO is free to use, with costs incurred only for DataForSEO API usage, making it a flexible and powerful solution for SEO needs.*
 
-- ⭐ 8099 stars
+- ⭐ 3702 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-28
+- 📅 Updated: 2026-06-29
 
-![TREK](2026/06-28/2026-06-28_daily-top_TREK.png)
+![open-seo](2026/06-29/2026-06-29_daily-top_open-seo.png)
 
-### 5. [CasaOS](https://github.com/IceWhaleTech/CasaOS)
-
-> 🤖 **Why Recommend**  
-> *CasaOS is an open-source personal cloud system designed for ease of use and elegance, boasting over 35,800 stars on GitHub. Built in Go, it supports various hardware, including ZimaBoard, Intel NUC, and Raspberry Pi. Key features include a user-friendly interface, one-click app installations from a curated app store, and seamless Docker app integration. CasaOS enables efficient file management and smart device control, offering a comprehensive solution for managing personal data and fostering data ownership. Join the community for collaborative innovation in reshaping digital home experiences.*
-
-- ⭐ 35836 stars
-- 💻 Go
-- 📅 Updated: 2026-06-28
-
-![CasaOS](2026/06-28/2026-06-28_daily-top_CasaOS.png)
-
-### 6. [no-mistakes](https://github.com/kunchenguid/no-mistakes)
+### 5. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
 > 🤖 **Why Recommend**  
-> *The `no-mistakes` project provides a Git proxy that enhances the push process by validating code through an AI-driven pipeline before forwarding it to the remote repository. Core features include non-blocking operation in disposable worktrees, support for various AI agents, and automated clean pull requests. Users can trigger the pipeline via `git push no-mistakes`, through a TUI, or via coding agents. The system ensures safe automatic fixes while allowing human oversight for critical decisions. It aims to streamline the development workflow while minimizing errors.*
+> *Open-Generative-AI is a free, open-source AI generation studio for images and videos, featuring over 200 models like Flux and Midjourney. It offers unrestricted creative freedom without content filters and no subscription fees. Users can generate images, videos, and animate portraits with lip sync capabilities. The platform supports multi-image inputs and provides local inference options via a desktop app. Designed for self-hosting, it ensures full data control and customization. Join the community on Discord for support and collaboration.*
 
-- ⭐ 3840 stars
-- 💻 Go
-- 📅 Updated: 2026-06-28
+- ⭐ 21680 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-06-29
 
-![no-mistakes](2026/06-28/2026-06-28_daily-top_no-mistakes.png)
+![Open-Generative-AI](2026/06-29/2026-06-29_daily-top_Open-Generative-AI.png)
 
-### 7. [opencode](https://github.com/anomalyco/opencode)
-
-> 🤖 **Why Recommend**  
-> *OpenCode is an open-source AI coding agent developed in TypeScript, boasting over 179,000 stars on GitHub. It features two built-in agents: a full-access "build" agent for development and a read-only "plan" agent for code exploration. Users can easily install it via various package managers, and it also offers a desktop application for macOS, Windows, and Linux. Key highlights include a user-friendly terminal UI, multi-language support, and active community engagement on Discord. Comprehensive documentation is available for configuration and contributions.*
-
-- ⭐ 179839 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-28
-
-![opencode](2026/06-28/2026-06-28_daily-top_opencode.png)
-
-### 8. [codegraph](https://github.com/colbymchenry/codegraph)
+### 6. [FluidVoice](https://github.com/altic-dev/FluidVoice)
 
 > 🤖 **Why Recommend**  
-> *CodeGraph is a pre-indexed code knowledge graph that automatically syncs with code changes, enhancing AI coding agents like Claude Code, Codex, and Cursor. Key features include surgical context for faster queries, a full-text search across 20+ programming languages, and impact analysis to trace code dependencies. It operates entirely locally, ensuring data privacy, and integrates seamlessly with various agents. CodeGraph saves time and costs by reducing tool calls and file reads, making it ideal for large codebases.*
+> *FluidVoice is a fast, macOS offline dictation app that converts voice to text using local AI, ensuring privacy with no data leaving your device. Key features include Fluid Intelligence for smart formatting, Command Mode for controlling your Mac via voice, and Write Mode for seamless text input across apps. It supports multiple speech models and offers a customizable interface with light/dark theming. With 3,848 stars on GitHub, FluidVoice prioritizes user experience, providing real-time transcription, audio history, and optional AI enhancements for improved accuracy.*
 
-- ⭐ 55423 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-28
-
-![codegraph](2026/06-28/2026-06-28_daily-top_codegraph.png)
-
-### 9. [freellmapi](https://github.com/tashfeenahmed/freellmapi)
-
-> 🤖 **Why Recommend**  
-> *FreeLLMAPI is an OpenAI-compatible proxy that consolidates free tier access to 16 LLM providers, offering around 1.7 billion tokens per month via a single `/v1` endpoint. Key features include smart routing, automatic failover, and encrypted key storage, ensuring seamless requests even when providers hit rate limits. It supports chat, embeddings, image generation, and audio services, with comprehensive analytics and an admin dashboard for management. Perfect for personal experimentation, it simplifies access to multiple AI models while maintaining user privacy and security.*
-
-- ⭐ 13545 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-28
-
-![freellmapi](2026/06-28/2026-06-28_daily-top_freellmapi.png)
-
-### 10. [FluidVoice](https://github.com/altic-dev/FluidVoice)
-
-> 🤖 **Why Recommend**  
-> *FluidVoice is an open-source, macOS dictation app that offers fast, offline voice-to-text transcription using local AI. Key features include Fluid Intelligence for on-device enhancement, real-time transcription with minimal delay, and dual modes for command execution and text entry. It supports multiple speech models and provides privacy by ensuring no data leaves the device. The app includes adaptive theming, audio history, and customizable hotkeys, making it user-friendly and efficient. Ideal for users seeking a powerful, local dictation solution.*
-
-- ⭐ 3143 stars
+- ⭐ 3848 stars
 - 💻 Swift
-- 📅 Updated: 2026-06-28
+- 📅 Updated: 2026-06-29
 
-![FluidVoice](2026/06-28/2026-06-28_daily-top_FluidVoice.png)
+![FluidVoice](2026/06-29/2026-06-29_daily-top_FluidVoice.png)
+
+### 7. [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+
+> 🤖 **Why Recommend**  
+> *CasaOS is an open-source personal cloud system designed for ease of use and elegance. With over 35,000 stars on GitHub, it supports various hardware, including ZimaBoard and Raspberry Pi. Key features include an intuitive UI, one-click app installations (e.g., Nextcloud, HomeAssistant), and seamless Docker app integration. CasaOS emphasizes data ownership and provides a platform for managing personal data and smart devices. Its community-driven approach fosters collaborative innovation, making it a robust solution for individuals and small organizations seeking cost-effective cloud computing.*
+
+- ⭐ 35985 stars
+- 💻 Go
+- 📅 Updated: 2026-06-29
+
+![CasaOS](2026/06-29/2026-06-29_daily-top_CasaOS.png)
+
+### 8. [canopy](https://github.com/canopy-network/canopy)
+
+> 🤖 **Why Recommend**  
+> *Canopy is the official Go implementation of the Canopy Network Protocol, designed to create a recursive framework for building blockchains. Key features include a Byzantine Fault Tolerant consensus mechanism, a Finite State Machine for transaction logic, and secure peer-to-peer networking. The project is currently in Betanet status, with comprehensive documentation available via its wiki. Users can easily run the Canopy binary or use Docker for a containerized setup. Contributions are welcomed, fostering community involvement in this innovative peer-to-peer launchpad for new chains.*
+
+- ⭐ 12364 stars
+- 💻 Go
+- 📅 Updated: 2026-06-29
+
+![canopy](2026/06-29/2026-06-29_daily-top_canopy.png)
+
+### 9. [openhuman](https://github.com/tinyhumansai/openhuman)
+
+> 🤖 **Why Recommend**  
+> *OpenHuman is an open-source AI super intelligence built to enhance personal productivity. Key features include a user-friendly interface, local memory management, and over 100 one-click OAuth integrations with popular services like Gmail and Notion. It offers a unique Memory Tree that organizes data into an Obsidian-style knowledge base, enabling efficient context retrieval. The platform supports smart token compression for cost-effective processing and includes native tools for coding, web search, and voice interactions. OpenHuman prioritizes user privacy and is designed for rapid integration into daily workflows.*
+
+- ⭐ 33730 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-29
+
+![openhuman](2026/06-29/2026-06-29_daily-top_openhuman.png)
+
+### 10. [skills](https://github.com/vercel-labs/skills)
+
+> 🤖 **Why Recommend**  
+> *The open agent skills tool - npx skills. popular project, actively maintained, recently updated*
+
+- ⭐ 24117 stars
+- 🍴 1972 forks
+- 💻 TypeScript
+- 📅 Updated: 2026-06-29
+
+![skills](2026/06-29/2026-06-29_daily-top_skills.png)
 
 ---
 
@@ -140,4 +142,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-28 04:25:20 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-29 04:44:57 UTC
