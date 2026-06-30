@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-29
+# 📊 🌟 GitHub Trending Daily - 2026-06-30
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **201524** ⭐ | **33439** 🍴
+**10** Projects | **302877** ⭐ | **44057** 🍴
 
-**Top Languages:** `TypeScript` (4) · `Go` (2) · `Rust` (1)
+**Top Languages:** `TypeScript` (5) · `Rust` (1) · `Swift` (1)
 
-**Updated:** 2026-06-29 04:44 UTC
+**Updated:** 2026-06-30 04:12 UTC
 
 **Categories:**
 
@@ -23,112 +23,112 @@
 > 🤖 **Why Recommend**  
 > *High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, su. popular project, actively maintained, recently updated*
 
-- ⭐ 20101 stars
-- 🍴 1450 forks
+- ⭐ 21651 stars
+- 🍴 1561 forks
 - 💻 C
-- 📅 Updated: 2026-06-29
+- 📅 Updated: 2026-06-30
 
-![codebase-memory-mcp](2026/06-29/2026-06-29_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026/06-30/2026-06-30_daily-top_codebase-memory-mcp.png)
 
-### 2. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
-
-> 🤖 **Why Recommend**  
-> *The AI Website Cloner Template allows users to effortlessly clone any website into a modern Next.js codebase using AI coding agents. With over 23,000 stars, it features a streamlined process: point to a URL, run the `/clone-website` command, and let the AI extract design tokens, assets, and generate component specifications. It supports various AI platforms, including Claude Code and GitHub Copilot. Ideal for site migrations, recovering lost code, or learning from existing designs, this tool ensures a clean, customizable output while adhering to ethical standards.*
-
-- ⭐ 23054 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-29
-
-![ai-website-cloner-template](2026/06-29/2026-06-29_daily-top_ai-website-cloner-template.png)
-
-### 3. [design.md](https://github.com/google-labs-code/design.md)
+### 2. [FluidVoice](https://github.com/altic-dev/FluidVoice)
 
 > 🤖 **Why Recommend**  
-> *DESIGN.md is a TypeScript-based project that provides a format specification for defining a visual identity to coding agents. With over 22,000 stars, it combines machine-readable design tokens (YAML) and human-readable rationale (Markdown) to create a structured design system. Key features include linting for structural correctness, comparison of design versions for regressions, and export capabilities to various formats like Tailwind and DTCG. Its CLI tools validate design files, enhancing token interoperability and ensuring adherence to accessibility standards.*
+> *FluidVoice is an open-source, offline dictation app for macOS that transforms voice into text with lightning speed, utilizing local AI for enhanced accuracy. Key features include real-time transcription, command mode for system control, and write mode for text input across applications. The app supports multiple speech models and offers optional AI enhancement through its Fluid Intelligence. Privacy-focused, all processing occurs on-device, ensuring user data remains secure. With over 4,400 stars, FluidVoice is designed to streamline dictation while keeping user interactions local and private.*
 
-- ⭐ 22943 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-29
-
-![design.md](2026/06-29/2026-06-29_daily-top_design.md.png)
-
-### 4. [open-seo](https://github.com/every-app/open-seo)
-
-> 🤖 **Why Recommend**  
-> *OpenSEO is an open-source SEO tool designed as an affordable alternative to Semrush and Ahrefs, offering a pay-as-you-go model. Key features include a user-friendly interface, essential workflows for keyword research, rank tracking, competitor insights, and AI integration with agents like Claude Code and Hermes. Users can self-host via Docker or Cloudflare and leverage pre-built agent skills for tailored SEO tasks. OpenSEO is free to use, with costs incurred only for DataForSEO API usage, making it a flexible and powerful solution for SEO needs.*
-
-- ⭐ 3702 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-29
-
-![open-seo](2026/06-29/2026-06-29_daily-top_open-seo.png)
-
-### 5. [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
-
-> 🤖 **Why Recommend**  
-> *Open-Generative-AI is a free, open-source AI generation studio for images and videos, featuring over 200 models like Flux and Midjourney. It offers unrestricted creative freedom without content filters and no subscription fees. Users can generate images, videos, and animate portraits with lip sync capabilities. The platform supports multi-image inputs and provides local inference options via a desktop app. Designed for self-hosting, it ensures full data control and customization. Join the community on Discord for support and collaboration.*
-
-- ⭐ 21680 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-06-29
-
-![Open-Generative-AI](2026/06-29/2026-06-29_daily-top_Open-Generative-AI.png)
-
-### 6. [FluidVoice](https://github.com/altic-dev/FluidVoice)
-
-> 🤖 **Why Recommend**  
-> *FluidVoice is a fast, macOS offline dictation app that converts voice to text using local AI, ensuring privacy with no data leaving your device. Key features include Fluid Intelligence for smart formatting, Command Mode for controlling your Mac via voice, and Write Mode for seamless text input across apps. It supports multiple speech models and offers a customizable interface with light/dark theming. With 3,848 stars on GitHub, FluidVoice prioritizes user experience, providing real-time transcription, audio history, and optional AI enhancements for improved accuracy.*
-
-- ⭐ 3848 stars
+- ⭐ 4474 stars
 - 💻 Swift
-- 📅 Updated: 2026-06-29
+- 📅 Updated: 2026-06-30
 
-![FluidVoice](2026/06-29/2026-06-29_daily-top_FluidVoice.png)
+![FluidVoice](2026/06-30/2026-06-30_daily-top_FluidVoice.png)
 
-### 7. [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
 
 > 🤖 **Why Recommend**  
-> *CasaOS is an open-source personal cloud system designed for ease of use and elegance. With over 35,000 stars on GitHub, it supports various hardware, including ZimaBoard and Raspberry Pi. Key features include an intuitive UI, one-click app installations (e.g., Nextcloud, HomeAssistant), and seamless Docker app integration. CasaOS emphasizes data ownership and provides a platform for managing personal data and smart devices. Its community-driven approach fosters collaborative innovation, making it a robust solution for individuals and small organizations seeking cost-effective cloud computing.*
+> *Firecrawl is a powerful API designed for searching, scraping, and interacting with the web at scale. It boasts industry-leading reliability, covering 96% of the web, and offers features like autonomous data gathering, LLM-ready output in clean markdown or structured JSON, and seamless integration with AI agents. Key services include web search, content scraping, interactive page manipulation, and comprehensive site crawling. Open-source and cloud-hosted, Firecrawl simplifies data extraction while handling complex tasks like proxy rotation and rate limiting.*
 
-- ⭐ 35985 stars
-- 💻 Go
-- 📅 Updated: 2026-06-29
+- ⭐ 141615 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-30
 
-![CasaOS](2026/06-29/2026-06-29_daily-top_CasaOS.png)
+![firecrawl](2026/06-30/2026-06-30_daily-top_firecrawl.png)
+
+### 4. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+
+> 🤖 **Why Recommend**  
+> *AI Website Cloner Template is a powerful TypeScript-based tool that allows users to clone any website with a single command using AI coding agents. With over 23,000 stars on GitHub, this reusable template transforms websites into clean Next.js codebases. Key features include design token extraction, component spec writing, and parallel builders for efficient reconstruction. It supports various AI agents, including Claude Code for optimal results. Ideal for platform migrations, recovering lost source code, or educational purposes, it promotes ethical use by prohibiting impersonation and scraping against terms of service.*
+
+- ⭐ 23582 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-30
+
+![ai-website-cloner-template](2026/06-30/2026-06-30_daily-top_ai-website-cloner-template.png)
+
+### 5. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+
+> 🤖 **Why Recommend**  
+> *OmniRoute is a free AI gateway enabling seamless access to 237 AI providers through a single endpoint, with over 50 free options. Key features include smart auto-fallback to prevent downtime, RTK + Caveman compression saving 15–95% tokens, and support for major coding agents like Claude Code and Codex. Users benefit from ~1.6 billion free tokens per month, robust security features, and multi-platform support (Web, Desktop, PWA). Designed for efficiency, it streamlines AI interactions while minimizing costs, making it an essential tool for developers.*
+
+- ⭐ 7961 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-30
+
+![OmniRoute](2026/06-30/2026-06-30_daily-top_OmniRoute.png)
+
+### 6. [herdr](https://github.com/ogulcancelik/herdr)
+
+> 🤖 **Why Recommend**  
+> *Herdr is a Rust-based terminal multiplexer with 8,581 stars that enables seamless management of coding agents in one terminal. Key features include real terminals for each agent, real-time state monitoring (blocked, working, done), and mouse-native workspaces with tabs and panes. Herdr supports SSH, ensuring persistence when detaching and reattaching sessions. It offers a lightweight installation (single ~10MB binary) and scriptable capabilities via a local socket API. Agents can be integrated for enhanced functionality, making Herdr a powerful tool for developers managing multiple agents efficiently.*
+
+- ⭐ 8581 stars
+- 💻 Rust
+- 📅 Updated: 2026-06-30
+
+![herdr](2026/06-30/2026-06-30_daily-top_herdr.png)
+
+### 7. [astryx](https://github.com/facebook/astryx)
+
+> 🤖 **Why Recommend**  
+> *Astryx is an open-source design system built for flexibility and collaboration, currently in beta. Developed at Meta, it powers over 13,000 apps and offers 150+ accessible components, dark mode, and customizable themes. Key features include open internals for component composition, no styling lock-in, and a seamless API for both humans and AI. With easy setup via npm, comprehensive CLI tools, and strong documentation, Astryx facilitates efficient design and development workflows. It supports TypeScript and integrates smoothly with existing styling methods like Tailwind and CSS modules.*
+
+- ⭐ 1282 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-06-30
+
+![astryx](2026/06-30/2026-06-30_daily-top_astryx.png)
 
 ### 8. [canopy](https://github.com/canopy-network/canopy)
 
 > 🤖 **Why Recommend**  
-> *Canopy is the official Go implementation of the Canopy Network Protocol, designed to create a recursive framework for building blockchains. Key features include a Byzantine Fault Tolerant consensus mechanism, a Finite State Machine for transaction logic, and secure peer-to-peer networking. The project is currently in Betanet status, with comprehensive documentation available via its wiki. Users can easily run the Canopy binary or use Docker for a containerized setup. Contributions are welcomed, fostering community involvement in this innovative peer-to-peer launchpad for new chains.*
+> *Canopy is the official Go implementation of the Canopy Network protocol, designed to create a recursive framework for building independent blockchains. Key features include a centralized Controller for communication, a Finite State Machine for transaction logic, Byzantine Fault Tolerant consensus for reliability, and secure Peer-to-Peer networking. Currently in Betanet, Canopy supports containerized environments via Docker and offers extensive documentation for developers. This open-source project encourages community contributions and aims to power a decentralized web of utility and security.*
 
-- ⭐ 12364 stars
+- ⭐ 12689 stars
 - 💻 Go
-- 📅 Updated: 2026-06-29
+- 📅 Updated: 2026-06-30
 
-![canopy](2026/06-29/2026-06-29_daily-top_canopy.png)
+![canopy](2026/06-30/2026-06-30_daily-top_canopy.png)
 
-### 9. [openhuman](https://github.com/tinyhumansai/openhuman)
-
-> 🤖 **Why Recommend**  
-> *OpenHuman is an open-source AI super intelligence built to enhance personal productivity. Key features include a user-friendly interface, local memory management, and over 100 one-click OAuth integrations with popular services like Gmail and Notion. It offers a unique Memory Tree that organizes data into an Obsidian-style knowledge base, enabling efficient context retrieval. The platform supports smart token compression for cost-effective processing and includes native tools for coding, web search, and voice interactions. OpenHuman prioritizes user privacy and is designed for rapid integration into daily workflows.*
-
-- ⭐ 33730 stars
-- 💻 Rust
-- 📅 Updated: 2026-06-29
-
-![openhuman](2026/06-29/2026-06-29_daily-top_openhuman.png)
-
-### 10. [skills](https://github.com/vercel-labs/skills)
+### 9. [skills](https://github.com/vercel-labs/skills)
 
 > 🤖 **Why Recommend**  
 > *The open agent skills tool - npx skills. popular project, actively maintained, recently updated*
 
-- ⭐ 24117 stars
-- 🍴 1972 forks
+- ⭐ 24358 stars
+- 🍴 2000 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-06-29
+- 📅 Updated: 2026-06-30
 
-![skills](2026/06-29/2026-06-29_daily-top_skills.png)
+![skills](2026/06-30/2026-06-30_daily-top_skills.png)
+
+### 10. [career-ops](https://github.com/santifer/career-ops)
+
+> 🤖 **Why Recommend**  
+> *Career-Ops is an AI-powered job search system that transforms any coding CLI into a job application command center. Key features include an auto-pipeline for job evaluations, PDF generation for tailored CVs, and batch processing for multiple offers. It evaluates job listings with a structured scoring system, scans job portals, and ensures integrity in tracking applications. Built on Claude Code, it allows users to customize their experience and generates negotiation scripts and cover letters. With over 56,000 stars on GitHub, it streamlines the job search process for candidates.*
+
+- ⭐ 56684 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-06-30
+
+![career-ops](2026/06-30/2026-06-30_daily-top_career-ops.png)
 
 ---
 
@@ -142,4 +142,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-29 04:44:57 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-30 04:12:31 UTC

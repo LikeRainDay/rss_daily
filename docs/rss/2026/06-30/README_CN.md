@@ -28,7 +28,7 @@
 - 💻 C
 - 📅 Updated: 2026-06-30
 
-![codebase-memory-mcp](2026/06-30/2026-06-30_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-06-30_daily-top_codebase-memory-mcp.png)
 
 ### 2. [FluidVoice](https://github.com/altic-dev/FluidVoice)
 
@@ -39,7 +39,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-06-30
 
-![FluidVoice](2026/06-30/2026-06-30_daily-top_FluidVoice.png)
+![FluidVoice](2026-06-30_daily-top_FluidVoice.png)
 
 ### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-30
 
-![firecrawl](2026/06-30/2026-06-30_daily-top_firecrawl.png)
+![firecrawl](2026-06-30_daily-top_firecrawl.png)
 
 ### 4. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-30
 
-![ai-website-cloner-template](2026/06-30/2026-06-30_daily-top_ai-website-cloner-template.png)
+![ai-website-cloner-template](2026-06-30_daily-top_ai-website-cloner-template.png)
 
 ### 5. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-30
 
-![OmniRoute](2026/06-30/2026-06-30_daily-top_OmniRoute.png)
+![OmniRoute](2026-06-30_daily-top_OmniRoute.png)
 
 ### 6. [herdr](https://github.com/ogulcancelik/herdr)
 
@@ -83,7 +83,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-06-30
 
-![herdr](2026/06-30/2026-06-30_daily-top_herdr.png)
+![herdr](2026-06-30_daily-top_herdr.png)
 
 ### 7. [astryx](https://github.com/facebook/astryx)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-30
 
-![astryx](2026/06-30/2026-06-30_daily-top_astryx.png)
+![astryx](2026-06-30_daily-top_astryx.png)
 
 ### 8. [canopy](https://github.com/canopy-network/canopy)
 
@@ -105,7 +105,7 @@
 - 💻 Go
 - 📅 Updated: 2026-06-30
 
-![canopy](2026/06-30/2026-06-30_daily-top_canopy.png)
+![canopy](2026-06-30_daily-top_canopy.png)
 
 ### 9. [skills](https://github.com/vercel-labs/skills)
 
@@ -117,7 +117,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-06-30
 
-![skills](2026/06-30/2026-06-30_daily-top_skills.png)
+![skills](2026-06-30_daily-top_skills.png)
 
 ### 10. [career-ops](https://github.com/santifer/career-ops)
 
@@ -128,7 +128,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-06-30
 
-![career-ops](2026/06-30/2026-06-30_daily-top_career-ops.png)
+![career-ops](2026-06-30_daily-top_career-ops.png)
 
 ---
 
