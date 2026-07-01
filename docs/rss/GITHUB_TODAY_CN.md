@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-06-30
+# 📊 🌟 GitHub Trending Daily - 2026-07-01
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **302877** ⭐ | **44057** 🍴
+**10** 个项目 | **103768** ⭐ | **23310** 🍴
 
-**热门语言:** `TypeScript` (5) · `JavaScript` (1) · `Rust` (1)
+**热门语言:** `TypeScript` (5) · `C` (2) · `Swift` (1)
 
-**更新时间:** 2026-06-30 04:12 UTC
+**更新时间:** 2026-07-01 04:27 UTC
 
 **分类分布:**
 
@@ -23,112 +23,112 @@
 > 🤖 **推荐理由**  
 > *High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, su. popular project, actively maintained, recently updated*
 
-- ⭐ 21651 stars
-- 🍴 1561 forks
+- ⭐ 23017 stars
+- 🍴 1678 forks
 - 💻 C
-- 📅 Updated: 2026-06-30
+- 📅 Updated: 2026-07-01
 
-![codebase-memory-mcp](2026/06-30/2026-06-30_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026/07-01/2026-07-01_daily-top_codebase-memory-mcp.png)
 
 ### 2. [FluidVoice](https://github.com/altic-dev/FluidVoice)
 
 > 🤖 **推荐理由**  
-> *FluidVoice is an open-source, offline dictation app for macOS that transforms voice into text with lightning speed, utilizing local AI for enhanced accuracy. Key features include real-time transcription, command mode for system control, and write mode for text input across applications. The app supports multiple speech models and offers optional AI enhancement through its Fluid Intelligence. Privacy-focused, all processing occurs on-device, ensuring user data remains secure. With over 4,400 stars, FluidVoice is designed to streamline dictation while keeping user interactions local and private.*
+> *FluidVoice is a fast, open-source dictation app for macOS, featuring on-device speech-to-text (STT) and a custom AI enhancement model called Fluid Intelligence. Key highlights include real-time transcription, command and write modes for seamless text entry, and support for multiple speech models. The app prioritizes user privacy by keeping data local, with optional cloud AI integration. Additional features include adaptive theming, audio history, and daily usage stats. FluidVoice is set to expand to Windows, iOS, and Linux, making it a versatile choice for dictation needs.*
 
-- ⭐ 4474 stars
+- ⭐ 5021 stars
 - 💻 Swift
-- 📅 Updated: 2026-06-30
+- 📅 Updated: 2026-07-01
 
-![FluidVoice](2026/06-30/2026-06-30_daily-top_FluidVoice.png)
+![FluidVoice](2026/07-01/2026-07-01_daily-top_FluidVoice.png)
 
-### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
+### 3. [logto](https://github.com/logto-io/logto)
 
 > 🤖 **推荐理由**  
-> *Firecrawl is a powerful API designed for searching, scraping, and interacting with the web at scale. It boasts industry-leading reliability, covering 96% of the web, and offers features like autonomous data gathering, LLM-ready output in clean markdown or structured JSON, and seamless integration with AI agents. Key services include web search, content scraping, interactive page manipulation, and comprehensive site crawling. Open-source and cloud-hosted, Firecrawl simplifies data extraction while handling complex tasks like proxy rotation and rate limiting.*
+> *🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.. popular project, actively maintained, recently updated*
 
-- ⭐ 141615 stars
+- ⭐ 13033 stars
+- 🍴 889 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-06-30
+- 📅 Updated: 2026-07-01
 
-![firecrawl](2026/06-30/2026-06-30_daily-top_firecrawl.png)
+![logto](2026/07-01/2026-07-01_daily-top_logto.png)
 
-### 4. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
-
-> 🤖 **推荐理由**  
-> *AI Website Cloner Template is a powerful TypeScript-based tool that allows users to clone any website with a single command using AI coding agents. With over 23,000 stars on GitHub, this reusable template transforms websites into clean Next.js codebases. Key features include design token extraction, component spec writing, and parallel builders for efficient reconstruction. It supports various AI agents, including Claude Code for optimal results. Ideal for platform migrations, recovering lost source code, or educational purposes, it promotes ethical use by prohibiting impersonation and scraping against terms of service.*
-
-- ⭐ 23582 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-30
-
-![ai-website-cloner-template](2026/06-30/2026-06-30_daily-top_ai-website-cloner-template.png)
-
-### 5. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+### 4. [herdr](https://github.com/ogulcancelik/herdr)
 
 > 🤖 **推荐理由**  
-> *OmniRoute is a free AI gateway enabling seamless access to 237 AI providers through a single endpoint, with over 50 free options. Key features include smart auto-fallback to prevent downtime, RTK + Caveman compression saving 15–95% tokens, and support for major coding agents like Claude Code and Codex. Users benefit from ~1.6 billion free tokens per month, robust security features, and multi-platform support (Web, Desktop, PWA). Designed for efficiency, it streamlines AI interactions while minimizing costs, making it an essential tool for developers.*
+> *Herdr is a terminal multiplexer designed for managing coding agents seamlessly. With over 9,000 stars on GitHub, it allows users to run agents in real terminals, displaying their statuses as blocked, working, or done. Herdr supports workspaces, tabs, and panes, enabling efficient organization and interaction via mouse or keyboard. It maintains agent persistence during detachment and runs on any system via a single lightweight Rust binary. Additionally, it features a scriptable local socket API for custom integrations, ensuring versatility in agent management.*
 
-- ⭐ 7961 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-06-30
-
-![OmniRoute](2026/06-30/2026-06-30_daily-top_OmniRoute.png)
-
-### 6. [herdr](https://github.com/ogulcancelik/herdr)
-
-> 🤖 **推荐理由**  
-> *Herdr is a Rust-based terminal multiplexer with 8,581 stars that enables seamless management of coding agents in one terminal. Key features include real terminals for each agent, real-time state monitoring (blocked, working, done), and mouse-native workspaces with tabs and panes. Herdr supports SSH, ensuring persistence when detaching and reattaching sessions. It offers a lightweight installation (single ~10MB binary) and scriptable capabilities via a local socket API. Agents can be integrated for enhanced functionality, making Herdr a powerful tool for developers managing multiple agents efficiently.*
-
-- ⭐ 8581 stars
+- ⭐ 9096 stars
 - 💻 Rust
-- 📅 Updated: 2026-06-30
+- 📅 Updated: 2026-07-01
 
-![herdr](2026/06-30/2026-06-30_daily-top_herdr.png)
+![herdr](2026/07-01/2026-07-01_daily-top_herdr.png)
+
+### 5. [tolaria](https://github.com/refactoringhq/tolaria)
+
+> 🤖 **推荐理由**  
+> *Tolaria is a powerful open-source desktop app for managing markdown knowledge bases on macOS, Windows, and Linux, boasting 17,838 stars on GitHub. It facilitates personal knowledge management, company documentation, and AI integration, all while ensuring data ownership with a files-first and Git-first approach. Key features include offline functionality, no account requirements, customizable note types, and a keyboard-first design. Built from real user experience, Tolaria supports a variety of AI agents and offers seamless installation and local setup options.*
+
+- ⭐ 17838 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-01
+
+![tolaria](2026/07-01/2026-07-01_daily-top_tolaria.png)
+
+### 6. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+
+> 🤖 **推荐理由**  
+> *OmniRoute is a versatile AI gateway that connects over 236 providers, including 50+ free options, through a single endpoint, enhancing coding efficiency. Key features include smart auto-fallback to prevent downtime, RTK and Caveman compression for saving 15-95% tokens, and support for multiple coding agents like Claude Code, Codex, and Copilot. With around 1.6B free tokens available monthly, OmniRoute maximizes resource usage while minimizing costs. Its seamless integration with various platforms ensures developers can easily access AI tools without complex setups.*
+
+- ⭐ 8715 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-01
+
+![OmniRoute](2026/07-01/2026-07-01_daily-top_OmniRoute.png)
 
 ### 7. [astryx](https://github.com/facebook/astryx)
 
 > 🤖 **推荐理由**  
-> *Astryx is an open-source design system built for flexibility and collaboration, currently in beta. Developed at Meta, it powers over 13,000 apps and offers 150+ accessible components, dark mode, and customizable themes. Key features include open internals for component composition, no styling lock-in, and a seamless API for both humans and AI. With easy setup via npm, comprehensive CLI tools, and strong documentation, Astryx facilitates efficient design and development workflows. It supports TypeScript and integrates smoothly with existing styling methods like Tailwind and CSS modules.*
+> *Astryx is an open source, highly customizable design system, currently in beta, built on React and StyleX. With over 1,800 stars, it offers 150+ accessible components, brand-level theming, dark mode, and ready-to-ship templates. Key features include open internals for flexible component use, no styling lock-in, and a theme system that allows easy customization. The API and CLI facilitate seamless collaboration between developers and AI assistants. It supports various setups with minimal configuration, making it ideal for modern development workflows.*
 
-- ⭐ 1282 stars
+- ⭐ 1885 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-06-30
+- 📅 Updated: 2026-07-01
 
-![astryx](2026/06-30/2026-06-30_daily-top_astryx.png)
+![astryx](2026/07-01/2026-07-01_daily-top_astryx.png)
 
-### 8. [canopy](https://github.com/canopy-network/canopy)
+### 8. [Instatic](https://github.com/CoreBunch/Instatic)
 
 > 🤖 **推荐理由**  
-> *Canopy is the official Go implementation of the Canopy Network protocol, designed to create a recursive framework for building independent blockchains. Key features include a centralized Controller for communication, a Finite State Machine for transaction logic, Byzantine Fault Tolerant consensus for reliability, and secure Peer-to-Peer networking. Currently in Betanet, Canopy supports containerized environments via Docker and offers extensive documentation for developers. This open-source project encourages community contributions and aims to power a decentralized web of utility and security.*
+> *Instatic is a modern self-hosted visual CMS built on a single Bun server, allowing users to manage their website's design, content, and publishing seamlessly. Key features include a clean semantic HTML output, a powerful visual editor with live mode, reusable components, and a robust data management system. It supports SQLite and Postgres for database options and offers one-click deployment through Railway. Instatic combines design, build, management, and analytics in one package, ensuring fast performance and flexibility, making it ideal for developers and site owners looking for full control.*
 
-- ⭐ 12689 stars
+- ⭐ 1600 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-01
+
+![Instatic](2026/07-01/2026-07-01_daily-top_Instatic.png)
+
+### 9. [canopy](https://github.com/canopy-network/canopy)
+
+> 🤖 **推荐理由**  
+> *Canopy is the official Go implementation of the Canopy Network protocol, designed to create a recursive framework for building blockchains. Key features include a Byzantine Fault Tolerant consensus mechanism, secure peer-to-peer networking, and a persistence layer for efficient data management. Canopy supports the development of new chains in an "unstoppable" architecture, enhancing utility and security. Currently in Betanet, it encourages community contributions and provides extensive documentation for developers. For more details, visit [canopynetwork.org](https://canopynetwork.org).*
+
+- ⭐ 12931 stars
 - 💻 Go
-- 📅 Updated: 2026-06-30
+- 📅 Updated: 2026-07-01
 
-![canopy](2026/06-30/2026-06-30_daily-top_canopy.png)
+![canopy](2026/07-01/2026-07-01_daily-top_canopy.png)
 
-### 9. [skills](https://github.com/vercel-labs/skills)
-
-> 🤖 **推荐理由**  
-> *The open agent skills tool - npx skills. popular project, actively maintained, recently updated*
-
-- ⭐ 24358 stars
-- 🍴 2000 forks
-- 💻 TypeScript
-- 📅 Updated: 2026-06-30
-
-![skills](2026/06-30/2026-06-30_daily-top_skills.png)
-
-### 10. [career-ops](https://github.com/santifer/career-ops)
+### 10. [VeraCrypt](https://github.com/veracrypt/VeraCrypt)
 
 > 🤖 **推荐理由**  
-> *Career-Ops is an AI-powered job search system that transforms any coding CLI into a job application command center. Key features include an auto-pipeline for job evaluations, PDF generation for tailored CVs, and batch processing for multiple offers. It evaluates job listings with a structured scoring system, scans job portals, and ensures integrity in tracking applications. Built on Claude Code, it allows users to customize their experience and generates negotiation scripts and cover letters. With over 56,000 stars on GitHub, it streamlines the job search process for candidates.*
+> *VeraCrypt is a powerful disk encryption tool, enhancing the original TrueCrypt 7.1a with robust security features. With over 10,600 stars on GitHub, it supports multiple platforms, including Windows, Linux, macOS, FreeBSD, and OpenBSD. Key features include strong encryption algorithms, a user-friendly interface, and a digitally signed driver for secure functionality on modern Windows systems. VeraCrypt allows users to create encrypted volumes and system partitions, ensuring data confidentiality. The project is open-source, encouraging community contributions under specific license terms.*
 
-- ⭐ 56684 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-06-30
+- ⭐ 10632 stars
+- 💻 C
+- 📅 Updated: 2026-07-01
 
-![career-ops](2026/06-30/2026-06-30_daily-top_career-ops.png)
+![VeraCrypt](2026/07-01/2026-07-01_daily-top_VeraCrypt.png)
 
 ---
 
@@ -142,4 +142,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-06-30 04:12:31 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-01 04:27:48 UTC

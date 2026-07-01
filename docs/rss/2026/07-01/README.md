@@ -28,7 +28,7 @@
 - 💻 C
 - 📅 Updated: 2026-07-01
 
-![codebase-memory-mcp](2026/07-01/2026-07-01_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-07-01_daily-top_codebase-memory-mcp.png)
 
 ### 2. [FluidVoice](https://github.com/altic-dev/FluidVoice)
 
@@ -39,7 +39,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-07-01
 
-![FluidVoice](2026/07-01/2026-07-01_daily-top_FluidVoice.png)
+![FluidVoice](2026-07-01_daily-top_FluidVoice.png)
 
 ### 3. [logto](https://github.com/logto-io/logto)
 
@@ -51,7 +51,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-01
 
-![logto](2026/07-01/2026-07-01_daily-top_logto.png)
+![logto](2026-07-01_daily-top_logto.png)
 
 ### 4. [herdr](https://github.com/ogulcancelik/herdr)
 
@@ -62,7 +62,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-01
 
-![herdr](2026/07-01/2026-07-01_daily-top_herdr.png)
+![herdr](2026-07-01_daily-top_herdr.png)
 
 ### 5. [tolaria](https://github.com/refactoringhq/tolaria)
 
@@ -73,7 +73,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-01
 
-![tolaria](2026/07-01/2026-07-01_daily-top_tolaria.png)
+![tolaria](2026-07-01_daily-top_tolaria.png)
 
 ### 6. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
@@ -84,7 +84,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-01
 
-![OmniRoute](2026/07-01/2026-07-01_daily-top_OmniRoute.png)
+![OmniRoute](2026-07-01_daily-top_OmniRoute.png)
 
 ### 7. [astryx](https://github.com/facebook/astryx)
 
@@ -95,7 +95,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-01
 
-![astryx](2026/07-01/2026-07-01_daily-top_astryx.png)
+![astryx](2026-07-01_daily-top_astryx.png)
 
 ### 8. [Instatic](https://github.com/CoreBunch/Instatic)
 
@@ -106,7 +106,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-01
 
-![Instatic](2026/07-01/2026-07-01_daily-top_Instatic.png)
+![Instatic](2026-07-01_daily-top_Instatic.png)
 
 ### 9. [canopy](https://github.com/canopy-network/canopy)
 
@@ -117,7 +117,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-01
 
-![canopy](2026/07-01/2026-07-01_daily-top_canopy.png)
+![canopy](2026-07-01_daily-top_canopy.png)
 
 ### 10. [VeraCrypt](https://github.com/veracrypt/VeraCrypt)
 
@@ -128,7 +128,7 @@
 - 💻 C
 - 📅 Updated: 2026-07-01
 
-![VeraCrypt](2026/07-01/2026-07-01_daily-top_VeraCrypt.png)
+![VeraCrypt](2026-07-01_daily-top_VeraCrypt.png)
 
 ---
 
