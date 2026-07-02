@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-07-01
+# 📊 🌟 GitHub Trending Daily - 2026-07-02
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **103768** ⭐ | **23310** 🍴
+**10** Projects | **464327** ⭐ | **53159** 🍴
 
-**Top Languages:** `TypeScript` (5) · `C` (2) · `Rust` (1)
+**Top Languages:** `JavaScript` (3) · `TypeScript` (3) · `Rust` (2)
 
-**Updated:** 2026-07-01 04:27 UTC
+**Updated:** 2026-07-02 04:07 UTC
 
 **Categories:**
 
@@ -18,117 +18,116 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+### 1. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+
+> 🤖 **Why Recommend**  
+> *OmniRoute is a powerful AI gateway that connects over 231 providers, including 50+ free options, through a single endpoint. Built in TypeScript, it seamlessly integrates tools like Claude Code, Codex, and Copilot while employing RTK and Caveman compression to save 15-95% on tokens. Key features include smart auto-fallback, multi-modal APIs, and a robust CLI for extensive customization. With approximately 1.6 billion free tokens available monthly and a focus on local-first architecture, OmniRoute ensures users can maximize resources without incurring costs.*
+
+- ⭐ 9674 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-02
+
+![OmniRoute](2026/07-02/2026-07-02_daily-top_OmniRoute.png)
+
+### 2. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
 > 🤖 **Why Recommend**  
 > *High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, su. popular project, actively maintained, recently updated*
 
-- ⭐ 23017 stars
-- 🍴 1678 forks
+- ⭐ 23948 stars
+- 🍴 1765 forks
 - 💻 C
-- 📅 Updated: 2026-07-01
+- 📅 Updated: 2026-07-02
 
-![codebase-memory-mcp](2026/07-01/2026-07-01_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026/07-02/2026-07-02_daily-top_codebase-memory-mcp.png)
 
-### 2. [FluidVoice](https://github.com/altic-dev/FluidVoice)
-
-> 🤖 **Why Recommend**  
-> *FluidVoice is a fast, open-source dictation app for macOS, featuring on-device speech-to-text (STT) and a custom AI enhancement model called Fluid Intelligence. Key highlights include real-time transcription, command and write modes for seamless text entry, and support for multiple speech models. The app prioritizes user privacy by keeping data local, with optional cloud AI integration. Additional features include adaptive theming, audio history, and daily usage stats. FluidVoice is set to expand to Windows, iOS, and Linux, making it a versatile choice for dictation needs.*
-
-- ⭐ 5021 stars
-- 💻 Swift
-- 📅 Updated: 2026-07-01
-
-![FluidVoice](2026/07-01/2026-07-01_daily-top_FluidVoice.png)
-
-### 3. [logto](https://github.com/logto-io/logto)
+### 3. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **Why Recommend**  
-> *🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.. popular project, actively maintained, recently updated*
+> *ECC is a performance optimization system for AI agents, supporting Codex, Claude Code, OpenCode, and more. With over 224,000 stars, it offers skills, instincts, memory optimization, and security scanning to enhance coding workflows. Key features include 67 specialized agents, 277 reusable skills, and a comprehensive hook system for task automation. ECC facilitates continuous learning, cross-platform integration, and user-friendly installation via plugins. It also includes security auditing through the AgentShield tool, ensuring safe and efficient development practices.*
 
-- ⭐ 13033 stars
-- 🍴 889 forks
+- ⭐ 224727 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-07-02
+
+![ECC](2026/07-02/2026-07-02_daily-top_ECC.png)
+
+### 4. [astryx](https://github.com/facebook/astryx)
+
+> 🤖 **Why Recommend**  
+> *Astryx is an open-source design system, currently in beta, built with TypeScript and React, designed for seamless collaboration between developers and AI. It offers over 150 customizable components, brand theming, dark mode, and ready-to-ship templates. Key features include open internals for flexible composition, no styling lock-in, and easy customization through CSS variables. The system supports CLI tooling for efficient component management and documentation. Astryx has been developed over eight years at Meta, powering 13,000+ apps, ensuring robust accessibility and design consistency.*
+
+- ⭐ 2798 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-01
+- 📅 Updated: 2026-07-02
 
-![logto](2026/07-01/2026-07-01_daily-top_logto.png)
+![astryx](2026/07-02/2026-07-02_daily-top_astryx.png)
 
-### 4. [herdr](https://github.com/ogulcancelik/herdr)
+### 5. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 > 🤖 **Why Recommend**  
-> *Herdr is a terminal multiplexer designed for managing coding agents seamlessly. With over 9,000 stars on GitHub, it allows users to run agents in real terminals, displaying their statuses as blocked, working, or done. Herdr supports workspaces, tabs, and panes, enabling efficient organization and interaction via mouse or keyboard. It maintains agent persistence during detachment and runs on any system via a single lightweight Rust binary. Additionally, it features a scriptable local socket API for custom integrations, ensuring versatility in agent management.*
+> *Taste Skill is an innovative JavaScript framework designed to enhance AI-generated frontends, preventing bland and generic designs. It offers a suite of specialized Agent Skills, including layout, typography, and motion enhancements, alongside image-generation capabilities for design references. Key features include adjustable parameters for design variance, motion intensity, and visual density, enabling tailored outputs. With over 54,520 stars, Taste Skill integrates seamlessly with major coding agents like Codex and ChatGPT, making it a versatile tool for developers seeking high-quality UI solutions.*
 
-- ⭐ 9096 stars
+- ⭐ 54520 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-07-02
+
+![taste-skill](2026/07-02/2026-07-02_daily-top_taste-skill.png)
+
+### 6. [herdr](https://github.com/ogulcancelik/herdr)
+
+> 🤖 **Why Recommend**  
+> *Herdr is a powerful agent multiplexer designed for terminal users, enabling seamless management of multiple agents within a single interface. Built in Rust, it boasts high performance and reliability. Key features include easy agent integration, real-time communication, and streamlined workflows for developers and system administrators. With nearly 10,000 stars, Herdr stands out for its efficiency in enhancing productivity and simplifying terminal tasks. This versatile tool caters to users seeking a robust solution for handling multiple processes effortlessly.*
+
+- ⭐ 9699 stars
 - 💻 Rust
-- 📅 Updated: 2026-07-01
+- 📅 Updated: 2026-07-02
 
-![herdr](2026/07-01/2026-07-01_daily-top_herdr.png)
+![herdr](2026/07-02/2026-07-02_daily-top_herdr.png)
 
-### 5. [tolaria](https://github.com/refactoringhq/tolaria)
+### 7. [cc-switch](https://github.com/farion1231/cc-switch)
 
 > 🤖 **Why Recommend**  
-> *Tolaria is a powerful open-source desktop app for managing markdown knowledge bases on macOS, Windows, and Linux, boasting 17,838 stars on GitHub. It facilitates personal knowledge management, company documentation, and AI integration, all while ensuring data ownership with a files-first and Git-first approach. Key features include offline functionality, no account requirements, customizable note types, and a keyboard-first design. Built from real user experience, Tolaria supports a variety of AI agents and offers seamless installation and local setup options.*
+> *CC Switch is a cross-platform desktop assistant for managing multiple AI tools, including Claude Code, Codex, and Gemini CLI. It features a unified interface for easy provider management with 50+ presets, eliminating manual config edits. Key highlights include instant provider switching via system tray, cloud sync across devices, and a comprehensive MCP and Skills management panel. Built with Rust and Tauri, CC Switch ensures reliability and robust performance. It streamlines AI coding workflows, making it a valuable tool for developers. Explore more at ccswitch.io.*
 
-- ⭐ 17838 stars
+- ⭐ 111973 stars
+- 💻 Rust
+- 📅 Updated: 2026-07-02
+
+![cc-switch](2026/07-02/2026-07-02_daily-top_cc-switch.png)
+
+### 8. [FluidVoice](https://github.com/altic-dev/FluidVoice)
+
+> 🤖 **Why Recommend**  
+> *FluidVoice is an open-source, on-device dictation app for macOS that offers the fastest speech-to-text (STT) capabilities with a custom-trained AI model for enhanced transcription. Key features include Fluid Intelligence for smart formatting, Command Mode for controlling your Mac via voice, and Write Mode for dictating in any app. It supports multiple speech models and ensures data privacy by processing locally. With over 5,500 stars on GitHub, FluidVoice is set to expand to Windows and iOS. Join the community and experience seamless dictation without cloud dependencies.*
+
+- ⭐ 5572 stars
+- 💻 Swift
+- 📅 Updated: 2026-07-02
+
+![FluidVoice](2026/07-02/2026-07-02_daily-top_FluidVoice.png)
+
+### 9. [Instatic](https://github.com/CoreBunch/Instatic)
+
+> 🤖 **Why Recommend**  
+> *Instatic is a modern self-hosted visual CMS that combines design, content management, and publishing in a single Bun server, allowing users to deploy in under one minute. It features a clean semantic HTML output, a powerful canvas editor, and a universal content model for pages, posts, and custom collections. Key highlights include an integrated Core Framework for design tokens, a sandboxed plugin system for secure extensibility, and robust analytics. Instatic is ideal for developers seeking ownership, flexibility, and performance without vendor lock-in, all under an MIT license.*
+
+- ⭐ 2057 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-01
+- 📅 Updated: 2026-07-02
 
-![tolaria](2026/07-01/2026-07-01_daily-top_tolaria.png)
+![Instatic](2026/07-02/2026-07-02_daily-top_Instatic.png)
 
-### 6. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-
-> 🤖 **Why Recommend**  
-> *OmniRoute is a versatile AI gateway that connects over 236 providers, including 50+ free options, through a single endpoint, enhancing coding efficiency. Key features include smart auto-fallback to prevent downtime, RTK and Caveman compression for saving 15-95% tokens, and support for multiple coding agents like Claude Code, Codex, and Copilot. With around 1.6B free tokens available monthly, OmniRoute maximizes resource usage while minimizing costs. Its seamless integration with various platforms ensures developers can easily access AI tools without complex setups.*
-
-- ⭐ 8715 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-01
-
-![OmniRoute](2026/07-01/2026-07-01_daily-top_OmniRoute.png)
-
-### 7. [astryx](https://github.com/facebook/astryx)
+### 10. [9router](https://github.com/decolua/9router)
 
 > 🤖 **Why Recommend**  
-> *Astryx is an open source, highly customizable design system, currently in beta, built on React and StyleX. With over 1,800 stars, it offers 150+ accessible components, brand-level theming, dark mode, and ready-to-ship templates. Key features include open internals for flexible component use, no styling lock-in, and a theme system that allows easy customization. The API and CLI facilitate seamless collaboration between developers and AI assistants. It supports various setups with minimal configuration, making it ideal for modern development workflows.*
+> *9Router is a powerful open-source AI coding router that enables unlimited free AI coding by connecting various AI tools like Claude Code, Codex, and Copilot to over 40 providers. Key features include an RTK Token Saver that reduces token usage by 20-40%, auto-fallback between paid and free models, real-time quota tracking, and multi-account support for optimal resource management. It seamlessly integrates with major CLI tools, offering a flexible deployment across local, VPS, Docker, and cloud environments, ensuring developers never hit limits while minimizing costs.*
 
-- ⭐ 1885 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-01
+- ⭐ 19359 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-07-02
 
-![astryx](2026/07-01/2026-07-01_daily-top_astryx.png)
-
-### 8. [Instatic](https://github.com/CoreBunch/Instatic)
-
-> 🤖 **Why Recommend**  
-> *Instatic is a modern self-hosted visual CMS built on a single Bun server, allowing users to manage their website's design, content, and publishing seamlessly. Key features include a clean semantic HTML output, a powerful visual editor with live mode, reusable components, and a robust data management system. It supports SQLite and Postgres for database options and offers one-click deployment through Railway. Instatic combines design, build, management, and analytics in one package, ensuring fast performance and flexibility, making it ideal for developers and site owners looking for full control.*
-
-- ⭐ 1600 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-01
-
-![Instatic](2026/07-01/2026-07-01_daily-top_Instatic.png)
-
-### 9. [canopy](https://github.com/canopy-network/canopy)
-
-> 🤖 **Why Recommend**  
-> *Canopy is the official Go implementation of the Canopy Network protocol, designed to create a recursive framework for building blockchains. Key features include a Byzantine Fault Tolerant consensus mechanism, secure peer-to-peer networking, and a persistence layer for efficient data management. Canopy supports the development of new chains in an "unstoppable" architecture, enhancing utility and security. Currently in Betanet, it encourages community contributions and provides extensive documentation for developers. For more details, visit [canopynetwork.org](https://canopynetwork.org).*
-
-- ⭐ 12931 stars
-- 💻 Go
-- 📅 Updated: 2026-07-01
-
-![canopy](2026/07-01/2026-07-01_daily-top_canopy.png)
-
-### 10. [VeraCrypt](https://github.com/veracrypt/VeraCrypt)
-
-> 🤖 **Why Recommend**  
-> *VeraCrypt is a powerful disk encryption tool, enhancing the original TrueCrypt 7.1a with robust security features. With over 10,600 stars on GitHub, it supports multiple platforms, including Windows, Linux, macOS, FreeBSD, and OpenBSD. Key features include strong encryption algorithms, a user-friendly interface, and a digitally signed driver for secure functionality on modern Windows systems. VeraCrypt allows users to create encrypted volumes and system partitions, ensuring data confidentiality. The project is open-source, encouraging community contributions under specific license terms.*
-
-- ⭐ 10632 stars
-- 💻 C
-- 📅 Updated: 2026-07-01
-
-![VeraCrypt](2026/07-01/2026-07-01_daily-top_VeraCrypt.png)
+![9router](2026/07-02/2026-07-02_daily-top_9router.png)
 
 ---
 
@@ -142,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-01 04:27:48 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-02 04:07:01 UTC

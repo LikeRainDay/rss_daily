@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-02
 
-![OmniRoute](2026/07-02/2026-07-02_daily-top_OmniRoute.png)
+![OmniRoute](2026-07-02_daily-top_OmniRoute.png)
 
 ### 2. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
@@ -39,7 +39,7 @@
 - 💻 C
 - 📅 Updated: 2026-07-02
 
-![codebase-memory-mcp](2026/07-02/2026-07-02_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-07-02_daily-top_codebase-memory-mcp.png)
 
 ### 3. [ECC](https://github.com/affaan-m/ECC)
 
@@ -50,7 +50,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-02
 
-![ECC](2026/07-02/2026-07-02_daily-top_ECC.png)
+![ECC](2026-07-02_daily-top_ECC.png)
 
 ### 4. [astryx](https://github.com/facebook/astryx)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-02
 
-![astryx](2026/07-02/2026-07-02_daily-top_astryx.png)
+![astryx](2026-07-02_daily-top_astryx.png)
 
 ### 5. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
@@ -72,7 +72,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-02
 
-![taste-skill](2026/07-02/2026-07-02_daily-top_taste-skill.png)
+![taste-skill](2026-07-02_daily-top_taste-skill.png)
 
 ### 6. [herdr](https://github.com/ogulcancelik/herdr)
 
@@ -83,7 +83,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-02
 
-![herdr](2026/07-02/2026-07-02_daily-top_herdr.png)
+![herdr](2026-07-02_daily-top_herdr.png)
 
 ### 7. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -94,7 +94,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-02
 
-![cc-switch](2026/07-02/2026-07-02_daily-top_cc-switch.png)
+![cc-switch](2026-07-02_daily-top_cc-switch.png)
 
 ### 8. [FluidVoice](https://github.com/altic-dev/FluidVoice)
 
@@ -105,7 +105,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-07-02
 
-![FluidVoice](2026/07-02/2026-07-02_daily-top_FluidVoice.png)
+![FluidVoice](2026-07-02_daily-top_FluidVoice.png)
 
 ### 9. [Instatic](https://github.com/CoreBunch/Instatic)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-02
 
-![Instatic](2026/07-02/2026-07-02_daily-top_Instatic.png)
+![Instatic](2026-07-02_daily-top_Instatic.png)
 
 ### 10. [9router](https://github.com/decolua/9router)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-02
 
-![9router](2026/07-02/2026-07-02_daily-top_9router.png)
+![9router](2026-07-02_daily-top_9router.png)
 
 ---
 
