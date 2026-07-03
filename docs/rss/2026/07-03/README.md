@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-03
 
-![astryx](2026/07-03/2026-07-03_daily-top_astryx.png)
+![astryx](2026-07-03_daily-top_astryx.png)
 
 ### 2. [caveman](https://github.com/JuliusBrussee/caveman)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-03
 
-![caveman](2026/07-03/2026-07-03_daily-top_caveman.png)
+![caveman](2026-07-03_daily-top_caveman.png)
 
 ### 3. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-03
 
-![OmniRoute](2026/07-03/2026-07-03_daily-top_OmniRoute.png)
+![OmniRoute](2026-07-03_daily-top_OmniRoute.png)
 
 ### 4. [herdr](https://github.com/ogulcancelik/herdr)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-03
 
-![herdr](2026/07-03/2026-07-03_daily-top_herdr.png)
+![herdr](2026-07-03_daily-top_herdr.png)
 
 ### 5. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-03
 
-![firecrawl](2026/07-03/2026-07-03_daily-top_firecrawl.png)
+![firecrawl](2026-07-03_daily-top_firecrawl.png)
 
 ### 6. [ECC](https://github.com/affaan-m/ECC)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-03
 
-![ECC](2026/07-03/2026-07-03_daily-top_ECC.png)
+![ECC](2026-07-03_daily-top_ECC.png)
 
 ### 7. [archify](https://github.com/tt-a1i/archify)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-03
 
-![archify](2026/07-03/2026-07-03_daily-top_archify.png)
+![archify](2026-07-03_daily-top_archify.png)
 
 ### 8. [AiToEarn](https://github.com/yikart/AiToEarn)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-03
 
-![AiToEarn](2026/07-03/2026-07-03_daily-top_AiToEarn.png)
+![AiToEarn](2026-07-03_daily-top_AiToEarn.png)
 
 ### 9. [FluidVoice](https://github.com/altic-dev/FluidVoice)
 
@@ -115,7 +115,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-07-03
 
-![FluidVoice](2026/07-03/2026-07-03_daily-top_FluidVoice.png)
+![FluidVoice](2026-07-03_daily-top_FluidVoice.png)
 
 ### 10. [career-ops](https://github.com/santifer/career-ops)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-03
 
-![career-ops](2026/07-03/2026-07-03_daily-top_career-ops.png)
+![career-ops](2026-07-03_daily-top_career-ops.png)
 
 ---
 
