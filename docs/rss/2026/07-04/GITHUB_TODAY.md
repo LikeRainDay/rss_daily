@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-04
 
-![caveman](2026/07-04/2026-07-04_daily-top_caveman.png)
+![caveman](2026-07-04_daily-top_caveman.png)
 
 ### 2. [page-agent](https://github.com/alibaba/page-agent)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-04
 
-![page-agent](2026/07-04/2026-07-04_daily-top_page-agent.png)
+![page-agent](2026-07-04_daily-top_page-agent.png)
 
 ### 3. [astryx](https://github.com/facebook/astryx)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-04
 
-![astryx](2026/07-04/2026-07-04_daily-top_astryx.png)
+![astryx](2026-07-04_daily-top_astryx.png)
 
 ### 4. [career-ops](https://github.com/santifer/career-ops)
 
@@ -61,7 +61,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-04
 
-![career-ops](2026/07-04/2026-07-04_daily-top_career-ops.png)
+![career-ops](2026-07-04_daily-top_career-ops.png)
 
 ### 5. [orca](https://github.com/stablyai/orca)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-04
 
-![orca](2026/07-04/2026-07-04_daily-top_orca.png)
+![orca](2026-07-04_daily-top_orca.png)
 
 ### 6. [codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
 
@@ -83,7 +83,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-04
 
-![codex-plugin-cc](2026/07-04/2026-07-04_daily-top_codex-plugin-cc.png)
+![codex-plugin-cc](2026-07-04_daily-top_codex-plugin-cc.png)
 
 ### 7. [ECC](https://github.com/affaan-m/ECC)
 
@@ -94,7 +94,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-04
 
-![ECC](2026/07-04/2026-07-04_daily-top_ECC.png)
+![ECC](2026-07-04_daily-top_ECC.png)
 
 ### 8. [meetily](https://github.com/Zackriya-Solutions/meetily)
 
@@ -105,7 +105,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-04
 
-![meetily](2026/07-04/2026-07-04_daily-top_meetily.png)
+![meetily](2026-07-04_daily-top_meetily.png)
 
 ### 9. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-04
 
-![OmniRoute](2026/07-04/2026-07-04_daily-top_OmniRoute.png)
+![OmniRoute](2026-07-04_daily-top_OmniRoute.png)
 
 ### 10. [herdr](https://github.com/ogulcancelik/herdr)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-04
 
-![herdr](2026/07-04/2026-07-04_daily-top_herdr.png)
+![herdr](2026-07-04_daily-top_herdr.png)
 
 ---
 

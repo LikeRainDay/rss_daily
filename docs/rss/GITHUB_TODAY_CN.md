@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-07-03
+# 📊 🌟 GitHub Trending Daily - 2026-07-04
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **563299** ⭐ | **64941** 🍴
+**10** 个项目 | **465449** ⭐ | **58817** 🍴
 
-**热门语言:** `TypeScript` (4) · `JavaScript` (4) · `Rust` (1)
+**热门语言:** `TypeScript` (4) · `JavaScript` (4) · `Rust` (2)
 
-**更新时间:** 2026-07-03 03:53 UTC
+**更新时间:** 2026-07-04 03:44 UTC
 
 **分类分布:**
 
@@ -18,115 +18,116 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [astryx](https://github.com/facebook/astryx)
+### 1. [caveman](https://github.com/JuliusBrussee/caveman)
 
 > 🤖 **推荐理由**  
-> *Astryx is an open-source design system, currently in Beta, built on React and StyleX, featuring over 150 customizable, accessible components. It offers brand-level theming, dark mode support, and ready-to-use templates, making it easy to implement without complex configurations. Key highlights include open internals, no styling lock-in, and an intuitive API designed for both developers and AI assistants. Astryx supports TypeScript and encourages contributions, providing a comprehensive CLI and multiple customization themes. It is ideal for teams aiming for cohesive and adaptable UI solutions.*
+> *Caveman is a JavaScript plugin that enhances AI coding agents like Claude Code, Codex, and Gemini by reducing output tokens by 65% while maintaining technical accuracy. It simplifies responses into concise "caveman-speak," saving users money and improving readability. Key features include six response compression levels, session token statistics, and the ability to rewrite memory files for future savings. Installable with a single command, Caveman integrates seamlessly across 30+ agents, making it a valuable tool for efficient coding communication.*
 
-- ⭐ 3767 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-03
-
-![astryx](2026/07-03/2026-07-03_daily-top_astryx.png)
-
-### 2. [caveman](https://github.com/JuliusBrussee/caveman)
-
-> 🤖 **推荐理由**  
-> *Caveman is a JavaScript skill/plugin for Claude Code that dramatically reduces output tokens by simplifying language without losing technical accuracy. With an average of 65% token savings, it allows agents to communicate more efficiently, supporting various languages. Key features include multiple compression levels, conventional commit messages, one-line PR comments, and real-time token usage statistics. Caveman integrates seamlessly with over 30 agents, enhancing readability and speed while minimizing costs. Ideal for developers seeking concise, effective communication.*
-
-- ⭐ 81311 stars
+- ⭐ 83052 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-03
+- 📅 Updated: 2026-07-04
 
-![caveman](2026/07-03/2026-07-03_daily-top_caveman.png)
+![caveman](2026/07-04/2026-07-04_daily-top_caveman.png)
 
-### 3. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+### 2. [page-agent](https://github.com/alibaba/page-agent)
 
 > 🤖 **推荐理由**  
-> *OmniRoute is a powerful AI gateway that allows seamless integration of over 237 AI models, with 90+ available for free, through a single endpoint. Key features include smart auto-fallbacks, token compression saving up to 95%, and support for multiple coding agents like Claude Code and Codex. It offers approximately 1.6 billion free tokens per month, enabling developers to efficiently manage AI interactions without hitting usage limits. OmniRoute is designed for flexibility, running on various platforms, and emphasizes privacy with local-first architecture.*
+> *JavaScript in-page GUI agent. Control web interfaces with natural language.. popular project, actively maintained, recently updated*
 
-- ⭐ 10326 stars
+- ⭐ 22513 stars
+- 🍴 1948 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-07-03
+- 📅 Updated: 2026-07-04
 
-![OmniRoute](2026/07-03/2026-07-03_daily-top_OmniRoute.png)
+![page-agent](2026/07-04/2026-07-04_daily-top_page-agent.png)
 
-### 4. [herdr](https://github.com/ogulcancelik/herdr)
+### 3. [astryx](https://github.com/facebook/astryx)
 
 > 🤖 **推荐理由**  
-> *Herdr is a powerful terminal-based agent multiplexer written in Rust, enabling users to run and manage multiple coding agents seamlessly. It features real terminals for each agent, providing accurate TUI rendering, and displays agent status (blocked, working, done) at a glance. With mouse-native workspaces, tabs, and panes, Herdr allows easy organization and management. It maintains session persistence across detachments, operates over SSH, and is lightweight (single ~10MB binary). Herdr supports various integrations and provides a local socket API for scriptability, making it ideal for developers wanting a robust, efficient workflow.*
+> *Astryx is an open-source, fully customizable design system developed at Meta, currently in Beta. Built with TypeScript, React, and StyleX, it offers 150+ accessible components, brand-level theming, dark mode, and ready-to-ship templates. Key features include open internals for component composition, no styling lock-in, and easy customization through CSS property overrides. The system is designed for both humans and AI assistants, ensuring a cohesive development experience. It includes essential packages for core components, CLI tooling, and customizable themes, promoting strong conventions and accessibility.*
 
-- ⭐ 10242 stars
+- ⭐ 4743 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-04
+
+![astryx](2026/07-04/2026-07-04_daily-top_astryx.png)
+
+### 4. [career-ops](https://github.com/santifer/career-ops)
+
+> 🤖 **推荐理由**  
+> *Career-Ops is an AI-driven job search system designed to optimize the application process. Key features include a structured A-F job evaluation, ATS-optimized CV and cover letter generation, batch processing of job offers, and automated scanning of major job portals. The platform allows users to track applications in a single dashboard while providing insights into company culture and contact discovery for networking. With support for multiple AI coding CLIs, it transforms job searching into a streamlined and personalized experience. Open source and built with Claude Code.*
+
+- ⭐ 58420 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-07-04
+
+![career-ops](2026/07-04/2026-07-04_daily-top_career-ops.png)
+
+### 5. [orca](https://github.com/stablyai/orca)
+
+> 🤖 **推荐理由**  
+> *Orca is a powerful IDE designed for managing parallel agents, enabling users to run coding agents like Codex and ClaudeCode simultaneously in isolated worktrees. Key features include a mobile companion app for monitoring agents, terminal splits with advanced functionality, and a design mode for easy UI element interaction. Users can manage tasks seamlessly with integrated GitHub and Linear support, SSH worktrees for remote operations, and extensive CLI scripting capabilities. Available on macOS, Windows, and Linux, Orca enhances productivity for developers, making it a versatile tool for AI-driven coding.*
+
+- ⭐ 11733 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-04
+
+![orca](2026/07-04/2026-07-04_daily-top_orca.png)
+
+### 6. [codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+
+> 🤖 **推荐理由**  
+> *The Codex Plugin for Claude Code enables seamless integration of Codex for code reviews and task delegation. Key features include commands for normal (`/codex:review`) and adversarial reviews (`/codex:adversarial-review`), as well as task management with commands like `/codex:rescue`, `/codex:transfer`, and `/codex:status`. Users can efficiently review code, challenge design decisions, and delegate tasks to Codex while managing background jobs. This plugin enhances developer workflows by leveraging Codex's capabilities directly within Claude Code, requiring a ChatGPT subscription or OpenAI API key.*
+
+- ⭐ 23315 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-07-04
+
+![codex-plugin-cc](2026/07-04/2026-07-04_daily-top_codex-plugin-cc.png)
+
+### 7. [ECC](https://github.com/affaan-m/ECC)
+
+> 🤖 **推荐理由**  
+> *ECC is a powerful performance optimization system for AI agents, supporting platforms like Claude Code, Codex, and Cursor. It features a comprehensive framework for skills, instincts, memory optimization, and security scanning, enabling efficient workflows across various coding environments. Key highlights include over 67 specialized subagents, 277 skills, and automated hooks for context management and task execution. With continuous learning capabilities and extensive community support, ECC is designed for real-world applications, ensuring seamless integration and enhanced productivity in development processes.*
+
+- ⭐ 225723 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-07-04
+
+![ECC](2026/07-04/2026-07-04_daily-top_ECC.png)
+
+### 8. [meetily](https://github.com/Zackriya-Solutions/meetily)
+
+> 🤖 **推荐理由**  
+> *Meetily is a privacy-first AI meeting assistant that offers real-time transcription, speaker diarization, and AI-generated summaries, all processed locally on your device without cloud dependency. Built in Rust, it supports macOS and Windows and is open-source, ensuring data sovereignty and compliance. Key features include 4x faster transcription using Parakeet/Whisper models, customizable AI endpoints, and professional audio mixing. Meetily PRO enhances accuracy and workflow capabilities, making it ideal for enterprises focused on privacy and control.*
+
+- ⭐ 14165 stars
 - 💻 Rust
-- 📅 Updated: 2026-07-03
+- 📅 Updated: 2026-07-04
 
-![herdr](2026/07-03/2026-07-03_daily-top_herdr.png)
+![meetily](2026/07-04/2026-07-04_daily-top_meetily.png)
 
-### 5. [firecrawl](https://github.com/firecrawl/firecrawl)
+### 9. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
 > 🤖 **推荐理由**  
-> *Firecrawl is a robust API designed for large-scale web searching, scraping, and interaction. With 143,328 stars on GitHub, it offers unmatched reliability, covering 96% of the web, including JS-heavy pages. Key features include fast data retrieval, LLM-ready outputs in Markdown and JSON, and seamless integration with AI agents. Users can search, scrape, and interact with web content effortlessly, utilizing endpoints for batch scraping and website crawling. As an open-source solution, Firecrawl combines collaborative development with powerful, automated data gathering capabilities.*
+> *OmniRoute is a powerful AI gateway that connects developers to over 237 providers, including 90+ free options, through a single endpoint. Key features include smart auto-fallback, extensive routing strategies, and RTK + Caveman compression, which saves 15-95% on token usage. It enables seamless integration with popular coding tools like Claude Code, Codex, and Copilot. With robust security, a user-friendly dashboard, and support for various platforms (PWA, Desktop), OmniRoute enhances productivity while reducing costs. Join a thriving community and streamline your AI development today.*
 
-- ⭐ 143328 stars
+- ⭐ 10918 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-03
+- 📅 Updated: 2026-07-04
 
-![firecrawl](2026/07-03/2026-07-03_daily-top_firecrawl.png)
+![OmniRoute](2026/07-04/2026-07-04_daily-top_OmniRoute.png)
 
-### 6. [ECC](https://github.com/affaan-m/ECC)
-
-> 🤖 **推荐理由**  
-> *ECC is a high-performance optimization system for AI agents, built in JavaScript and boasting over 225,000 stars. It integrates skills, memory optimization, security, and continuous learning across platforms like Claude Code, Codex, and OpenCode. Key features include a comprehensive dashboard for managing agents, skills, and commands, alongside advanced security auditing via AgentShield. ECC supports various languages and frameworks, providing a robust environment for development and deployment, making it ideal for team collaboration in AI-driven projects.*
-
-- ⭐ 225278 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-07-03
-
-![ECC](2026/07-03/2026-07-03_daily-top_ECC.png)
-
-### 7. [archify](https://github.com/tt-a1i/archify)
+### 10. [herdr](https://github.com/ogulcancelik/herdr)
 
 > 🤖 **推荐理由**  
-> *Archify is a powerful tool for generating stunning architecture diagrams, workflow representations, and data-flow visuals from plain-English descriptions. Key features include a dark/light theme toggle, ultra-crisp image exports in PNG/JPEG/WebP/SVG formats, and seamless clipboard copying. It supports various diagram types, such as architecture, workflow, sequence, data flow, and lifecycle diagrams, all within a self-contained HTML file. With no design skills required, users can easily iterate and refine diagrams through chat, making it ideal for technical communication and documentation.*
+> *Herdr is an innovative agent multiplexer designed for terminal use, enabling users to manage multiple coding agents seamlessly. Key features include dedicated terminals for each agent, real-time state visibility (blocked, working, done), and intuitive workspace management with tabs and panes. Herdr runs as a lightweight Rust binary, ensuring persistence and allowing remote access via SSH without GUI dependencies. It supports various agents, providing a scriptable interface through a local socket API. With Herdr, users can optimize their workflow in a familiar terminal environment.*
 
-- ⭐ 2278 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-07-03
+- ⭐ 10867 stars
+- 💻 Rust
+- 📅 Updated: 2026-07-04
 
-![archify](2026/07-03/2026-07-03_daily-top_archify.png)
-
-### 8. [AiToEarn](https://github.com/yikart/AiToEarn)
-
-> 🤖 **推荐理由**  
-> *AiToEarn is an innovative AI-driven platform designed to help creators, brands, and businesses monetize and distribute content across major social media channels, including TikTok, YouTube, and Instagram. Key features include automated content creation, multi-platform publishing, and interactive engagement tools, enabling users to streamline their content marketing efforts. With flexible monetization models like CPS, CPE, and CPM, AiToEarn maximizes revenue potential for content creators. The platform supports quick access through various deployment methods, including web use and Docker.*
-
-- ⭐ 22914 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-03
-
-![AiToEarn](2026/07-03/2026-07-03_daily-top_AiToEarn.png)
-
-### 9. [FluidVoice](https://github.com/altic-dev/FluidVoice)
-
-> 🤖 **推荐理由**  
-> *FluidVoice is an open-source macOS dictation app offering the fastest on-device speech-to-text (STT) capabilities with a unique AI enhancement model, Fluid Intelligence. Key features include real-time transcription, voice command control, and support for multiple speech models like Parakeet and Whisper. The app prioritizes user privacy by keeping data local, with options for cloud-based enhancements. With 5,873 stars on GitHub, it’s a compelling alternative for efficient dictation. iOS and Windows versions are in development, with a Linux version planned.*
-
-- ⭐ 5873 stars
-- 💻 Swift
-- 📅 Updated: 2026-07-03
-
-![FluidVoice](2026/07-03/2026-07-03_daily-top_FluidVoice.png)
-
-### 10. [career-ops](https://github.com/santifer/career-ops)
-
-> 🤖 **推荐理由**  
-> *Career-Ops is an AI-powered job search system that transforms your job application process into an efficient pipeline. Key features include a 14-skill mode evaluation system, automated PDF generation for tailored CVs, and batch processing for evaluating multiple job offers. The platform scans job portals, tracks applications, and generates negotiation scripts and cover letters. Designed to empower candidates, Career-Ops allows users to filter job listings based on personalized criteria, ensuring a focused approach to job applications. With over 57,982 stars on GitHub, it's a community-driven tool for the modern job seeker.*
-
-- ⭐ 57982 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-07-03
-
-![career-ops](2026/07-03/2026-07-03_daily-top_career-ops.png)
+![herdr](2026/07-04/2026-07-04_daily-top_herdr.png)
 
 ---
 
@@ -140,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-03 03:53:35 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-04 03:44:35 UTC
