@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-05
 
-![caveman](2026/07-05/2026-07-05_daily-top_caveman.png)
+![caveman](2026-07-05_daily-top_caveman.png)
 
 ### 2. [astryx](https://github.com/facebook/astryx)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-05
 
-![astryx](2026/07-05/2026-07-05_daily-top_astryx.png)
+![astryx](2026-07-05_daily-top_astryx.png)
 
 ### 3. [page-agent](https://github.com/alibaba/page-agent)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-05
 
-![page-agent](2026/07-05/2026-07-05_daily-top_page-agent.png)
+![page-agent](2026-07-05_daily-top_page-agent.png)
 
 ### 4. [codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
 
@@ -61,7 +61,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-05
 
-![codex-plugin-cc](2026/07-05/2026-07-05_daily-top_codex-plugin-cc.png)
+![codex-plugin-cc](2026-07-05_daily-top_codex-plugin-cc.png)
 
 ### 5. [meetily](https://github.com/Zackriya-Solutions/meetily)
 
@@ -72,7 +72,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-05
 
-![meetily](2026/07-05/2026-07-05_daily-top_meetily.png)
+![meetily](2026-07-05_daily-top_meetily.png)
 
 ### 6. [herdr](https://github.com/ogulcancelik/herdr)
 
@@ -83,7 +83,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-05
 
-![herdr](2026/07-05/2026-07-05_daily-top_herdr.png)
+![herdr](2026-07-05_daily-top_herdr.png)
 
 ### 7. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -94,7 +94,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-05
 
-![system_prompts_leaks](2026/07-05/2026-07-05_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-07-05_daily-top_system_prompts_leaks.png)
 
 ### 8. [ECC](https://github.com/affaan-m/ECC)
 
@@ -105,7 +105,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-05
 
-![ECC](2026/07-05/2026-07-05_daily-top_ECC.png)
+![ECC](2026-07-05_daily-top_ECC.png)
 
 ### 9. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-05
 
-![chrome-devtools-mcp](2026/07-05/2026-07-05_daily-top_chrome-devtools-mcp.png)
+![chrome-devtools-mcp](2026-07-05_daily-top_chrome-devtools-mcp.png)
 
 ### 10. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-05
 
-![impeccable](2026/07-05/2026-07-05_daily-top_impeccable.png)
+![impeccable](2026-07-05_daily-top_impeccable.png)
 
 ---
 

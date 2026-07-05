@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-07-04
+# 📊 🌟 GitHub Trending Daily - 2026-07-05
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **465449** ⭐ | **58817** 🍴
+**10** Projects | **528741** ⭐ | **58908** 🍴
 
-**Top Languages:** `JavaScript` (4) · `TypeScript` (4) · `Rust` (2)
+**Top Languages:** `JavaScript` (5) · `TypeScript` (3) · `Rust` (2)
 
-**Updated:** 2026-07-04 03:44 UTC
+**Updated:** 2026-07-05 04:04 UTC
 
 **Categories:**
 
@@ -21,113 +21,113 @@
 ### 1. [caveman](https://github.com/JuliusBrussee/caveman)
 
 > 🤖 **Why Recommend**  
-> *Caveman is a JavaScript plugin that enhances AI coding agents like Claude Code, Codex, and Gemini by reducing output tokens by 65% while maintaining technical accuracy. It simplifies responses into concise "caveman-speak," saving users money and improving readability. Key features include six response compression levels, session token statistics, and the ability to rewrite memory files for future savings. Installable with a single command, Caveman integrates seamlessly across 30+ agents, making it a valuable tool for efficient coding communication.*
+> *Caveman is a JavaScript plugin that optimizes AI communication by reducing output tokens by 65% while maintaining technical accuracy. It transforms responses from various coding agents, such as Claude Code and Codex, into concise caveman-speak, ensuring clear communication without losing essential information. Key features include adjustable response brevity levels, real-time token savings statistics, and the ability to compress memory files for ongoing efficiency. Caveman integrates seamlessly with over 30 agents, making coding interactions faster and more efficient.*
 
-- ⭐ 83052 stars
+- ⭐ 84093 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-04
+- 📅 Updated: 2026-07-05
 
-![caveman](2026/07-04/2026-07-04_daily-top_caveman.png)
+![caveman](2026/07-05/2026-07-05_daily-top_caveman.png)
 
-### 2. [page-agent](https://github.com/alibaba/page-agent)
+### 2. [astryx](https://github.com/facebook/astryx)
+
+> 🤖 **Why Recommend**  
+> *Astryx is an open source, fully customizable design system built on React and StyleX, currently in beta with 5,410 stars. It features 150+ accessible components, brand-level theming, dark mode, and ready-to-ship templates, allowing seamless integration without build plugins. Key highlights include open internals for component customization, no styling lock-in, and a collaborative API designed for both humans and AI assistants. It offers a CLI for easy access to documentation and scaffolding, along with a variety of customizable themes. The system emphasizes strong conventions and user-friendly design principles.*
+
+- ⭐ 5410 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-05
+
+![astryx](2026/07-05/2026-07-05_daily-top_astryx.png)
+
+### 3. [page-agent](https://github.com/alibaba/page-agent)
 
 > 🤖 **Why Recommend**  
 > *JavaScript in-page GUI agent. Control web interfaces with natural language.. popular project, actively maintained, recently updated*
 
-- ⭐ 22513 stars
-- 🍴 1948 forks
+- ⭐ 23210 stars
+- 🍴 2013 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-07-04
+- 📅 Updated: 2026-07-05
 
-![page-agent](2026/07-04/2026-07-04_daily-top_page-agent.png)
+![page-agent](2026/07-05/2026-07-05_daily-top_page-agent.png)
 
-### 3. [astryx](https://github.com/facebook/astryx)
-
-> 🤖 **Why Recommend**  
-> *Astryx is an open-source, fully customizable design system developed at Meta, currently in Beta. Built with TypeScript, React, and StyleX, it offers 150+ accessible components, brand-level theming, dark mode, and ready-to-ship templates. Key features include open internals for component composition, no styling lock-in, and easy customization through CSS property overrides. The system is designed for both humans and AI assistants, ensuring a cohesive development experience. It includes essential packages for core components, CLI tooling, and customizable themes, promoting strong conventions and accessibility.*
-
-- ⭐ 4743 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-04
-
-![astryx](2026/07-04/2026-07-04_daily-top_astryx.png)
-
-### 4. [career-ops](https://github.com/santifer/career-ops)
+### 4. [codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
 
 > 🤖 **Why Recommend**  
-> *Career-Ops is an AI-driven job search system designed to optimize the application process. Key features include a structured A-F job evaluation, ATS-optimized CV and cover letter generation, batch processing of job offers, and automated scanning of major job portals. The platform allows users to track applications in a single dashboard while providing insights into company culture and contact discovery for networking. With support for multiple AI coding CLIs, it transforms job searching into a streamlined and personalized experience. Open source and built with Claude Code.*
+> *The codex-plugin-cc integrates Codex into Claude Code, enabling seamless code reviews and task delegation. Key features include `/codex:review` for standard reviews, `/codex:adversarial-review` for challenging design decisions, and commands like `/codex:rescue`, `/codex:transfer`, and `/codex:status` for managing tasks and job statuses. Users benefit from an efficient workflow, leveraging Codex’s capabilities directly within their existing environment. Requires Node.js and a ChatGPT subscription or OpenAI API key for operation.*
 
-- ⭐ 58420 stars
+- ⭐ 24643 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-04
+- 📅 Updated: 2026-07-05
 
-![career-ops](2026/07-04/2026-07-04_daily-top_career-ops.png)
+![codex-plugin-cc](2026/07-05/2026-07-05_daily-top_codex-plugin-cc.png)
 
-### 5. [orca](https://github.com/stablyai/orca)
-
-> 🤖 **Why Recommend**  
-> *Orca is a powerful IDE designed for managing parallel agents, enabling users to run coding agents like Codex and ClaudeCode simultaneously in isolated worktrees. Key features include a mobile companion app for monitoring agents, terminal splits with advanced functionality, and a design mode for easy UI element interaction. Users can manage tasks seamlessly with integrated GitHub and Linear support, SSH worktrees for remote operations, and extensive CLI scripting capabilities. Available on macOS, Windows, and Linux, Orca enhances productivity for developers, making it a versatile tool for AI-driven coding.*
-
-- ⭐ 11733 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-04
-
-![orca](2026/07-04/2026-07-04_daily-top_orca.png)
-
-### 6. [codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+### 5. [meetily](https://github.com/Zackriya-Solutions/meetily)
 
 > 🤖 **Why Recommend**  
-> *The Codex Plugin for Claude Code enables seamless integration of Codex for code reviews and task delegation. Key features include commands for normal (`/codex:review`) and adversarial reviews (`/codex:adversarial-review`), as well as task management with commands like `/codex:rescue`, `/codex:transfer`, and `/codex:status`. Users can efficiently review code, challenge design decisions, and delegate tasks to Codex while managing background jobs. This plugin enhances developer workflows by leveraging Codex's capabilities directly within Claude Code, requiring a ChatGPT subscription or OpenAI API key.*
+> *Meetily is a privacy-first AI meeting assistant designed for macOS and Windows, featuring 100% local processing with no cloud dependency. Key features include 4x faster live transcription using Parakeet/Whisper, speaker diarization, and AI summaries via Ollama. It's open-source, ensuring data sovereignty and compliance, making it ideal for enterprises. Users can customize their experience with support for multiple AI providers and advanced export options. Meetily PRO offers enhanced accuracy and additional features for professionals. With over 15,000 stars on GitHub, it stands out for its commitment to privacy and control.*
 
-- ⭐ 23315 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-07-04
-
-![codex-plugin-cc](2026/07-04/2026-07-04_daily-top_codex-plugin-cc.png)
-
-### 7. [ECC](https://github.com/affaan-m/ECC)
-
-> 🤖 **Why Recommend**  
-> *ECC is a powerful performance optimization system for AI agents, supporting platforms like Claude Code, Codex, and Cursor. It features a comprehensive framework for skills, instincts, memory optimization, and security scanning, enabling efficient workflows across various coding environments. Key highlights include over 67 specialized subagents, 277 skills, and automated hooks for context management and task execution. With continuous learning capabilities and extensive community support, ECC is designed for real-world applications, ensuring seamless integration and enhanced productivity in development processes.*
-
-- ⭐ 225723 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-07-04
-
-![ECC](2026/07-04/2026-07-04_daily-top_ECC.png)
-
-### 8. [meetily](https://github.com/Zackriya-Solutions/meetily)
-
-> 🤖 **Why Recommend**  
-> *Meetily is a privacy-first AI meeting assistant that offers real-time transcription, speaker diarization, and AI-generated summaries, all processed locally on your device without cloud dependency. Built in Rust, it supports macOS and Windows and is open-source, ensuring data sovereignty and compliance. Key features include 4x faster transcription using Parakeet/Whisper models, customizable AI endpoints, and professional audio mixing. Meetily PRO enhances accuracy and workflow capabilities, making it ideal for enterprises focused on privacy and control.*
-
-- ⭐ 14165 stars
+- ⭐ 15416 stars
 - 💻 Rust
-- 📅 Updated: 2026-07-04
+- 📅 Updated: 2026-07-05
 
-![meetily](2026/07-04/2026-07-04_daily-top_meetily.png)
+![meetily](2026/07-05/2026-07-05_daily-top_meetily.png)
 
-### 9. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-
-> 🤖 **Why Recommend**  
-> *OmniRoute is a powerful AI gateway that connects developers to over 237 providers, including 90+ free options, through a single endpoint. Key features include smart auto-fallback, extensive routing strategies, and RTK + Caveman compression, which saves 15-95% on token usage. It enables seamless integration with popular coding tools like Claude Code, Codex, and Copilot. With robust security, a user-friendly dashboard, and support for various platforms (PWA, Desktop), OmniRoute enhances productivity while reducing costs. Join a thriving community and streamline your AI development today.*
-
-- ⭐ 10918 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-04
-
-![OmniRoute](2026/07-04/2026-07-04_daily-top_OmniRoute.png)
-
-### 10. [herdr](https://github.com/ogulcancelik/herdr)
+### 6. [herdr](https://github.com/ogulcancelik/herdr)
 
 > 🤖 **Why Recommend**  
-> *Herdr is an innovative agent multiplexer designed for terminal use, enabling users to manage multiple coding agents seamlessly. Key features include dedicated terminals for each agent, real-time state visibility (blocked, working, done), and intuitive workspace management with tabs and panes. Herdr runs as a lightweight Rust binary, ensuring persistence and allowing remote access via SSH without GUI dependencies. It supports various agents, providing a scriptable interface through a local socket API. With Herdr, users can optimize their workflow in a familiar terminal environment.*
+> *Herdr is a Rust-based terminal multiplexer that allows users to run and manage multiple coding agents seamlessly in one terminal. Key features include real terminal views for each agent, real-time state visibility (blocked, working, done), and mouse-native interactions for organizing workspaces, tabs, and panes. Herdr supports SSH and ensures persistent sessions, allowing users to detach and reattach without losing progress. With a lightweight binary and no GUI dependency, Herdr is designed for efficient agent management across various environments.*
 
-- ⭐ 10867 stars
+- ⭐ 11526 stars
 - 💻 Rust
-- 📅 Updated: 2026-07-04
+- 📅 Updated: 2026-07-05
 
-![herdr](2026/07-04/2026-07-04_daily-top_herdr.png)
+![herdr](2026/07-05/2026-07-05_daily-top_herdr.png)
+
+### 7. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
+> 🤖 **Why Recommend**  
+> *The "system_prompts_leaks" GitHub project catalogs extracted system prompts from major AI chatbots, including Anthropic's Claude, OpenAI's ChatGPT, Google's Gemini, and more. With over 49,000 stars, it serves as a comprehensive resource for understanding the underlying instructions of these AI models. Key features include regular updates on new prompts, detailed comparisons of model updates, and integration links for various applications. The project aims to illuminate the hidden rules governing AI behavior, enhancing transparency in AI interactions.*
+
+- ⭐ 49030 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-07-05
+
+![system_prompts_leaks](2026/07-05/2026-07-05_daily-top_system_prompts_leaks.png)
+
+### 8. [ECC](https://github.com/affaan-m/ECC)
+
+> 🤖 **Why Recommend**  
+> *ECC is a powerful performance optimization system for AI agent workflows, supporting Codex, Claude Code, Cursor, and more. With over 226,000 stars, it provides a comprehensive suite of features, including skills, instincts, memory optimization, continuous learning, and security scanning. Key services include a GitHub App for seamless integration, a desktop dashboard for component management, and a robust command structure for efficient task execution. ECC's advanced capabilities enable cross-harness orchestration, making it ideal for developers seeking to enhance their AI-driven projects.*
+
+- ⭐ 226071 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-07-05
+
+![ECC](2026/07-05/2026-07-05_daily-top_ECC.png)
+
+### 9. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
+> 🤖 **Why Recommend**  
+> *Chrome DevTools MCP is a TypeScript-based tool enabling coding agents like Antigravity and Copilot to interact with a live Chrome browser. With over 45k stars, it serves as a Model-Context-Protocol (MCP) server, providing advanced debugging, performance insights, and reliable automation through Puppeteer. Key features include network request analysis, screenshot capabilities, and performance tracing. The CLI allows for seamless integration into various development environments, while strict privacy measures ensure sensitive data is protected. Ideal for enhancing AI-driven coding assistance.*
+
+- ⭐ 45813 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-05
+
+![chrome-devtools-mcp](2026/07-05/2026-07-05_daily-top_chrome-devtools-mcp.png)
+
+### 10. [impeccable](https://github.com/pbakaus/impeccable)
+
+> 🤖 **Why Recommend**  
+> *Impeccable is a design language tool for AI coding agents, offering 23 commands and 45 deterministic rules to enhance AI-generated frontend design. Key features include a streamlined setup with `/impeccable init`, a shared design vocabulary, and tools for UX/UI planning, auditing, and final polishing. The CLI supports live browser iteration and detects common design flaws without LLMs. It integrates seamlessly with tools like Claude Code, GitHub Copilot, and Codex, making it an essential resource for improving AI-assisted design workflows. Visit impeccable.style for documentation and case studies.*
+
+- ⭐ 43529 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-07-05
+
+![impeccable](2026/07-05/2026-07-05_daily-top_impeccable.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-04 03:44:35 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-05 04:04:21 UTC
