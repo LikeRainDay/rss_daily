@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-06
 
-![codex-plugin-cc](2026/07-06/2026-07-06_daily-top_codex-plugin-cc.png)
+![codex-plugin-cc](2026-07-06_daily-top_codex-plugin-cc.png)
 
 ### 2. [meetily](https://github.com/Zackriya-Solutions/meetily)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-06
 
-![meetily](2026/07-06/2026-07-06_daily-top_meetily.png)
+![meetily](2026-07-06_daily-top_meetily.png)
 
 ### 3. [caveman](https://github.com/JuliusBrussee/caveman)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-06
 
-![caveman](2026/07-06/2026-07-06_daily-top_caveman.png)
+![caveman](2026-07-06_daily-top_caveman.png)
 
 ### 4. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-06
 
-![system_prompts_leaks](2026/07-06/2026-07-06_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-07-06_daily-top_system_prompts_leaks.png)
 
 ### 5. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-06
 
-![taste-skill](2026/07-06/2026-07-06_daily-top_taste-skill.png)
+![taste-skill](2026-07-06_daily-top_taste-skill.png)
 
 ### 6. [page-agent](https://github.com/alibaba/page-agent)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-06
 
-![page-agent](2026/07-06/2026-07-06_daily-top_page-agent.png)
+![page-agent](2026-07-06_daily-top_page-agent.png)
 
 ### 7. [herdr](https://github.com/ogulcancelik/herdr)
 
@@ -94,7 +94,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-06
 
-![herdr](2026/07-06/2026-07-06_daily-top_herdr.png)
+![herdr](2026-07-06_daily-top_herdr.png)
 
 ### 8. [astryx](https://github.com/facebook/astryx)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-06
 
-![astryx](2026/07-06/2026-07-06_daily-top_astryx.png)
+![astryx](2026-07-06_daily-top_astryx.png)
 
 ### 9. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-06
 
-![OmniRoute](2026/07-06/2026-07-06_daily-top_OmniRoute.png)
+![OmniRoute](2026-07-06_daily-top_OmniRoute.png)
 
 ### 10. [immich](https://github.com/immich-app/immich)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-06
 
-![immich](2026/07-06/2026-07-06_daily-top_immich.png)
+![immich](2026-07-06_daily-top_immich.png)
 
 ---
 
