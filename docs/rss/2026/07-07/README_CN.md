@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-07
 
-![meetily](2026/07-07/2026-07-07_daily-top_meetily.png)
+![meetily](2026-07-07_daily-top_meetily.png)
 
 ### 2. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-07
 
-![taste-skill](2026/07-07/2026-07-07_daily-top_taste-skill.png)
+![taste-skill](2026-07-07_daily-top_taste-skill.png)
 
 ### 3. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-07
 
-![system_prompts_leaks](2026/07-07/2026-07-07_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-07-07_daily-top_system_prompts_leaks.png)
 
 ### 4. [caveman](https://github.com/JuliusBrussee/caveman)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-07
 
-![caveman](2026/07-07/2026-07-07_daily-top_caveman.png)
+![caveman](2026-07-07_daily-top_caveman.png)
 
 ### 5. [codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-07
 
-![codex-plugin-cc](2026/07-07/2026-07-07_daily-top_codex-plugin-cc.png)
+![codex-plugin-cc](2026-07-07_daily-top_codex-plugin-cc.png)
 
 ### 6. [page-agent](https://github.com/alibaba/page-agent)
 
@@ -83,7 +83,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-07
 
-![page-agent](2026/07-07/2026-07-07_daily-top_page-agent.png)
+![page-agent](2026-07-07_daily-top_page-agent.png)
 
 ### 7. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-07
 
-![firecrawl](2026/07-07/2026-07-07_daily-top_firecrawl.png)
+![firecrawl](2026-07-07_daily-top_firecrawl.png)
 
 ### 8. [herdr](https://github.com/ogulcancelik/herdr)
 
@@ -105,7 +105,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-07
 
-![herdr](2026/07-07/2026-07-07_daily-top_herdr.png)
+![herdr](2026-07-07_daily-top_herdr.png)
 
 ### 9. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-07
 
-![OmniRoute](2026/07-07/2026-07-07_daily-top_OmniRoute.png)
+![OmniRoute](2026-07-07_daily-top_OmniRoute.png)
 
 ### 10. [CodexBar](https://github.com/steipete/CodexBar)
 
@@ -127,7 +127,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-07-07
 
-![CodexBar](2026/07-07/2026-07-07_daily-top_CodexBar.png)
+![CodexBar](2026-07-07_daily-top_CodexBar.png)
 
 ---
 
