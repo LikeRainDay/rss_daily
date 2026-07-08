@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-08
 
-![ai-job-search](2026/07-08/2026-07-08_daily-top_ai-job-search.png)
+![ai-job-search](2026-07-08_daily-top_ai-job-search.png)
 
 ### 2. [meetily](https://github.com/Zackriya-Solutions/meetily)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-08
 
-![meetily](2026/07-08/2026-07-08_daily-top_meetily.png)
+![meetily](2026-07-08_daily-top_meetily.png)
 
 ### 3. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-08
 
-![system_prompts_leaks](2026/07-08/2026-07-08_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-07-08_daily-top_system_prompts_leaks.png)
 
 ### 4. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-08
 
-![taste-skill](2026/07-08/2026-07-08_daily-top_taste-skill.png)
+![taste-skill](2026-07-08_daily-top_taste-skill.png)
 
 ### 5. [RuView](https://github.com/ruvnet/RuView)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-08
 
-![RuView](2026/07-08/2026-07-08_daily-top_RuView.png)
+![RuView](2026-07-08_daily-top_RuView.png)
 
 ### 6. [zvec](https://github.com/alibaba/zvec)
 
@@ -82,7 +82,7 @@
 - 💻 C++
 - 📅 Updated: 2026-07-08
 
-![zvec](2026/07-08/2026-07-08_daily-top_zvec.png)
+![zvec](2026-07-08_daily-top_zvec.png)
 
 ### 7. [herdr](https://github.com/ogulcancelik/herdr)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-08
 
-![herdr](2026/07-08/2026-07-08_daily-top_herdr.png)
+![herdr](2026-07-08_daily-top_herdr.png)
 
 ### 8. [CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-08
 
-![CubeSandbox](2026/07-08/2026-07-08_daily-top_CubeSandbox.png)
+![CubeSandbox](2026-07-08_daily-top_CubeSandbox.png)
 
 ### 9. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-08
 
-![OmniRoute](2026/07-08/2026-07-08_daily-top_OmniRoute.png)
+![OmniRoute](2026-07-08_daily-top_OmniRoute.png)
 
 ### 10. [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-08
 
-![TencentDB-Agent-Memory](2026/07-08/2026-07-08_daily-top_TencentDB-Agent-Memory.png)
+![TencentDB-Agent-Memory](2026-07-08_daily-top_TencentDB-Agent-Memory.png)
 
 ---
 

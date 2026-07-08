@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-07-07
+# 📊 🌟 GitHub Trending Daily - 2026-07-08
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **456303** ⭐ | **35316** 🍴
+**10** 个项目 | **280955** ⭐ | **34150** 🍴
 
-**热门语言:** `JavaScript` (4) · `TypeScript` (3) · `Rust` (2)
+**热门语言:** `Rust` (4) · `TypeScript` (3) · `JavaScript` (2)
 
-**更新时间:** 2026-07-07 04:01 UTC
+**更新时间:** 2026-07-08 03:28 UTC
 
 **分类分布:**
 
@@ -18,116 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [meetily](https://github.com/Zackriya-Solutions/meetily)
+### 1. [ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 
 > 🤖 **推荐理由**  
-> *Meetily is a privacy-first AI meeting assistant that operates entirely on your local machine, ensuring complete data sovereignty. Built with Rust, it offers real-time transcription using Parakeet/Whisper, speaker diarization, and AI-generated summaries via Ollama. Key features include local processing, multi-platform support (macOS, Windows, Linux), and open-source accessibility. Ideal for professionals and enterprises, Meetily prioritizes privacy and compliance while providing customizable, offline functionality. Explore advanced options with Meetily PRO for enhanced accuracy and team features.*
+> *The **ai-job-search** project is an AI-driven job application framework using Claude Code. With over 11,400 stars, it enables users to streamline their job search by filling out a profile, which Claude then uses to evaluate job postings, tailor CVs, write cover letters, and prepare for interviews. Key features include a structured workflow for job evaluation, a drafter-reviewer application process, and support for multiple job portals, specifically in Denmark. The tool is customizable, allowing users to add templates and job portals, and it emphasizes ATS compatibility for CVs.*
 
-- ⭐ 19596 stars
+- ⭐ 11439 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-08
+
+![ai-job-search](2026/07-08/2026-07-08_daily-top_ai-job-search.png)
+
+### 2. [meetily](https://github.com/Zackriya-Solutions/meetily)
+
+> 🤖 **推荐理由**  
+> *Meetily is a privacy-first, AI meeting assistant designed for macOS and Windows, offering local processing with no reliance on cloud services. It features 4x faster live transcription using Parakeet/Whisper, speaker diarization, and AI-driven summaries via Ollama. Built on Rust, this open-source tool ensures data sovereignty and compliance, making it ideal for enterprises. Key highlights include real-time transcription, customizable AI provider support, and GPU acceleration. Meetily PRO enhances functionality with advanced exports and team features, catering to professionals seeking high accuracy and control.*
+
+- ⭐ 20888 stars
 - 💻 Rust
-- 📅 Updated: 2026-07-07
+- 📅 Updated: 2026-07-08
 
-![meetily](2026/07-07/2026-07-07_daily-top_meetily.png)
-
-### 2. [taste-skill](https://github.com/Leonxlnx/taste-skill)
-
-> 🤖 **推荐理由**  
-> *Taste-Skill is an innovative JavaScript framework designed to enhance AI-generated frontends, preventing the production of generic UIs. With over 59,000 stars, it features portable Agent Skills for improved layout, typography, and motion. Notable services include image-generation skills for web and mobile, along with various design-focused skills like "redesign-skill" and "soft-skill." The framework is compatible with major coding agents and allows users to install skills easily via the `npx skills add` command, ensuring a streamlined development experience.*
-
-- ⭐ 59204 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-07-07
-
-![taste-skill](2026/07-07/2026-07-07_daily-top_taste-skill.png)
+![meetily](2026/07-08/2026-07-08_daily-top_meetily.png)
 
 ### 3. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
 > 🤖 **推荐理由**  
-> *The "system_prompts_leaks" GitHub project is a comprehensive repository documenting extracted system prompts from various AI chatbots, including Anthropic's Claude, OpenAI's ChatGPT, Google's Gemini, and xAI's Grok. With over 51,800 stars, it provides regularly updated insights into the prompts driving these models. Key features include detailed documentation of system prompts for multiple models, change logs for updates, and a focus on transparency in AI interactions. This project serves as a valuable resource for developers and researchers interested in understanding AI behavior.*
+> *The "system_prompts_leaks" GitHub project documents extracted system prompts from various leading AI chatbots, including Anthropic's Claude, OpenAI's ChatGPT, Google's Gemini, and xAI's Grok. With over 53,000 stars, it offers insights into the underlying instructions that guide these models. The repository is regularly updated, showcasing recent changes and providing access to prompts for multiple models and services. Key features include detailed documentation, version comparisons, and integration information, making it a valuable resource for AI developers and researchers.*
 
-- ⭐ 51800 stars
+- ⭐ 53153 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-07
+- 📅 Updated: 2026-07-08
 
-![system_prompts_leaks](2026/07-07/2026-07-07_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026/07-08/2026-07-08_daily-top_system_prompts_leaks.png)
 
-### 4. [caveman](https://github.com/JuliusBrussee/caveman)
+### 4. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 > 🤖 **推荐理由**  
-> *Caveman is a JavaScript skill/plugin that optimizes AI coding agents like Claude Code, Codex, and Gemini to communicate in a concise manner, reducing output tokens by an average of 65%. It offers various modes (lite, full, ultra, wenyan) for tailored brevity while maintaining technical accuracy. Key features include session token savings stats, memory file compression, and integration with 30+ agents. The installation is straightforward, requiring a single command. Caveman aims to enhance readability and speed, making it an efficient tool for developers.*
+> *Taste-Skill is a JavaScript-based framework designed to enhance AI-generated frontends, ensuring they are visually appealing and diverse rather than generic. With over 60,000 stars on GitHub, it offers a variety of portable Agent Skills, including design, image generation, and UI improvement functionalities. Key features include customizable dials for design variance, motion intensity, and visual density, alongside specialized skills for image-to-code workflows and redesigning existing projects. This framework is compatible with major coding agents, making it a versatile tool for developers aiming for high-quality UI design.*
 
-- ⭐ 85792 stars
+- ⭐ 60182 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-07
+- 📅 Updated: 2026-07-08
 
-![caveman](2026/07-07/2026-07-07_daily-top_caveman.png)
+![taste-skill](2026/07-08/2026-07-08_daily-top_taste-skill.png)
 
-### 5. [codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
-
-> 🤖 **推荐理由**  
-> *The Codex Plugin for Claude Code enables seamless integration of Codex for code reviews and task delegation. With commands like `/codex:review` for standard reviews, `/codex:adversarial-review` for challenging code decisions, and `/codex:rescue` for delegating tasks, users can enhance their coding workflow efficiently. Key features include task management with `/codex:status`, `/codex:result`, and `/codex:cancel`, along with setup and configuration options. This plugin is designed for Claude Code users to leverage Codex's capabilities directly within their existing environment.*
-
-- ⭐ 26361 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-07-07
-
-![codex-plugin-cc](2026/07-07/2026-07-07_daily-top_codex-plugin-cc.png)
-
-### 6. [page-agent](https://github.com/alibaba/page-agent)
+### 5. [RuView](https://github.com/ruvnet/RuView)
 
 > 🤖 **推荐理由**  
-> *JavaScript in-page GUI agent. Control web interfaces with natural language.. popular project, actively maintained, recently updated*
+> *RuView is a cutting-edge WiFi sensing platform that transforms commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection, all without cameras or wearables. It utilizes Channel State Information (CSI) from low-cost ESP32 nodes to detect people, monitor breathing and heart rates, and track movements through walls and in darkness. Compatible with major smart-home ecosystems like Home Assistant, Apple Home, Google Home, and Alexa, it offers seamless integration and privacy-friendly operation. Key features include presence and occupancy detection, vital sign monitoring, and activity recognition, making it ideal for healthcare, smart homes, and security applications.*
 
-- ⭐ 24676 stars
-- 🍴 2113 forks
-- 💻 TypeScript
-- 📅 Updated: 2026-07-07
-
-![page-agent](2026/07-07/2026-07-07_daily-top_page-agent.png)
-
-### 7. [firecrawl](https://github.com/firecrawl/firecrawl)
-
-> 🤖 **推荐理由**  
-> *Firecrawl is an open-source API designed for scalable web searching, scraping, and interaction. Key features include industry-leading reliability, fast latency, and LLM-ready outputs like clean Markdown and structured JSON. It simplifies complex tasks such as rotating proxies and rate limits, allowing seamless integration with AI agents. Core services include search, scrape, interact, crawl, and batch scrape, making it an essential tool for developers needing efficient web data extraction. Firecrawl also supports media parsing and offers SDKs for various programming languages.*
-
-- ⭐ 146460 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-07
-
-![firecrawl](2026/07-07/2026-07-07_daily-top_firecrawl.png)
-
-### 8. [herdr](https://github.com/ogulcancelik/herdr)
-
-> 🤖 **推荐理由**  
-> *Herdr is a terminal-based agent multiplexer written in Rust, enabling users to run and manage multiple coding agents seamlessly. With 12,970 stars on GitHub, it offers real terminal views for each agent, displaying their status (blocked, working, done) at a glance. Key features include persistent sessions, mouse-native workspace management, and the ability to detach and reattach without losing agent state. Herdr runs anywhere via a lightweight binary and supports extensive integrations with various agents. It combines the functionality of tmux with enhanced agent awareness, making it ideal for developers.*
-
-- ⭐ 12970 stars
+- ⭐ 78579 stars
 - 💻 Rust
-- 📅 Updated: 2026-07-07
+- 📅 Updated: 2026-07-08
 
-![herdr](2026/07-07/2026-07-07_daily-top_herdr.png)
+![RuView](2026/07-08/2026-07-08_daily-top_RuView.png)
+
+### 6. [zvec](https://github.com/alibaba/zvec)
+
+> 🤖 **推荐理由**  
+> *Zvec is a lightweight, in-process vector database designed for high-performance similarity search. With over 14,000 stars on GitHub, it offers features like native full-text search (FTS), hybrid retrieval combining vector and text queries, and a durable storage mechanism. Zvec supports both dense and sparse vectors, provides seamless installation via multiple SDKs (Python, Node.js, Go, Rust, and Dart), and operates across various platforms. Its efficient architecture and low-latency performance make it ideal for production environments, enabling rapid queries on large datasets.*
+
+- ⭐ 14095 stars
+- 💻 C++
+- 📅 Updated: 2026-07-08
+
+![zvec](2026/07-08/2026-07-08_daily-top_zvec.png)
+
+### 7. [herdr](https://github.com/ogulcancelik/herdr)
+
+> 🤖 **推荐理由**  
+> *Herdr is a powerful terminal-based agent multiplexer built in Rust, boasting over 13,000 stars on GitHub. It provides real-time visibility of agents' statuses—blocked, working, or done—and allows for seamless detachment and reattachment of sessions, even over SSH. With a pure socket API, agents can interact and manage output efficiently. It supports both keyboard and mouse inputs, offers plugin extensibility, and requires only a single Rust binary for operation. Comprehensive documentation and quick-start guides are available at herdr.dev.*
+
+- ⭐ 13656 stars
+- 💻 Rust
+- 📅 Updated: 2026-07-08
+
+![herdr](2026/07-08/2026-07-08_daily-top_herdr.png)
+
+### 8. [CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
+
+> 🤖 **推荐理由**  
+> *CubeSandbox is a high-performance, secure sandbox service for AI agents, built in Rust. It offers instant, concurrent, and lightweight environments with a sub-60ms startup time and less than 5MB memory overhead. Key features include hardware-level isolation, seamless E2B compatibility, automatic sandbox pause/resume, and a web-based management console. Enhanced security is provided through a credential vault and egress control. CubeSandbox supports both single-node and multi-node deployments, making it ideal for running multiple AI agents efficiently.*
+
+- ⭐ 8521 stars
+- 💻 Rust
+- 📅 Updated: 2026-07-08
+
+![CubeSandbox](2026/07-08/2026-07-08_daily-top_CubeSandbox.png)
 
 ### 9. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
 > 🤖 **推荐理由**  
-> *OmniRoute is a powerful AI gateway that connects over 237 providers (90+ free) through a single endpoint, enabling seamless integration of tools like Claude Code, Codex, and Copilot. Key features include smart auto-fallback across providers, RTK and Caveman compression to save 15-95% tokens, and a robust dashboard for tracking usage and costs. It supports multimodal APIs and offers a full CLI with 80+ commands, making it ideal for developers seeking cost-effective AI solutions. OmniRoute is open-source, ensuring privacy and flexibility.*
+> *OmniRoute is a powerful, free AI gateway that connects over 237 providers, including Claude, Codex, and Copilot, through a single endpoint. Key features include automatic fallback to prevent service interruptions, smart token compression saving 15-95% on usage, and support for 90+ free tiers. It offers a user-friendly dashboard for tracking free token usage, integrates seamlessly with various coding tools, and ensures production-grade reliability with built-in security measures. OmniRoute is designed for developers seeking cost-effective, efficient access to AI resources.*
 
-- ⭐ 12663 stars
+- ⭐ 13202 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-07
+- 📅 Updated: 2026-07-08
 
-![OmniRoute](2026/07-07/2026-07-07_daily-top_OmniRoute.png)
+![OmniRoute](2026/07-08/2026-07-08_daily-top_OmniRoute.png)
 
-### 10. [CodexBar](https://github.com/steipete/CodexBar)
+### 10. [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
 > 🤖 **推荐理由**  
-> *CodexBar is a macOS 14+ menu bar app that provides real-time usage stats for multiple AI coding providers, including OpenAI Codex, Claude, and many others, without requiring login. Key features include provider-specific usage meters, reset countdowns, credit balance tracking, and live status polling. Users can customize the display, merge icons for easy access, and utilize a bundled CLI for scripts and CI. With a privacy-first approach, CodexBar reuses existing provider sessions without storing passwords, making it a valuable tool for managing AI coding resources efficiently.*
+> *TencentDB-Agent-Memory provides a robust local long-term memory solution for AI agents, utilizing a unique 4-tier architecture that integrates symbolic short-term memory with layered long-term memory. This approach enhances task success and reduces token usage by up to 61.38%. Key features include automatic conversation capture, structured persona generation, and memory recall, all designed to minimize evidence loss while ensuring traceability. It supports integration with OpenClaw and Hermes, offering a production-ready environment with a local SQLite backend and hybrid retrieval capabilities.*
 
-- ⭐ 16781 stars
-- 💻 Swift
-- 📅 Updated: 2026-07-07
+- ⭐ 7240 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-08
 
-![CodexBar](2026/07-07/2026-07-07_daily-top_CodexBar.png)
+![TencentDB-Agent-Memory](2026/07-08/2026-07-08_daily-top_TencentDB-Agent-Memory.png)
 
 ---
 
@@ -141,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-07 04:01:52 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-08 03:28:10 UTC
