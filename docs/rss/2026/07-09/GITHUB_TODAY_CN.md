@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-09
 
-![ai-job-search](2026/07-09/2026-07-09_daily-top_ai-job-search.png)
+![ai-job-search](2026-07-09_daily-top_ai-job-search.png)
 
 ### 2. [agent-skills](https://github.com/addyosmani/agent-skills)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-09
 
-![agent-skills](2026/07-09/2026-07-09_daily-top_agent-skills.png)
+![agent-skills](2026-07-09_daily-top_agent-skills.png)
 
 ### 3. [meetily](https://github.com/Zackriya-Solutions/meetily)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-09
 
-![meetily](2026/07-09/2026-07-09_daily-top_meetily.png)
+![meetily](2026-07-09_daily-top_meetily.png)
 
 ### 4. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-09
 
-![system_prompts_leaks](2026/07-09/2026-07-09_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-07-09_daily-top_system_prompts_leaks.png)
 
 ### 5. [herdr](https://github.com/ogulcancelik/herdr)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-09
 
-![herdr](2026/07-09/2026-07-09_daily-top_herdr.png)
+![herdr](2026-07-09_daily-top_herdr.png)
 
 ### 6. [RuView](https://github.com/ruvnet/RuView)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-09
 
-![RuView](2026/07-09/2026-07-09_daily-top_RuView.png)
+![RuView](2026-07-09_daily-top_RuView.png)
 
 ### 7. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-09
 
-![taste-skill](2026/07-09/2026-07-09_daily-top_taste-skill.png)
+![taste-skill](2026-07-09_daily-top_taste-skill.png)
 
 ### 8. [CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-09
 
-![CubeSandbox](2026/07-09/2026-07-09_daily-top_CubeSandbox.png)
+![CubeSandbox](2026-07-09_daily-top_CubeSandbox.png)
 
 ### 9. [9router](https://github.com/decolua/9router)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-09
 
-![9router](2026/07-09/2026-07-09_daily-top_9router.png)
+![9router](2026-07-09_daily-top_9router.png)
 
 ### 10. [pentagi](https://github.com/vxcontrol/pentagi)
 
@@ -126,7 +126,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-09
 
-![pentagi](2026/07-09/2026-07-09_daily-top_pentagi.png)
+![pentagi](2026-07-09_daily-top_pentagi.png)
 
 ---
 
