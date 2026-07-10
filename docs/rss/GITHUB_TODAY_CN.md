@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-07-09
+# 📊 🌟 GitHub Trending Daily - 2026-07-10
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **369837** ⭐ | **46197** 🍴
+**10** 个项目 | **325075** ⭐ | **43738** 🍴
 
-**热门语言:** `JavaScript` (4) · `Rust` (4) · `TypeScript` (1)
+**热门语言:** `TypeScript` (4) · `JavaScript` (2) · `Rust` (2)
 
-**更新时间:** 2026-07-09 03:55 UTC
+**更新时间:** 2026-07-10 03:57 UTC
 
 **分类分布:**
 
@@ -21,112 +21,113 @@
 ### 1. [ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 
 > 🤖 **推荐理由**  
-> *The ai-job-search project is an AI-driven job application framework utilizing Claude Code. Users can fork the project, input their profiles, and leverage Claude to evaluate job postings, customize CVs, craft cover letters, and prepare for interviews. Key features include a structured workflow for job fit evaluation, tailored application documents in LaTeX, and a reviewer agent for critique. The tool is adaptable for various job markets, initially designed for Denmark, and incorporates career guidance best practices, making job seeking efficient and tailored.*
+> *The AI Job Search project is an open-source framework leveraging Claude Code to streamline job applications. Key features include automated job evaluation, tailored CV and cover letter drafting, and interview preparation. Users can customize their profiles, search job portals (initially focused on Denmark), and apply with a structured workflow that includes ATS verification. The framework supports skill gap analysis and template customization, making it adaptable for various job markets. With 19,440 stars, it offers a robust tool for job seekers to enhance their application process efficiently.*
 
-- ⭐ 15762 stars
+- ⭐ 19440 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-09
+- 📅 Updated: 2026-07-10
 
-![ai-job-search](2026/07-09/2026-07-09_daily-top_ai-job-search.png)
+![ai-job-search](2026/07-10/2026-07-10_daily-top_ai-job-search.png)
 
 ### 2. [agent-skills](https://github.com/addyosmani/agent-skills)
 
 > 🤖 **推荐理由**  
-> *Agent Skills is a production-grade toolkit designed to enhance AI coding agents with structured engineering workflows. It features 24 skills that guide agents through the software development lifecycle—from defining specifications to shipping production-ready code. Key highlights include automated skill activation based on user actions, a command interface for seamless integration with various agents, and a focus on best practices derived from Google's engineering culture. The project encapsulates vital principles such as test-driven development, code reviews, and performance optimization, ensuring high-quality output with minimal manual intervention.*
+> *Agent Skills provides production-grade engineering workflows for AI coding agents, enhancing software development with structured processes and quality gates. With 24 skills encompassing the entire development lifecycle—from defining and planning to building, verifying, reviewing, and shipping—this JavaScript project empowers agents to adhere to best practices consistently. Key features include automated task handling, integration with various coding tools, and pre-configured agent personas for specialized reviews. Ideal for achieving production-quality outcomes, Agent Skills encapsulates rigorous engineering principles from industry leaders.*
 
-- ⭐ 74460 stars
+- ⭐ 76048 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-09
+- 📅 Updated: 2026-07-10
 
-![agent-skills](2026/07-09/2026-07-09_daily-top_agent-skills.png)
+![agent-skills](2026/07-10/2026-07-10_daily-top_agent-skills.png)
 
-### 3. [meetily](https://github.com/Zackriya-Solutions/meetily)
+### 3. [voicebox](https://github.com/jamiepine/voicebox)
 
 > 🤖 **推荐理由**  
-> *Meetily is a privacy-first AI meeting assistant designed for macOS and Windows, offering real-time transcription, speaker diarization, and AI-generated summaries, all processed locally with no cloud dependency. Built with Rust, it supports Ollama, Claude, and other AI models while ensuring complete data sovereignty. Key features include multi-platform support, open-source accessibility, and GPU acceleration for enhanced performance. Meetily PRO offers advanced capabilities like custom summaries and auto-meeting detection. Ideal for professionals and enterprises prioritizing privacy and control over their meeting data.*
+> *Voicebox is an open-source AI voice studio that allows users to clone voices, generate speech in 23 languages, and dictate into any application. Key features include seven TTS engines, voice cloning, expressive speech with paralinguistic tags, and a multi-track stories editor. It operates entirely locally, ensuring complete privacy of voice data. Voicebox supports global dictation, agent voice output, and offers an API for integration. Built with Tauri for native performance, it runs on macOS, Windows, and Linux, making it a versatile tool for voice I/O tasks.*
 
-- ⭐ 21719 stars
-- 💻 Rust
-- 📅 Updated: 2026-07-09
+- ⭐ 40076 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-10
 
-![meetily](2026/07-09/2026-07-09_daily-top_meetily.png)
+![voicebox](2026/07-10/2026-07-10_daily-top_voicebox.png)
 
 ### 4. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
 > 🤖 **推荐理由**  
-> *The "system_prompts_leaks" GitHub repository compiles extracted system prompts from prominent AI models, including Anthropic's Claude series, OpenAI's ChatGPT and Codex, Google's Gemini, and xAI's Grok. With over 54,000 stars, it serves as a valuable resource for understanding AI behavior. Key features include regularly updated prompts, detailed model comparisons, and integration documentation for various applications like GitHub Copilot and VS Code. This project helps users explore and leverage the underlying instructions driving contemporary AI chatbots.*
+> *The "system_prompts_leaks" GitHub project documents extracted system prompts from major AI chatbots, including Anthropic's Claude, OpenAI's ChatGPT, Google’s Gemini, and xAI's Grok. With over 55,000 stars, it serves as a valuable resource for understanding the underlying instructions of various AI models. Key features include regular updates on new prompts, detailed version comparisons, and links to official system prompts. The project aims to enhance transparency in AI by revealing hidden operational guidelines, making it a significant tool for researchers and developers alike.*
 
-- ⭐ 54353 stars
+- ⭐ 55258 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-09
+- 📅 Updated: 2026-07-10
 
-![system_prompts_leaks](2026/07-09/2026-07-09_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026/07-10/2026-07-10_daily-top_system_prompts_leaks.png)
 
-### 5. [herdr](https://github.com/ogulcancelik/herdr)
+### 5. [orca](https://github.com/stablyai/orca)
 
 > 🤖 **推荐理由**  
-> *Herdr is a powerful agent multiplexer designed for terminal use, built in Rust and boasting over 14,000 stars on GitHub. Key features include real-time visibility of agent statuses, persistent sessions that survive restarts, and a pure socket API for agent interaction. Users can leverage both keyboard and mouse controls, and extend functionality through plugins. Herdr is lightweight, requiring only a single Rust binary, and supports easy installation via curl or Homebrew. Comprehensive documentation and a marketplace for plugins enhance user experience.*
+> *Orca is an advanced development environment designed for managing a fleet of parallel AI agents, enabling users to run multiple coding agents such as Codex, ClaudeCode, and OpenCode in isolated worktrees. Key features include mobile companion apps for iOS and Android, terminal splits, design mode for UI interaction, and seamless GitHub integration. Users can monitor agent performance, annotate AI-generated diffs, and employ SSH for remote operations. With support for any CLI agent and robust scripting capabilities, Orca enhances productivity for developers across desktop and mobile platforms.*
 
-- ⭐ 14444 stars
-- 💻 Rust
-- 📅 Updated: 2026-07-09
+- ⭐ 15238 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-10
 
-![herdr](2026/07-09/2026-07-09_daily-top_herdr.png)
+![orca](2026/07-10/2026-07-10_daily-top_orca.png)
 
 ### 6. [RuView](https://github.com/ruvnet/RuView)
 
 > 🤖 **推荐理由**  
-> *RuView transforms commodity WiFi signals into real-time spatial intelligence, enabling presence detection, vital sign monitoring, and activity recognition without cameras or wearables. Key features include through-wall sensing, vital sign detection (breathing and heart rate), and activity tracking, all powered by low-cost ESP32 hardware. It integrates seamlessly with major smart home ecosystems like Home Assistant, Apple Home, Google Home, and Alexa. Built on Rust, RuView ensures privacy and edge processing, making it suitable for various applications in healthcare, security, and smart home automation.*
+> *RuView transforms commodity WiFi signals into real-time spatial intelligence, enabling presence detection, vital sign monitoring, and activity recognition without cameras or wearables. It operates via low-cost ESP32 sensors, integrating seamlessly with smart home ecosystems like Home Assistant, Apple Home, and Google Home. Key features include through-wall sensing, breathing and heart rate measurement, and environmental mapping. Built for edge applications, RuView uses a self-learning AI model, ensuring privacy and efficiency. With over 79,700 stars on GitHub, it represents a groundbreaking approach to contactless monitoring.*
 
-- ⭐ 79231 stars
+- ⭐ 79700 stars
 - 💻 Rust
-- 📅 Updated: 2026-07-09
+- 📅 Updated: 2026-07-10
 
-![RuView](2026/07-09/2026-07-09_daily-top_RuView.png)
+![RuView](2026/07-10/2026-07-10_daily-top_RuView.png)
 
-### 7. [taste-skill](https://github.com/Leonxlnx/taste-skill)
-
-> 🤖 **推荐理由**  
-> *Taste Skill is an innovative JavaScript framework designed to enhance AI-generated front-end interfaces, preventing bland outputs. With 60,793 stars, it offers a range of portable Agent Skills that improve layout, typography, and motion, ensuring visually appealing designs. Key features include multiple design variants, image generation skills for mockups, and specialized skills like redesigning existing projects and enforcing output quality. The framework is compatible with various coding agents and frameworks, streamlining the process of creating high-quality user interfaces.*
-
-- ⭐ 60793 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-07-09
-
-![taste-skill](2026/07-09/2026-07-09_daily-top_taste-skill.png)
-
-### 8. [CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
+### 7. [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
 > 🤖 **推荐理由**  
-> *CubeSandbox is a high-performance, secure sandbox service for AI agents, built with RustVMM and KVM. It offers instant deployment with sub-60ms startup time and less than 5MB memory overhead, enabling high-density operations. Key features include hardware-level isolation, E2B SDK compatibility, a web console for management, automatic sandbox pause/resume, and a credential vault for secure API access. Additionally, it supports event-level snapshots for rollback and cloning. With over 9,000 stars on GitHub, CubeSandbox is a leading open-source solution for scalable AI workloads.*
+> *TencentDB-Agent-Memory provides a robust long-term memory solution for AI agents through a 4-tier pipeline, eliminating external API dependencies. Key features include symbolic short-term memory, which reduces token usage by up to 61.38%, and layered long-term memory that organizes fragmented conversations into structured personas. The system enhances recall accuracy significantly, with improvements from 48% to 76%. It supports integration with OpenClaw and Hermes, offering local storage solutions and hybrid retrieval capabilities, making it a production-ready tool for efficient AI memory management.*
 
-- ⭐ 9009 stars
-- 💻 Rust
-- 📅 Updated: 2026-07-09
+- ⭐ 8021 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-10
 
-![CubeSandbox](2026/07-09/2026-07-09_daily-top_CubeSandbox.png)
+![TencentDB-Agent-Memory](2026/07-10/2026-07-10_daily-top_TencentDB-Agent-Memory.png)
 
-### 9. [9router](https://github.com/decolua/9router)
-
-> 🤖 **推荐理由**  
-> *9Router is an innovative AI coding router that connects various coding tools (like Claude Code, Codex, and Copilot) to over 40 AI providers, enabling unlimited free AI coding with auto-fallback and 20-40% token savings. Key features include RTK Token Saver for compression, real-time quota tracking, multi-account support, and seamless format translation. It supports both subscription and free models, ensuring users never hit limits or incur high costs. With a user-friendly dashboard, 9Router optimizes coding efficiency while minimizing expenses, making it ideal for developers seeking reliable AI assistance.*
-
-- ⭐ 21169 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-07-09
-
-![9router](2026/07-09/2026-07-09_daily-top_9router.png)
-
-### 10. [pentagi](https://github.com/vxcontrol/pentagi)
+### 8. [pentagi](https://github.com/vxcontrol/pentagi)
 
 > 🤖 **推荐理由**  
-> *PentAGI is a fully autonomous AI agent system designed for comprehensive penetration testing, leveraging advanced LLMs to automate complex security assessments. Key features include a suite of 20+ professional security tools, multi-agent collaboration, detailed reporting, and integration with external search systems. It operates within isolated Docker environments, ensuring secure execution. With a robust API and customizable LLM provider configurations, PentAGI supports various models, including OpenAI and Anthropic. Notable services include advanced context management, knowledge graph integration, and extensive monitoring capabilities through Grafana and Langfuse.*
+> *PentAGI is an innovative, fully autonomous AI agents system designed for complex penetration testing tasks. Key features include a sandboxed execution environment, integration of 20+ professional tools, advanced monitoring, detailed reporting, and a smart memory system for knowledge retention. Users benefit from a modular architecture with microservices, comprehensive REST and GraphQL APIs, and support for multiple LLM providers like OpenAI, Anthropic, and Google AI. With built-in community support, PentAGI empowers security professionals to conduct effective and efficient assessments.*
 
-- ⭐ 18897 stars
+- ⭐ 19518 stars
 - 💻 Go
-- 📅 Updated: 2026-07-09
+- 📅 Updated: 2026-07-10
 
-![pentagi](2026/07-09/2026-07-09_daily-top_pentagi.png)
+![pentagi](2026/07-10/2026-07-10_daily-top_pentagi.png)
+
+### 9. [CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
+
+> 🤖 **推荐理由**  
+> *CubeSandbox is a high-performance, lightweight sandbox service for AI agents, built with RustVMM and KVM. It features sub-60ms startup times, hardware-level isolation, and supports high-density deployments, allowing thousands of agents per node with minimal memory overhead. Key highlights include seamless E2B SDK compatibility, credential vaults for secure API access, and advanced snapshot capabilities for cloning and rollback. The service also offers a web console for management, auto-pause for cost optimization, and robust egress control, making it ideal for secure AI workloads.*
+
+- ⭐ 9373 stars
+- 💻 Rust
+- 📅 Updated: 2026-07-10
+
+![CubeSandbox](2026/07-10/2026-07-10_daily-top_CubeSandbox.png)
+
+### 10. [autoremesher](https://github.com/huxingyi/autoremesher)
+
+> 🤖 **推荐理由**  
+> *Automatic quad remeshing tool. popular project, actively maintained, recently updated*
+
+- ⭐ 2403 stars
+- 🍴 173 forks
+- 💻 C++
+- 📅 Updated: 2026-07-10
+
+![autoremesher](2026/07-10/2026-07-10_daily-top_autoremesher.png)
 
 ---
 
@@ -140,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-09 03:55:38 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-10 03:57:00 UTC

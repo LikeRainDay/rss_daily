@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-10
 
-![ai-job-search](2026/07-10/2026-07-10_daily-top_ai-job-search.png)
+![ai-job-search](2026-07-10_daily-top_ai-job-search.png)
 
 ### 2. [agent-skills](https://github.com/addyosmani/agent-skills)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-10
 
-![agent-skills](2026/07-10/2026-07-10_daily-top_agent-skills.png)
+![agent-skills](2026-07-10_daily-top_agent-skills.png)
 
 ### 3. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-10
 
-![voicebox](2026/07-10/2026-07-10_daily-top_voicebox.png)
+![voicebox](2026-07-10_daily-top_voicebox.png)
 
 ### 4. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-10
 
-![system_prompts_leaks](2026/07-10/2026-07-10_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-07-10_daily-top_system_prompts_leaks.png)
 
 ### 5. [orca](https://github.com/stablyai/orca)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-10
 
-![orca](2026/07-10/2026-07-10_daily-top_orca.png)
+![orca](2026-07-10_daily-top_orca.png)
 
 ### 6. [RuView](https://github.com/ruvnet/RuView)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-10
 
-![RuView](2026/07-10/2026-07-10_daily-top_RuView.png)
+![RuView](2026-07-10_daily-top_RuView.png)
 
 ### 7. [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-10
 
-![TencentDB-Agent-Memory](2026/07-10/2026-07-10_daily-top_TencentDB-Agent-Memory.png)
+![TencentDB-Agent-Memory](2026-07-10_daily-top_TencentDB-Agent-Memory.png)
 
 ### 8. [pentagi](https://github.com/vxcontrol/pentagi)
 
@@ -104,7 +104,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-10
 
-![pentagi](2026/07-10/2026-07-10_daily-top_pentagi.png)
+![pentagi](2026-07-10_daily-top_pentagi.png)
 
 ### 9. [CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-10
 
-![CubeSandbox](2026/07-10/2026-07-10_daily-top_CubeSandbox.png)
+![CubeSandbox](2026-07-10_daily-top_CubeSandbox.png)
 
 ### 10. [autoremesher](https://github.com/huxingyi/autoremesher)
 
@@ -127,7 +127,7 @@
 - 💻 C++
 - 📅 Updated: 2026-07-10
 
-![autoremesher](2026/07-10/2026-07-10_daily-top_autoremesher.png)
+![autoremesher](2026-07-10_daily-top_autoremesher.png)
 
 ---
 
