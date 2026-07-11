@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-07-10
+# 📊 🌟 GitHub Trending Daily - 2026-07-11
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **325075** ⭐ | **43738** 🍴
+**10** 个项目 | **733066** ⭐ | **87985** 🍴
 
-**热门语言:** `TypeScript` (4) · `JavaScript` (2) · `Rust` (2)
+**热门语言:** `JavaScript` (4) · `TypeScript` (3) · `C` (1)
 
-**更新时间:** 2026-07-10 03:57 UTC
+**更新时间:** 2026-07-11 03:22 UTC
 
 **分类分布:**
 
@@ -18,116 +18,117 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+### 1. [agent-skills](https://github.com/addyosmani/agent-skills)
 
 > 🤖 **推荐理由**  
-> *The AI Job Search project is an open-source framework leveraging Claude Code to streamline job applications. Key features include automated job evaluation, tailored CV and cover letter drafting, and interview preparation. Users can customize their profiles, search job portals (initially focused on Denmark), and apply with a structured workflow that includes ATS verification. The framework supports skill gap analysis and template customization, making it adaptable for various job markets. With 19,440 stars, it offers a robust tool for job seekers to enhance their application process efficiently.*
+> *Agent Skills is a JavaScript project designed to enhance AI coding agents with production-grade engineering workflows. It features 24 structured skills covering the software development lifecycle, from defining and planning to building, verifying, reviewing, and shipping code. Key highlights include automated task execution, tailored commands for various development phases, and the incorporation of best practices from Google's engineering culture. The project supports integration with multiple AI agents, ensuring consistent adherence to quality standards and efficient development processes.*
 
-- ⭐ 19440 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-10
-
-![ai-job-search](2026/07-10/2026-07-10_daily-top_ai-job-search.png)
-
-### 2. [agent-skills](https://github.com/addyosmani/agent-skills)
-
-> 🤖 **推荐理由**  
-> *Agent Skills provides production-grade engineering workflows for AI coding agents, enhancing software development with structured processes and quality gates. With 24 skills encompassing the entire development lifecycle—from defining and planning to building, verifying, reviewing, and shipping—this JavaScript project empowers agents to adhere to best practices consistently. Key features include automated task handling, integration with various coding tools, and pre-configured agent personas for specialized reviews. Ideal for achieving production-quality outcomes, Agent Skills encapsulates rigorous engineering principles from industry leaders.*
-
-- ⭐ 76048 stars
+- ⭐ 76884 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-10
+- 📅 Updated: 2026-07-11
 
-![agent-skills](2026/07-10/2026-07-10_daily-top_agent-skills.png)
+![agent-skills](2026/07-11/2026-07-11_daily-top_agent-skills.png)
 
-### 3. [voicebox](https://github.com/jamiepine/voicebox)
-
-> 🤖 **推荐理由**  
-> *Voicebox is an open-source AI voice studio that allows users to clone voices, generate speech in 23 languages, and dictate into any application. Key features include seven TTS engines, voice cloning, expressive speech with paralinguistic tags, and a multi-track stories editor. It operates entirely locally, ensuring complete privacy of voice data. Voicebox supports global dictation, agent voice output, and offers an API for integration. Built with Tauri for native performance, it runs on macOS, Windows, and Linux, making it a versatile tool for voice I/O tasks.*
-
-- ⭐ 40076 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-10
-
-![voicebox](2026/07-10/2026-07-10_daily-top_voicebox.png)
-
-### 4. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+### 2. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
 > 🤖 **推荐理由**  
-> *The "system_prompts_leaks" GitHub project documents extracted system prompts from major AI chatbots, including Anthropic's Claude, OpenAI's ChatGPT, Google’s Gemini, and xAI's Grok. With over 55,000 stars, it serves as a valuable resource for understanding the underlying instructions of various AI models. Key features include regular updates on new prompts, detailed version comparisons, and links to official system prompts. The project aims to enhance transparency in AI by revealing hidden operational guidelines, making it a significant tool for researchers and developers alike.*
+> *The "system_prompts_leaks" GitHub project serves as a comprehensive repository of extracted system prompts from various AI models, including Anthropic's Claude, OpenAI's ChatGPT, Google’s Gemini, and more. With over 55,000 stars, it documents prompt instructions for numerous chatbots, ensuring regular updates on new versions and features. Key highlights include detailed prompts for models like GPT-5.6, Claude Opus 4.8, and Gemini 3.5 Flash. This resource is invaluable for developers and researchers seeking insights into AI behavior and capabilities.*
 
-- ⭐ 55258 stars
+- ⭐ 55872 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-10
+- 📅 Updated: 2026-07-11
 
-![system_prompts_leaks](2026/07-10/2026-07-10_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026/07-11/2026-07-11_daily-top_system_prompts_leaks.png)
 
-### 5. [orca](https://github.com/stablyai/orca)
-
-> 🤖 **推荐理由**  
-> *Orca is an advanced development environment designed for managing a fleet of parallel AI agents, enabling users to run multiple coding agents such as Codex, ClaudeCode, and OpenCode in isolated worktrees. Key features include mobile companion apps for iOS and Android, terminal splits, design mode for UI interaction, and seamless GitHub integration. Users can monitor agent performance, annotate AI-generated diffs, and employ SSH for remote operations. With support for any CLI agent and robust scripting capabilities, Orca enhances productivity for developers across desktop and mobile platforms.*
-
-- ⭐ 15238 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-10
-
-![orca](2026/07-10/2026-07-10_daily-top_orca.png)
-
-### 6. [RuView](https://github.com/ruvnet/RuView)
+### 3. [pentagi](https://github.com/vxcontrol/pentagi)
 
 > 🤖 **推荐理由**  
-> *RuView transforms commodity WiFi signals into real-time spatial intelligence, enabling presence detection, vital sign monitoring, and activity recognition without cameras or wearables. It operates via low-cost ESP32 sensors, integrating seamlessly with smart home ecosystems like Home Assistant, Apple Home, and Google Home. Key features include through-wall sensing, breathing and heart rate measurement, and environmental mapping. Built for edge applications, RuView uses a self-learning AI model, ensuring privacy and efficiency. With over 79,700 stars on GitHub, it represents a groundbreaking approach to contactless monitoring.*
+> *PentAGI is a cutting-edge autonomous AI agent system for advanced penetration testing, built on Go, with 19,799 stars on GitHub. Key features include a secure Docker-based environment, 20+ professional pentesting tools, a smart memory system for knowledge retention, and advanced agent supervision for efficient task execution. It integrates with various LLM providers (OpenAI, Anthropic, Google AI, AWS Bedrock) and offers extensive APIs and a modern web UI for management. The system also supports monitoring through Grafana and Langfuse, making it a comprehensive solution for security professionals.*
 
-- ⭐ 79700 stars
-- 💻 Rust
-- 📅 Updated: 2026-07-10
-
-![RuView](2026/07-10/2026-07-10_daily-top_RuView.png)
-
-### 7. [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
-
-> 🤖 **推荐理由**  
-> *TencentDB-Agent-Memory provides a robust long-term memory solution for AI agents through a 4-tier pipeline, eliminating external API dependencies. Key features include symbolic short-term memory, which reduces token usage by up to 61.38%, and layered long-term memory that organizes fragmented conversations into structured personas. The system enhances recall accuracy significantly, with improvements from 48% to 76%. It supports integration with OpenClaw and Hermes, offering local storage solutions and hybrid retrieval capabilities, making it a production-ready tool for efficient AI memory management.*
-
-- ⭐ 8021 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-10
-
-![TencentDB-Agent-Memory](2026/07-10/2026-07-10_daily-top_TencentDB-Agent-Memory.png)
-
-### 8. [pentagi](https://github.com/vxcontrol/pentagi)
-
-> 🤖 **推荐理由**  
-> *PentAGI is an innovative, fully autonomous AI agents system designed for complex penetration testing tasks. Key features include a sandboxed execution environment, integration of 20+ professional tools, advanced monitoring, detailed reporting, and a smart memory system for knowledge retention. Users benefit from a modular architecture with microservices, comprehensive REST and GraphQL APIs, and support for multiple LLM providers like OpenAI, Anthropic, and Google AI. With built-in community support, PentAGI empowers security professionals to conduct effective and efficient assessments.*
-
-- ⭐ 19518 stars
+- ⭐ 19799 stars
 - 💻 Go
-- 📅 Updated: 2026-07-10
+- 📅 Updated: 2026-07-11
 
-![pentagi](2026/07-10/2026-07-10_daily-top_pentagi.png)
+![pentagi](2026/07-11/2026-07-11_daily-top_pentagi.png)
 
-### 9. [CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
+### 4. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
 > 🤖 **推荐理由**  
-> *CubeSandbox is a high-performance, lightweight sandbox service for AI agents, built with RustVMM and KVM. It features sub-60ms startup times, hardware-level isolation, and supports high-density deployments, allowing thousands of agents per node with minimal memory overhead. Key highlights include seamless E2B SDK compatibility, credential vaults for secure API access, and advanced snapshot capabilities for cloning and rollback. The service also offers a web console for management, auto-pause for cost optimization, and robust egress control, making it ideal for secure AI workloads.*
+> *High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, su. popular project, actively maintained, recently updated*
 
-- ⭐ 9373 stars
+- ⭐ 29742 stars
+- 🍴 2363 forks
+- 💻 C
+- 📅 Updated: 2026-07-11
+
+![codebase-memory-mcp](2026/07-11/2026-07-11_daily-top_codebase-memory-mcp.png)
+
+### 5. [voicebox](https://github.com/jamiepine/voicebox)
+
+> 🤖 **推荐理由**  
+> *Voicebox is an open-source AI voice studio that enables users to clone voices, generate speech, and dictate across applications while ensuring complete privacy. Key features include seven TTS engines, voice cloning from audio samples, support for 23 languages, and a multi-track editor for narratives. Its local-first design enhances performance and security, while an API facilitates integration with other applications. Voicebox also offers global dictation capabilities, emotional speech synthesis, and personality-driven voice profiles, making it a versatile tool for voice output and input.*
+
+- ⭐ 40498 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-11
+
+![voicebox](2026/07-11/2026-07-11_daily-top_voicebox.png)
+
+### 6. [ECC](https://github.com/affaan-m/ECC)
+
+> 🤖 **推荐理由**  
+> *ECC is a powerful performance optimization system designed for AI agent workflows, supporting platforms like Claude Code, Codex, and Cursor. Key features include skills management, instinct-based learning, memory optimization, and security scanning through tools like AgentShield. With over 67 specialized agents and 278 skills, ECC facilitates seamless integration and automation across various coding environments. It empowers users with advanced capabilities, such as multi-agent orchestration and a comprehensive security audit framework, enhancing productivity and code quality.*
+
+- ⭐ 228296 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-07-11
+
+![ECC](2026/07-11/2026-07-11_daily-top_ECC.png)
+
+### 7. [iptv](https://github.com/iptv-org/iptv)
+
+> 🤖 **推荐理由**  
+> *IPTV is a comprehensive collection of publicly available IPTV channels from around the globe, built in TypeScript and boasting over 132,000 stars on GitHub. Key features include easy playlist access, support for various video players, and an Electronic Program Guide (EPG) for most channels. The repository provides a centralized database of channel data and an API for extended functionality. Users can contribute, engage in discussions, and access a wealth of IPTV-related resources. The project emphasizes legal considerations, ensuring all links are user-submitted and publicly available.*
+
+- ⭐ 132132 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-11
+
+![iptv](2026/07-11/2026-07-11_daily-top_iptv.png)
+
+### 8. [codex](https://github.com/openai/codex)
+
+> 🤖 **推荐理由**  
+> *Codex is a lightweight coding agent from OpenAI, designed to run locally in your terminal. It allows seamless integration with popular code editors like VS Code and offers a desktop app experience. Users can install Codex using simple commands for Mac, Linux, or Windows, as well as through npm and Homebrew. It supports ChatGPT account sign-in for enhanced functionality and can be accessed via an API key. With over 97,000 stars on GitHub, Codex aims to streamline coding tasks and improve developer productivity. Comprehensive documentation is available for users and contributors.*
+
+- ⭐ 97031 stars
 - 💻 Rust
-- 📅 Updated: 2026-07-10
+- 📅 Updated: 2026-07-11
 
-![CubeSandbox](2026/07-10/2026-07-10_daily-top_CubeSandbox.png)
+![codex](2026/07-11/2026-07-11_daily-top_codex.png)
 
-### 10. [autoremesher](https://github.com/huxingyi/autoremesher)
+### 9. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **推荐理由**  
-> *Automatic quad remeshing tool. popular project, actively maintained, recently updated*
+> *Impeccable is a design language for AI coding agents, enabling better frontend design through 23 commands and 46 deterministic rules. It simplifies setup with `/impeccable init`, providing context for projects. Key features include a shared design vocabulary, live browser iteration, and commands for crafting, critiquing, and auditing designs. Impeccable supports multiple AI tools like Claude Code and GitHub Copilot, ensuring quality by detecting common design issues. For installation, simply run `npx impeccable install` and explore full documentation at impeccable.style.*
 
-- ⭐ 2403 stars
-- 🍴 173 forks
-- 💻 C++
-- 📅 Updated: 2026-07-10
+- ⭐ 45443 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-07-11
 
-![autoremesher](2026/07-10/2026-07-10_daily-top_autoremesher.png)
+![impeccable](2026/07-11/2026-07-11_daily-top_impeccable.png)
+
+### 10. [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+
+> 🤖 **推荐理由**  
+> *This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities. popular project, actively maintained, recently updated*
+
+- ⭐ 7369 stars
+- 🍴 934 forks
+- 💻 TypeScript
+- 📅 Updated: 2026-07-11
+
+![DesktopCommanderMCP](2026/07-11/2026-07-11_daily-top_DesktopCommanderMCP.png)
 
 ---
 
@@ -141,4 +142,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-10 03:57:00 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-11 03:22:05 UTC

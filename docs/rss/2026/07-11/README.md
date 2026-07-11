@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-11
 
-![agent-skills](2026/07-11/2026-07-11_daily-top_agent-skills.png)
+![agent-skills](2026-07-11_daily-top_agent-skills.png)
 
 ### 2. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-11
 
-![system_prompts_leaks](2026/07-11/2026-07-11_daily-top_system_prompts_leaks.png)
+![system_prompts_leaks](2026-07-11_daily-top_system_prompts_leaks.png)
 
 ### 3. [pentagi](https://github.com/vxcontrol/pentagi)
 
@@ -49,7 +49,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-11
 
-![pentagi](2026/07-11/2026-07-11_daily-top_pentagi.png)
+![pentagi](2026-07-11_daily-top_pentagi.png)
 
 ### 4. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
@@ -61,7 +61,7 @@
 - 💻 C
 - 📅 Updated: 2026-07-11
 
-![codebase-memory-mcp](2026/07-11/2026-07-11_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-07-11_daily-top_codebase-memory-mcp.png)
 
 ### 5. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-11
 
-![voicebox](2026/07-11/2026-07-11_daily-top_voicebox.png)
+![voicebox](2026-07-11_daily-top_voicebox.png)
 
 ### 6. [ECC](https://github.com/affaan-m/ECC)
 
@@ -83,7 +83,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-11
 
-![ECC](2026/07-11/2026-07-11_daily-top_ECC.png)
+![ECC](2026-07-11_daily-top_ECC.png)
 
 ### 7. [iptv](https://github.com/iptv-org/iptv)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-11
 
-![iptv](2026/07-11/2026-07-11_daily-top_iptv.png)
+![iptv](2026-07-11_daily-top_iptv.png)
 
 ### 8. [codex](https://github.com/openai/codex)
 
@@ -105,7 +105,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-11
 
-![codex](2026/07-11/2026-07-11_daily-top_codex.png)
+![codex](2026-07-11_daily-top_codex.png)
 
 ### 9. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -116,7 +116,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-11
 
-![impeccable](2026/07-11/2026-07-11_daily-top_impeccable.png)
+![impeccable](2026-07-11_daily-top_impeccable.png)
 
 ### 10. [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 
@@ -128,7 +128,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-11
 
-![DesktopCommanderMCP](2026/07-11/2026-07-11_daily-top_DesktopCommanderMCP.png)
+![DesktopCommanderMCP](2026-07-11_daily-top_DesktopCommanderMCP.png)
 
 ---
 
