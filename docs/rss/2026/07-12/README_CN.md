@@ -28,7 +28,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-12
 
-![DesktopCommanderMCP](2026/07-12/2026-07-12_daily-top_DesktopCommanderMCP.png)
+![DesktopCommanderMCP](2026-07-12_daily-top_DesktopCommanderMCP.png)
 
 ### 2. [pgrust](https://github.com/malisper/pgrust)
 
@@ -40,7 +40,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-12
 
-![pgrust](2026/07-12/2026-07-12_daily-top_pgrust.png)
+![pgrust](2026-07-12_daily-top_pgrust.png)
 
 ### 3. [bun](https://github.com/oven-sh/bun)
 
@@ -51,7 +51,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-12
 
-![bun](2026/07-12/2026-07-12_daily-top_bun.png)
+![bun](2026-07-12_daily-top_bun.png)
 
 ### 4. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
@@ -63,7 +63,7 @@
 - 💻 C
 - 📅 Updated: 2026-07-12
 
-![codebase-memory-mcp](2026/07-12/2026-07-12_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026-07-12_daily-top_codebase-memory-mcp.png)
 
 ### 5. [orca](https://github.com/stablyai/orca)
 
@@ -74,7 +74,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-12
 
-![orca](2026/07-12/2026-07-12_daily-top_orca.png)
+![orca](2026-07-12_daily-top_orca.png)
 
 ### 6. [tailscale](https://github.com/tailscale/tailscale)
 
@@ -85,7 +85,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-12
 
-![tailscale](2026/07-12/2026-07-12_daily-top_tailscale.png)
+![tailscale](2026-07-12_daily-top_tailscale.png)
 
 ### 7. [stitch-skills](https://github.com/google-labs-code/stitch-skills)
 
@@ -96,7 +96,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-12
 
-![stitch-skills](2026/07-12/2026-07-12_daily-top_stitch-skills.png)
+![stitch-skills](2026-07-12_daily-top_stitch-skills.png)
 
 ### 8. [next.js](https://github.com/vercel/next.js)
 
@@ -107,7 +107,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-12
 
-![next.js](2026/07-12/2026-07-12_daily-top_next.js.png)
+![next.js](2026-07-12_daily-top_next.js.png)
 
 ### 9. [ECC](https://github.com/affaan-m/ECC)
 
@@ -118,7 +118,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-12
 
-![ECC](2026/07-12/2026-07-12_daily-top_ECC.png)
+![ECC](2026-07-12_daily-top_ECC.png)
 
 ### 10. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -129,7 +129,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-12
 
-![impeccable](2026/07-12/2026-07-12_daily-top_impeccable.png)
+![impeccable](2026-07-12_daily-top_impeccable.png)
 
 ---
 

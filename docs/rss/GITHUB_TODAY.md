@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-07-11
+# 📊 🌟 GitHub Trending Daily - 2026-07-12
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **733066** ⭐ | **87985** 🍴
+**10** Projects | **607397** ⭐ | **82922** 🍴
 
-**Top Languages:** `JavaScript` (4) · `TypeScript` (3) · `Rust` (1)
+**Top Languages:** `TypeScript` (3) · `JavaScript` (3) · `Rust` (2)
 
-**Updated:** 2026-07-11 03:22 UTC
+**Updated:** 2026-07-12 03:33 UTC
 
 **Categories:**
 
@@ -18,117 +18,118 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [agent-skills](https://github.com/addyosmani/agent-skills)
+### 1. [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 
 > 🤖 **Why Recommend**  
-> *Agent Skills is a JavaScript project designed to enhance AI coding agents with production-grade engineering workflows. It features 24 structured skills covering the software development lifecycle, from defining and planning to building, verifying, reviewing, and shipping code. Key highlights include automated task execution, tailored commands for various development phases, and the incorporation of best practices from Google's engineering culture. The project supports integration with multiple AI agents, ensuring consistent adherence to quality standards and efficient development processes.*
+> *This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities. popular project, actively maintained, recently updated*
 
-- ⭐ 76884 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-07-11
+- ⭐ 7799 stars
+- 🍴 969 forks
+- 💻 TypeScript
+- 📅 Updated: 2026-07-12
 
-![agent-skills](2026/07-11/2026-07-11_daily-top_agent-skills.png)
+![DesktopCommanderMCP](2026/07-12/2026-07-12_daily-top_DesktopCommanderMCP.png)
 
-### 2. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-
-> 🤖 **Why Recommend**  
-> *The "system_prompts_leaks" GitHub project serves as a comprehensive repository of extracted system prompts from various AI models, including Anthropic's Claude, OpenAI's ChatGPT, Google’s Gemini, and more. With over 55,000 stars, it documents prompt instructions for numerous chatbots, ensuring regular updates on new versions and features. Key highlights include detailed prompts for models like GPT-5.6, Claude Opus 4.8, and Gemini 3.5 Flash. This resource is invaluable for developers and researchers seeking insights into AI behavior and capabilities.*
-
-- ⭐ 55872 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-07-11
-
-![system_prompts_leaks](2026/07-11/2026-07-11_daily-top_system_prompts_leaks.png)
-
-### 3. [pentagi](https://github.com/vxcontrol/pentagi)
+### 2. [pgrust](https://github.com/malisper/pgrust)
 
 > 🤖 **Why Recommend**  
-> *PentAGI is a cutting-edge autonomous AI agent system for advanced penetration testing, built on Go, with 19,799 stars on GitHub. Key features include a secure Docker-based environment, 20+ professional pentesting tools, a smart memory system for knowledge retention, and advanced agent supervision for efficient task execution. It integrates with various LLM providers (OpenAI, Anthropic, Google AI, AWS Bedrock) and offers extensive APIs and a modern web UI for management. The system also supports monitoring through Grafana and Langfuse, making it a comprehensive solution for security professionals.*
+> *Postgres rewritten in Rust, now passing 100% of the Postgres regression tests. popular project, recently updated*
 
-- ⭐ 19799 stars
-- 💻 Go
-- 📅 Updated: 2026-07-11
+- ⭐ 2124 stars
+- 🍴 54 forks
+- 💻 Rust
+- 📅 Updated: 2026-07-12
 
-![pentagi](2026/07-11/2026-07-11_daily-top_pentagi.png)
+![pgrust](2026/07-12/2026-07-12_daily-top_pgrust.png)
+
+### 3. [bun](https://github.com/oven-sh/bun)
+
+> 🤖 **Why Recommend**  
+> *Bun is an incredibly fast all-in-one JavaScript runtime, bundler, test runner, and package manager, designed as a drop-in replacement for Node.js. Built in Rust, it leverages JavaScriptCore for reduced startup times and memory usage. Key features include out-of-the-box support for TypeScript and JSX, a single command-line tool for running scripts, tests, and managing packages, and compatibility with existing Node.js projects. With over 94,000 stars on GitHub, Bun streamlines development workflows, ensuring efficiency and speed for JavaScript and TypeScript applications.*
+
+- ⭐ 94579 stars
+- 💻 Rust
+- 📅 Updated: 2026-07-12
+
+![bun](2026/07-12/2026-07-12_daily-top_bun.png)
 
 ### 4. [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
 > 🤖 **Why Recommend**  
 > *High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, su. popular project, actively maintained, recently updated*
 
-- ⭐ 29742 stars
-- 🍴 2363 forks
+- ⭐ 30198 stars
+- 🍴 2409 forks
 - 💻 C
-- 📅 Updated: 2026-07-11
+- 📅 Updated: 2026-07-12
 
-![codebase-memory-mcp](2026/07-11/2026-07-11_daily-top_codebase-memory-mcp.png)
+![codebase-memory-mcp](2026/07-12/2026-07-12_daily-top_codebase-memory-mcp.png)
 
-### 5. [voicebox](https://github.com/jamiepine/voicebox)
+### 5. [orca](https://github.com/stablyai/orca)
 
 > 🤖 **Why Recommend**  
-> *Voicebox is an open-source AI voice studio that enables users to clone voices, generate speech, and dictate across applications while ensuring complete privacy. Key features include seven TTS engines, voice cloning from audio samples, support for 23 languages, and a multi-track editor for narratives. Its local-first design enhances performance and security, while an API facilitates integration with other applications. Voicebox also offers global dictation capabilities, emotional speech synthesis, and personality-driven voice profiles, making it a versatile tool for voice output and input.*
+> *Orca is an advanced development environment for managing parallel agents, enabling users to run coding agents like Codex and ClaudeCode side-by-side. Key features include mobile monitoring, parallel worktrees for comparing agent outputs, terminal splits, and a design mode for seamless UI interaction. Users can also integrate GitHub and Linear tasks, annotate AI-generated diffs, and utilize a robust CLI for scripting workflows. Available on macOS, Windows, and Linux, Orca empowers developers to optimize their coding processes efficiently. Join the community for support and updates.*
 
-- ⭐ 40498 stars
+- ⭐ 16421 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-11
+- 📅 Updated: 2026-07-12
 
-![voicebox](2026/07-11/2026-07-11_daily-top_voicebox.png)
+![orca](2026/07-12/2026-07-12_daily-top_orca.png)
 
-### 6. [ECC](https://github.com/affaan-m/ECC)
+### 6. [tailscale](https://github.com/tailscale/tailscale)
 
 > 🤖 **Why Recommend**  
-> *ECC is a powerful performance optimization system designed for AI agent workflows, supporting platforms like Claude Code, Codex, and Cursor. Key features include skills management, instinct-based learning, memory optimization, and security scanning through tools like AgentShield. With over 67 specialized agents and 278 skills, ECC facilitates seamless integration and automation across various coding environments. It empowers users with advanced capabilities, such as multi-agent orchestration and a comprehensive security audit framework, enhancing productivity and code quality.*
+> *Tailscale is an open-source project that simplifies the creation of private WireGuard® networks with built-in two-factor authentication (2FA). It features the `tailscaled` daemon and the `tailscale` CLI tool, compatible with Linux, Windows, macOS, and BSD systems. Tailscale allows seamless networking across devices, offering packages for various platforms. The project encourages contributions and provides detailed build instructions. With over 33,000 stars, Tailscale is recognized for its user-friendly approach to secure networking. For more information, visit tailscale.com.*
 
-- ⭐ 228296 stars
+- ⭐ 33841 stars
+- 💻 Go
+- 📅 Updated: 2026-07-12
+
+![tailscale](2026/07-12/2026-07-12_daily-top_tailscale.png)
+
+### 7. [stitch-skills](https://github.com/google-labs-code/stitch-skills)
+
+> 🤖 **Why Recommend**  
+> *Stitch Skills is a TypeScript library offering a collection of agent skills and plugins for the Stitch MCP server, compliant with the Agent Skills open standard. With over 7,100 stars on GitHub, it features three main plugins: `stitch-design` for managing and optimizing designs, `stitch-build` for code generation and integration, and `stitch-utilities` for enhancing prompts and generating design specifications. Users can quickly install plugins, selectively add skills, and leverage powerful commands to streamline design workflows, making it an essential tool for developers working with Google Stitch.*
+
+- ⭐ 7105 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-12
+
+![stitch-skills](2026/07-12/2026-07-12_daily-top_stitch-skills.png)
+
+### 8. [next.js](https://github.com/vercel/next.js)
+
+> 🤖 **Why Recommend**  
+> *Next.js is a powerful React framework enabling developers to build full-stack web applications with ease. It integrates modern React features and Rust-based JavaScript tooling for rapid builds, making it suitable for large-scale projects. Key highlights include server-side rendering, static site generation, and a robust community for support and collaboration. Resources such as the "Learn Next.js" course and documentation are available to help users get started. Contributions are welcome, with a focus on fostering an inclusive community. For security concerns, users are encouraged to report vulnerabilities responsibly.*
+
+- ⭐ 140969 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-11
+- 📅 Updated: 2026-07-12
 
-![ECC](2026/07-11/2026-07-11_daily-top_ECC.png)
+![next.js](2026/07-12/2026-07-12_daily-top_next.js.png)
 
-### 7. [iptv](https://github.com/iptv-org/iptv)
-
-> 🤖 **Why Recommend**  
-> *IPTV is a comprehensive collection of publicly available IPTV channels from around the globe, built in TypeScript and boasting over 132,000 stars on GitHub. Key features include easy playlist access, support for various video players, and an Electronic Program Guide (EPG) for most channels. The repository provides a centralized database of channel data and an API for extended functionality. Users can contribute, engage in discussions, and access a wealth of IPTV-related resources. The project emphasizes legal considerations, ensuring all links are user-submitted and publicly available.*
-
-- ⭐ 132132 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-11
-
-![iptv](2026/07-11/2026-07-11_daily-top_iptv.png)
-
-### 8. [codex](https://github.com/openai/codex)
+### 9. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **Why Recommend**  
-> *Codex is a lightweight coding agent from OpenAI, designed to run locally in your terminal. It allows seamless integration with popular code editors like VS Code and offers a desktop app experience. Users can install Codex using simple commands for Mac, Linux, or Windows, as well as through npm and Homebrew. It supports ChatGPT account sign-in for enhanced functionality and can be accessed via an API key. With over 97,000 stars on GitHub, Codex aims to streamline coding tasks and improve developer productivity. Comprehensive documentation is available for users and contributors.*
+> *ECC is a performance optimization system for AI agents, designed to enhance workflows across platforms like Claude Code, Codex, and Cursor. Key features include skills, instincts, memory optimization, security scanning, and continuous learning. The system supports over 67 specialized agents, providing extensive command and skill options. ECC emphasizes a research-first development approach, ensuring production-ready tools for diverse coding environments. The project, with over 228,000 stars, promotes community contributions and offers a user-friendly installation process through plugins and manual setups.*
 
-- ⭐ 97031 stars
-- 💻 Rust
-- 📅 Updated: 2026-07-11
-
-![codex](2026/07-11/2026-07-11_daily-top_codex.png)
-
-### 9. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **Why Recommend**  
-> *Impeccable is a design language for AI coding agents, enabling better frontend design through 23 commands and 46 deterministic rules. It simplifies setup with `/impeccable init`, providing context for projects. Key features include a shared design vocabulary, live browser iteration, and commands for crafting, critiquing, and auditing designs. Impeccable supports multiple AI tools like Claude Code and GitHub Copilot, ensuring quality by detecting common design issues. For installation, simply run `npx impeccable install` and explore full documentation at impeccable.style.*
-
-- ⭐ 45443 stars
+- ⭐ 228643 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-11
+- 📅 Updated: 2026-07-12
 
-![impeccable](2026/07-11/2026-07-11_daily-top_impeccable.png)
+![ECC](2026/07-12/2026-07-12_daily-top_ECC.png)
 
-### 10. [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+### 10. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **Why Recommend**  
-> *This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities. popular project, actively maintained, recently updated*
+> *Impeccable is a design language tool for AI coding agents, enhancing frontend design with 23 commands and 46 deterministic detector rules. It offers a streamlined setup with `/impeccable init`, creating essential design documentation. Key features include design critique, technical audits, and live browser iteration for real-time feedback. Impeccable integrates with popular tools like Claude Code and GitHub Copilot, ensuring a cohesive design vocabulary across projects. Install via CLI with `npx impeccable install` for immediate access to its design-enhancing capabilities.*
 
-- ⭐ 7369 stars
-- 🍴 934 forks
-- 💻 TypeScript
-- 📅 Updated: 2026-07-11
+- ⭐ 45718 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-07-12
 
-![DesktopCommanderMCP](2026/07-11/2026-07-11_daily-top_DesktopCommanderMCP.png)
+![impeccable](2026/07-12/2026-07-12_daily-top_impeccable.png)
 
 ---
 
@@ -142,4 +143,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-11 03:22:05 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-12 03:33:45 UTC
