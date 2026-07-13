@@ -27,7 +27,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-07-13
 
-![awesome-mac](2026/07-13/2026-07-13_daily-top_awesome-mac.png)
+![awesome-mac](2026-07-13_daily-top_awesome-mac.png)
 
 ### 2. [pgrust](https://github.com/malisper/pgrust)
 
@@ -39,7 +39,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-13
 
-![pgrust](2026/07-13/2026-07-13_daily-top_pgrust.png)
+![pgrust](2026-07-13_daily-top_pgrust.png)
 
 ### 3. [destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
 
@@ -51,7 +51,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-13
 
-![destructive_command_guard](2026/07-13/2026-07-13_daily-top_destructive_command_guard.png)
+![destructive_command_guard](2026-07-13_daily-top_destructive_command_guard.png)
 
 ### 4. [Catch2](https://github.com/catchorg/Catch2)
 
@@ -63,7 +63,7 @@
 - 💻 C++
 - 📅 Updated: 2026-07-13
 
-![Catch2](2026/07-13/2026-07-13_daily-top_Catch2.png)
+![Catch2](2026-07-13_daily-top_Catch2.png)
 
 ### 5. [ECC](https://github.com/affaan-m/ECC)
 
@@ -74,7 +74,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-13
 
-![ECC](2026/07-13/2026-07-13_daily-top_ECC.png)
+![ECC](2026-07-13_daily-top_ECC.png)
 
 ### 6. [abseil-cpp](https://github.com/abseil/abseil-cpp)
 
@@ -85,7 +85,7 @@
 - 💻 C++
 - 📅 Updated: 2026-07-13
 
-![abseil-cpp](2026/07-13/2026-07-13_daily-top_abseil-cpp.png)
+![abseil-cpp](2026-07-13_daily-top_abseil-cpp.png)
 
 ### 7. [CodexBar](https://github.com/steipete/CodexBar)
 
@@ -96,7 +96,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-07-13
 
-![CodexBar](2026/07-13/2026-07-13_daily-top_CodexBar.png)
+![CodexBar](2026-07-13_daily-top_CodexBar.png)
 
 ### 8. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -107,7 +107,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-13
 
-![impeccable](2026/07-13/2026-07-13_daily-top_impeccable.png)
+![impeccable](2026-07-13_daily-top_impeccable.png)
 
 ### 9. [iptv](https://github.com/iptv-org/iptv)
 
@@ -118,7 +118,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-13
 
-![iptv](2026/07-13/2026-07-13_daily-top_iptv.png)
+![iptv](2026-07-13_daily-top_iptv.png)
 
 ### 10. [LinkSwift](https://github.com/hmjz100/LinkSwift)
 
@@ -129,7 +129,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-13
 
-![LinkSwift](2026/07-13/2026-07-13_daily-top_LinkSwift.png)
+![LinkSwift](2026-07-13_daily-top_LinkSwift.png)
 
 ---
 
