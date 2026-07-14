@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-07-13
+# 📊 🌟 GitHub Trending Daily - 2026-07-14
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **596154** ⭐ | **62919** 🍴
+**10** 个项目 | **560812** ⭐ | **67915** 🍴
 
-**热门语言:** `JavaScript` (3) · `Swift` (2) · `C++` (2)
+**热门语言:** `TypeScript` (4) · `JavaScript` (2) · `Rust` (2)
 
-**更新时间:** 2026-07-13 03:36 UTC
+**更新时间:** 2026-07-14 02:58 UTC
 
 **分类分布:**
 
@@ -18,118 +18,116 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+### 1. [OpenCut](https://github.com/OpenCut-app/OpenCut)
 
 > 🤖 **推荐理由**  
-> *Awesome Mac is a comprehensive GitHub project featuring a curated collection of high-quality macOS software, systematically organized into categories for easy navigation. With over 107,000 stars, it serves as a valuable resource for users seeking tools ranging from productivity apps and developer utilities to design software and games. Key features include support for open-source applications, extensive software lists, and contributions from the community. Users can easily discover and install applications to enhance their macOS experience, fostering a collaborative environment for improvement and sharing.*
+> *OpenCut is an open-source, free video editor designed for web, desktop, and mobile platforms, boasting over 66,000 stars on GitHub. It features a plugin-first architecture for third-party extensions, an Editor API, and a core built in Rust for efficiency. Upcoming enhancements include a multi-client processing server for AI agents, headless mode for automation, and an in-editor scripting tab. While a major rewrite is underway, the classic version remains available at opencut.app. Join the community on Discord for updates and discussions.*
 
-- ⭐ 107675 stars
-- 💻 Swift
-- 📅 Updated: 2026-07-13
+- ⭐ 66844 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-14
 
-![awesome-mac](2026/07-13/2026-07-13_daily-top_awesome-mac.png)
+![OpenCut](2026/07-14/2026-07-14_daily-top_OpenCut.png)
 
-### 2. [pgrust](https://github.com/malisper/pgrust)
+### 2. [cc-switch](https://github.com/farion1231/cc-switch)
+
+> 🤖 **推荐理由**  
+> *CC Switch is a cross-platform desktop assistant for managing multiple AI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and Hermes. Key features include a unified interface for switching between over 50 provider presets, real-time MCP and Skills management, and cloud sync capabilities. Users benefit from instant provider switching via the system tray, detailed usage tracking, and built-in utilities for configuration management. The app is built with Rust and Tauri, ensuring reliability across Windows, macOS, and Linux, making AI-assisted coding seamless and efficient. Visit ccswitch.io for more details.*
+
+- ⭐ 116868 stars
+- 💻 Rust
+- 📅 Updated: 2026-07-14
+
+![cc-switch](2026/07-14/2026-07-14_daily-top_cc-switch.png)
+
+### 3. [pgrust](https://github.com/malisper/pgrust)
 
 > 🤖 **推荐理由**  
 > *Postgres rewritten in Rust, now passing 100% of the Postgres regression tests. popular project, recently updated*
 
-- ⭐ 2546 stars
-- 🍴 71 forks
+- ⭐ 2835 stars
+- 🍴 81 forks
 - 💻 Rust
-- 📅 Updated: 2026-07-13
+- 📅 Updated: 2026-07-14
 
-![pgrust](2026/07-13/2026-07-13_daily-top_pgrust.png)
+![pgrust](2026/07-14/2026-07-14_daily-top_pgrust.png)
 
-### 3. [destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
+### 4. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
 > 🤖 **推荐理由**  
-> *The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.. popular project, actively maintained, recently updated*
+> *Project N.O.M.A.D. is an offline-first survival computer offering essential tools and AI for knowledge and education, designed for any Debian-based OS. Key features include a local AI chat with semantic search, an offline information library (Wikipedia, medical references), education platform with Khan Academy courses, offline maps, data analysis tools, and local note-taking. It provides a user-friendly management UI, automatic updates, and a supply depot for additional apps. With a focus on privacy, it operates without telemetry, ensuring a secure experience.*
 
-- ⭐ 3078 stars
-- 🍴 112 forks
-- 💻 Rust
-- 📅 Updated: 2026-07-13
+- ⭐ 34060 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-14
 
-![destructive_command_guard](2026/07-13/2026-07-13_daily-top_destructive_command_guard.png)
-
-### 4. [Catch2](https://github.com/catchorg/Catch2)
-
-> 🤖 **推荐理由**  
-> *A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Cat. popular project, actively maintained, recently updated*
-
-- ⭐ 21267 stars
-- 🍴 3444 forks
-- 💻 C++
-- 📅 Updated: 2026-07-13
-
-![Catch2](2026/07-13/2026-07-13_daily-top_Catch2.png)
+![project-nomad](2026/07-14/2026-07-14_daily-top_project-nomad.png)
 
 ### 5. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **推荐理由**  
-> *ECC is an advanced performance optimization system designed for AI agent workflows, supporting platforms like Claude Code, Codex, and Cursor. It features 67 specialized agents, 278 reusable skills, and extensive hooks for automation. Key highlights include continuous learning, security scanning via AgentShield, and a user-friendly dashboard GUI. ECC emphasizes a research-first development approach, enabling cross-harness collaboration and real-time performance monitoring. The project boasts over 228,000 stars, reflecting its robust community and utility in optimizing AI coding tasks.*
+> *ECC is a robust agent harness performance optimization system that enhances coding workflows across platforms like Codex, Claude Code, and Cursor. Key features include skills, instincts, memory optimization, security scanning, and continuous learning. With over 229,000 stars, it supports 67 agents and 278 skills for diverse tasks such as code review, debugging, and project planning. ECC also offers security auditing through AgentShield and a user-friendly dashboard for component management. This MIT-licensed tool is designed for seamless integration and efficient resource management in AI-driven development environments.*
 
-- ⭐ 228987 stars
+- ⭐ 229297 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-13
+- 📅 Updated: 2026-07-14
 
-![ECC](2026/07-13/2026-07-13_daily-top_ECC.png)
+![ECC](2026/07-14/2026-07-14_daily-top_ECC.png)
 
-### 6. [abseil-cpp](https://github.com/abseil/abseil-cpp)
-
-> 🤖 **推荐理由**  
-> *Abseil is an open-source collection of C++ libraries (C++17 compliant) designed to enhance the C++ standard library. Developed from Google's production code, it offers essential components like memory management, string utilities, logging, error handling, and concurrency primitives. Key features include extensive testing, compatibility with Bazel and CMake build systems, and a focus on augmenting standard library functionalities. Abseil provides Long Term Support Releases for stability and adheres to Google's C++ Support Policy, making it a valuable resource for the C++ community.*
-
-- ⭐ 17947 stars
-- 💻 C++
-- 📅 Updated: 2026-07-13
-
-![abseil-cpp](2026/07-13/2026-07-13_daily-top_abseil-cpp.png)
-
-### 7. [CodexBar](https://github.com/steipete/CodexBar)
+### 6. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
 > 🤖 **推荐理由**  
-> *CodexBar is a macOS 14+ menu bar app that displays usage statistics for various AI coding providers like OpenAI Codex and Claude, without requiring login. It features per-provider usage meters, countdowns to session resets, and cost scans. The app supports multiple providers, including Copilot, Gemini, and AWS Bedrock, with privacy-first design, reusing existing sessions without storing passwords. Key highlights include live status polling, configurable refresh rates, CLI tools for scripting, and multilingual support. With over 17,991 stars, it streamlines AI coding management efficiently.*
+> *The "marketingskills" project offers a collection of AI agent skills focused on marketing tasks, designed for technical marketers and founders. Key features include skills for conversion optimization (CRO), copywriting, SEO, analytics, and growth engineering, compatible with agents like Claude Code and OpenAI Codex. With 38,681 stars on GitHub, it provides a structured framework for AI to assist with various marketing functions through interconnected markdown skills. Additional services include hands-on help via Conversion Factory and training resources for mastering AI in marketing.*
 
-- ⭐ 17991 stars
-- 💻 Swift
-- 📅 Updated: 2026-07-13
-
-![CodexBar](2026/07-13/2026-07-13_daily-top_CodexBar.png)
-
-### 8. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **推荐理由**  
-> *Impeccable is a design language for AI coding agents, facilitating better frontend design with a streamlined setup and robust command set. With 23 commands like `/impeccable audit`, `/impeccable polish`, and `/impeccable critique`, it offers a comprehensive design workflow. The tool includes 46 deterministic detector rules that check for common design flaws, ensuring quality and consistency. Designed for seamless integration with platforms like Claude Code, GitHub Copilot, and Codex, Impeccable enhances AI-generated designs while promoting best practices and avoiding common pitfalls. For installation, users can quickly start with `npx impeccable install`.*
-
-- ⭐ 46031 stars
+- ⭐ 38681 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-13
+- 📅 Updated: 2026-07-14
 
-![impeccable](2026/07-13/2026-07-13_daily-top_impeccable.png)
+![marketingskills](2026/07-14/2026-07-14_daily-top_marketingskills.png)
 
-### 9. [iptv](https://github.com/iptv-org/iptv)
+### 7. [hyperframes](https://github.com/heygen-com/hyperframes)
 
 > 🤖 **推荐理由**  
-> *The IPTV project is a comprehensive collection of publicly available IPTV channels from around the globe, utilizing TypeScript and boasting over 132,000 stars on GitHub. Users can easily stream channels by pasting playlist links into compatible video players. Key features include a main playlist, an Electronic Program Guide (EPG) for channel scheduling, and an API for integration. The project is community-driven, encouraging contributions and discussions, while maintaining legal compliance by only linking to publicly accessible streams.*
+> *HyperFrames is an open-source framework that converts HTML, CSS, and media into deterministic MP4 videos, designed for use with AI coding agents. Key features include a CLI for local use, 20 integrated skills for various video workflows, and support for seekable animations via popular libraries like GSAP and Lottie. Users can create product launch videos, explainer videos, and more without requiring React. With a focus on HTML-native authoring and deterministic rendering, HyperFrames streamlines video production while being community-driven and free of per-render fees.*
 
-- ⭐ 132640 stars
+- ⭐ 34813 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-13
+- 📅 Updated: 2026-07-14
 
-![iptv](2026/07-13/2026-07-13_daily-top_iptv.png)
+![hyperframes](2026/07-14/2026-07-14_daily-top_hyperframes.png)
 
-### 10. [LinkSwift](https://github.com/hmjz100/LinkSwift)
+### 8. [engram](https://github.com/Gentleman-Programming/engram)
 
 > 🤖 **推荐理由**  
-> *LinkSwift is a JavaScript-based tool for obtaining direct download links from various cloud storage services, including Baidu Cloud, Alibaba Cloud, China Mobile Cloud, Tianyi Cloud, and more. With over 17,000 stars, it enhances user experience by providing direct link retrieval, UI beautification, and support for multiple download managers. Key features include real-time link caching, multi-threaded download options, and compatibility with major browsers. The project emphasizes compliance and user convenience, aiming to assist users without infringing on service providers' interests.*
+> *Engram is a persistent memory system designed for AI coding agents, offering an agent-agnostic Go binary with SQLite and FTS5 full-text search capabilities. It features a CLI, HTTP API, MCP server, and an interactive TUI, enabling seamless integration with various agents like Claude Code and VS Code. Key functionalities include memory saving, search, conflict detection, and cloud synchronization for collaborative projects. Engram provides a simple, dependency-free setup, ensuring efficient memory management for AI coding tasks, both locally and in the cloud.*
 
-- ⭐ 17992 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-07-13
+- ⭐ 5342 stars
+- 💻 Go
+- 📅 Updated: 2026-07-14
 
-![LinkSwift](2026/07-13/2026-07-13_daily-top_LinkSwift.png)
+![engram](2026/07-14/2026-07-14_daily-top_engram.png)
+
+### 9. [t3code](https://github.com/pingdotgg/t3code)
+
+> 🤖 **推荐理由**  
+> *T3 Code is a minimal web GUI for coding agents, currently supporting Codex, Claude, Cursor, and OpenCode. With over 13,000 stars, it allows users to quickly integrate and authenticate with various coding providers. Users can run T3 Code without installation via `npx`, or install desktop applications for Windows, macOS, and Arch Linux. The project is in early development, with ongoing updates and features expected. Documentation includes quick-start guides, architecture overviews, and provider-specific instructions. Join the community on Discord for support.*
+
+- ⭐ 13929 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-14
+
+![t3code](2026/07-14/2026-07-14_daily-top_t3code.png)
+
+### 10. [CodexBar](https://github.com/steipete/CodexBar)
+
+> 🤖 **推荐理由**  
+> *CodexBar is a macOS 14+ menu bar app that provides real-time usage stats for various AI coding providers like OpenAI Codex, Claude, and many others, without requiring login. It features multi-provider support with usage meters, reset countdowns, credit balances, and incident status polling. Users can track session limits, costs, and billing summaries while maintaining privacy by reusing existing sessions. Additionally, it offers a CLI for automation and integration with scripts, making it a powerful tool for developers managing multiple AI services.*
+
+- ⭐ 18143 stars
+- 💻 Swift
+- 📅 Updated: 2026-07-14
+
+![CodexBar](2026/07-14/2026-07-14_daily-top_CodexBar.png)
 
 ---
 
@@ -143,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-13 03:36:46 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-14 02:58:55 UTC

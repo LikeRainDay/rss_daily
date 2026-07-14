@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-14
 
-![OpenCut](2026/07-14/2026-07-14_daily-top_OpenCut.png)
+![OpenCut](2026-07-14_daily-top_OpenCut.png)
 
 ### 2. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-14
 
-![cc-switch](2026/07-14/2026-07-14_daily-top_cc-switch.png)
+![cc-switch](2026-07-14_daily-top_cc-switch.png)
 
 ### 3. [pgrust](https://github.com/malisper/pgrust)
 
@@ -50,7 +50,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-14
 
-![pgrust](2026/07-14/2026-07-14_daily-top_pgrust.png)
+![pgrust](2026-07-14_daily-top_pgrust.png)
 
 ### 4. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-14
 
-![project-nomad](2026/07-14/2026-07-14_daily-top_project-nomad.png)
+![project-nomad](2026-07-14_daily-top_project-nomad.png)
 
 ### 5. [ECC](https://github.com/affaan-m/ECC)
 
@@ -72,7 +72,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-14
 
-![ECC](2026/07-14/2026-07-14_daily-top_ECC.png)
+![ECC](2026-07-14_daily-top_ECC.png)
 
 ### 6. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
@@ -83,7 +83,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-14
 
-![marketingskills](2026/07-14/2026-07-14_daily-top_marketingskills.png)
+![marketingskills](2026-07-14_daily-top_marketingskills.png)
 
 ### 7. [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-14
 
-![hyperframes](2026/07-14/2026-07-14_daily-top_hyperframes.png)
+![hyperframes](2026-07-14_daily-top_hyperframes.png)
 
 ### 8. [engram](https://github.com/Gentleman-Programming/engram)
 
@@ -105,7 +105,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-14
 
-![engram](2026/07-14/2026-07-14_daily-top_engram.png)
+![engram](2026-07-14_daily-top_engram.png)
 
 ### 9. [t3code](https://github.com/pingdotgg/t3code)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-14
 
-![t3code](2026/07-14/2026-07-14_daily-top_t3code.png)
+![t3code](2026-07-14_daily-top_t3code.png)
 
 ### 10. [CodexBar](https://github.com/steipete/CodexBar)
 
@@ -127,7 +127,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-07-14
 
-![CodexBar](2026/07-14/2026-07-14_daily-top_CodexBar.png)
+![CodexBar](2026-07-14_daily-top_CodexBar.png)
 
 ---
 
