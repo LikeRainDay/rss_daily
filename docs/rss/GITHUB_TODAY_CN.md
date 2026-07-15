@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-07-14
+# 📊 🌟 GitHub Trending Daily - 2026-07-15
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **560812** ⭐ | **67915** 🍴
+**10** 个项目 | **617648** ⭐ | **73649** 🍴
 
-**热门语言:** `TypeScript` (4) · `JavaScript` (2) · `Rust` (2)
+**热门语言:** `TypeScript` (5) · `Rust` (3) · `Swift` (1)
 
-**更新时间:** 2026-07-14 02:58 UTC
+**更新时间:** 2026-07-15 02:57 UTC
 
 **分类分布:**
 
@@ -21,113 +21,113 @@
 ### 1. [OpenCut](https://github.com/OpenCut-app/OpenCut)
 
 > 🤖 **推荐理由**  
-> *OpenCut is an open-source, free video editor designed for web, desktop, and mobile platforms, boasting over 66,000 stars on GitHub. It features a plugin-first architecture for third-party extensions, an Editor API, and a core built in Rust for efficiency. Upcoming enhancements include a multi-client processing server for AI agents, headless mode for automation, and an in-editor scripting tab. While a major rewrite is underway, the classic version remains available at opencut.app. Join the community on Discord for updates and discussions.*
+> *OpenCut is an open-source video editor designed for web, desktop, and mobile platforms, serving as a free alternative to CapCut. With over 69,000 stars on GitHub, its upcoming features include an Editor API, support for third-party plugins, and a unified codebase using Rust. The project will also introduce a MCP server for AI agents and a headless mode for automation. While the current version is accessible at opencut.app, the rewritten version will be available at new.opencut.app. Join the Discord for updates and community engagement.*
 
-- ⭐ 66844 stars
+- ⭐ 69334 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-14
+- 📅 Updated: 2026-07-15
 
-![OpenCut](2026/07-14/2026-07-14_daily-top_OpenCut.png)
+![OpenCut](2026/07-15/2026-07-15_daily-top_OpenCut.png)
 
-### 2. [cc-switch](https://github.com/farion1231/cc-switch)
-
-> 🤖 **推荐理由**  
-> *CC Switch is a cross-platform desktop assistant for managing multiple AI tools, including Claude Code, Codex, Gemini CLI, OpenCode, and Hermes. Key features include a unified interface for switching between over 50 provider presets, real-time MCP and Skills management, and cloud sync capabilities. Users benefit from instant provider switching via the system tray, detailed usage tracking, and built-in utilities for configuration management. The app is built with Rust and Tauri, ensuring reliability across Windows, macOS, and Linux, making AI-assisted coding seamless and efficient. Visit ccswitch.io for more details.*
-
-- ⭐ 116868 stars
-- 💻 Rust
-- 📅 Updated: 2026-07-14
-
-![cc-switch](2026/07-14/2026-07-14_daily-top_cc-switch.png)
-
-### 3. [pgrust](https://github.com/malisper/pgrust)
+### 2. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
 > 🤖 **推荐理由**  
-> *Postgres rewritten in Rust, now passing 100% of the Postgres regression tests. popular project, recently updated*
+> *Marketingskills is a comprehensive collection of AI agent skills tailored for marketing tasks, including conversion optimization, copywriting, SEO, analytics, and growth engineering. Designed for technical marketers and founders, it integrates seamlessly with Claude Code and other AI agents, enhancing their capabilities in marketing. Key features include customizable skills for various marketing functions, a foundational product marketing skill, and a range of tools for analytics, paid ads, and customer retention. The project encourages contributions and offers hands-on support through Conversion Factory and training resources.*
 
-- ⭐ 2835 stars
-- 🍴 81 forks
-- 💻 Rust
-- 📅 Updated: 2026-07-14
-
-![pgrust](2026/07-14/2026-07-14_daily-top_pgrust.png)
-
-### 4. [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-
-> 🤖 **推荐理由**  
-> *Project N.O.M.A.D. is an offline-first survival computer offering essential tools and AI for knowledge and education, designed for any Debian-based OS. Key features include a local AI chat with semantic search, an offline information library (Wikipedia, medical references), education platform with Khan Academy courses, offline maps, data analysis tools, and local note-taking. It provides a user-friendly management UI, automatic updates, and a supply depot for additional apps. With a focus on privacy, it operates without telemetry, ensuring a secure experience.*
-
-- ⭐ 34060 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-14
-
-![project-nomad](2026/07-14/2026-07-14_daily-top_project-nomad.png)
-
-### 5. [ECC](https://github.com/affaan-m/ECC)
-
-> 🤖 **推荐理由**  
-> *ECC is a robust agent harness performance optimization system that enhances coding workflows across platforms like Codex, Claude Code, and Cursor. Key features include skills, instincts, memory optimization, security scanning, and continuous learning. With over 229,000 stars, it supports 67 agents and 278 skills for diverse tasks such as code review, debugging, and project planning. ECC also offers security auditing through AgentShield and a user-friendly dashboard for component management. This MIT-licensed tool is designed for seamless integration and efficient resource management in AI-driven development environments.*
-
-- ⭐ 229297 stars
+- ⭐ 39251 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-14
+- 📅 Updated: 2026-07-15
 
-![ECC](2026/07-14/2026-07-14_daily-top_ECC.png)
+![marketingskills](2026/07-15/2026-07-15_daily-top_marketingskills.png)
 
-### 6. [marketingskills](https://github.com/coreyhaines31/marketingskills)
-
-> 🤖 **推荐理由**  
-> *The "marketingskills" project offers a collection of AI agent skills focused on marketing tasks, designed for technical marketers and founders. Key features include skills for conversion optimization (CRO), copywriting, SEO, analytics, and growth engineering, compatible with agents like Claude Code and OpenAI Codex. With 38,681 stars on GitHub, it provides a structured framework for AI to assist with various marketing functions through interconnected markdown skills. Additional services include hands-on help via Conversion Factory and training resources for mastering AI in marketing.*
-
-- ⭐ 38681 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-07-14
-
-![marketingskills](2026/07-14/2026-07-14_daily-top_marketingskills.png)
-
-### 7. [hyperframes](https://github.com/heygen-com/hyperframes)
+### 3. [openinterpreter](https://github.com/openinterpreter/openinterpreter)
 
 > 🤖 **推荐理由**  
-> *HyperFrames is an open-source framework that converts HTML, CSS, and media into deterministic MP4 videos, designed for use with AI coding agents. Key features include a CLI for local use, 20 integrated skills for various video workflows, and support for seekable animations via popular libraries like GSAP and Lottie. Users can create product launch videos, explainer videos, and more without requiring React. With a focus on HTML-native authoring and deterministic rendering, HyperFrames streamlines video production while being community-driven and free of per-render fees.*
+> *Open Interpreter is a powerful coding agent optimized for low-cost models, built in Rust. It features seamless command execution within a sandbox on macOS, Linux, and Windows, and allows users to switch between various model harnesses and providers through an intuitive TUI. Key functionalities include a built-in QA skill for testing web and native applications, local configuration management, and support for the Agent Client Protocol. With extensive documentation available, Open Interpreter facilitates efficient coding and application testing, making it an invaluable tool for developers.*
 
-- ⭐ 34813 stars
+- ⭐ 65025 stars
+- 💻 Rust
+- 📅 Updated: 2026-07-15
+
+![openinterpreter](2026/07-15/2026-07-15_daily-top_openinterpreter.png)
+
+### 4. [pi](https://github.com/earendil-works/pi)
+
+> 🤖 **推荐理由**  
+> *Pi is an AI agent toolkit featuring a unified LLM API, agent runtime, and interactive coding agent CLI, developed in TypeScript with over 71,000 stars on GitHub. Key components include the multi-provider LLM API for seamless integration with OpenAI and Google, the core agent for tool calling and state management, and a terminal UI library. The project emphasizes security with options for containerization and supply-chain hardening. For more information, demos, and documentation, visit pi.dev.*
+
+- ⭐ 71088 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-14
+- 📅 Updated: 2026-07-15
 
-![hyperframes](2026/07-14/2026-07-14_daily-top_hyperframes.png)
+![pi](2026/07-15/2026-07-15_daily-top_pi.png)
 
-### 8. [engram](https://github.com/Gentleman-Programming/engram)
-
-> 🤖 **推荐理由**  
-> *Engram is a persistent memory system designed for AI coding agents, offering an agent-agnostic Go binary with SQLite and FTS5 full-text search capabilities. It features a CLI, HTTP API, MCP server, and an interactive TUI, enabling seamless integration with various agents like Claude Code and VS Code. Key functionalities include memory saving, search, conflict detection, and cloud synchronization for collaborative projects. Engram provides a simple, dependency-free setup, ensuring efficient memory management for AI coding tasks, both locally and in the cloud.*
-
-- ⭐ 5342 stars
-- 💻 Go
-- 📅 Updated: 2026-07-14
-
-![engram](2026/07-14/2026-07-14_daily-top_engram.png)
-
-### 9. [t3code](https://github.com/pingdotgg/t3code)
+### 5. [airi](https://github.com/moeru-ai/airi)
 
 > 🤖 **推荐理由**  
-> *T3 Code is a minimal web GUI for coding agents, currently supporting Codex, Claude, Cursor, and OpenCode. With over 13,000 stars, it allows users to quickly integrate and authenticate with various coding providers. Users can run T3 Code without installation via `npx`, or install desktop applications for Windows, macOS, and Arch Linux. The project is in early development, with ongoing updates and features expected. Documentation includes quick-start guides, architecture overviews, and provider-specific instructions. Join the community on Discord for support.*
+> *AIRI is a self-hosted digital companion project designed to recreate Neuro-sama, enabling users to interact with AI waifus and virtual characters. Key features include real-time voice chat, and the ability to play popular games like Minecraft and Factorio. The project supports web, macOS, and Windows platforms, utilizing modern web technologies for versatility. AIRI prioritizes user ownership of digital identities, offering a customizable experience. With over 42,000 stars on GitHub, it invites developers to contribute to its ongoing evolution.*
 
-- ⭐ 13929 stars
+- ⭐ 42281 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-14
+- 📅 Updated: 2026-07-15
 
-![t3code](2026/07-14/2026-07-14_daily-top_t3code.png)
+![airi](2026/07-15/2026-07-15_daily-top_airi.png)
 
-### 10. [CodexBar](https://github.com/steipete/CodexBar)
+### 6. [destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
 
 > 🤖 **推荐理由**  
-> *CodexBar is a macOS 14+ menu bar app that provides real-time usage stats for various AI coding providers like OpenAI Codex, Claude, and many others, without requiring login. It features multi-provider support with usage meters, reset countdowns, credit balances, and incident status polling. Users can track session limits, costs, and billing summaries while maintaining privacy by reusing existing sessions. Additionally, it offers a CLI for automation and integration with scripts, making it a powerful tool for developers managing multiple AI services.*
+> *The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.. popular project, actively maintained, recently updated*
 
-- ⭐ 18143 stars
+- ⭐ 4449 stars
+- 🍴 167 forks
+- 💻 Rust
+- 📅 Updated: 2026-07-15
+
+![destructive_command_guard](2026/07-15/2026-07-15_daily-top_destructive_command_guard.png)
+
+### 7. [opencode](https://github.com/anomalyco/opencode)
+
+> 🤖 **推荐理由**  
+> *OpenCode is an open-source AI coding agent designed to enhance development efficiency. With over 185,000 stars on GitHub, it offers a desktop application for macOS, Windows, and Linux. Core features include two built-in agents: a full-access "build" agent for development and a read-only "plan" agent for code exploration. It supports multiple languages and provides comprehensive documentation. OpenCode is easily installable via various package managers and offers a community-driven platform for contributions and collaboration. Join the community on Discord for support and updates.*
+
+- ⭐ 185884 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-15
+
+![opencode](2026/07-15/2026-07-15_daily-top_opencode.png)
+
+### 8. [codex](https://github.com/openai/codex)
+
+> 🤖 **推荐理由**  
+> *Codex is a lightweight coding agent by OpenAI that operates directly in your terminal, offering seamless integration for coding tasks. With over 98,000 stars on GitHub, it supports installation on various platforms, including macOS, Linux, and Windows via simple commands or package managers like npm and Homebrew. Users can enhance their coding experience by signing in with their ChatGPT account or using an API key. Codex also provides options for IDE integration and a desktop app for a comprehensive coding environment. For detailed documentation, visit the project's GitHub page.*
+
+- ⭐ 98103 stars
+- 💻 Rust
+- 📅 Updated: 2026-07-15
+
+![codex](2026/07-15/2026-07-15_daily-top_codex.png)
+
+### 9. [hyperframes](https://github.com/heygen-com/hyperframes)
+
+> 🤖 **推荐理由**  
+> *HyperFrames is an open-source framework designed to transform HTML, CSS, and media into deterministic MP4 videos. With 35,184 stars on GitHub, it enables users to create videos using a command-line interface (CLI) or AI agents, offering 20 built-in skills for various workflows, such as product launch videos, website-to-video conversions, and more. Key features include HTML-native composition, no build step, and support for popular animation libraries like GSAP and Lottie. HyperFrames supports local rendering and AWS Lambda, making it ideal for automated content generation. Explore it at hyperframes.dev.*
+
+- ⭐ 35184 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-15
+
+![hyperframes](2026/07-15/2026-07-15_daily-top_hyperframes.png)
+
+### 10. [whatcable](https://github.com/darrylmorley/whatcable)
+
+> 🤖 **推荐理由**  
+> *WhatCable is a macOS menu bar app that provides users with clear, detailed information about USB-C cables connected to their Mac. Key features include charging diagnostics, data-speed assessments, cable e-marker info, and fault warnings. Users can view connected device identities, charging profiles, and even track cable performance over time with the Pro version. The app supports multiple languages and offers customizable settings. WhatCable enhances user awareness of cable capabilities and potential limitations, making it a valuable tool for Mac users.*
+
+- ⭐ 7049 stars
 - 💻 Swift
-- 📅 Updated: 2026-07-14
+- 📅 Updated: 2026-07-15
 
-![CodexBar](2026/07-14/2026-07-14_daily-top_CodexBar.png)
+![whatcable](2026/07-15/2026-07-15_daily-top_whatcable.png)
 
 ---
 
@@ -141,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-14 02:58:55 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-15 02:57:44 UTC

@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-15
 
-![OpenCut](2026/07-15/2026-07-15_daily-top_OpenCut.png)
+![OpenCut](2026-07-15_daily-top_OpenCut.png)
 
 ### 2. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-15
 
-![marketingskills](2026/07-15/2026-07-15_daily-top_marketingskills.png)
+![marketingskills](2026-07-15_daily-top_marketingskills.png)
 
 ### 3. [openinterpreter](https://github.com/openinterpreter/openinterpreter)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-15
 
-![openinterpreter](2026/07-15/2026-07-15_daily-top_openinterpreter.png)
+![openinterpreter](2026-07-15_daily-top_openinterpreter.png)
 
 ### 4. [pi](https://github.com/earendil-works/pi)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-15
 
-![pi](2026/07-15/2026-07-15_daily-top_pi.png)
+![pi](2026-07-15_daily-top_pi.png)
 
 ### 5. [airi](https://github.com/moeru-ai/airi)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-15
 
-![airi](2026/07-15/2026-07-15_daily-top_airi.png)
+![airi](2026-07-15_daily-top_airi.png)
 
 ### 6. [destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
 
@@ -83,7 +83,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-15
 
-![destructive_command_guard](2026/07-15/2026-07-15_daily-top_destructive_command_guard.png)
+![destructive_command_guard](2026-07-15_daily-top_destructive_command_guard.png)
 
 ### 7. [opencode](https://github.com/anomalyco/opencode)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-15
 
-![opencode](2026/07-15/2026-07-15_daily-top_opencode.png)
+![opencode](2026-07-15_daily-top_opencode.png)
 
 ### 8. [codex](https://github.com/openai/codex)
 
@@ -105,7 +105,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-15
 
-![codex](2026/07-15/2026-07-15_daily-top_codex.png)
+![codex](2026-07-15_daily-top_codex.png)
 
 ### 9. [hyperframes](https://github.com/heygen-com/hyperframes)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-15
 
-![hyperframes](2026/07-15/2026-07-15_daily-top_hyperframes.png)
+![hyperframes](2026-07-15_daily-top_hyperframes.png)
 
 ### 10. [whatcable](https://github.com/darrylmorley/whatcable)
 
@@ -127,7 +127,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-07-15
 
-![whatcable](2026/07-15/2026-07-15_daily-top_whatcable.png)
+![whatcable](2026-07-15_daily-top_whatcable.png)
 
 ---
 
