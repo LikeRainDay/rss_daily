@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-17
 
-![OpenCut](2026/07-17/2026-07-17_daily-top_OpenCut.png)
+![OpenCut](2026-07-17_daily-top_OpenCut.png)
 
 ### 2. [openinterpreter](https://github.com/openinterpreter/openinterpreter)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-17
 
-![openinterpreter](2026/07-17/2026-07-17_daily-top_openinterpreter.png)
+![openinterpreter](2026-07-17_daily-top_openinterpreter.png)
 
 ### 3. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-17
 
-![marketingskills](2026/07-17/2026-07-17_daily-top_marketingskills.png)
+![marketingskills](2026-07-17_daily-top_marketingskills.png)
 
 ### 4. [maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-17
 
-![maths-cs-ai-compendium](2026/07-17/2026-07-17_daily-top_maths-cs-ai-compendium.png)
+![maths-cs-ai-compendium](2026-07-17_daily-top_maths-cs-ai-compendium.png)
 
 ### 5. [opencode](https://github.com/anomalyco/opencode)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-17
 
-![opencode](2026/07-17/2026-07-17_daily-top_opencode.png)
+![opencode](2026-07-17_daily-top_opencode.png)
 
 ### 6. [airi](https://github.com/moeru-ai/airi)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-17
 
-![airi](2026/07-17/2026-07-17_daily-top_airi.png)
+![airi](2026-07-17_daily-top_airi.png)
 
 ### 7. [codex](https://github.com/openai/codex)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-17
 
-![codex](2026/07-17/2026-07-17_daily-top_codex.png)
+![codex](2026-07-17_daily-top_codex.png)
 
 ### 8. [google-maps-scraper](https://github.com/gosom/google-maps-scraper)
 
@@ -104,7 +104,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-17
 
-![google-maps-scraper](2026/07-17/2026-07-17_daily-top_google-maps-scraper.png)
+![google-maps-scraper](2026-07-17_daily-top_google-maps-scraper.png)
 
 ### 9. [ui-skills](https://github.com/ibelick/ui-skills)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-17
 
-![ui-skills](2026/07-17/2026-07-17_daily-top_ui-skills.png)
+![ui-skills](2026-07-17_daily-top_ui-skills.png)
 
 ### 10. [multica](https://github.com/multica-ai/multica)
 
@@ -127,7 +127,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-17
 
-![multica](2026/07-17/2026-07-17_daily-top_multica.png)
+![multica](2026-07-17_daily-top_multica.png)
 
 ---
 
