@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-18
 
-![OpenCut](2026/07-18/2026-07-18_daily-top_OpenCut.png)
+![OpenCut](2026-07-18_daily-top_OpenCut.png)
 
 ### 2. [ui-skills](https://github.com/ibelick/ui-skills)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-18
 
-![ui-skills](2026/07-18/2026-07-18_daily-top_ui-skills.png)
+![ui-skills](2026-07-18_daily-top_ui-skills.png)
 
 ### 3. [openinterpreter](https://github.com/openinterpreter/openinterpreter)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-18
 
-![openinterpreter](2026/07-18/2026-07-18_daily-top_openinterpreter.png)
+![openinterpreter](2026-07-18_daily-top_openinterpreter.png)
 
 ### 4. [lobehub](https://github.com/lobehub/lobehub)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-18
 
-![lobehub](2026/07-18/2026-07-18_daily-top_lobehub.png)
+![lobehub](2026-07-18_daily-top_lobehub.png)
 
 ### 5. [opencode](https://github.com/anomalyco/opencode)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-18
 
-![opencode](2026/07-18/2026-07-18_daily-top_opencode.png)
+![opencode](2026-07-18_daily-top_opencode.png)
 
 ### 6. [OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-18
 
-![OpenBidKit_Yibiao](2026/07-18/2026-07-18_daily-top_OpenBidKit_Yibiao.png)
+![OpenBidKit_Yibiao](2026-07-18_daily-top_OpenBidKit_Yibiao.png)
 
 ### 7. [codex](https://github.com/openai/codex)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-18
 
-![codex](2026/07-18/2026-07-18_daily-top_codex.png)
+![codex](2026-07-18_daily-top_codex.png)
 
 ### 8. [open-lovable](https://github.com/firecrawl/open-lovable)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-18
 
-![open-lovable](2026/07-18/2026-07-18_daily-top_open-lovable.png)
+![open-lovable](2026-07-18_daily-top_open-lovable.png)
 
 ### 9. [copilot-sdk](https://github.com/github/copilot-sdk)
 
@@ -115,7 +115,7 @@
 - 💻 Java
 - 📅 Updated: 2026-07-18
 
-![copilot-sdk](2026/07-18/2026-07-18_daily-top_copilot-sdk.png)
+![copilot-sdk](2026-07-18_daily-top_copilot-sdk.png)
 
 ### 10. [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-18
 
-![marketingskills](2026/07-18/2026-07-18_daily-top_marketingskills.png)
+![marketingskills](2026-07-18_daily-top_marketingskills.png)
 
 ---
 

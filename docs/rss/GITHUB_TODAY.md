@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-07-17
+# 📊 🌟 GitHub Trending Daily - 2026-07-18
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **565114** ⭐ | **68885** 🍴
+**10** Projects | **592457** ⭐ | **80898** 🍴
 
-**Top Languages:** `TypeScript` (5) · `Rust` (2) · `Go` (2)
+**Top Languages:** `TypeScript` (5) · `Rust` (2) · `JavaScript` (2)
 
-**Updated:** 2026-07-17 03:22 UTC
+**Updated:** 2026-07-18 02:58 UTC
 
 **Categories:**
 
@@ -21,113 +21,112 @@
 ### 1. [OpenCut](https://github.com/OpenCut-app/OpenCut)
 
 > 🤖 **Why Recommend**  
-> *OpenCut is an open-source video editing platform designed for web, desktop, and mobile, currently in a complete rewrite to enhance its capabilities. Key features include a robust Editor API, support for third-party plugins, and a unified codebase leveraging Rust. Upcoming functionalities will feature a headless mode for automation, batch rendering, and a scripting tab within the editor. The project has garnered significant interest, with over 74,000 stars on GitHub, and is supported by sponsors like fal.ai. Join the community on Discord for updates and discussions.*
+> *OpenCut is an open-source video editor designed for web, desktop, and mobile platforms, currently being rewritten for enhanced functionality. With a focus on a plugin-first architecture, it will introduce an Editor API, support for third-party plugins, and a scripting tab within the editor. Key features include a Rust core for cross-platform compatibility, automation capabilities through a headless mode, and an MCP server for AI integration. The previous version is available at opencut-app/opencut-classic, while the new version can be followed at new.opencut.app.*
 
-- ⭐ 74127 stars
+- ⭐ 74930 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-17
+- 📅 Updated: 2026-07-18
 
-![OpenCut](2026/07-17/2026-07-17_daily-top_OpenCut.png)
+![OpenCut](2026/07-18/2026-07-18_daily-top_OpenCut.png)
 
-### 2. [openinterpreter](https://github.com/openinterpreter/openinterpreter)
+### 2. [ui-skills](https://github.com/ibelick/ui-skills)
 
 > 🤖 **Why Recommend**  
-> *Open Interpreter is a Rust-based coding agent optimized for low-cost models, particularly Kimi K3, offering a Codex-like interface. It features a versatile harness system allowing users to switch between various model providers and harnesses via a command-line interface. Key functionalities include running commands in a secure environment across macOS, Linux, and Windows, testing web and native apps, and compatibility with ACP and Codex SDK. The project boasts extensive documentation for installation, configuration, and usage, making it accessible for developers.*
+> *UI Skills is a TypeScript project designed for design engineers, offering a structured approach to UI skill sets. With 4,637 stars, it provides a command-line interface (CLI) that allows users to easily navigate and execute various commands, such as starting skill sets, listing categories, and retrieving baseline UI components. Users can quickly route their agents to the appropriate UI skills for specific tasks. For more information, visit [ui-skills.com](http://ui-skills.com/). The project is licensed under the MIT license.*
 
-- ⭐ 66027 stars
+- ⭐ 4637 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-18
+
+![ui-skills](2026/07-18/2026-07-18_daily-top_ui-skills.png)
+
+### 3. [openinterpreter](https://github.com/openinterpreter/openinterpreter)
+
+> 🤖 **Why Recommend**  
+> *Open Interpreter is a Rust-based coding agent designed for low-cost models, particularly optimized for Kimi K3. It features a Codex-like interface, harness emulation for enhanced performance, and supports easy switching between various model providers. Key functionalities include command execution within sandboxed environments, web and native app testing capabilities, and compatibility with the Agent Client Protocol (ACP) for seamless integration with editors. With robust documentation and an active community, Open Interpreter enhances coding efficiency while ensuring local configuration management.*
+
+- ⭐ 66403 stars
 - 💻 Rust
-- 📅 Updated: 2026-07-17
+- 📅 Updated: 2026-07-18
 
-![openinterpreter](2026/07-17/2026-07-17_daily-top_openinterpreter.png)
+![openinterpreter](2026/07-18/2026-07-18_daily-top_openinterpreter.png)
 
-### 3. [marketingskills](https://github.com/coreyhaines31/marketingskills)
-
-> 🤖 **Why Recommend**  
-> *The "marketingskills" project offers a comprehensive collection of AI agent skills tailored for marketing tasks, including conversion optimization, copywriting, SEO, analytics, and growth engineering. Built for technical marketers, it integrates seamlessly with Claude Code and other AI agents, following the Agent Skills spec. Key features include a modular skill system, enabling agents to leverage specialized workflows for various marketing functions. Additionally, the project provides resources for hands-on help, training, and marketing strategy development, making it a valuable tool for enhancing AI-driven marketing efforts.*
-
-- ⭐ 40224 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-07-17
-
-![marketingskills](2026/07-17/2026-07-17_daily-top_marketingskills.png)
-
-### 4. [maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
+### 4. [lobehub](https://github.com/lobehub/lobehub)
 
 > 🤖 **Why Recommend**  
-> *The Maths, CS & AI Compendium is an open, unconventional textbook designed for practitioners eager to understand mathematics, computing, and AI from the ground up. It covers 18 chapters, including vectors, calculus, machine learning, and production software engineering, providing intuitive explanations and real-world context. The repository also features an MCP server for AI assistants to utilize the compendium as a knowledge base. With 6,273 stars, it aims to enhance learning through structured content and practical study techniques, fostering deeper comprehension in these fast-evolving fields.*
+> *LobeHub is an innovative platform designed to manage AI agents for 24/7 operations, streamlining hiring, scheduling, and reporting. With over 80,000 stars on GitHub, it allows users to create personalized AI teams using an intuitive Agent Builder, access a library of 10,000+ skills, and collaborate effectively through Agent Groups. LobeHub supports self-hosting with Docker and cloud services like Vercel, Alibaba Cloud, and Zeabur. Its unique features include Personal Memory for adaptive learning, enhancing productivity while ensuring users remain in control.*
 
-- ⭐ 6273 stars
+- ⭐ 80435 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-17
+- 📅 Updated: 2026-07-18
 
-![maths-cs-ai-compendium](2026/07-17/2026-07-17_daily-top_maths-cs-ai-compendium.png)
+![lobehub](2026/07-18/2026-07-18_daily-top_lobehub.png)
 
 ### 5. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **Why Recommend**  
-> *OpenCode is an open-source AI coding agent designed to enhance software development. Built in TypeScript, it features two primary agents: a full-access "build" agent for development and a read-only "plan" agent for code exploration. Installation is straightforward via various package managers or as a desktop app for macOS, Windows, and Linux. OpenCode supports a wide range of languages and encourages community contributions. Key highlights include its user-friendly terminal UI, complex search capabilities with a general subagent, and comprehensive documentation available online. Join the community on Discord for support and collaboration.*
+> *OpenCode is an open-source AI coding agent written in TypeScript, boasting 186,973 stars on GitHub. It offers a desktop application and multiple installation methods across platforms. Key features include two built-in agents: "build," for full development access, and "plan," a read-only agent ideal for code exploration. OpenCode supports complex searches through a general subagent and provides comprehensive documentation for configuration and usage. Join the community on Discord for support and collaboration.*
 
-- ⭐ 186615 stars
+- ⭐ 186973 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-17
+- 📅 Updated: 2026-07-18
 
-![opencode](2026/07-17/2026-07-17_daily-top_opencode.png)
+![opencode](2026/07-18/2026-07-18_daily-top_opencode.png)
 
-### 6. [airi](https://github.com/moeru-ai/airi)
+### 6. [OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao)
 
 > 🤖 **Why Recommend**  
-> *AIRI is a self-hosted Grok Companion that allows users to own a digital assistant inspired by Neuro-sama. This TypeScript-based project supports real-time voice chat and enables users to engage in gaming experiences with titles like Minecraft and Factorio across web, macOS, and Windows platforms. With capabilities like multi-provider voice synthesis, VRM and Live2D model support, and advanced AI interactions, AIRI aims to redefine digital companionship. It encourages community contributions, fostering a vibrant ecosystem for developers and users alike.*
+> *OpenBidKit_Yibiao is an open-source AI-powered bid document writing tool designed for tendering scenarios. It offers features such as AI-generated technical solutions, document parsing, knowledge base management, bid duplication checks, and risk assessments. Supporting multiple AI APIs, including GPT and DeepSeek, it facilitates easy deployment and local processing. Its advantages include customizable AI configurations, local desktop workspace, and document recovery capabilities. The tool is available for free, aiming to provide high-quality bid writing solutions for businesses of all sizes.*
 
-- ⭐ 42769 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-17
+- ⭐ 1784 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-07-18
 
-![airi](2026/07-17/2026-07-17_daily-top_airi.png)
+![OpenBidKit_Yibiao](2026/07-18/2026-07-18_daily-top_OpenBidKit_Yibiao.png)
 
 ### 7. [codex](https://github.com/openai/codex)
 
 > 🤖 **Why Recommend**  
-> *Codex is a lightweight coding agent by OpenAI that runs locally in your terminal, designed for seamless integration with your workflow. With over 98,000 stars on GitHub, it offers installation via various methods, including npm and Homebrew. Users can access Codex through desktop apps or IDEs like VS Code. To enhance functionality, signing in with a ChatGPT plan is recommended, providing access to advanced coding features. Comprehensive documentation and contributing guidelines are available, making it a valuable tool for developers looking to streamline coding tasks.*
+> *Codex is a lightweight coding agent by OpenAI that runs locally in your terminal, developed in Rust. With over 99,000 stars on GitHub, it offers seamless integration with popular IDEs like VS Code, alongside a desktop app experience. Users can easily install it via scripts or package managers like npm and Homebrew. Codex enhances coding workflows by allowing users to sign in with their ChatGPT plans, enabling advanced features. Comprehensive documentation and contributing guidelines are available, supporting an open-source community.*
 
-- ⭐ 98907 stars
+- ⭐ 99176 stars
 - 💻 Rust
-- 📅 Updated: 2026-07-17
+- 📅 Updated: 2026-07-18
 
-![codex](2026/07-17/2026-07-17_daily-top_codex.png)
+![codex](2026/07-18/2026-07-18_daily-top_codex.png)
 
-### 8. [google-maps-scraper](https://github.com/gosom/google-maps-scraper)
-
-> 🤖 **Why Recommend**  
-> *The Google Maps Scraper is an open-source tool in Go that extracts comprehensive business data from Google Maps, including names, addresses, phone numbers, website URLs, ratings, reviews, and geographic coordinates. With over 5,000 stars, it supports multiple interfaces: Command Line, Web UI, and REST API, enabling users to collect data efficiently for lead generation, research, and automation. Key features include proxy support, email extraction, and direct integration with LeadsDB for data management. Its scalable architecture accommodates everything from single machines to Kubernetes clusters.*
-
-- ⭐ 5014 stars
-- 💻 Go
-- 📅 Updated: 2026-07-17
-
-![google-maps-scraper](2026/07-17/2026-07-17_daily-top_google-maps-scraper.png)
-
-### 9. [ui-skills](https://github.com/ibelick/ui-skills)
+### 8. [open-lovable](https://github.com/firecrawl/open-lovable)
 
 > 🤖 **Why Recommend**  
-> *UI Skills is a TypeScript-based project designed to enhance the skill set of Design Engineers. With 4,340 stars, it offers a command-line interface (CLI) that allows users to navigate various UI skill categories and execute tasks efficiently. Key features include routing agents through tailored UI skills, listing skills by category, and accessing baseline UI components. For quick access, users can run commands like `npx ui-skills start` and `npx ui-skills list --category motion`. More information is available at ui-skills.com. The project is licensed under the MIT license.*
+> *Open Lovable is a powerful tool that enables users to clone and recreate any website as a modern React app in seconds, leveraging AI capabilities. Developed by the Firecrawl team, it facilitates instant app building through chat interactions. Key features include support for multiple AI providers like OpenAI and Anthropic, easy setup with environment configuration, and the ability to deploy on Vercel or E2B. With 27,885 stars, it promises a seamless development experience for users looking to quickly prototype and launch web applications. For full cloud solutions, visit Lovable.dev.*
 
-- ⭐ 4340 stars
+- ⭐ 27885 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-17
+- 📅 Updated: 2026-07-18
 
-![ui-skills](2026/07-17/2026-07-17_daily-top_ui-skills.png)
+![open-lovable](2026/07-18/2026-07-18_daily-top_open-lovable.png)
 
-### 10. [multica](https://github.com/multica-ai/multica)
+### 9. [copilot-sdk](https://github.com/github/copilot-sdk)
 
 > 🤖 **Why Recommend**  
-> *The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.. popular project, actively maintained, recently updated*
+> *The GitHub Copilot SDK is a multi-platform SDK designed for integrating GitHub Copilot's agentic workflows into applications across various languages including Java, Python, TypeScript, Go, .NET, and Rust. With over 9,800 stars, it provides production-tested agent runtime access, enabling developers to define agent behavior while Copilot manages planning and execution. Key features include support for custom agents and tools, the ability to use BYOK (Bring Your Own Key), and automatic management of the Copilot CLI lifecycle. Comprehensive documentation and installation guides are available for seamless integration.*
 
-- ⭐ 40818 stars
-- 🍴 5149 forks
-- 💻 Go
-- 📅 Updated: 2026-07-17
+- ⭐ 9807 stars
+- 💻 Java
+- 📅 Updated: 2026-07-18
 
-![multica](2026/07-17/2026-07-17_daily-top_multica.png)
+![copilot-sdk](2026/07-18/2026-07-18_daily-top_copilot-sdk.png)
+
+### 10. [marketingskills](https://github.com/coreyhaines31/marketingskills)
+
+> 🤖 **Why Recommend**  
+> *The **marketingskills** project offers a comprehensive suite of AI agent skills tailored for marketing tasks, including conversion optimization, copywriting, SEO, analytics, and growth engineering. Designed for technical marketers and founders, it seamlessly integrates with agents like Claude Code and OpenAI Codex. Key features include modular skills that enhance AI capabilities in areas like A/B testing, social media, and customer research. Additional services include hands-on support through Conversion Factory, marketing training, and the Magister autonomous CMO solution. Contributions are encouraged, fostering continuous improvement.*
+
+- ⭐ 40427 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-07-18
+
+![marketingskills](2026/07-18/2026-07-18_daily-top_marketingskills.png)
 
 ---
 
@@ -141,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-17 03:22:04 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-18 02:58:17 UTC
