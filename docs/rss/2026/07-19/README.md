@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-19
 
-![signoz](2026/07-19/2026-07-19_daily-top_signoz.png)
+![signoz](2026-07-19_daily-top_signoz.png)
 
 ### 2. [herdr](https://github.com/ogulcancelik/herdr)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-19
 
-![herdr](2026/07-19/2026-07-19_daily-top_herdr.png)
+![herdr](2026-07-19_daily-top_herdr.png)
 
 ### 3. [openinterpreter](https://github.com/openinterpreter/openinterpreter)
 
@@ -49,7 +49,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-19
 
-![openinterpreter](2026/07-19/2026-07-19_daily-top_openinterpreter.png)
+![openinterpreter](2026-07-19_daily-top_openinterpreter.png)
 
 ### 4. [maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-19
 
-![maths-cs-ai-compendium](2026/07-19/2026-07-19_daily-top_maths-cs-ai-compendium.png)
+![maths-cs-ai-compendium](2026-07-19_daily-top_maths-cs-ai-compendium.png)
 
 ### 5. [opencode](https://github.com/anomalyco/opencode)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-19
 
-![opencode](2026/07-19/2026-07-19_daily-top_opencode.png)
+![opencode](2026-07-19_daily-top_opencode.png)
 
 ### 6. [skillhub](https://github.com/iflytek/skillhub)
 
@@ -82,7 +82,7 @@
 - 💻 Java
 - 📅 Updated: 2026-07-19
 
-![skillhub](2026/07-19/2026-07-19_daily-top_skillhub.png)
+![skillhub](2026-07-19_daily-top_skillhub.png)
 
 ### 7. [wigolo](https://github.com/KnockOutEZ/wigolo)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-19
 
-![wigolo](2026/07-19/2026-07-19_daily-top_wigolo.png)
+![wigolo](2026-07-19_daily-top_wigolo.png)
 
 ### 8. [cwc-workshops](https://github.com/anthropics/cwc-workshops)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-19
 
-![cwc-workshops](2026/07-19/2026-07-19_daily-top_cwc-workshops.png)
+![cwc-workshops](2026-07-19_daily-top_cwc-workshops.png)
 
 ### 9. [agentos](https://github.com/rivet-dev/agentos)
 
@@ -116,7 +116,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-19
 
-![agentos](2026/07-19/2026-07-19_daily-top_agentos.png)
+![agentos](2026-07-19_daily-top_agentos.png)
 
 ### 10. [open-lovable](https://github.com/firecrawl/open-lovable)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-19
 
-![open-lovable](2026/07-19/2026-07-19_daily-top_open-lovable.png)
+![open-lovable](2026-07-19_daily-top_open-lovable.png)
 
 ---
 
