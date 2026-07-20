@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-20
 
-![OmniRoute](2026/07-20/2026-07-20_daily-top_OmniRoute.png)
+![OmniRoute](2026-07-20_daily-top_OmniRoute.png)
 
 ### 2. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-20
 
-![voicebox](2026/07-20/2026-07-20_daily-top_voicebox.png)
+![voicebox](2026-07-20_daily-top_voicebox.png)
 
 ### 3. [wigolo](https://github.com/KnockOutEZ/wigolo)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-20
 
-![wigolo](2026/07-20/2026-07-20_daily-top_wigolo.png)
+![wigolo](2026-07-20_daily-top_wigolo.png)
 
 ### 4. [ui-skills](https://github.com/ibelick/ui-skills)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-20
 
-![ui-skills](2026/07-20/2026-07-20_daily-top_ui-skills.png)
+![ui-skills](2026-07-20_daily-top_ui-skills.png)
 
 ### 5. [topcoat](https://github.com/tokio-rs/topcoat)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-20
 
-![topcoat](2026/07-20/2026-07-20_daily-top_topcoat.png)
+![topcoat](2026-07-20_daily-top_topcoat.png)
 
 ### 6. [herdr](https://github.com/ogulcancelik/herdr)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-20
 
-![herdr](2026/07-20/2026-07-20_daily-top_herdr.png)
+![herdr](2026-07-20_daily-top_herdr.png)
 
 ### 7. [signoz](https://github.com/SigNoz/signoz)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-20
 
-![signoz](2026/07-20/2026-07-20_daily-top_signoz.png)
+![signoz](2026-07-20_daily-top_signoz.png)
 
 ### 8. [gstack](https://github.com/garrytan/gstack)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-20
 
-![gstack](2026/07-20/2026-07-20_daily-top_gstack.png)
+![gstack](2026-07-20_daily-top_gstack.png)
 
 ### 9. [jcode](https://github.com/1jehuang/jcode)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-20
 
-![jcode](2026/07-20/2026-07-20_daily-top_jcode.png)
+![jcode](2026-07-20_daily-top_jcode.png)
 
 ### 10. [open-seo](https://github.com/every-app/open-seo)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-20
 
-![open-seo](2026/07-20/2026-07-20_daily-top_open-seo.png)
+![open-seo](2026-07-20_daily-top_open-seo.png)
 
 ---
 
