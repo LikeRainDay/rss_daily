@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-07-20
+# 📊 🌟 GitHub Trending Daily - 2026-07-21
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **259137** ⭐ | **32082** 🍴
+**10** Projects | **166388** ⭐ | **14058** 🍴
 
-**Top Languages:** `TypeScript` (7) · `Rust` (3)
+**Top Languages:** `TypeScript` (6) · `Rust` (2) · `C++` (1)
 
-**Updated:** 2026-07-20 03:44 UTC
+**Updated:** 2026-07-21 03:24 UTC
 
 **Categories:**
 
@@ -18,115 +18,116 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+### 1. [openship](https://github.com/oblien/openship)
 
 > 🤖 **Why Recommend**  
-> *OmniRoute is a free AI gateway that unifies access to over 268 AI providers (90+ free) and 500+ models, including Claude, GPT, and Gemini, through a single endpoint. Key features include quota-aware auto-fallback, advanced token compression saving 15-95% tokens, and support for various coding agents like Claude Code and Copilot. With 18 routing strategies, it optimizes cost and performance while ensuring seamless integration across platforms. Built by over 500 contributors, OmniRoute empowers developers to maximize AI capabilities with minimal costs and complexity.*
+> *Self-hosted deployment platform. popular project, actively maintained, recently updated*
 
-- ⭐ 20362 stars
+- ⭐ 4949 stars
+- 🍴 343 forks
 - 💻 TypeScript
-- 📅 Updated: 2026-07-20
+- 📅 Updated: 2026-07-21
 
-![OmniRoute](2026/07-20/2026-07-20_daily-top_OmniRoute.png)
+![openship](2026/07-21/2026-07-21_daily-top_openship.png)
 
-### 2. [voicebox](https://github.com/jamiepine/voicebox)
+### 2. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
 > 🤖 **Why Recommend**  
-> *Voicebox is an open-source AI voice studio enabling users to clone voices, generate speech, and dictate across applications, all while ensuring privacy by running locally. Key features include support for seven TTS engines, voice cloning from short audio samples, and multilingual capabilities across 23 languages. Users can apply post-processing effects, manage voice profiles, and utilize a global dictation hotkey. Voicebox also integrates with MCP-aware agents for dynamic voice interactions and offers an API for custom applications. With a user-friendly interface and robust functionality, it serves as a comprehensive tool for voice-related tasks.*
+> *OmniRoute is a free, open-source AI gateway that consolidates access to over 268 providers and 500+ models, including popular options like Claude, GPT, and Gemini. Key features include a single endpoint for seamless integration, quota-aware auto-fallback, and RTK+Caveman compression, achieving token savings of 15-95%. It supports various coding tools and platforms, ensuring robust multi-modal capabilities. With contributions from 500+ developers, OmniRoute empowers users to maximize AI usage efficiently while maintaining privacy and low costs.*
 
-- ⭐ 43490 stars
+- ⭐ 22058 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-20
+- 📅 Updated: 2026-07-21
 
-![voicebox](2026/07-20/2026-07-20_daily-top_voicebox.png)
+![OmniRoute](2026/07-21/2026-07-21_daily-top_OmniRoute.png)
 
-### 3. [wigolo](https://github.com/KnockOutEZ/wigolo)
+### 3. [open-seo](https://github.com/every-app/open-seo)
 
 > 🤖 **Why Recommend**  
-> *wigolo is a local-first web intelligence tool for AI agents, enabling search, fetch, crawl, extract, and cache functionalities without API keys or cloud reliance, ensuring $0 per query. It seamlessly integrates with various coding agents like Claude Code, Cursor, and Codex, and supports multiple protocols (MCP, REST). Key features include multi-engine web search, structured data extraction, and an autonomous gather loop for research. Designed for privacy and efficiency, wigolo is currently in public beta, offering high-quality results comparable to paid services.*
+> *OpenSEO is an open-source SEO tool designed as an affordable alternative to Semrush and Ahrefs, boasting 5,962 stars on GitHub. It features a modern, user-friendly interface with focused workflows for keyword research, rank tracking, competitor insights, backlinks, and site audits. Users can connect AI agents like Claude Code and OpenClaw through its MCP server, offering reusable workflows for SEO tasks. OpenSEO allows for self-hosting via Docker or Cloudflare, requires a DataForSEO API key for data access, and offers a hosted version at $10/month. Community contributions are encouraged.*
 
-- ⭐ 1952 stars
+- ⭐ 5962 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-20
+- 📅 Updated: 2026-07-21
 
-![wigolo](2026/07-20/2026-07-20_daily-top_wigolo.png)
+![open-seo](2026/07-21/2026-07-21_daily-top_open-seo.png)
 
-### 4. [ui-skills](https://github.com/ibelick/ui-skills)
+### 4. [voicebox](https://github.com/jamiepine/voicebox)
 
 > 🤖 **Why Recommend**  
-> *UI Skills is a TypeScript-based CLI tool designed for design engineers, boasting 5,474 stars on GitHub. The project helps users navigate essential UI skill sets with commands like `npx ui-skills start`, `categories`, and `list`. Key features include tailored support for various design tasks and access to a motion category. The platform aims to enhance design workflows efficiently. For more information, visit [ui-skills.com](http://ui-skills.com/). The project is licensed under the MIT license.*
+> *Voicebox is an open-source AI voice studio enabling users to clone voices, generate speech, and dictate across applications, all while ensuring complete privacy as it runs locally. Key features include voice cloning with 50+ presets, support for 23 languages, seven TTS engines, and post-processing effects. Users can create multi-track narratives, utilize a global dictation hotkey, and integrate with MCP-aware agents for personalized voice interactions. Voicebox also provides an API for seamless app integration. With a user-friendly interface and robust tools, it stands as a comprehensive alternative to existing voice solutions.*
 
-- ⭐ 5474 stars
+- ⭐ 44288 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-20
+- 📅 Updated: 2026-07-21
 
-![ui-skills](2026/07-20/2026-07-20_daily-top_ui-skills.png)
+![voicebox](2026/07-21/2026-07-21_daily-top_voicebox.png)
 
-### 5. [topcoat](https://github.com/tokio-rs/topcoat)
+### 5. [wigolo](https://github.com/KnockOutEZ/wigolo)
 
 > 🤖 **Why Recommend**  
-> *Topcoat is a full-stack Rust framework designed for building web apps with simplicity and productivity in mind. It features server-rendered components that eliminate the need for an API layer, allowing direct database queries and client reactivity without boilerplate. Topcoat includes a module-based routing system, built-in Tailwind CSS support, and premade UI components. The asset bundling system efficiently serves static files, while utility macros streamline HTML templating. With a focus on modularity and performance, Topcoat aims to enhance developer experience in Rust web development.*
+> *wigolo is a local-first web intelligence tool for AI coding agents, enabling search, fetch, crawl, extract, and research without API keys or cloud reliance, offering $0 per query. It supports various agents like Claude Code and Codex, operating via MCP or REST API. Key features include multi-engine web search, structured data extraction, autonomous gather loops, and persistent local caching. With a focus on transparency and efficiency, wigolo empowers agents with rich, evidence-based results while ensuring user data remains private. Currently in public beta, it is actively maintained and open-source under AGPL.*
 
-- ⭐ 1195 stars
+- ⭐ 2627 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-21
+
+![wigolo](2026/07-21/2026-07-21_daily-top_wigolo.png)
+
+### 6. [jcode](https://github.com/1jehuang/jcode)
+
+> 🤖 **Why Recommend**  
+> *jcode is a powerful coding agent harness built in Rust, designed for advanced multi-session workflows and customization. With over 9,735 stars on GitHub, it boasts exceptional performance and resource efficiency, significantly outperforming competitors in RAM usage and speed. Key features include intelligent memory management, a collaborative swarm mode for agent interaction, and extensive support for various OAuth providers. Users benefit from a unique self-development mode, allowing the agent to modify its own source code, and integrated browser automation for enhanced functionality.*
+
+- ⭐ 9735 stars
 - 💻 Rust
-- 📅 Updated: 2026-07-20
+- 📅 Updated: 2026-07-21
 
-![topcoat](2026/07-20/2026-07-20_daily-top_topcoat.png)
+![jcode](2026/07-21/2026-07-21_daily-top_jcode.png)
 
-### 6. [herdr](https://github.com/ogulcancelik/herdr)
+### 7. [croc](https://github.com/schollz/croc)
 
 > 🤖 **Why Recommend**  
-> *Herdr is a terminal-based agent multiplexer designed to streamline workflows by providing a real-time view of all agents—blocked, working, or done. Key features include detachable sessions that persist across terminal restarts, support for both keyboard and mouse interactions, and a pure socket API for agent communication. Users can enhance functionality with plugins from a marketplace. Built in Rust, Herdr avoids the bloat of Electron, making it lightweight and efficient. Comprehensive documentation and installation instructions are available at herdr.dev.*
+> *Croc is a powerful CLI tool for secure file and folder transfers between computers, boasting over 36,000 stars on GitHub. It supports cross-platform functionality (Windows, Linux, Mac), end-to-end encryption using PAKE, and allows multiple file transfers with resuming capabilities. Key features include relay-based transfers, IPv6 support, and proxy usage (e.g., Tor). Users can customize code phrases, send text, and even run a self-hosted relay. Croc simplifies secure data sharing without the need for local servers or port forwarding, making it ideal for efficient file transfers.*
 
-- ⭐ 18437 stars
+- ⭐ 36314 stars
+- 💻 Go
+- 📅 Updated: 2026-07-21
+
+![croc](2026/07-21/2026-07-21_daily-top_croc.png)
+
+### 8. [Ontology-Playground](https://github.com/microsoft/Ontology-Playground)
+
+> 🤖 **Why Recommend**  
+> *Ontology Playground is a free, open-source web app designed to facilitate learning about ontologies and Microsoft Fabric IQ. Key features include an interactive graph exploration tool powered by Cytoscape.js, a visual ontology designer with export capabilities to RDF/XML, and a curated catalogue of pre-built ontologies across various domains. Users can also access an Ontology School with structured learning paths, a quest system, and a natural language query playground. The app supports one-click contributions to the community catalogue and offers an embeddable widget for easy integration.*
+
+- ⭐ 1773 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-21
+
+![Ontology-Playground](2026/07-21/2026-07-21_daily-top_Ontology-Playground.png)
+
+### 9. [transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
+
+> 🤖 **Why Recommend**  
+> *transcribe.cpp is a C/C++ speech-to-text inference library supporting over 16 model families and 60 variants via GGUF models on the ggml runtime. It offers fast GPU inference through Metal, Vulkan, and CUDA, alongside a tinyBLAS-accelerated CPU option. Each model is WER-tested and numerically verified, ensuring high accuracy. The library includes a CLI for easy transcription, quantization tools, and bindings for Python, TypeScript, Rust, and Swift. Comprehensive documentation and pre-built models are available on Hugging Face under the "handy-computer" account.*
+
+- ⭐ 1320 stars
+- 💻 C++
+- 📅 Updated: 2026-07-21
+
+![transcribe.cpp](2026/07-21/2026-07-21_daily-top_transcribe.cpp.png)
+
+### 10. [dioxus](https://github.com/DioxusLabs/dioxus)
+
+> 🤖 **Why Recommend**  
+> *Dioxus is a fullstack app framework built in Rust, enabling cross-platform development for web, desktop, and mobile applications from a single codebase. Key features include zero-config setup, integrated hot-reloading, and ergonomic state management. It offers a powerful fullstack capability with built-in support for WebSockets, server-side rendering, and static-site generation. Dioxus supports native mobile development with rapid deployment and bundled optimizations, making it ideal for lightweight applications. The project boasts comprehensive documentation and an active community for support.*
+
+- ⭐ 37362 stars
 - 💻 Rust
-- 📅 Updated: 2026-07-20
+- 📅 Updated: 2026-07-21
 
-![herdr](2026/07-20/2026-07-20_daily-top_herdr.png)
-
-### 7. [signoz](https://github.com/SigNoz/signoz)
-
-> 🤖 **Why Recommend**  
-> *SigNoz is an open-source observability platform built on OpenTelemetry, offering a unified solution for logs, metrics, and traces. Key features include APM, distributed tracing, log management, infrastructure monitoring, and AI observability. Users can choose from a fully managed cloud service, enterprise solutions, or self-hosted options, ensuring data control. SigNoz provides correlated signals, predictable pricing, and compliance features, making it an enterprise-ready alternative to fragmented monitoring tools. With over 31,000 stars on GitHub, it streamlines debugging and enhances application resilience.*
-
-- ⭐ 31142 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-20
-
-![signoz](2026/07-20/2026-07-20_daily-top_signoz.png)
-
-### 8. [gstack](https://github.com/garrytan/gstack)
-
-> 🤖 **Why Recommend**  
-> *gstack is an open-source software factory that empowers solo builders to ship products at scale, utilizing AI agents for various roles like CEO, Designer, and QA. It features 23 specialized tools, all command-driven, enabling seamless processes from planning to deployment. Key highlights include automated design reviews, real-time QA with a browser interface, and integrations with multiple AI coding agents. Designed for founders and technical leads, gstack enhances productivity by streamlining workflows and ensuring rigorous code quality. Fork it, improve it, and elevate your development speed.*
-
-- ⭐ 123020 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-20
-
-![gstack](2026/07-20/2026-07-20_daily-top_gstack.png)
-
-### 9. [jcode](https://github.com/1jehuang/jcode)
-
-> 🤖 **Why Recommend**  
-> *jcode is an advanced coding agent harness built in Rust, designed for enhanced performance and multi-session workflows. With over 8,900 stars on GitHub, it offers infinite customizability, efficient memory management, and real-time collaboration through swarm functionality. Key features include a high-performance UI, browser automation capabilities, and support for various OAuth providers like OpenAI and GitHub Copilot. Jcode's unique memory system enables context-aware interactions, while self-development mode allows agents to modify their source code for continuous improvement.*
-
-- ⭐ 8983 stars
-- 💻 Rust
-- 📅 Updated: 2026-07-20
-
-![jcode](2026/07-20/2026-07-20_daily-top_jcode.png)
-
-### 10. [open-seo](https://github.com/every-app/open-seo)
-
-> 🤖 **Why Recommend**  
-> *OpenSEO is an open-source SEO tool designed as an affordable alternative to Semrush and Ahrefs, featuring a modern, user-friendly interface. With core functionalities like keyword research, rank tracking, competitor insights, backlinks, and site audits, it empowers users to manage their SEO effectively. OpenSEO integrates seamlessly with AI agents for enhanced workflows and offers flexible hosting options, including self-hosting via Docker or Cloudflare. Users pay only for the DataForSEO API they utilize, making it a cost-effective choice for SEO management.*
-
-- ⭐ 5082 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-20
-
-![open-seo](2026/07-20/2026-07-20_daily-top_open-seo.png)
+![dioxus](2026/07-21/2026-07-21_daily-top_dioxus.png)
 
 ---
 
@@ -140,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-20 03:44:44 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-21 03:24:31 UTC

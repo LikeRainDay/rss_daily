@@ -28,7 +28,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-21
 
-![openship](2026/07-21/2026-07-21_daily-top_openship.png)
+![openship](2026-07-21_daily-top_openship.png)
 
 ### 2. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-21
 
-![OmniRoute](2026/07-21/2026-07-21_daily-top_OmniRoute.png)
+![OmniRoute](2026-07-21_daily-top_OmniRoute.png)
 
 ### 3. [open-seo](https://github.com/every-app/open-seo)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-21
 
-![open-seo](2026/07-21/2026-07-21_daily-top_open-seo.png)
+![open-seo](2026-07-21_daily-top_open-seo.png)
 
 ### 4. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-21
 
-![voicebox](2026/07-21/2026-07-21_daily-top_voicebox.png)
+![voicebox](2026-07-21_daily-top_voicebox.png)
 
 ### 5. [wigolo](https://github.com/KnockOutEZ/wigolo)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-21
 
-![wigolo](2026/07-21/2026-07-21_daily-top_wigolo.png)
+![wigolo](2026-07-21_daily-top_wigolo.png)
 
 ### 6. [jcode](https://github.com/1jehuang/jcode)
 
@@ -83,7 +83,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-21
 
-![jcode](2026/07-21/2026-07-21_daily-top_jcode.png)
+![jcode](2026-07-21_daily-top_jcode.png)
 
 ### 7. [croc](https://github.com/schollz/croc)
 
@@ -94,7 +94,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-21
 
-![croc](2026/07-21/2026-07-21_daily-top_croc.png)
+![croc](2026-07-21_daily-top_croc.png)
 
 ### 8. [Ontology-Playground](https://github.com/microsoft/Ontology-Playground)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-21
 
-![Ontology-Playground](2026/07-21/2026-07-21_daily-top_Ontology-Playground.png)
+![Ontology-Playground](2026-07-21_daily-top_Ontology-Playground.png)
 
 ### 9. [transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
 
@@ -116,7 +116,7 @@
 - 💻 C++
 - 📅 Updated: 2026-07-21
 
-![transcribe.cpp](2026/07-21/2026-07-21_daily-top_transcribe.cpp.png)
+![transcribe.cpp](2026-07-21_daily-top_transcribe.cpp.png)
 
 ### 10. [dioxus](https://github.com/DioxusLabs/dioxus)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-21
 
-![dioxus](2026/07-21/2026-07-21_daily-top_dioxus.png)
+![dioxus](2026-07-21_daily-top_dioxus.png)
 
 ---
 
