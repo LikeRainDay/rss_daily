@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-22
 
-![OmniRoute](2026/07-22/2026-07-22_daily-top_OmniRoute.png)
+![OmniRoute](2026-07-22_daily-top_OmniRoute.png)
 
 ### 2. [openship](https://github.com/oblien/openship)
 
@@ -39,7 +39,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-22
 
-![openship](2026/07-22/2026-07-22_daily-top_openship.png)
+![openship](2026-07-22_daily-top_openship.png)
 
 ### 3. [orca](https://github.com/stablyai/orca)
 
@@ -50,7 +50,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-22
 
-![orca](2026/07-22/2026-07-22_daily-top_orca.png)
+![orca](2026-07-22_daily-top_orca.png)
 
 ### 4. [worldmonitor](https://github.com/koala73/worldmonitor)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-22
 
-![worldmonitor](2026/07-22/2026-07-22_daily-top_worldmonitor.png)
+![worldmonitor](2026-07-22_daily-top_worldmonitor.png)
 
 ### 5. [pi](https://github.com/earendil-works/pi)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-22
 
-![pi](2026/07-22/2026-07-22_daily-top_pi.png)
+![pi](2026-07-22_daily-top_pi.png)
 
 ### 6. [RuView](https://github.com/ruvnet/RuView)
 
@@ -83,7 +83,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-22
 
-![RuView](2026/07-22/2026-07-22_daily-top_RuView.png)
+![RuView](2026-07-22_daily-top_RuView.png)
 
 ### 7. [open-seo](https://github.com/every-app/open-seo)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-22
 
-![open-seo](2026/07-22/2026-07-22_daily-top_open-seo.png)
+![open-seo](2026-07-22_daily-top_open-seo.png)
 
 ### 8. [jcode](https://github.com/1jehuang/jcode)
 
@@ -105,7 +105,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-22
 
-![jcode](2026/07-22/2026-07-22_daily-top_jcode.png)
+![jcode](2026-07-22_daily-top_jcode.png)
 
 ### 9. [wigolo](https://github.com/KnockOutEZ/wigolo)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-22
 
-![wigolo](2026/07-22/2026-07-22_daily-top_wigolo.png)
+![wigolo](2026-07-22_daily-top_wigolo.png)
 
 ### 10. [moonshine](https://github.com/moonshine-ai/moonshine)
 
@@ -127,7 +127,7 @@
 - 💻 C++
 - 📅 Updated: 2026-07-22
 
-![moonshine](2026/07-22/2026-07-22_daily-top_moonshine.png)
+![moonshine](2026-07-22_daily-top_moonshine.png)
 
 ---
 
