@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-23
 
-![worldmonitor](2026/07-23/2026-07-23_daily-top_worldmonitor.png)
+![worldmonitor](2026-07-23_daily-top_worldmonitor.png)
 
 ### 2. [buzz](https://github.com/block/buzz)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-23
 
-![buzz](2026/07-23/2026-07-23_daily-top_buzz.png)
+![buzz](2026-07-23_daily-top_buzz.png)
 
 ### 3. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-23
 
-![OmniRoute](2026/07-23/2026-07-23_daily-top_OmniRoute.png)
+![OmniRoute](2026-07-23_daily-top_OmniRoute.png)
 
 ### 4. [openship](https://github.com/oblien/openship)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-23
 
-![openship](2026/07-23/2026-07-23_daily-top_openship.png)
+![openship](2026-07-23_daily-top_openship.png)
 
 ### 5. [orca](https://github.com/stablyai/orca)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-23
 
-![orca](2026/07-23/2026-07-23_daily-top_orca.png)
+![orca](2026-07-23_daily-top_orca.png)
 
 ### 6. [pi](https://github.com/earendil-works/pi)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-23
 
-![pi](2026/07-23/2026-07-23_daily-top_pi.png)
+![pi](2026-07-23_daily-top_pi.png)
 
 ### 7. [RuView](https://github.com/ruvnet/RuView)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-23
 
-![RuView](2026/07-23/2026-07-23_daily-top_RuView.png)
+![RuView](2026-07-23_daily-top_RuView.png)
 
 ### 8. [croc](https://github.com/schollz/croc)
 
@@ -104,7 +104,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-23
 
-![croc](2026/07-23/2026-07-23_daily-top_croc.png)
+![croc](2026-07-23_daily-top_croc.png)
 
 ### 9. [text-to-cad](https://github.com/earthtojake/text-to-cad)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-23
 
-![text-to-cad](2026/07-23/2026-07-23_daily-top_text-to-cad.png)
+![text-to-cad](2026-07-23_daily-top_text-to-cad.png)
 
 ### 10. [open-seo](https://github.com/every-app/open-seo)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-23
 
-![open-seo](2026/07-23/2026-07-23_daily-top_open-seo.png)
+![open-seo](2026-07-23_daily-top_open-seo.png)
 
 ---
 

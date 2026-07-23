@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-07-22
+# 📊 🌟 GitHub Trending Daily - 2026-07-23
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **309207** ⭐ | **38629** 🍴
+**10** 个项目 | **347127** ⭐ | **40612** 🍴
 
-**热门语言:** `TypeScript` (7) · `Rust` (2) · `C++` (1)
+**热门语言:** `TypeScript` (6) · `Rust` (2) · `Go` (1)
 
-**更新时间:** 2026-07-22 03:22 UTC
+**更新时间:** 2026-07-23 03:29 UTC
 
 **分类分布:**
 
@@ -18,116 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+### 1. [worldmonitor](https://github.com/koala73/worldmonitor)
 
 > 🤖 **推荐理由**  
-> *OmniRoute is a powerful AI gateway offering seamless access to over 268 providers, including 50+ free options and 500+ models like Kimi, Claude, and GPT. Key features include quota-aware auto-fallback, robust compression techniques saving 15-95% tokens, and support for various coding agents such as Codex and Copilot. OmniRoute provides a unified endpoint for easy integration, real-time analytics, and a user-friendly dashboard. Built by over 500 contributors, it ensures a cost-effective, high-performance solution for AI-driven development.*
+> *WorldMonitor is a real-time global intelligence dashboard that leverages AI for news aggregation, geopolitical monitoring, and infrastructure tracking, providing a unified situational awareness interface. Key features include 500+ curated news feeds, a dual map engine (3D globe and WebGL flat map), and cross-stream correlation of military, economic, and disaster signals. It offers a Country Instability Index, finance radar for stock exchanges and commodities, and supports 25 languages. Available as a native desktop app for multiple platforms, WorldMonitor also provides APIs and SDKs for programmatic access.*
 
-- ⭐ 23775 stars
+- ⭐ 69329 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-22
+- 📅 Updated: 2026-07-23
 
-![OmniRoute](2026/07-22/2026-07-22_daily-top_OmniRoute.png)
+![worldmonitor](2026/07-23/2026-07-23_daily-top_worldmonitor.png)
 
-### 2. [openship](https://github.com/oblien/openship)
-
-> 🤖 **推荐理由**  
-> *Self-hosted deployment platform. popular project, actively maintained, recently updated*
-
-- ⭐ 6347 stars
-- 🍴 458 forks
-- 💻 TypeScript
-- 📅 Updated: 2026-07-22
-
-![openship](2026/07-22/2026-07-22_daily-top_openship.png)
-
-### 3. [orca](https://github.com/stablyai/orca)
+### 2. [buzz](https://github.com/block/buzz)
 
 > 🤖 **推荐理由**  
-> *Orca is an advanced development environment (ADE) designed for managing parallel coding agents, supporting platforms like macOS, Windows, and Linux. With over 25,000 stars on GitHub, its core features include parallel worktrees for running multiple agents simultaneously, a mobile companion app for remote monitoring, and ghostty-class terminals with infinite splits. Users can integrate GitHub and Linear directly in-app, annotate AI-generated diffs, and utilize a powerful CLI. Orca empowers developers to orchestrate workflows efficiently while providing seamless collaboration and monitoring capabilities.*
+> *Buzz is a self-hostable communication platform designed for collaboration between humans and AI agents. It operates as a single-relay workspace, where every interaction—messages, workflow steps, and git events—are logged and auditable. Key features include agent-assisted bug triage, integrated feature branch collaboration, and a unified search across conversations and events. Buzz facilitates seamless teamwork, allowing agents to manage workflows and engage in discussions with the same capabilities as human members. With 4,346 stars on GitHub, it represents a substantial advancement in AI-integrated development tools.*
 
-- ⭐ 25146 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-22
-
-![orca](2026/07-22/2026-07-22_daily-top_orca.png)
-
-### 4. [worldmonitor](https://github.com/koala73/worldmonitor)
-
-> 🤖 **推荐理由**  
-> *WorldMonitor is a real-time global intelligence dashboard that integrates AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking into a single interface. Key features include 500+ curated news feeds across 15 categories, a dual map engine with 3D and flat map views, and a Country Instability Index for 31 Tier-1 countries. The platform supports multiple languages and offers six site variants, along with a native desktop app for macOS, Windows, and Linux. It also provides robust APIs and SDKs for programmatic access, making it ideal for developers and analysts.*
-
-- ⭐ 65853 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-22
-
-![worldmonitor](2026/07-22/2026-07-22_daily-top_worldmonitor.png)
-
-### 5. [pi](https://github.com/earendil-works/pi)
-
-> 🤖 **推荐理由**  
-> *Pi is an AI agent toolkit featuring a unified multi-provider LLM API, agent runtime, and interactive coding agent CLI, built in TypeScript. Key components include the `@earendil-works/pi-ai` for seamless integration with providers like OpenAI and Google, the `@earendil-works/pi-agent-core` for state management, and the `@earendil-works/pi-coding-agent` for command-line interactions. The toolkit also offers a terminal UI library and robust development practices for supply-chain integrity. Visit pi.dev for demos and documentation.*
-
-- ⭐ 74825 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-22
-
-![pi](2026/07-22/2026-07-22_daily-top_pi.png)
-
-### 6. [RuView](https://github.com/ruvnet/RuView)
-
-> 🤖 **推荐理由**  
-> *RuView is an innovative project that transforms standard WiFi signals into real-time spatial intelligence, enabling vital sign monitoring and presence detection without the use of video. Leveraging Rust for high performance, RuView offers seamless integration and privacy-focused solutions for various applications, including health monitoring and smart home environments. With over 82,000 stars on GitHub, RuView stands out for its groundbreaking approach to utilizing existing WiFi infrastructure for advanced sensing capabilities, making it a valuable tool for developers and researchers alike.*
-
-- ⭐ 82765 stars
+- ⭐ 4346 stars
 - 💻 Rust
-- 📅 Updated: 2026-07-22
+- 📅 Updated: 2026-07-23
 
-![RuView](2026/07-22/2026-07-22_daily-top_RuView.png)
+![buzz](2026/07-23/2026-07-23_daily-top_buzz.png)
 
-### 7. [open-seo](https://github.com/every-app/open-seo)
+### 3. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
 > 🤖 **推荐理由**  
-> *OpenSEO is an open-source SEO tool designed as an affordable alternative to Semrush and Ahrefs, garnering 6,654 stars on GitHub. It features a modern UI focused on streamlined workflows for keyword research, rank tracking, competitor insights, backlinks, and site audits. Users can connect with AI agents like Claude Code for customized SEO tasks. OpenSEO supports self-hosting via Docker or Cloudflare and operates on a pay-as-you-go model using a DataForSEO API key. A hosted version is available for $10/month, making it accessible for all users.*
+> *OmniRoute is a free AI gateway providing access to over 278 providers (90+ free tiers) through a single endpoint. Key features include intelligent auto-fallback across providers, token compression saving 15-95%, and compatibility with multiple coding tools like Claude Code and Codex. With 500+ models available, OmniRoute supports quota-sharing for teams, real-time usage analytics, and extensive routing strategies. Developed by 500+ contributors, it offers a robust, open-source solution for seamless AI model integration, ensuring users never hit limits while coding.*
 
-- ⭐ 6654 stars
+- ⭐ 25527 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-22
+- 📅 Updated: 2026-07-23
 
-![open-seo](2026/07-22/2026-07-22_daily-top_open-seo.png)
+![OmniRoute](2026/07-23/2026-07-23_daily-top_OmniRoute.png)
 
-### 8. [jcode](https://github.com/1jehuang/jcode)
+### 4. [openship](https://github.com/oblien/openship)
 
 > 🤖 **推荐理由**  
-> *jcode is an advanced coding agent designed for multi-session workflows, built with Rust for optimal performance and resource efficiency. Key features include a human-like memory system for recalling information, real-time collaboration through swarm capabilities, and flexible integration with various AI providers like OpenAI and GitHub Copilot. jcode supports extensive customization, allowing self-development and code editing within sessions. Additional services include browser automation and a rich user interface with side panels for auxiliary information, enhancing coding productivity and collaboration.*
+> *Openship is a powerful open-source, self-hosted deployment platform that simplifies code deployment and infrastructure management through a desktop app, web dashboard, or CLI. With built-in CI/CD, it supports any tech stack and automates processes like domain management, SSL provisioning, and backups. Key features include real-time monitoring, scaling options, and a user-friendly interface. Openship can be deployed on various environments, from personal machines to cloud servers, making it suitable for solo developers and teams alike.*
 
-- ⭐ 10396 stars
+- ⭐ 7385 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-23
+
+![openship](2026/07-23/2026-07-23_daily-top_openship.png)
+
+### 5. [orca](https://github.com/stablyai/orca)
+
+> 🤖 **推荐理由**  
+> *Orca is an advanced development environment (ADE) designed for managing a fleet of parallel agents, enabling users to run coding agents like Codex and ClaudeCode in parallel worktrees. Key features include a mobile companion app for remote monitoring, terminal splits for enhanced productivity, and integrated GitHub and Linear support for seamless task management. Users can annotate AI diffs, drag files directly into prompts, and utilize an extensive CLI for scripting workflows. Orca supports macOS, Windows, and Linux, making it versatile for developers.*
+
+- ⭐ 26352 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-23
+
+![orca](2026/07-23/2026-07-23_daily-top_orca.png)
+
+### 6. [pi](https://github.com/earendil-works/pi)
+
+> 🤖 **推荐理由**  
+> *Pi is an AI agent toolkit that offers a unified LLM API, an interactive coding agent CLI, and a terminal UI library, all built in TypeScript. Key features include the **[@earendil-works/pi-ai](packages/ai)** for multi-provider LLM integrations, the **[@earendil-works/pi-agent-core](packages/agent)** for tool calling and state management, and the **[@earendil-works/pi-coding-agent](packages/coding-agent)** for coding automation. Pi emphasizes extensibility, security through containerization options, and community engagement via Discord. Visit [pi.dev](https://pi.dev) for more information.*
+
+- ⭐ 75671 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-23
+
+![pi](2026/07-23/2026-07-23_daily-top_pi.png)
+
+### 7. [RuView](https://github.com/ruvnet/RuView)
+
+> 🤖 **推荐理由**  
+> *RuView transforms WiFi signals into real-time spatial intelligence, enabling presence detection, vital sign monitoring, and activity recognition without cameras or wearables. It supports major smart home ecosystems like Home Assistant, Apple Home, Google Home, and Amazon Alexa, allowing seamless integration. Key features include through-wall sensing, breathing and heart rate measurement, and environment mapping. Built on low-cost ESP32 hardware, RuView operates entirely on edge devices, ensuring privacy and low latency while delivering comprehensive monitoring capabilities in diverse environments.*
+
+- ⭐ 83969 stars
 - 💻 Rust
-- 📅 Updated: 2026-07-22
+- 📅 Updated: 2026-07-23
 
-![jcode](2026/07-22/2026-07-22_daily-top_jcode.png)
+![RuView](2026/07-23/2026-07-23_daily-top_RuView.png)
 
-### 9. [wigolo](https://github.com/KnockOutEZ/wigolo)
+### 8. [croc](https://github.com/schollz/croc)
 
 > 🤖 **推荐理由**  
-> *wigolo is a local-first web intelligence tool for AI coding agents, enabling search, fetch, crawl, extract, cache, and research without API keys or cloud reliance, costing $0 per query. It supports various agents (e.g., Claude Code, VS Code) and operates as an MCP server or REST endpoint. Key features include multi-engine search with explainable scoring, structured data extraction, and persistent caching. It offers SDKs for TypeScript and Python, making integration seamless. Wigolo is in public beta, emphasizing privacy and performance without hidden costs.*
+> *Croc is a powerful CLI tool for secure file and folder transfers between any two computers, leveraging end-to-end encryption via PAKE. It supports cross-platform usage (Windows, macOS, Linux), allows multiple file transfers, and can resume interrupted transfers. Notable features include relay support without the need for port forwarding, IPv6-first compatibility, and proxy usage (including Tor). Users can customize transfer options, self-host relays, and utilize QR codes for mobile accessibility. With over 37,000 stars, Croc stands out for its ease of use and robust security measures.*
 
-- ⭐ 3202 stars
+- ⭐ 37721 stars
+- 💻 Go
+- 📅 Updated: 2026-07-23
+
+![croc](2026/07-23/2026-07-23_daily-top_croc.png)
+
+### 9. [text-to-cad](https://github.com/earthtojake/text-to-cad)
+
+> 🤖 **推荐理由**  
+> *text-to-cad is a skill library designed for CAD, robotics, and hardware design, featuring 10 core skills. Key functionalities include generating and editing CAD models from plain language, creating URDF files for robot descriptions, and producing 2D DXF drawings. The library supports multiple export formats like STEP, STL, and G-code, facilitating workflows for fabrication and simulation. Users can preview designs in a browser and find off-the-shelf CAD parts. With over 9,600 stars on GitHub, it encourages collaboration and contributions within the CAD community.*
+
+- ⭐ 9638 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-07-23
+
+![text-to-cad](2026/07-23/2026-07-23_daily-top_text-to-cad.png)
+
+### 10. [open-seo](https://github.com/every-app/open-seo)
+
+> 🤖 **推荐理由**  
+> *OpenSEO is an open-source SEO tool designed as an affordable alternative to Semrush and Ahrefs, featuring a modern, user-friendly interface. Key functionalities include keyword research, rank tracking, competitor insights, backlinks, site audits, and AI visibility. It enables integration with AI agents like Claude Code and OpenClaw through a customizable MCP server. Users can self-host via Docker or Cloudflare, requiring a DataForSEO API key for data access. OpenSEO offers a hosted version for $10/month, promoting a pay-as-you-go model without subscriptions.*
+
+- ⭐ 7189 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-22
+- 📅 Updated: 2026-07-23
 
-![wigolo](2026/07-22/2026-07-22_daily-top_wigolo.png)
-
-### 10. [moonshine](https://github.com/moonshine-ai/moonshine)
-
-> 🤖 **推荐理由**  
-> *Moonshine is an open-source AI toolkit for developers, offering low-latency speech-to-text, intent recognition, and text-to-speech capabilities for real-time voice interfaces. Key features include on-device processing for privacy and speed, support for multiple languages, and a unified API across various platforms like Python, iOS, Android, and more. The library provides high-level abstractions for common tasks like transcription, command recognition, and conversational agents, enabling seamless integration into applications without requiring API keys or accounts.*
-
-- ⭐ 10244 stars
-- 💻 C++
-- 📅 Updated: 2026-07-22
-
-![moonshine](2026/07-22/2026-07-22_daily-top_moonshine.png)
+![open-seo](2026/07-23/2026-07-23_daily-top_open-seo.png)
 
 ---
 
@@ -141,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-22 03:22:37 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-23 03:29:23 UTC
