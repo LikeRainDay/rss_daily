@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-24
 
-![worldmonitor](2026/07-24/2026-07-24_daily-top_worldmonitor.png)
+![worldmonitor](2026-07-24_daily-top_worldmonitor.png)
 
 ### 2. [buzz](https://github.com/block/buzz)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-24
 
-![buzz](2026/07-24/2026-07-24_daily-top_buzz.png)
+![buzz](2026-07-24_daily-top_buzz.png)
 
 ### 3. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-24
 
-![OmniRoute](2026/07-24/2026-07-24_daily-top_OmniRoute.png)
+![OmniRoute](2026-07-24_daily-top_OmniRoute.png)
 
 ### 4. [RuView](https://github.com/ruvnet/RuView)
 
@@ -60,7 +60,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-24
 
-![RuView](2026/07-24/2026-07-24_daily-top_RuView.png)
+![RuView](2026-07-24_daily-top_RuView.png)
 
 ### 5. [orca](https://github.com/stablyai/orca)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-24
 
-![orca](2026/07-24/2026-07-24_daily-top_orca.png)
+![orca](2026-07-24_daily-top_orca.png)
 
 ### 6. [pi](https://github.com/earendil-works/pi)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-24
 
-![pi](2026/07-24/2026-07-24_daily-top_pi.png)
+![pi](2026-07-24_daily-top_pi.png)
 
 ### 7. [croc](https://github.com/schollz/croc)
 
@@ -93,7 +93,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-24
 
-![croc](2026/07-24/2026-07-24_daily-top_croc.png)
+![croc](2026-07-24_daily-top_croc.png)
 
 ### 8. [openship](https://github.com/oblien/openship)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-24
 
-![openship](2026/07-24/2026-07-24_daily-top_openship.png)
+![openship](2026-07-24_daily-top_openship.png)
 
 ### 9. [harper](https://github.com/Automattic/harper)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-24
 
-![harper](2026/07-24/2026-07-24_daily-top_harper.png)
+![harper](2026-07-24_daily-top_harper.png)
 
 ### 10. [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
 
@@ -126,7 +126,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-24
 
-![Pumpkin](2026/07-24/2026-07-24_daily-top_Pumpkin.png)
+![Pumpkin](2026-07-24_daily-top_Pumpkin.png)
 
 ---
 
