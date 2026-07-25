@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-25
 
-![buzz](2026/07-25/2026-07-25_daily-top_buzz.png)
+![buzz](2026-07-25_daily-top_buzz.png)
 
 ### 2. [worldmonitor](https://github.com/koala73/worldmonitor)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-25
 
-![worldmonitor](2026/07-25/2026-07-25_daily-top_worldmonitor.png)
+![worldmonitor](2026-07-25_daily-top_worldmonitor.png)
 
 ### 3. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-25
 
-![OmniRoute](2026/07-25/2026-07-25_daily-top_OmniRoute.png)
+![OmniRoute](2026-07-25_daily-top_OmniRoute.png)
 
 ### 4. [open-code-review](https://github.com/alibaba/open-code-review)
 
@@ -61,7 +61,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-25
 
-![open-code-review](2026/07-25/2026-07-25_daily-top_open-code-review.png)
+![open-code-review](2026-07-25_daily-top_open-code-review.png)
 
 ### 5. [RuView](https://github.com/ruvnet/RuView)
 
@@ -72,7 +72,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-25
 
-![RuView](2026/07-25/2026-07-25_daily-top_RuView.png)
+![RuView](2026-07-25_daily-top_RuView.png)
 
 ### 6. [ego-lite](https://github.com/citrolabs/ego-lite)
 
@@ -83,7 +83,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-25
 
-![ego-lite](2026/07-25/2026-07-25_daily-top_ego-lite.png)
+![ego-lite](2026-07-25_daily-top_ego-lite.png)
 
 ### 7. [harper](https://github.com/Automattic/harper)
 
@@ -94,7 +94,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-25
 
-![harper](2026/07-25/2026-07-25_daily-top_harper.png)
+![harper](2026-07-25_daily-top_harper.png)
 
 ### 8. [pi](https://github.com/earendil-works/pi)
 
@@ -105,7 +105,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-25
 
-![pi](2026/07-25/2026-07-25_daily-top_pi.png)
+![pi](2026-07-25_daily-top_pi.png)
 
 ### 9. [palmier-pro](https://github.com/palmier-io/palmier-pro)
 
@@ -116,7 +116,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-07-25
 
-![palmier-pro](2026/07-25/2026-07-25_daily-top_palmier-pro.png)
+![palmier-pro](2026-07-25_daily-top_palmier-pro.png)
 
 ### 10. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -127,7 +127,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-25
 
-![firecrawl](2026/07-25/2026-07-25_daily-top_firecrawl.png)
+![firecrawl](2026-07-25_daily-top_firecrawl.png)
 
 ---
 
