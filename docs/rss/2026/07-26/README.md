@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-26
 
-![buzz](2026/07-26/2026-07-26_daily-top_buzz.png)
+![buzz](2026-07-26_daily-top_buzz.png)
 
 ### 2. [bitchat](https://github.com/permissionlesstech/bitchat)
 
@@ -38,7 +38,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-07-26
 
-![bitchat](2026/07-26/2026-07-26_daily-top_bitchat.png)
+![bitchat](2026-07-26_daily-top_bitchat.png)
 
 ### 3. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-26
 
-![OmniRoute](2026/07-26/2026-07-26_daily-top_OmniRoute.png)
+![OmniRoute](2026-07-26_daily-top_OmniRoute.png)
 
 ### 4. [worldmonitor](https://github.com/koala73/worldmonitor)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-26
 
-![worldmonitor](2026/07-26/2026-07-26_daily-top_worldmonitor.png)
+![worldmonitor](2026-07-26_daily-top_worldmonitor.png)
 
 ### 5. [ego-lite](https://github.com/citrolabs/ego-lite)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-26
 
-![ego-lite](2026/07-26/2026-07-26_daily-top_ego-lite.png)
+![ego-lite](2026-07-26_daily-top_ego-lite.png)
 
 ### 6. [superfile](https://github.com/yorukot/superfile)
 
@@ -82,7 +82,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-26
 
-![superfile](2026/07-26/2026-07-26_daily-top_superfile.png)
+![superfile](2026-07-26_daily-top_superfile.png)
 
 ### 7. [RuView](https://github.com/ruvnet/RuView)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-26
 
-![RuView](2026/07-26/2026-07-26_daily-top_RuView.png)
+![RuView](2026-07-26_daily-top_RuView.png)
 
 ### 8. [pi](https://github.com/earendil-works/pi)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-26
 
-![pi](2026/07-26/2026-07-26_daily-top_pi.png)
+![pi](2026-07-26_daily-top_pi.png)
 
 ### 9. [harper](https://github.com/Automattic/harper)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-26
 
-![harper](2026/07-26/2026-07-26_daily-top_harper.png)
+![harper](2026-07-26_daily-top_harper.png)
 
 ### 10. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-26
 
-![impeccable](2026/07-26/2026-07-26_daily-top_impeccable.png)
+![impeccable](2026-07-26_daily-top_impeccable.png)
 
 ---
 
