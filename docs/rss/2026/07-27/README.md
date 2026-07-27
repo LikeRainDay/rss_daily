@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-27
 
-![buzz](2026/07-27/2026-07-27_daily-top_buzz.png)
+![buzz](2026-07-27_daily-top_buzz.png)
 
 ### 2. [bitchat](https://github.com/permissionlesstech/bitchat)
 
@@ -38,7 +38,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-07-27
 
-![bitchat](2026/07-27/2026-07-27_daily-top_bitchat.png)
+![bitchat](2026-07-27_daily-top_bitchat.png)
 
 ### 3. [ego-lite](https://github.com/citrolabs/ego-lite)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-27
 
-![ego-lite](2026/07-27/2026-07-27_daily-top_ego-lite.png)
+![ego-lite](2026-07-27_daily-top_ego-lite.png)
 
 ### 4. [Instatic](https://github.com/CoreBunch/Instatic)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-27
 
-![Instatic](2026/07-27/2026-07-27_daily-top_Instatic.png)
+![Instatic](2026-07-27_daily-top_Instatic.png)
 
 ### 5. [open-code-review](https://github.com/alibaba/open-code-review)
 
@@ -72,7 +72,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-27
 
-![open-code-review](2026/07-27/2026-07-27_daily-top_open-code-review.png)
+![open-code-review](2026-07-27_daily-top_open-code-review.png)
 
 ### 6. [ECC](https://github.com/affaan-m/ECC)
 
@@ -83,7 +83,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-27
 
-![ECC](2026/07-27/2026-07-27_daily-top_ECC.png)
+![ECC](2026-07-27_daily-top_ECC.png)
 
 ### 7. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -94,7 +94,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-27
 
-![impeccable](2026/07-27/2026-07-27_daily-top_impeccable.png)
+![impeccable](2026-07-27_daily-top_impeccable.png)
 
 ### 8. [Chat2DB](https://github.com/OtterMind/Chat2DB)
 
@@ -105,7 +105,7 @@
 - 💻 Java
 - 📅 Updated: 2026-07-27
 
-![Chat2DB](2026/07-27/2026-07-27_daily-top_Chat2DB.png)
+![Chat2DB](2026-07-27_daily-top_Chat2DB.png)
 
 ### 9. [palmier-pro](https://github.com/palmier-io/palmier-pro)
 
@@ -116,7 +116,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-07-27
 
-![palmier-pro](2026/07-27/2026-07-27_daily-top_palmier-pro.png)
+![palmier-pro](2026-07-27_daily-top_palmier-pro.png)
 
 ### 10. [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-27
 
-![Pumpkin](2026/07-27/2026-07-27_daily-top_Pumpkin.png)
+![Pumpkin](2026-07-27_daily-top_Pumpkin.png)
 
 ---
 
