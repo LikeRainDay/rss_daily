@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-07-27
+# 📊 🌟 GitHub Trending Daily - 2026-07-28
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **402866** ⭐ | **50725** 🍴
+**10** Projects | **451425** ⭐ | **54724** 🍴
 
-**Top Languages:** `JavaScript` (3) · `Swift` (2) · `Rust` (2)
+**Top Languages:** `JavaScript` (3) · `Go` (2) · `TypeScript` (2)
 
-**Updated:** 2026-07-27 03:43 UTC
+**Updated:** 2026-07-28 03:00 UTC
 
 **Categories:**
 
@@ -18,116 +18,116 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [buzz](https://github.com/block/buzz)
+### 1. [bitchat](https://github.com/permissionlesstech/bitchat)
 
 > 🤖 **Why Recommend**  
-> *Buzz is a self-hostable communication platform that integrates humans and AI agents into a cohesive workspace. It features a single-relay architecture for community management, allowing users to interact through channels, threads, and DMs while maintaining a unified event log for all actions. Key capabilities include agent-driven bug triaging, branch-based collaboration, and comprehensive search functionality. With a focus on shared workflows and audit trails, Buzz aims to streamline project management and enhance team collaboration. Built in Rust, it supports desktop and CLI interactions, fostering a collaborative environment where agents act as active team members.*
+> *bitchat is a decentralized peer-to-peer messaging app that combines Bluetooth mesh networks for offline communication with the internet-based Nostr protocol for global connectivity. Key features include dual transport architecture, location-based channels, intelligent message routing, and end-to-end encryption. Users benefit from a privacy-first approach with no accounts required, along with IRC-style commands for familiar interaction. The app supports iOS and macOS, ensuring versatile usage. Emergency wipe functionality and performance optimizations enhance user experience, making bitchat ideal for secure, local, and global messaging.*
 
-- ⭐ 13485 stars
-- 💻 Rust
-- 📅 Updated: 2026-07-27
-
-![buzz](2026/07-27/2026-07-27_daily-top_buzz.png)
-
-### 2. [bitchat](https://github.com/permissionlesstech/bitchat)
-
-> 🤖 **Why Recommend**  
-> *bitchat is a decentralized peer-to-peer messaging app featuring a dual transport architecture that combines Bluetooth mesh networks for offline communication and the Nostr protocol for global messaging. With no accounts or central servers, it prioritizes privacy and features intelligent message routing, location-based channels, and end-to-end encryption. The app supports both iOS and macOS, offers an IRC-style command interface, and includes emergency wipe capabilities. Ideal for group chats in various scenarios, bitchat ensures secure, flexible communication without reliance on the internet.*
-
-- ⭐ 30620 stars
+- ⭐ 32405 stars
 - 💻 Swift
-- 📅 Updated: 2026-07-27
+- 📅 Updated: 2026-07-28
 
-![bitchat](2026/07-27/2026-07-27_daily-top_bitchat.png)
+![bitchat](2026/07-28/2026-07-28_daily-top_bitchat.png)
 
-### 3. [ego-lite](https://github.com/citrolabs/ego-lite)
+### 2. [ego-lite](https://github.com/citrolabs/ego-lite)
 
 > 🤖 **Why Recommend**  
-> *ego-lite is a cutting-edge browser designed for seamless web automation by AI agents, allowing parallel task execution without disrupting user browsing. Key features include dedicated Spaces for each agent, fast JavaScript-based task execution, and high-quality page snapshots. It inherits Chrome’s data for user convenience and offers a straightforward setup with zero configuration. Currently available for macOS, with Windows and Linux support planned, ego-lite empowers agents like Codex and Claude Code to automate tasks efficiently while users maintain control over their tabs.*
+> *ego-lite is a high-speed browser designed for seamless AI agent automation. It allows users to share their logged-in browser state with agents like Codex or Claude Code, ensuring parallel task execution without interference. Key features include dedicated workspaces for each agent, high-quality page snapshots, and a JavaScript-based connection layer (`ego-browser`) for efficient task management. With zero configuration and easy setup, ego-lite enhances automation speed by up to 2.5x compared to traditional frameworks. Currently available for macOS, with Windows and Linux support planned.*
 
-- ⭐ 4785 stars
+- ⭐ 5483 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-27
+- 📅 Updated: 2026-07-28
 
-![ego-lite](2026/07-27/2026-07-27_daily-top_ego-lite.png)
+![ego-lite](2026/07-28/2026-07-28_daily-top_ego-lite.png)
 
-### 4. [Instatic](https://github.com/CoreBunch/Instatic)
-
-> 🤖 **Why Recommend**  
-> *Instatic is an open-source, self-hosted visual CMS that serves as an alternative to Webflow, Framer, and WordPress, designed to generate clean static pages. It consolidates the visual editor, content engine, and publishing tools within a single Bun server, supporting SQLite or Postgres databases. Key features include a real-time design canvas, a robust data management system, built-in analytics, and a plugin architecture for extensibility. With one-click deployment options and a focus on semantic HTML and compact CSS, Instatic prioritizes site ownership and performance.*
-
-- ⭐ 5770 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-27
-
-![Instatic](2026/07-27/2026-07-27_daily-top_Instatic.png)
-
-### 5. [open-code-review](https://github.com/alibaba/open-code-review)
+### 3. [open-code-review](https://github.com/alibaba/open-code-review)
 
 > 🤖 **Why Recommend**  
 > *Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level. popular project, actively maintained, recently updated*
 
-- ⭐ 13984 stars
-- 🍴 948 forks
+- ⭐ 14957 stars
+- 🍴 1010 forks
 - 💻 Go
-- 📅 Updated: 2026-07-27
+- 📅 Updated: 2026-07-28
 
-![open-code-review](2026/07-27/2026-07-27_daily-top_open-code-review.png)
+![open-code-review](2026/07-28/2026-07-28_daily-top_open-code-review.png)
 
-### 6. [ECC](https://github.com/affaan-m/ECC)
+### 4. [impeccable](https://github.com/pbakaus/impeccable)
 
 > 🤖 **Why Recommend**  
-> *ECC is a comprehensive performance optimization system designed for AI agent harnessing, supporting platforms like Claude Code, Codex, and Cursor. Key features include skills and instinct management, memory optimization, security scanning, and research-focused development. With over 233,000 stars, ECC provides cross-harness agent workflows, a user-friendly GUI dashboard, and a rich ecosystem of 67 agents and 281 skills. It emphasizes seamless integration, allowing users to optimize coding practices, automate tasks, and ensure security, making it suitable for both individual developers and teams.*
+> *Impeccable is a JavaScript design language for AI coding agents, boasting 51,643 stars. It provides design guidance with one setup command, 23 commands for various design tasks, and 60 deterministic detector rules for AI-generated frontend design. Key features include live browser iteration, project context setup, and a shared design vocabulary. It supports multiple AI tools like Claude Code and GitHub Copilot. Installation is seamless via `npx impeccable install`, enhancing design quality while avoiding common anti-patterns. Full documentation is available at [impeccable.style](https://impeccable.style).*
 
-- ⭐ 233712 stars
+- ⭐ 51643 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-27
+- 📅 Updated: 2026-07-28
 
-![ECC](2026/07-27/2026-07-27_daily-top_ECC.png)
+![impeccable](2026/07-28/2026-07-28_daily-top_impeccable.png)
 
-### 7. [impeccable](https://github.com/pbakaus/impeccable)
-
-> 🤖 **Why Recommend**  
-> *Impeccable is a powerful design language for AI coding agents, featuring 23 commands and 60 deterministic detector rules to enhance AI-generated frontend design. It offers a streamlined setup with `/impeccable init`, allowing users to define design context easily. Key commands include `polish`, `audit`, `critique`, and `animate`, facilitating comprehensive design workflows. The CLI and browser extension enable real-time iteration and quality checks. Impeccable supports multiple platforms, including Claude Code and GitHub Copilot, making it an essential tool for improving design quality in AI projects.*
-
-- ⭐ 50792 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-07-27
-
-![impeccable](2026/07-27/2026-07-27_daily-top_impeccable.png)
-
-### 8. [Chat2DB](https://github.com/OtterMind/Chat2DB)
+### 5. [Instatic](https://github.com/CoreBunch/Instatic)
 
 > 🤖 **Why Recommend**  
-> *Chat2DB is an AI-powered database tool and SQL client supporting over 30 databases, including MySQL, PostgreSQL, Oracle, and more. It offers a comprehensive SQL workspace with features like editing, completion, execution history, and a customizable AI assistant for generating and optimizing SQL queries. Users can manage database objects, import/export data, and create dashboards and charts. The application is cross-platform and runs locally, ensuring data security. Chat2DB also includes an open-source CLI and provides community and commercial editions with additional features.*
+> *Instatic is an open-source visual CMS that serves as a self-hosted alternative to platforms like Webflow, Framer, and WordPress. Built on a single Bun server, it combines a visual editor, content engine, and publisher, producing clean static pages comprised of semantic HTML and compact CSS. Key features include a powerful design framework, a modular component system, integrated forms, and a plugin architecture. It supports SQLite and Postgres databases, offers one-click deployment, and ensures robust user management with MFA and audit logs. Ideal for developers and content creators seeking full control over their sites.*
 
-- ⭐ 27205 stars
+- ⭐ 6257 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-28
+
+![Instatic](2026/07-28/2026-07-28_daily-top_Instatic.png)
+
+### 6. [superfile](https://github.com/yorukot/superfile)
+
+> 🤖 **Why Recommend**  
+> *superfile is a modern terminal file manager developed in Go, designed for efficient file management across macOS, Linux, and Windows. With over 20,900 stars on GitHub, it offers a sleek user interface, customizable themes, and a robust plugin system. Key features include hotkey support, auto-update functionality, and straightforward installation scripts for multiple platforms. Users can quickly perform common operations through an intuitive command-line experience. The project is community-supported, inviting contributions and offering comprehensive documentation for setup and usage.*
+
+- ⭐ 20957 stars
+- 💻 Go
+- 📅 Updated: 2026-07-28
+
+![superfile](2026/07-28/2026-07-28_daily-top_superfile.png)
+
+### 7. [airi](https://github.com/moeru-ai/airi)
+
+> 🤖 **Why Recommend**  
+> *Project AIRI is a self-hosted, open-source AI companion inspired by Neuro-sama, designed to bring virtual characters, or "cyber waifus," into users' lives. It supports real-time voice chat and can engage in games like Minecraft and Factorio. The platform is compatible with web, macOS, and Windows. Key features include multi-provider voice synthesis, VRM and Live2D model support, and integration with various LLM APIs. AIRI emphasizes user ownership of digital companions, making it a robust solution for interactive AI experiences.*
+
+- ⭐ 44136 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-07-28
+
+![airi](2026/07-28/2026-07-28_daily-top_airi.png)
+
+### 8. [amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
+
+> 🤖 **Why Recommend**  
+> *Amnezia VPN Client is an open-source VPN solution for desktop and mobile, enabling users to self-host their own VPN servers effortlessly. Key features include easy setup by simply entering an IP address and SSH credentials, support for popular protocols like OpenVPN, WireGuard, and IKEv2, and traffic obfuscation options. It offers split tunneling for selective app or site access, and is available on Windows, macOS, Linux, Android, and iOS. With robust documentation and community support, Amnezia is designed for both ease of use and advanced functionality.*
+
+- ⭐ 13894 stars
+- 💻 C++
+- 📅 Updated: 2026-07-28
+
+![amnezia-client](2026/07-28/2026-07-28_daily-top_amnezia-client.png)
+
+### 9. [Chat2DB](https://github.com/OtterMind/Chat2DB)
+
+> 🤖 **Why Recommend**  
+> *Chat2DB is an AI-driven database client and SQL workspace supporting over 30 databases, including MySQL, PostgreSQL, Oracle, and more. It features a full SQL workspace for editing and managing queries, an AI assistant for SQL generation and optimization, and tools for data import/export and visualization through dashboards and charts. Available as a free, cross-platform application, Chat2DB offers both community and commercial editions, enhancing database management for developers, DBAs, and analysts. It runs locally and emphasizes user security with encryption for sensitive data.*
+
+- ⭐ 27468 stars
 - 💻 Java
-- 📅 Updated: 2026-07-27
+- 📅 Updated: 2026-07-28
 
-![Chat2DB](2026/07-27/2026-07-27_daily-top_Chat2DB.png)
+![Chat2DB](2026/07-28/2026-07-28_daily-top_Chat2DB.png)
 
-### 9. [palmier-pro](https://github.com/palmier-io/palmier-pro)
-
-> 🤖 **Why Recommend**  
-> *Palmier Pro is an open-source video editor for macOS, designed with AI integration in mind. Built using Swift, it features a timeline editor where users can collaborate with AI agents to generate and edit videos. Key highlights include built-in generative AI tools for video and image creation, seamless integration with agents like Claude and Codex, and an MCP server for real-time collaboration. While the core video editing features are free, generative AI capabilities require a subscription. Compatible only with macOS 26 on Apple Silicon, Palmier Pro aims to streamline video editing workflows.*
-
-- ⭐ 12459 stars
-- 💻 Swift
-- 📅 Updated: 2026-07-27
-
-![palmier-pro](2026/07-27/2026-07-27_daily-top_palmier-pro.png)
-
-### 10. [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
+### 10. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **Why Recommend**  
-> *Pumpkin is a high-performance Minecraft server built in Rust, designed to offer an efficient and customizable gaming experience. With over 10,000 stars on GitHub, it supports both Java and Bedrock editions while maintaining Vanilla mechanics. Key features include multi-threading for speed, robust security against exploits, and extensive configurability. The project is extensible with plugin support, and comprehensive tracking for world, player, and entity management. Join their Discord for updates and contribute to ongoing development. Visit [pumpkinmc.org](https://pumpkinmc.org/) for more details.*
+> *ECC is an advanced agent harness performance optimization system designed to enhance coding workflows. It integrates over 67 specialized agents and 281 reusable skills, focusing on planning, testing, security, and review processes. ECC supports multiple platforms, including Claude Code and Codex, with features like AgentShield for security audits, memory persistence, and continuous learning. Users can optimize their coding efficiency through structured workflows, automated hooks, and a comprehensive command catalog. The project is open-source and community-supported, ensuring ongoing enhancements and collaboration.*
 
-- ⭐ 10054 stars
-- 💻 Rust
-- 📅 Updated: 2026-07-27
+- ⭐ 234225 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-07-28
 
-![Pumpkin](2026/07-27/2026-07-27_daily-top_Pumpkin.png)
+![ECC](2026/07-28/2026-07-28_daily-top_ECC.png)
 
 ---
 
@@ -141,4 +141,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-27 03:43:54 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-28 03:00:23 UTC

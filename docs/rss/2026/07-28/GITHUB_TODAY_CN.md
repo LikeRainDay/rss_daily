@@ -27,7 +27,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-07-28
 
-![bitchat](2026/07-28/2026-07-28_daily-top_bitchat.png)
+![bitchat](2026-07-28_daily-top_bitchat.png)
 
 ### 2. [ego-lite](https://github.com/citrolabs/ego-lite)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-28
 
-![ego-lite](2026/07-28/2026-07-28_daily-top_ego-lite.png)
+![ego-lite](2026-07-28_daily-top_ego-lite.png)
 
 ### 3. [open-code-review](https://github.com/alibaba/open-code-review)
 
@@ -50,7 +50,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-28
 
-![open-code-review](2026/07-28/2026-07-28_daily-top_open-code-review.png)
+![open-code-review](2026-07-28_daily-top_open-code-review.png)
 
 ### 4. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -61,7 +61,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-28
 
-![impeccable](2026/07-28/2026-07-28_daily-top_impeccable.png)
+![impeccable](2026-07-28_daily-top_impeccable.png)
 
 ### 5. [Instatic](https://github.com/CoreBunch/Instatic)
 
@@ -72,7 +72,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-28
 
-![Instatic](2026/07-28/2026-07-28_daily-top_Instatic.png)
+![Instatic](2026-07-28_daily-top_Instatic.png)
 
 ### 6. [superfile](https://github.com/yorukot/superfile)
 
@@ -83,7 +83,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-28
 
-![superfile](2026/07-28/2026-07-28_daily-top_superfile.png)
+![superfile](2026-07-28_daily-top_superfile.png)
 
 ### 7. [airi](https://github.com/moeru-ai/airi)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-28
 
-![airi](2026/07-28/2026-07-28_daily-top_airi.png)
+![airi](2026-07-28_daily-top_airi.png)
 
 ### 8. [amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
 
@@ -105,7 +105,7 @@
 - 💻 C++
 - 📅 Updated: 2026-07-28
 
-![amnezia-client](2026/07-28/2026-07-28_daily-top_amnezia-client.png)
+![amnezia-client](2026-07-28_daily-top_amnezia-client.png)
 
 ### 9. [Chat2DB](https://github.com/OtterMind/Chat2DB)
 
@@ -116,7 +116,7 @@
 - 💻 Java
 - 📅 Updated: 2026-07-28
 
-![Chat2DB](2026/07-28/2026-07-28_daily-top_Chat2DB.png)
+![Chat2DB](2026-07-28_daily-top_Chat2DB.png)
 
 ### 10. [ECC](https://github.com/affaan-m/ECC)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-28
 
-![ECC](2026/07-28/2026-07-28_daily-top_ECC.png)
+![ECC](2026-07-28_daily-top_ECC.png)
 
 ---
 
