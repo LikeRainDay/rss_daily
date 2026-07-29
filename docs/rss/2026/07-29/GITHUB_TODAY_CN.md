@@ -27,7 +27,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-07-29
 
-![bitchat](2026/07-29/2026-07-29_daily-top_bitchat.png)
+![bitchat](2026-07-29_daily-top_bitchat.png)
 
 ### 2. [open-code-review](https://github.com/alibaba/open-code-review)
 
@@ -39,7 +39,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-29
 
-![open-code-review](2026/07-29/2026-07-29_daily-top_open-code-review.png)
+![open-code-review](2026-07-29_daily-top_open-code-review.png)
 
 ### 3. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -50,7 +50,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-29
 
-![impeccable](2026/07-29/2026-07-29_daily-top_impeccable.png)
+![impeccable](2026-07-29_daily-top_impeccable.png)
 
 ### 4. [airi](https://github.com/moeru-ai/airi)
 
@@ -61,7 +61,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-29
 
-![airi](2026/07-29/2026-07-29_daily-top_airi.png)
+![airi](2026-07-29_daily-top_airi.png)
 
 ### 5. [superfile](https://github.com/yorukot/superfile)
 
@@ -72,7 +72,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-29
 
-![superfile](2026/07-29/2026-07-29_daily-top_superfile.png)
+![superfile](2026-07-29_daily-top_superfile.png)
 
 ### 6. [ECC](https://github.com/affaan-m/ECC)
 
@@ -83,7 +83,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-29
 
-![ECC](2026/07-29/2026-07-29_daily-top_ECC.png)
+![ECC](2026-07-29_daily-top_ECC.png)
 
 ### 7. [GeoLibre](https://github.com/opengeos/GeoLibre)
 
@@ -94,7 +94,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-29
 
-![GeoLibre](2026/07-29/2026-07-29_daily-top_GeoLibre.png)
+![GeoLibre](2026-07-29_daily-top_GeoLibre.png)
 
 ### 8. [herdr](https://github.com/ogulcancelik/herdr)
 
@@ -105,7 +105,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-29
 
-![herdr](2026/07-29/2026-07-29_daily-top_herdr.png)
+![herdr](2026-07-29_daily-top_herdr.png)
 
 ### 9. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -116,7 +116,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-29
 
-![firecrawl](2026/07-29/2026-07-29_daily-top_firecrawl.png)
+![firecrawl](2026-07-29_daily-top_firecrawl.png)
 
 ### 10. [amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
 
@@ -127,7 +127,7 @@
 - 💻 C++
 - 📅 Updated: 2026-07-29
 
-![amnezia-client](2026/07-29/2026-07-29_daily-top_amnezia-client.png)
+![amnezia-client](2026-07-29_daily-top_amnezia-client.png)
 
 ---
 
