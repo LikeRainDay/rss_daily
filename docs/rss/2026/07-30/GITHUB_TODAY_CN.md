@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-30
 
-![editor](2026/07-30/2026-07-30_daily-top_editor.png)
+![editor](2026-07-30_daily-top_editor.png)
 
 ### 2. [ECC](https://github.com/affaan-m/ECC)
 
@@ -38,7 +38,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-30
 
-![ECC](2026/07-30/2026-07-30_daily-top_ECC.png)
+![ECC](2026-07-30_daily-top_ECC.png)
 
 ### 3. [airi](https://github.com/moeru-ai/airi)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-30
 
-![airi](2026/07-30/2026-07-30_daily-top_airi.png)
+![airi](2026-07-30_daily-top_airi.png)
 
 ### 4. [GeoLibre](https://github.com/opengeos/GeoLibre)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-30
 
-![GeoLibre](2026/07-30/2026-07-30_daily-top_GeoLibre.png)
+![GeoLibre](2026-07-30_daily-top_GeoLibre.png)
 
 ### 5. [jcode](https://github.com/1jehuang/jcode)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-30
 
-![jcode](2026/07-30/2026-07-30_daily-top_jcode.png)
+![jcode](2026-07-30_daily-top_jcode.png)
 
 ### 6. [superfile](https://github.com/yorukot/superfile)
 
@@ -82,7 +82,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-30
 
-![superfile](2026/07-30/2026-07-30_daily-top_superfile.png)
+![superfile](2026-07-30_daily-top_superfile.png)
 
 ### 7. [text-to-cad](https://github.com/earthtojake/text-to-cad)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-30
 
-![text-to-cad](2026/07-30/2026-07-30_daily-top_text-to-cad.png)
+![text-to-cad](2026-07-30_daily-top_text-to-cad.png)
 
 ### 8. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-30
 
-![impeccable](2026/07-30/2026-07-30_daily-top_impeccable.png)
+![impeccable](2026-07-30_daily-top_impeccable.png)
 
 ### 9. [open-code-review](https://github.com/alibaba/open-code-review)
 
@@ -116,7 +116,7 @@
 - 💻 Go
 - 📅 Updated: 2026-07-30
 
-![open-code-review](2026/07-30/2026-07-30_daily-top_open-code-review.png)
+![open-code-review](2026-07-30_daily-top_open-code-review.png)
 
 ### 10. [tuicr](https://github.com/agavra/tuicr)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-30
 
-![tuicr](2026/07-30/2026-07-30_daily-top_tuicr.png)
+![tuicr](2026-07-30_daily-top_tuicr.png)
 
 ---
 
