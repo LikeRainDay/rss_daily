@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-31
 
-![openwork](2026/07-31/2026-07-31_daily-top_openwork.png)
+![openwork](2026-07-31_daily-top_openwork.png)
 
 ### 2. [jcode](https://github.com/1jehuang/jcode)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-31
 
-![jcode](2026/07-31/2026-07-31_daily-top_jcode.png)
+![jcode](2026-07-31_daily-top_jcode.png)
 
 ### 3. [ECC](https://github.com/affaan-m/ECC)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-31
 
-![ECC](2026/07-31/2026-07-31_daily-top_ECC.png)
+![ECC](2026-07-31_daily-top_ECC.png)
 
 ### 4. [GeoLibre](https://github.com/opengeos/GeoLibre)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-31
 
-![GeoLibre](2026/07-31/2026-07-31_daily-top_GeoLibre.png)
+![GeoLibre](2026-07-31_daily-top_GeoLibre.png)
 
 ### 5. [editor](https://github.com/pascalorg/editor)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-31
 
-![editor](2026/07-31/2026-07-31_daily-top_editor.png)
+![editor](2026-07-31_daily-top_editor.png)
 
 ### 6. [caveman](https://github.com/JuliusBrussee/caveman)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-07-31
 
-![caveman](2026/07-31/2026-07-31_daily-top_caveman.png)
+![caveman](2026-07-31_daily-top_caveman.png)
 
 ### 7. [codex](https://github.com/openai/codex)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-31
 
-![codex](2026/07-31/2026-07-31_daily-top_codex.png)
+![codex](2026-07-31_daily-top_codex.png)
 
 ### 8. [tuicr](https://github.com/agavra/tuicr)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-07-31
 
-![tuicr](2026/07-31/2026-07-31_daily-top_tuicr.png)
+![tuicr](2026-07-31_daily-top_tuicr.png)
 
 ### 9. [ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate)
 
@@ -115,7 +115,7 @@
 - 💻 C++
 - 📅 Updated: 2026-07-31
 
-![ESP32-Bit-Pirate](2026/07-31/2026-07-31_daily-top_ESP32-Bit-Pirate.png)
+![ESP32-Bit-Pirate](2026-07-31_daily-top_ESP32-Bit-Pirate.png)
 
 ### 10. [magic-resume](https://github.com/JOYCEQL/magic-resume)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-07-31
 
-![magic-resume](2026/07-31/2026-07-31_daily-top_magic-resume.png)
+![magic-resume](2026-07-31_daily-top_magic-resume.png)
 
 ---
 
