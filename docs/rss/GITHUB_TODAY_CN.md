@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-07-31
+# 📊 🌟 GitHub Trending Daily - 2026-08-01
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **507318** ⭐ | **64939** 🍴
+**10** 个项目 | **679153** ⭐ | **79378** 🍴
 
-**热门语言:** `TypeScript` (4) · `Rust` (3) · `JavaScript` (2)
+**热门语言:** `Rust` (4) · `TypeScript` (3) · `JavaScript` (1)
 
-**更新时间:** 2026-07-31 03:35 UTC
+**更新时间:** 2026-08-01 03:33 UTC
 
 **分类分布:**
 
@@ -21,112 +21,113 @@
 ### 1. [openwork](https://github.com/different-ai/openwork)
 
 > 🤖 **推荐理由**  
-> *OpenWork is a free, open-source desktop app designed for sharing AI workflows, serving as an alternative to Claude Cowork and Codex on macOS, Windows, and Linux. Key features include the ability to integrate with existing AI agents, create and manage personalized workspaces, and leverage the OpenWork MCP to access skills and plugins across tools. The OpenWork Den provides centralized management for teams, including access control, team creation, and policy settings. With robust documentation and a seamless installation process, OpenWork empowers collaboration and efficiency in AI-driven projects.*
+> *OpenWork is a free, open-source desktop application designed for sharing AI workflows, serving as an alternative to Claude Cowork. Compatible with macOS, Windows, and Linux, it allows users to integrate skills and capabilities across various AI agents like Codex and Claude Code. Key features include an admin interface for managing teams and access, the ability to create and share workspaces, and tools for searching and executing capabilities. OpenWork Den provides centralized control for organizations to manage resources and permissions effectively.*
 
-- ⭐ 18841 stars
+- ⭐ 19572 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-31
+- 📅 Updated: 2026-08-01
 
-![openwork](2026/07-31/2026-07-31_daily-top_openwork.png)
+![openwork](2026/08-01/2026-08-01_daily-top_openwork.png)
 
 ### 2. [jcode](https://github.com/1jehuang/jcode)
 
 > 🤖 **推荐理由**  
-> *jcode is a highly efficient RAM harness built in Rust, designed for seamless multi-session workflows across Linux, macOS, and Windows. With 14,247 stars on GitHub, it excels in resource optimization, boasting significantly lower RAM usage compared to competitors. Key features include intelligent memory management, a customizable UI, and browser automation tools. It supports various provider integrations like OpenAI and Claude, enabling flexible authentication. Additionally, jcode allows for agent collaboration, self-development, and offers a user-friendly command-line interface for quick operations.*
+> *jcode is a highly efficient RAM harness built with Rust, boasting over 14,600 stars on GitHub. Key features include exceptional resource optimization, supporting up to 10 active sessions with minimal RAM usage, and rapid response times. It integrates a human-like memory system for intelligent context recall, along with a customizable UI for enhanced user experience. Additionally, jcode supports multi-agent workflows, OAuth integrations for various providers, and offers a built-in browser tool for automation. Ideal for scalable, multi-session coding environments.*
 
-- ⭐ 14247 stars
+- ⭐ 14659 stars
 - 💻 Rust
-- 📅 Updated: 2026-07-31
+- 📅 Updated: 2026-08-01
 
-![jcode](2026/07-31/2026-07-31_daily-top_jcode.png)
+![jcode](2026/08-01/2026-08-01_daily-top_jcode.png)
 
 ### 3. [ECC](https://github.com/affaan-m/ECC)
 
 > 🤖 **推荐理由**  
-> *ECC is a performance optimization system designed to enhance code generation and management across various AI harnesses like Claude Code, Codex, and Cursor. With 67 specialized agents and 281 reusable workflows, ECC streamlines processes such as planning, testing, and reviews. Key features include AgentShield for security scanning, memory management for context persistence, and selective installs for tailored setups. ECC supports multiple programming languages and integrates seamlessly into existing environments, making it an essential tool for efficient, secure software development.*
+> *ECC is an advanced performance optimization system designed to enhance agent capabilities in coding tasks. It integrates 67 specialized agents, 281 skills, and 94 commands, enabling workflows like planning, code review, and security scanning. ECC supports various harnesses such as Claude Code, Codex, and Cursor, facilitating seamless collaboration across platforms. Key features include a structured memory vault for context persistence, AgentShield for security audits, and automated workflows to enforce best practices like Test-Driven Development (TDD). With extensive documentation and community support, ECC empowers developers to optimize their coding processes effectively.*
 
-- ⭐ 236290 stars
+- ⭐ 236662 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-07-31
+- 📅 Updated: 2026-08-01
 
-![ECC](2026/07-31/2026-07-31_daily-top_ECC.png)
+![ECC](2026/08-01/2026-08-01_daily-top_ECC.png)
 
-### 4. [GeoLibre](https://github.com/opengeos/GeoLibre)
+### 4. [airi](https://github.com/moeru-ai/airi)
 
 > 🤖 **推荐理由**  
-> *GeoLibre is a lightweight, cloud-native GIS platform designed for visualizing, exploring, and analyzing geospatial data across web browsers, desktops, mobile devices, and Jupyter notebooks. It offers a responsive interface and supports 3D mapping, planetary basemaps, and extensive geoprocessing tools. Key features include a native desktop app, an Android app, and a rich plugin ecosystem. Users can easily launch GeoLibre online or download it for offline use. With over 4500 stars on GitHub, GeoLibre is an open-source solution that prioritizes user privacy and data locality.*
+> *AIRI is a self-hosted Grok Companion designed to bring AI waifus and virtual characters into users' lives, inspired by Neuro-sama. It supports real-time voice chat, gaming in popular titles like Minecraft and Factorio, and is compatible with web, macOS, and Windows platforms. Key features include multi-provider voice synthesis, VRM and Live2D support, and seamless integration with Discord and Telegram. AIRI emphasizes user ownership and customization, allowing developers to contribute and expand its capabilities. With over 46,000 stars on GitHub, it represents a vibrant community-driven project in AI companionship.*
 
-- ⭐ 4543 stars
+- ⭐ 46241 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-31
+- 📅 Updated: 2026-08-01
 
-![GeoLibre](2026/07-31/2026-07-31_daily-top_GeoLibre.png)
+![airi](2026/08-01/2026-08-01_daily-top_airi.png)
 
-### 5. [editor](https://github.com/pascalorg/editor)
-
-> 🤖 **推荐理由**  
-> *Pascal Editor is a powerful 3D architectural project editor built with React Three Fiber and WebGPU, enabling users to create and share detailed building designs. Key features include an intuitive editing interface with tools for wall, zone, and item placement, alongside a robust state management system using Zustand. The viewer provides interactive 3D rendering with customizable camera controls. The project is structured as a monorepo with separate packages for core functionalities, viewer, and editor tools, making it extensible for plugin development. With over 20,000 stars, it showcases a rich technology stack and active community support.*
-
-- ⭐ 20183 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-07-31
-
-![editor](2026/07-31/2026-07-31_daily-top_editor.png)
-
-### 6. [caveman](https://github.com/JuliusBrussee/caveman)
+### 5. [PowerToys](https://github.com/microsoft/PowerToys)
 
 > 🤖 **推荐理由**  
-> *Caveman is a JavaScript skill for AI coding agents like Claude Code and Codex, designed to reduce output tokens by 65% while maintaining technical accuracy. By simplifying responses into concise "caveman-speak," it enhances readability and speeds up interactions. Users can install it with a single command, and it supports over 30 agents. Key features include adjustable response levels, token savings tracking, and tools for compressing memory files. Caveman offers a unique approach to optimize communication with AI, making it both efficient and effective.*
+> *Microsoft PowerToys is a powerful collection of over 30 utilities designed to enhance productivity and customization on Windows. Key features include Advanced Paste, Color Picker, FancyZones for window management, PowerRename for batch renaming, and a Command Palette for quick access to functions. With an active community contributing to ongoing development and a roadmap for future enhancements, PowerToys is continually evolving. Installation is straightforward via the Microsoft Store, GitHub, or WinGet, making it accessible for all users.*
 
-- ⭐ 94681 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-07-31
+- ⭐ 137329 stars
+- 💻 C
+- 📅 Updated: 2026-08-01
 
-![caveman](2026/07-31/2026-07-31_daily-top_caveman.png)
+![PowerToys](2026/08-01/2026-08-01_daily-top_PowerToys.png)
 
-### 7. [codex](https://github.com/openai/codex)
+### 6. [tuicr](https://github.com/agavra/tuicr)
 
 > 🤖 **推荐理由**  
-> *Codex is a lightweight coding agent from OpenAI, designed to run in your terminal. With over 102,000 stars on GitHub, it offers seamless integration with code editors like VS Code and provides a desktop app experience. Users can install Codex easily on Mac, Linux, or Windows, and can opt to sign in with their ChatGPT account for enhanced features. The project supports API key usage for additional customization. Comprehensive documentation and contribution guidelines are available, making it user-friendly and accessible for developers seeking a robust coding assistant.*
+> *tuicr is a code review TUI (Text User Interface) built in Rust, featuring Vim keybindings for intuitive navigation. With 2,172 stars on GitHub, it supports continuous diff viewing in the terminal, allows inline comments at various levels, and tracks review progress across sessions. Key services include exporting reviews to GitHub and GitLab, copying structured markdown to the clipboard, and reviewing uncommitted changes or specific commits. The application is compatible with git, jj, and Mercurial, making it a versatile tool for developers.*
 
-- ⭐ 102688 stars
+- ⭐ 2172 stars
 - 💻 Rust
-- 📅 Updated: 2026-07-31
+- 📅 Updated: 2026-08-01
 
-![codex](2026/07-31/2026-07-31_daily-top_codex.png)
+![tuicr](2026/08-01/2026-08-01_daily-top_tuicr.png)
 
-### 8. [tuicr](https://github.com/agavra/tuicr)
-
-> 🤖 **推荐理由**  
-> *tuicr is a powerful code review TUI built with Rust, featuring Vim keybindings for efficient navigation. It allows users to review changes in a GitHub-style continuous diff format, add comments at various granularities, and track reviews across sessions. With export options to GitHub, GitLab, or clipboard, tuicr supports interactions with git, jj, and Mercurial. Users can easily install via scripts or package managers and utilize a rich set of keybindings for a seamless experience. Highly rated with 1894 stars, tuicr enhances code review workflows significantly.*
-
-- ⭐ 1894 stars
-- 💻 Rust
-- 📅 Updated: 2026-07-31
-
-![tuicr](2026/07-31/2026-07-31_daily-top_tuicr.png)
-
-### 9. [ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate)
+### 7. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
 > 🤖 **推荐理由**  
-> *ESP32-Bit-Pirate is an open-source firmware that transforms your device into a versatile multi-protocol development tool, inspired by the Bus Pirate. With support for protocols like I2C, UART, SPI, Bluetooth, Wi-Fi, and RFID, it enables sniffing, sending, and scripting via a web-based CLI or USB serial interface. Key features include automatic baud rate detection, EEPROM and flash dump tools, and extensive scripting capabilities in Python. The project also offers web tools for easy access, hardware guides, and recipes, making it ideal for hardware hacking and protocol analysis.*
+> *chrome-devtools-mcp is a powerful TypeScript-based tool that enables AI coding agents like Antigravity, Claude, and Copilot to control and inspect live Chrome browsers. With over 48,000 stars on GitHub, it acts as a Model-Context-Protocol (MCP) server, facilitating automation, debugging, and performance analysis through Chrome DevTools. Key features include advanced browser debugging, performance insights, and reliable automation via Puppeteer. Additionally, it provides a CLI for streamlined usage, supports various configurations, and ensures privacy by allowing users to opt-out of usage statistics.*
 
-- ⭐ 4648 stars
-- 💻 C++
-- 📅 Updated: 2026-07-31
-
-![ESP32-Bit-Pirate](2026/07-31/2026-07-31_daily-top_ESP32-Bit-Pirate.png)
-
-### 10. [magic-resume](https://github.com/JOYCEQL/magic-resume)
-
-> 🤖 **推荐理由**  
-> *Magic Resume is a free online AI resume editor that simplifies creating professional resumes. Key features include real-time preview, custom theme support, responsive design, dark mode, auto-save, and PDF export. Built with TypeScript, TanStack Start, and Framer Motion, it offers smooth animations and local storage for user convenience. The project is open-sourced under the Apache 2.0 license, with commercial use restrictions. Future updates aim to include multi-language support and additional templates. Visit the official site at https://magicv.art.*
-
-- ⭐ 9303 stars
+- ⭐ 48288 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-07-31
+- 📅 Updated: 2026-08-01
 
-![magic-resume](2026/07-31/2026-07-31_daily-top_magic-resume.png)
+![chrome-devtools-mcp](2026/08-01/2026-08-01_daily-top_chrome-devtools-mcp.png)
+
+### 8. [codex](https://github.com/openai/codex)
+
+> 🤖 **推荐理由**  
+> *Codex is a lightweight coding agent by OpenAI that runs locally in your terminal, designed for seamless integration with your coding workflow. With over 102,000 stars on GitHub, it offers installation via various methods including npm and Homebrew. Users can sign in with their ChatGPT account to access enhanced features tailored for Plus, Pro, and Enterprise plans. Codex also supports IDE integrations and a desktop app experience. Comprehensive documentation and contributing guidelines are available to facilitate user engagement and development.*
+
+- ⭐ 102951 stars
+- 💻 Rust
+- 📅 Updated: 2026-08-01
+
+![codex](2026/08-01/2026-08-01_daily-top_codex.png)
+
+### 9. [Handy](https://github.com/cjpais/Handy)
+
+> 🤖 **推荐理由**  
+> *Handy is a free, open-source, offline speech-to-text application built with Rust, boasting over 28,000 stars on GitHub. It enables cross-platform transcription by allowing users to record speech locally and paste it directly into any text field, ensuring privacy and simplicity. Key features include customizable keyboard shortcuts, support for Whisper and Parakeet models, and voice activity detection. Handy is extensible, actively developed, and designed to be forked, making it a valuable tool for those seeking a reliable, privacy-focused transcription solution.*
+
+- ⭐ 28278 stars
+- 💻 Rust
+- 📅 Updated: 2026-08-01
+
+![Handy](2026/08-01/2026-08-01_daily-top_Handy.png)
+
+### 10. [multica](https://github.com/multica-ai/multica)
+
+> 🤖 **推荐理由**  
+> *The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.. popular project, actively maintained, recently updated*
+
+- ⭐ 43001 stars
+- 🍴 5438 forks
+- 💻 Go
+- 📅 Updated: 2026-08-01
+
+![multica](2026/08-01/2026-08-01_daily-top_multica.png)
 
 ---
 
@@ -140,4 +141,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-07-31 03:35:01 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-08-01 03:33:54 UTC

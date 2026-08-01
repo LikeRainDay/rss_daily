@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-01
 
-![openwork](2026/08-01/2026-08-01_daily-top_openwork.png)
+![openwork](2026-08-01_daily-top_openwork.png)
 
 ### 2. [jcode](https://github.com/1jehuang/jcode)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-01
 
-![jcode](2026/08-01/2026-08-01_daily-top_jcode.png)
+![jcode](2026-08-01_daily-top_jcode.png)
 
 ### 3. [ECC](https://github.com/affaan-m/ECC)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-01
 
-![ECC](2026/08-01/2026-08-01_daily-top_ECC.png)
+![ECC](2026-08-01_daily-top_ECC.png)
 
 ### 4. [airi](https://github.com/moeru-ai/airi)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-01
 
-![airi](2026/08-01/2026-08-01_daily-top_airi.png)
+![airi](2026-08-01_daily-top_airi.png)
 
 ### 5. [PowerToys](https://github.com/microsoft/PowerToys)
 
@@ -71,7 +71,7 @@
 - 💻 C
 - 📅 Updated: 2026-08-01
 
-![PowerToys](2026/08-01/2026-08-01_daily-top_PowerToys.png)
+![PowerToys](2026-08-01_daily-top_PowerToys.png)
 
 ### 6. [tuicr](https://github.com/agavra/tuicr)
 
@@ -82,7 +82,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-01
 
-![tuicr](2026/08-01/2026-08-01_daily-top_tuicr.png)
+![tuicr](2026-08-01_daily-top_tuicr.png)
 
 ### 7. [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-01
 
-![chrome-devtools-mcp](2026/08-01/2026-08-01_daily-top_chrome-devtools-mcp.png)
+![chrome-devtools-mcp](2026-08-01_daily-top_chrome-devtools-mcp.png)
 
 ### 8. [codex](https://github.com/openai/codex)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-01
 
-![codex](2026/08-01/2026-08-01_daily-top_codex.png)
+![codex](2026-08-01_daily-top_codex.png)
 
 ### 9. [Handy](https://github.com/cjpais/Handy)
 
@@ -115,7 +115,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-01
 
-![Handy](2026/08-01/2026-08-01_daily-top_Handy.png)
+![Handy](2026-08-01_daily-top_Handy.png)
 
 ### 10. [multica](https://github.com/multica-ai/multica)
 
@@ -127,7 +127,7 @@
 - 💻 Go
 - 📅 Updated: 2026-08-01
 
-![multica](2026/08-01/2026-08-01_daily-top_multica.png)
+![multica](2026-08-01_daily-top_multica.png)
 
 ---
 
