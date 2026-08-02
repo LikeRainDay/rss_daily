@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-02
 
-![kaneo](2026/08-02/2026-08-02_daily-top_kaneo.png)
+![kaneo](2026-08-02_daily-top_kaneo.png)
 
 ### 2. [openwork](https://github.com/different-ai/openwork)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-02
 
-![openwork](2026/08-02/2026-08-02_daily-top_openwork.png)
+![openwork](2026-08-02_daily-top_openwork.png)
 
 ### 3. [ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate)
 
@@ -49,7 +49,7 @@
 - 💻 C++
 - 📅 Updated: 2026-08-02
 
-![ESP32-Bit-Pirate](2026/08-02/2026-08-02_daily-top_ESP32-Bit-Pirate.png)
+![ESP32-Bit-Pirate](2026-08-02_daily-top_ESP32-Bit-Pirate.png)
 
 ### 4. [opencode](https://github.com/anomalyco/opencode)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-02
 
-![opencode](2026/08-02/2026-08-02_daily-top_opencode.png)
+![opencode](2026-08-02_daily-top_opencode.png)
 
 ### 5. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-02
 
-![cc-switch](2026/08-02/2026-08-02_daily-top_cc-switch.png)
+![cc-switch](2026-08-02_daily-top_cc-switch.png)
 
 ### 6. [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 
@@ -82,7 +82,7 @@
 - 💻 Go
 - 📅 Updated: 2026-08-02
 
-![DeepSeek-Reasonix](2026/08-02/2026-08-02_daily-top_DeepSeek-Reasonix.png)
+![DeepSeek-Reasonix](2026-08-02_daily-top_DeepSeek-Reasonix.png)
 
 ### 7. [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-02
 
-![TencentDB-Agent-Memory](2026/08-02/2026-08-02_daily-top_TencentDB-Agent-Memory.png)
+![TencentDB-Agent-Memory](2026-08-02_daily-top_TencentDB-Agent-Memory.png)
 
 ### 8. [multica](https://github.com/multica-ai/multica)
 
@@ -105,7 +105,7 @@
 - 💻 Go
 - 📅 Updated: 2026-08-02
 
-![multica](2026/08-02/2026-08-02_daily-top_multica.png)
+![multica](2026-08-02_daily-top_multica.png)
 
 ### 9. [codex](https://github.com/openai/codex)
 
@@ -116,7 +116,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-02
 
-![codex](2026/08-02/2026-08-02_daily-top_codex.png)
+![codex](2026-08-02_daily-top_codex.png)
 
 ### 10. [tuicr](https://github.com/agavra/tuicr)
 
@@ -127,7 +127,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-02
 
-![tuicr](2026/08-02/2026-08-02_daily-top_tuicr.png)
+![tuicr](2026-08-02_daily-top_tuicr.png)
 
 ---
 
