@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-03
 
-![OmniRoute](2026/08-03/2026-08-03_daily-top_OmniRoute.png)
+![OmniRoute](2026-08-03_daily-top_OmniRoute.png)
 
 ### 2. [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-03
 
-![TencentDB-Agent-Memory](2026/08-03/2026-08-03_daily-top_TencentDB-Agent-Memory.png)
+![TencentDB-Agent-Memory](2026-08-03_daily-top_TencentDB-Agent-Memory.png)
 
 ### 3. [kaneo](https://github.com/usekaneo/kaneo)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-03
 
-![kaneo](2026/08-03/2026-08-03_daily-top_kaneo.png)
+![kaneo](2026-08-03_daily-top_kaneo.png)
 
 ### 4. [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 
@@ -60,7 +60,7 @@
 - 💻 Go
 - 📅 Updated: 2026-08-03
 
-![DeepSeek-Reasonix](2026/08-03/2026-08-03_daily-top_DeepSeek-Reasonix.png)
+![DeepSeek-Reasonix](2026-08-03_daily-top_DeepSeek-Reasonix.png)
 
 ### 5. [flint-chart](https://github.com/microsoft/flint-chart)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-03
 
-![flint-chart](2026/08-03/2026-08-03_daily-top_flint-chart.png)
+![flint-chart](2026-08-03_daily-top_flint-chart.png)
 
 ### 6. [openwork](https://github.com/different-ai/openwork)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-03
 
-![openwork](2026/08-03/2026-08-03_daily-top_openwork.png)
+![openwork](2026-08-03_daily-top_openwork.png)
 
 ### 7. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-03
 
-![voicebox](2026/08-03/2026-08-03_daily-top_voicebox.png)
+![voicebox](2026-08-03_daily-top_voicebox.png)
 
 ### 8. [oh-my-pi](https://github.com/can1357/oh-my-pi)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-03
 
-![oh-my-pi](2026/08-03/2026-08-03_daily-top_oh-my-pi.png)
+![oh-my-pi](2026-08-03_daily-top_oh-my-pi.png)
 
 ### 9. [gstack](https://github.com/garrytan/gstack)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-03
 
-![gstack](2026/08-03/2026-08-03_daily-top_gstack.png)
+![gstack](2026-08-03_daily-top_gstack.png)
 
 ### 10. [k-skill](https://github.com/NomaDamas/k-skill)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-03
 
-![k-skill](2026/08-03/2026-08-03_daily-top_k-skill.png)
+![k-skill](2026-08-03_daily-top_k-skill.png)
 
 ---
 
