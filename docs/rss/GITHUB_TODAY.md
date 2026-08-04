@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-08-03
+# 📊 🌟 GitHub Trending Daily - 2026-08-04
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **310878** ⭐ | **38391** 🍴
+**10** Projects | **298530** ⭐ | **37263** 🍴
 
-**Top Languages:** `TypeScript` (8) · `Go` (1) · `JavaScript` (1)
+**Top Languages:** `TypeScript` (4) · `Go` (2) · `Rust` (2)
 
-**Updated:** 2026-08-03 03:36 UTC
+**Updated:** 2026-08-04 03:19 UTC
 
 **Categories:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+### 1. [pdf-inspector](https://github.com/firecrawl/pdf-inspector)
 
 > 🤖 **Why Recommend**  
-> *OmniRoute is a powerful, open-source AI gateway that connects developers to over 290 AI providers, including Claude, GPT, and Gemini, with more than 90 free tiers available. Key features include quota-aware auto-fallback routing, advanced token compression (saving 15-95%), and seamless integration with coding tools like Copilot and Codex. Its zero-config setup allows for instant use, while a robust CLI, desktop app, and PWA ensure accessibility across platforms. Built by over 500 contributors, OmniRoute emphasizes efficiency, cost savings, and user privacy.*
+> *pdf-inspector is a high-performance Rust library designed for PDF inspection, classification, and text extraction. It efficiently distinguishes between text-based and scanned PDFs, enabling optimized processing for ~54% of documents that do not require OCR. Key features include smart classification with confidence scores, position-aware text extraction, and conversion to structured Markdown. It supports multi-column layouts, table detection, and CID font decoding. With bindings for Python, Node.js, and WebAssembly, pdf-inspector is ideal for handling native-text PDFs quickly and locally, minimizing latency and cost.*
 
-- ⭐ 38000 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-03
+- ⭐ 8511 stars
+- 💻 Rust
+- 📅 Updated: 2026-08-04
 
-![OmniRoute](2026/08-03/2026-08-03_daily-top_OmniRoute.png)
+![pdf-inspector](2026/08-04/2026-08-04_daily-top_pdf-inspector.png)
 
 ### 2. [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
 > 🤖 **Why Recommend**  
-> *TencentDB-Agent-Memory is a team-level memory hub for AI agents, transforming conversations, documents, and code into reusable assets: Chat Memory, Skills, LLM-Wiki, and Code-Graph. Key features include automatic asset extraction, cross-framework compatibility, and cold-start capabilities that enable new agents to leverage existing knowledge. The platform promotes efficiency by reducing repetitive tasks through structured memory management and a human-controlled team memory panel. With over 11,225 stars on GitHub, it supports seamless collaboration, making it ideal for teams looking to enhance AI workflows.*
+> *TencentDB-Agent-Memory is a TypeScript-based memory hub for AI agents, designed to enhance team collaboration by transforming conversations, documents, and code into reusable assets: Chat Memory, Skills, LLM-Wiki, and Code-Graph. With over 12,000 stars, it enables automatic asset extraction, cold-start support for new agents, and multi-agent compatibility. Users can manage and share memory assets through a team panel, ensuring efficient workflows and knowledge retention. The hub facilitates smoother project continuities by allowing agents to inherit and utilize accumulated experiences.*
 
-- ⭐ 11225 stars
+- ⭐ 12271 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-03
+- 📅 Updated: 2026-08-04
 
-![TencentDB-Agent-Memory](2026/08-03/2026-08-03_daily-top_TencentDB-Agent-Memory.png)
+![TencentDB-Agent-Memory](2026/08-04/2026-08-04_daily-top_TencentDB-Agent-Memory.png)
 
-### 3. [kaneo](https://github.com/usekaneo/kaneo)
+### 3. [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 
 > 🤖 **Why Recommend**  
-> *Kaneo is an open-source project management tool designed for simplicity and efficiency. With a clean interface, it enhances your team's workflow without overwhelming distractions. Key features include self-hosting for data privacy, high performance, and a focus on essential functionalities. Kaneo supports quick deployment via Docker and Kubernetes, ensuring easy setup. The project is actively developed, with a welcoming community on Discord for support. With 6,278 stars on GitHub, Kaneo is built on the principle that less is more, making project management seamless and effective.*
+> *DeepSeek-Reasonix is a powerful AI coding agent for your terminal, built with Go and featuring a config- and plugin-driven architecture. It supports multi-model configurations and allows you to integrate various OpenAI-compatible endpoints seamlessly. Key highlights include cache-aware context maintenance, zero-friction distribution as a single binary, and plugin-driven external tool support. With over 30,000 stars, it offers CLI, desktop, and VS Code extension options for easy setup and use, making it an indispensable tool for developers seeking efficient coding assistance.*
 
-- ⭐ 6278 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-03
-
-![kaneo](2026/08-03/2026-08-03_daily-top_kaneo.png)
-
-### 4. [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
-
-> 🤖 **Why Recommend**  
-> *DeepSeek-Reasonix is a Go-based AI coding agent designed for terminal use, featuring a config-driven architecture that supports various providers and tools via a single static binary. Key highlights include multi-model support, enabling the use of different AI endpoints, and a plugin-driven framework that allows external tools to integrate seamlessly. The project emphasizes cache stability for efficient long-session performance and easy cross-platform distribution. With a strong community presence on Discord and extensive documentation, it's a versatile solution for AI-assisted coding tasks.*
-
-- ⭐ 29212 stars
+- ⭐ 30064 stars
 - 💻 Go
-- 📅 Updated: 2026-08-03
+- 📅 Updated: 2026-08-04
 
-![DeepSeek-Reasonix](2026/08-03/2026-08-03_daily-top_DeepSeek-Reasonix.png)
+![DeepSeek-Reasonix](2026/08-04/2026-08-04_daily-top_DeepSeek-Reasonix.png)
 
-### 5. [flint-chart](https://github.com/microsoft/flint-chart)
-
-> 🤖 **Why Recommend**  
-> *Flint is a visualization language designed for AI agents to create expressive charts from simple, human-editable specs. Key features include semantic chart specifications with over 70 types, automatic layout adaptation, and support for multiple backends like Vega-Lite, ECharts, Chart.js, and Plotly, plus native Excel charts. The project comprises the `flint-chart` library for compiling specs and the `flint-chart-mcp` server for agent-driven chart creation. With 3,241 stars on GitHub, Flint aims to enhance the accessibility and quality of data visualization.*
-
-- ⭐ 3241 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-03
-
-![flint-chart](2026/08-03/2026-08-03_daily-top_flint-chart.png)
-
-### 6. [openwork](https://github.com/different-ai/openwork)
+### 4. [kaneo](https://github.com/usekaneo/kaneo)
 
 > 🤖 **Why Recommend**  
-> *OpenWork is a free, open-source desktop app designed for sharing AI workflows, serving as an alternative to Claude Cowork and Codex for macOS, Windows, and Linux. Key features include the ability to integrate with various AI agents, creating and managing workflows, and utilizing a control interface for team management. Through OpenWork MCP, users can access skills, plugins, and services across different platforms. The app also supports organizational control, allowing admins to manage access, publish skills, and enforce policies. Download OpenWork to enhance your AI collaboration experience.*
-
-- ⭐ 20422 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-03
-
-![openwork](2026/08-03/2026-08-03_daily-top_openwork.png)
-
-### 7. [voicebox](https://github.com/jamiepine/voicebox)
-
-> 🤖 **Why Recommend**  
-> *Voicebox is an open-source AI voice studio that allows users to clone voices, generate speech, and dictate into any application, all running locally for complete privacy. Key features include voice cloning with over 50 preset voices, support for 23 languages across 7 TTS engines, and post-processing effects. Voicebox offers global dictation hotkeys, a multi-track stories editor, and an API for seamless integration with applications. It is built with a focus on performance using Tauri and supports various platforms, including macOS, Windows, and Linux.*
-
-- ⭐ 48278 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-03
-
-![voicebox](2026/08-03/2026-08-03_daily-top_voicebox.png)
-
-### 8. [oh-my-pi](https://github.com/can1357/oh-my-pi)
-
-> 🤖 **Why Recommend**  
-> *oh-my-pi is an advanced AI coding agent designed for terminal use, featuring seamless integration with IDE capabilities. Key highlights include 40+ providers, 32 built-in tools, and LSP support for real-time code editing and debugging. Its core services encompass code execution, project memory management, collaborative coding sessions, and robust search capabilities across various sources like GitHub and arXiv. The agent utilizes a unique hashline editing method for precise code modifications and supports multiple programming languages, making it a versatile tool for developers.*
-
-- ⭐ 21345 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-03
-
-![oh-my-pi](2026/08-03/2026-08-03_daily-top_oh-my-pi.png)
-
-### 9. [gstack](https://github.com/garrytan/gstack)
-
-> 🤖 **Why Recommend**  
-> *gstack is an open-source toolkit designed to enhance productivity for founders and developers, utilizing AI to simulate a full engineering team. With 23 specialized tools, it streamlines the software development process by automating roles such as CEO, Designer, Eng Manager, and QA. Key features include structured project planning, rigorous code reviews, and automated testing, all facilitated through intuitive commands. gstack allows rapid iteration, enabling users to ship high-quality products efficiently while maintaining best practices, making it ideal for technical leaders and first-time AI users.*
-
-- ⭐ 125963 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-03
-
-![gstack](2026/08-03/2026-08-03_daily-top_gstack.png)
-
-### 10. [k-skill](https://github.com/NomaDamas/k-skill)
-
-> 🤖 **Why Recommend**  
-> *k-skill is a comprehensive skill collection for Koreans, enabling users to automate various tasks through AI agents. It supports services like SRT/KTX bookings, public transport navigation, weather updates, and legal document searches. With seamless installation via `npx`, users can deploy specific skills or the entire suite. Key features include real-time subway information, fine dust alerts, and access to government services. The project boasts over 6,900 stars on GitHub and is designed for both novice and advanced users seeking efficient solutions tailored to Korean needs.*
+> *Kaneo is an open-source project management tool designed to enhance productivity by focusing on simplicity and performance. With a clean interface, Kaneo eliminates unnecessary distractions, allowing teams to concentrate on building great products. Key features include self-hosting for data privacy, fast performance, and a permissive MIT license. It offers easy deployment options through CLI tools and Docker Compose. Kaneo's community support is available via Discord, and comprehensive documentation guides users in setup and development.*
 
 - ⭐ 6914 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-08-03
+- 💻 TypeScript
+- 📅 Updated: 2026-08-04
 
-![k-skill](2026/08-03/2026-08-03_daily-top_k-skill.png)
+![kaneo](2026/08-04/2026-08-04_daily-top_kaneo.png)
+
+### 5. [voicebox](https://github.com/jamiepine/voicebox)
+
+> 🤖 **Why Recommend**  
+> *Voicebox is an open-source AI voice studio that enables users to clone voices, generate speech, and dictate in various applications. It features seven TTS engines, supports 23 languages, and offers complete privacy by running locally. Key highlights include voice cloning from audio samples, expressive speech with paralinguistic tags, a stories editor for multi-track narratives, and a global dictation hotkey. Voicebox also integrates with MCP-aware agents for dynamic voice interactions and provides a REST API for seamless integration into custom applications.*
+
+- ⭐ 48770 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-08-04
+
+![voicebox](2026/08-04/2026-08-04_daily-top_voicebox.png)
+
+### 6. [ds4](https://github.com/antirez/ds4)
+
+> 🤖 **Why Recommend**  
+> *DwarfStar (ds4) is a compact inference engine optimized for DeepSeek V4 Flash and GLM 5.2, supporting backends like Metal, CUDA, and ROCm. Key features include SSD streaming for low-memory setups, multi-GPU support for NVIDIA systems, and pipeline parallelism for distributed inference. It enables local execution of high-performance models on consumer hardware while maintaining low latency through a native coding agent. The project emphasizes model adaptability, fast local inference, and efficient resource utilization, making it ideal for running advanced AI models on personal machines.*
+
+- ⭐ 20401 stars
+- 💻 C
+- 📅 Updated: 2026-08-04
+
+![ds4](2026/08-04/2026-08-04_daily-top_ds4.png)
+
+### 7. [oh-my-pi](https://github.com/can1357/oh-my-pi)
+
+> 🤖 **Why Recommend**  
+> *oh-my-pi is an AI coding agent designed for terminal use, combining powerful coding tools and services in a single interface. It features hash-anchored edits, a robust tool harness, integrated Language Server Protocol (LSP) support, and subagent capabilities for parallel task execution. With over 60 providers and 31 built-in tools, it offers functionalities like code execution, debugging, real-time collaboration, and memory management. Built with TypeScript and Rust, oh-my-pi emphasizes efficiency, making coding tasks simpler and more effective for developers. Explore more at omp.sh.*
+
+- ⭐ 21611 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-08-04
+
+![oh-my-pi](2026/08-04/2026-08-04_daily-top_oh-my-pi.png)
+
+### 8. [FalkorDB](https://github.com/FalkorDB/FalkorDB)
+
+> 🤖 **Why Recommend**  
+> *FalkorDB is an ultra-fast graph database built in Rust, leveraging GraphBLAS for sparse adjacency matrix representation. It aims to optimize knowledge graphs for large language models (LLMs) with low latency and high performance. Key features include a sparse matrix representation, linear algebra querying, and compliance with the Property Graph Model, supporting OpenCypher for advanced querying. FalkorDB powers applications in generative AI, agent memory, cloud security, and fraud detection, and offers easy integration with various client libraries.*
+
+- ⭐ 5143 stars
+- 💻 Rust
+- 📅 Updated: 2026-08-04
+
+![FalkorDB](2026/08-04/2026-08-04_daily-top_FalkorDB.png)
+
+### 9. [SafeLine](https://github.com/chaitin/SafeLine)
+
+> 🤖 **Why Recommend**  
+> *SafeLine is a self-hosted Web Application Firewall (WAF) and reverse proxy designed to protect web applications from various attacks like SQL injection, XSS, and more. With over 22,000 stars on GitHub, it offers robust features including web attack blocking, IP-based rate limiting, dynamic HTML/JS encryption, and authentication challenges. SafeLine is production-ready, supporting over 1,000,000 websites and handling 30 billion daily HTTP requests. It integrates with systems like Kubernetes and Kong Gateway. Join the community on Discord for support and discussions.*
+
+- ⭐ 22242 stars
+- 💻 Go
+- 📅 Updated: 2026-08-04
+
+![SafeLine](2026/08-04/2026-08-04_daily-top_SafeLine.png)
+
+### 10. [llama.cpp](https://github.com/ggml-org/llama.cpp)
+
+> 🤖 **Why Recommend**  
+> *llama.cpp is a high-performance library for LLM inference implemented in C/C++. With over 122,000 stars, it supports extensive hardware optimization, including ARM for Apple silicon, AVX for x86, and various backends like CUDA and HIP for GPUs. Key features include integer quantization for faster inference, a built-in CLI for model interaction, and an OpenAI-compatible API server. Users can easily set up using Docker or pre-built binaries, making it versatile for both local and cloud deployments. The project is built on the ggml library and welcomes community contributions.*
+
+- ⭐ 122603 stars
+- 💻 C++
+- 📅 Updated: 2026-08-04
+
+![llama.cpp](2026/08-04/2026-08-04_daily-top_llama.cpp.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-08-03 03:36:44 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-08-04 03:19:05 UTC

@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-04
 
-![pdf-inspector](2026/08-04/2026-08-04_daily-top_pdf-inspector.png)
+![pdf-inspector](2026-08-04_daily-top_pdf-inspector.png)
 
 ### 2. [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-04
 
-![TencentDB-Agent-Memory](2026/08-04/2026-08-04_daily-top_TencentDB-Agent-Memory.png)
+![TencentDB-Agent-Memory](2026-08-04_daily-top_TencentDB-Agent-Memory.png)
 
 ### 3. [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 
@@ -49,7 +49,7 @@
 - 💻 Go
 - 📅 Updated: 2026-08-04
 
-![DeepSeek-Reasonix](2026/08-04/2026-08-04_daily-top_DeepSeek-Reasonix.png)
+![DeepSeek-Reasonix](2026-08-04_daily-top_DeepSeek-Reasonix.png)
 
 ### 4. [kaneo](https://github.com/usekaneo/kaneo)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-04
 
-![kaneo](2026/08-04/2026-08-04_daily-top_kaneo.png)
+![kaneo](2026-08-04_daily-top_kaneo.png)
 
 ### 5. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-04
 
-![voicebox](2026/08-04/2026-08-04_daily-top_voicebox.png)
+![voicebox](2026-08-04_daily-top_voicebox.png)
 
 ### 6. [ds4](https://github.com/antirez/ds4)
 
@@ -82,7 +82,7 @@
 - 💻 C
 - 📅 Updated: 2026-08-04
 
-![ds4](2026/08-04/2026-08-04_daily-top_ds4.png)
+![ds4](2026-08-04_daily-top_ds4.png)
 
 ### 7. [oh-my-pi](https://github.com/can1357/oh-my-pi)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-04
 
-![oh-my-pi](2026/08-04/2026-08-04_daily-top_oh-my-pi.png)
+![oh-my-pi](2026-08-04_daily-top_oh-my-pi.png)
 
 ### 8. [FalkorDB](https://github.com/FalkorDB/FalkorDB)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-04
 
-![FalkorDB](2026/08-04/2026-08-04_daily-top_FalkorDB.png)
+![FalkorDB](2026-08-04_daily-top_FalkorDB.png)
 
 ### 9. [SafeLine](https://github.com/chaitin/SafeLine)
 
@@ -115,7 +115,7 @@
 - 💻 Go
 - 📅 Updated: 2026-08-04
 
-![SafeLine](2026/08-04/2026-08-04_daily-top_SafeLine.png)
+![SafeLine](2026-08-04_daily-top_SafeLine.png)
 
 ### 10. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -126,7 +126,7 @@
 - 💻 C++
 - 📅 Updated: 2026-08-04
 
-![llama.cpp](2026/08-04/2026-08-04_daily-top_llama.cpp.png)
+![llama.cpp](2026-08-04_daily-top_llama.cpp.png)
 
 ---
 
