@@ -27,7 +27,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-05
 
-![pdf-inspector](2026/08-05/2026-08-05_daily-top_pdf-inspector.png)
+![pdf-inspector](2026-08-05_daily-top_pdf-inspector.png)
 
 ### 2. [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-05
 
-![TencentDB-Agent-Memory](2026/08-05/2026-08-05_daily-top_TencentDB-Agent-Memory.png)
+![TencentDB-Agent-Memory](2026-08-05_daily-top_TencentDB-Agent-Memory.png)
 
 ### 3. [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 
@@ -49,7 +49,7 @@
 - 💻 Go
 - 📅 Updated: 2026-08-05
 
-![DeepSeek-Reasonix](2026/08-05/2026-08-05_daily-top_DeepSeek-Reasonix.png)
+![DeepSeek-Reasonix](2026-08-05_daily-top_DeepSeek-Reasonix.png)
 
 ### 4. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
@@ -60,7 +60,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-05
 
-![taste-skill](2026/08-05/2026-08-05_daily-top_taste-skill.png)
+![taste-skill](2026-08-05_daily-top_taste-skill.png)
 
 ### 5. [voicebox](https://github.com/jamiepine/voicebox)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-05
 
-![voicebox](2026/08-05/2026-08-05_daily-top_voicebox.png)
+![voicebox](2026-08-05_daily-top_voicebox.png)
 
 ### 6. [kaneo](https://github.com/usekaneo/kaneo)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-05
 
-![kaneo](2026/08-05/2026-08-05_daily-top_kaneo.png)
+![kaneo](2026-08-05_daily-top_kaneo.png)
 
 ### 7. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-05
 
-![cc-switch](2026/08-05/2026-08-05_daily-top_cc-switch.png)
+![cc-switch](2026-08-05_daily-top_cc-switch.png)
 
 ### 8. [multica](https://github.com/multica-ai/multica)
 
@@ -105,7 +105,7 @@
 - 💻 Go
 - 📅 Updated: 2026-08-05
 
-![multica](2026/08-05/2026-08-05_daily-top_multica.png)
+![multica](2026-08-05_daily-top_multica.png)
 
 ### 9. [ds4](https://github.com/antirez/ds4)
 
@@ -116,7 +116,7 @@
 - 💻 C
 - 📅 Updated: 2026-08-05
 
-![ds4](2026/08-05/2026-08-05_daily-top_ds4.png)
+![ds4](2026-08-05_daily-top_ds4.png)
 
 ### 10. [up](https://github.com/byoungd/up)
 
@@ -127,7 +127,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-05
 
-![up](2026/08-05/2026-08-05_daily-top_up.png)
+![up](2026-08-05_daily-top_up.png)
 
 ---
 
