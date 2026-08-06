@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-06
 
-![TencentDB-Agent-Memory](2026/08-06/2026-08-06_daily-top_TencentDB-Agent-Memory.png)
+![TencentDB-Agent-Memory](2026-08-06_daily-top_TencentDB-Agent-Memory.png)
 
 ### 2. [pdf-inspector](https://github.com/firecrawl/pdf-inspector)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-06
 
-![pdf-inspector](2026/08-06/2026-08-06_daily-top_pdf-inspector.png)
+![pdf-inspector](2026-08-06_daily-top_pdf-inspector.png)
 
 ### 3. [computer](https://github.com/cloudflare/computer)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-06
 
-![computer](2026/08-06/2026-08-06_daily-top_computer.png)
+![computer](2026-08-06_daily-top_computer.png)
 
 ### 4. [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 
@@ -60,7 +60,7 @@
 - 💻 Go
 - 📅 Updated: 2026-08-06
 
-![DeepSeek-Reasonix](2026/08-06/2026-08-06_daily-top_DeepSeek-Reasonix.png)
+![DeepSeek-Reasonix](2026-08-06_daily-top_DeepSeek-Reasonix.png)
 
 ### 5. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-06
 
-![taste-skill](2026/08-06/2026-08-06_daily-top_taste-skill.png)
+![taste-skill](2026-08-06_daily-top_taste-skill.png)
 
 ### 6. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-06
 
-![impeccable](2026/08-06/2026-08-06_daily-top_impeccable.png)
+![impeccable](2026-08-06_daily-top_impeccable.png)
 
 ### 7. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-06
 
-![cc-switch](2026/08-06/2026-08-06_daily-top_cc-switch.png)
+![cc-switch](2026-08-06_daily-top_cc-switch.png)
 
 ### 8. [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-06
 
-![tailwindcss](2026/08-06/2026-08-06_daily-top_tailwindcss.png)
+![tailwindcss](2026-08-06_daily-top_tailwindcss.png)
 
 ### 9. [oh-my-pi](https://github.com/can1357/oh-my-pi)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-06
 
-![oh-my-pi](2026/08-06/2026-08-06_daily-top_oh-my-pi.png)
+![oh-my-pi](2026-08-06_daily-top_oh-my-pi.png)
 
 ### 10. [multica](https://github.com/multica-ai/multica)
 
@@ -127,7 +127,7 @@
 - 💻 Go
 - 📅 Updated: 2026-08-06
 
-![multica](2026/08-06/2026-08-06_daily-top_multica.png)
+![multica](2026-08-06_daily-top_multica.png)
 
 ---
 
