@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-07
 
-![computer](2026/08-07/2026-08-07_daily-top_computer.png)
+![computer](2026-08-07_daily-top_computer.png)
 
 ### 2. [pdf-inspector](https://github.com/firecrawl/pdf-inspector)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-07
 
-![pdf-inspector](2026/08-07/2026-08-07_daily-top_pdf-inspector.png)
+![pdf-inspector](2026-08-07_daily-top_pdf-inspector.png)
 
 ### 3. [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-07
 
-![TencentDB-Agent-Memory](2026/08-07/2026-08-07_daily-top_TencentDB-Agent-Memory.png)
+![TencentDB-Agent-Memory](2026-08-07_daily-top_TencentDB-Agent-Memory.png)
 
 ### 4. [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 
@@ -60,7 +60,7 @@
 - 💻 Go
 - 📅 Updated: 2026-08-07
 
-![DeepSeek-Reasonix](2026/08-07/2026-08-07_daily-top_DeepSeek-Reasonix.png)
+![DeepSeek-Reasonix](2026-08-07_daily-top_DeepSeek-Reasonix.png)
 
 ### 5. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-07
 
-![taste-skill](2026/08-07/2026-08-07_daily-top_taste-skill.png)
+![taste-skill](2026-08-07_daily-top_taste-skill.png)
 
 ### 6. [agent-skills](https://github.com/addyosmani/agent-skills)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-07
 
-![agent-skills](2026/08-07/2026-08-07_daily-top_agent-skills.png)
+![agent-skills](2026-08-07_daily-top_agent-skills.png)
 
 ### 7. [opencode](https://github.com/anomalyco/opencode)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-07
 
-![opencode](2026/08-07/2026-08-07_daily-top_opencode.png)
+![opencode](2026-08-07_daily-top_opencode.png)
 
 ### 8. [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-07
 
-![awesome-gpt-image-2](2026/08-07/2026-08-07_daily-top_awesome-gpt-image-2.png)
+![awesome-gpt-image-2](2026-08-07_daily-top_awesome-gpt-image-2.png)
 
 ### 9. [witr](https://github.com/pranshuparmar/witr)
 
@@ -115,7 +115,7 @@
 - 💻 Go
 - 📅 Updated: 2026-08-07
 
-![witr](2026/08-07/2026-08-07_daily-top_witr.png)
+![witr](2026-08-07_daily-top_witr.png)
 
 ### 10. [caveman](https://github.com/JuliusBrussee/caveman)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-07
 
-![caveman](2026/08-07/2026-08-07_daily-top_caveman.png)
+![caveman](2026-08-07_daily-top_caveman.png)
 
 ---
 

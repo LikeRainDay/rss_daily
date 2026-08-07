@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-08-06
+# 📊 🌟 GitHub Trending Daily - 2026-08-07
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **478552** ⭐ | **34485** 🍴
+**10** Projects | **542665** ⭐ | **50841** 🍴
 
-**Top Languages:** `TypeScript` (4) · `Rust` (2) · `Go` (2)
+**Top Languages:** `JavaScript` (4) · `TypeScript` (3) · `Go` (2)
 
-**Updated:** 2026-08-06 03:17 UTC
+**Updated:** 2026-08-07 02:58 UTC
 
 **Categories:**
 
@@ -18,116 +18,115 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+### 1. [computer](https://github.com/cloudflare/computer)
 
 > 🤖 **Why Recommend**  
-> *TencentDB-Agent-Memory is a TypeScript-based memory hub for AI agents, facilitating the reuse of information through four core assets: Chat Memory, Skills, LLM-Wiki, and Code-Graph. It enhances collaboration by allowing agents to share and manage these assets, reducing repetitive tasks and improving efficiency. Key features include automatic asset extraction, cross-framework compatibility, and a user-friendly control panel for managing team memory. With 15,200 stars, this project aims to streamline workflows and retain valuable knowledge, making it ideal for teams seeking to leverage AI effectively.*
+> *Cloudflare Computer is a TypeScript-based virtual filesystem residing in a Durable Object, utilizing SQLite for state management. It offers three execution backends: a FUSE-mounted container for full Linux userland, a shell environment using just-bash, and a JavaScript runtime for ECMAScript modules. Users can register multiple backends and execute commands or scripts via a unified entry point. The project is in preview, suitable for experimentation rather than production. It includes various examples, performance benchmarks, and a structured monorepo for easy navigation and contribution.*
 
-- ⭐ 15200 stars
+- ⭐ 4886 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-06
+- 📅 Updated: 2026-08-07
 
-![TencentDB-Agent-Memory](2026/08-06/2026-08-06_daily-top_TencentDB-Agent-Memory.png)
+![computer](2026/08-07/2026-08-07_daily-top_computer.png)
 
 ### 2. [pdf-inspector](https://github.com/firecrawl/pdf-inspector)
 
 > 🤖 **Why Recommend**  
-> *pdf-inspector is a high-performance Rust library for PDF inspection, classification, and text extraction. It intelligently distinguishes between text-based and scanned PDFs, enabling efficient routing decisions. Key features include smart classification with confidence scoring, position-aware text extraction, Markdown conversion, and table detection. With multi-language bindings (Python, Node.js, WebAssembly), it processes PDFs locally in under 200ms, avoiding costly OCR for ~54% of documents. Ideal for reports, invoices, and legal documents, pdf-inspector streamlines PDF handling at scale.*
+> *pdf-inspector is a fast Rust library designed for PDF inspection, classification, and text extraction, capable of distinguishing between scanned and text-based PDFs in under 50ms. It offers position-aware text extraction, Markdown conversion, and dual-mode table detection, making it ideal for processing reports, invoices, and legal documents. With bindings for Python, Node.js, and WebAssembly, it enables local processing without OCR, significantly reducing costs and latency. The library is lightweight, relying solely on Rust and a single dependency for PDF parsing.*
 
-- ⭐ 11572 stars
+- ⭐ 12535 stars
 - 💻 Rust
-- 📅 Updated: 2026-08-06
+- 📅 Updated: 2026-08-07
 
-![pdf-inspector](2026/08-06/2026-08-06_daily-top_pdf-inspector.png)
+![pdf-inspector](2026/08-07/2026-08-07_daily-top_pdf-inspector.png)
 
-### 3. [computer](https://github.com/cloudflare/computer)
+### 3. [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
 > 🤖 **Why Recommend**  
-> *Cloudflare Computer is a TypeScript-based virtual filesystem utilizing Durable Objects and SQLite, designed for experimentation and prototyping. It features three execution backends: a FUSE mount container for full Linux userland, a Dynamic Worker running a shell through just-bash, and an ECMAScript module execution environment. Users can register multiple backends and execute commands via a single entry point. The project includes several runnable examples and is not yet suitable for production use. Contributions and feedback are encouraged as the project evolves.*
+> *TencentDB-Agent-Memory is a TypeScript-based memory hub designed for AI agents, enabling them to convert conversations, documents, and code into reusable assets: Chat Memory, Skills, LLM-Wiki, and Code-Graph. It streamlines team collaboration by allowing agents to inherit and share knowledge, reducing repetitive work and enhancing efficiency. Key features include automatic asset extraction, cross-framework compatibility, and a structured memory management system. With a focus on preserving team experience, it offers tools for access control, asset management, and cold-start capabilities for new agents.*
 
-- ⭐ 3288 stars
+- ⭐ 16537 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-06
+- 📅 Updated: 2026-08-07
 
-![computer](2026/08-06/2026-08-06_daily-top_computer.png)
+![TencentDB-Agent-Memory](2026/08-07/2026-08-07_daily-top_TencentDB-Agent-Memory.png)
 
 ### 4. [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 
 > 🤖 **Why Recommend**  
-> *DeepSeek-Reasonix is an AI coding agent for terminals, built in Go, with over 31,750 stars on GitHub. It features a config-driven architecture, enabling multi-model support and composable workflows without hardcoded models. Users can leverage a plugin-driven system for tools and resources, ensuring cache-aware context maintenance for efficient sessions. The project offers easy installation via npm or Homebrew and supports a CLI, desktop app, and VS Code extension. Engage with the community on Discord for setup help and feature discussions.*
+> *DeepSeek-Reasonix is a powerful AI coding agent designed for terminal use, built in Go. It features a config-driven architecture allowing for multi-model functionality, enabling users to integrate various OpenAI-compatible endpoints seamlessly. The plugin-driven system supports tools and extensions, enhancing flexibility. With cache-aware context maintenance, it ensures low token costs during long sessions. Deployment is simplified through a single static binary, compatible across multiple platforms. Engage with the community on Discord for support and collaboration.*
 
-- ⭐ 31750 stars
+- ⭐ 32505 stars
 - 💻 Go
-- 📅 Updated: 2026-08-06
+- 📅 Updated: 2026-08-07
 
-![DeepSeek-Reasonix](2026/08-06/2026-08-06_daily-top_DeepSeek-Reasonix.png)
+![DeepSeek-Reasonix](2026/08-07/2026-08-07_daily-top_DeepSeek-Reasonix.png)
 
 ### 5. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 > 🤖 **Why Recommend**  
-> *Taste-Skill is an innovative JavaScript framework designed to enhance AI-generated frontends, ensuring high-quality, visually appealing designs instead of generic outputs. With over 72,000 stars, it offers portable Agent Skills for improved layout, typography, and motion. Key features include customizable design parameters, a range of specialized skills for various design tasks, and image-generation capabilities for branding and UI mockups. Ideal for integrating with major coding agents, Taste-Skill empowers developers to create sophisticated, engaging user interfaces effortlessly.*
+> *Taste-Skill is an innovative JavaScript framework designed to enhance AI-generated frontends, ensuring they avoid generic designs. With over 73,000 stars, it offers portable Agent Skills for superior layout, typography, and spacing, alongside image-generation capabilities for web and mobile. Key features include adjustable dials for design variance, motion intensity, and visual density, as well as various specialized skills like redesign and minimalist UI. Compatible with major coding agents, Taste-Skill empowers developers to create visually engaging interfaces effortlessly.*
 
-- ⭐ 72597 stars
+- ⭐ 73290 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-08-06
+- 📅 Updated: 2026-08-07
 
-![taste-skill](2026/08-06/2026-08-06_daily-top_taste-skill.png)
+![taste-skill](2026/08-07/2026-08-07_daily-top_taste-skill.png)
 
-### 6. [impeccable](https://github.com/pbakaus/impeccable)
+### 6. [agent-skills](https://github.com/addyosmani/agent-skills)
 
 > 🤖 **Why Recommend**  
-> *Impeccable is a JavaScript design language tool for AI coding agents, boasting 55,876 stars on GitHub. It offers a streamlined setup with 23 commands, including `polish`, `audit`, and `critique`, to enhance AI-generated frontend designs. With 59 deterministic detector rules, it allows for live browser iteration and comprehensive design context through a single command, `/impeccable init`. The tool emphasizes best practices, helping avoid common design pitfalls. Compatible with platforms like Claude Code, GitHub Copilot, and Grok Build, Impeccable is an essential resource for improving AI-assisted design workflows.*
+> *Agent Skills is a GitHub project that provides production-grade engineering workflows for AI coding agents, enabling them to adhere to best practices throughout the software development lifecycle. It features 24 structured skills, including commands for defining, planning, building, verifying, reviewing, and shipping code, all designed to enforce high-quality standards. The project supports integration with multiple agents and provides a quick setup via a CLI. Key highlights include automated task execution, quality gates, and specialized personas for targeted reviews, ensuring reliable and efficient code production.*
 
-- ⭐ 55876 stars
+- ⭐ 83020 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-08-06
+- 📅 Updated: 2026-08-07
 
-![impeccable](2026/08-06/2026-08-06_daily-top_impeccable.png)
+![agent-skills](2026/08-07/2026-08-07_daily-top_agent-skills.png)
 
-### 7. [cc-switch](https://github.com/farion1231/cc-switch)
-
-> 🤖 **Why Recommend**  
-> *CC Switch is a cross-platform desktop assistant for managing AI coding tools like Claude Code, Codex, and Gemini CLI. With over 50 built-in provider presets, it enables seamless switching between APIs without manual configuration. Key features include unified management of MCP and Skills, cloud sync across devices, and a user-friendly interface for tracking usage and costs. Built with Tauri in Rust, it supports Windows, macOS, and Linux, ensuring robust performance and reliability. Visit ccswitch.io for more information.*
-
-- ⭐ 124857 stars
-- 💻 Rust
-- 📅 Updated: 2026-08-06
-
-![cc-switch](2026/08-06/2026-08-06_daily-top_cc-switch.png)
-
-### 8. [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+### 7. [opencode](https://github.com/anomalyco/opencode)
 
 > 🤖 **Why Recommend**  
-> *Tailwind CSS is a utility-first CSS framework designed for rapid UI development, enabling developers to create custom user interfaces efficiently. With a focus on flexibility, it offers a comprehensive set of utility classes that streamline styling without the need for custom CSS. The project boasts over 96,000 stars on GitHub, indicating its popularity and community support. Key highlights include extensive documentation, active community discussions, and clear guidelines for contributions. For more information, visit the official site at tailwindcss.com.*
+> *OpenCode is an open-source AI coding agent built in TypeScript, boasting over 194,000 stars on GitHub. It offers a desktop application across multiple platforms and supports installation via various package managers. Key features include two built-in agents: "build" for full development access and "plan" for read-only code exploration, enhancing user experience in unfamiliar codebases. OpenCode emphasizes community engagement through Discord and provides extensive documentation for configuration and contribution. Visit opencode.ai for more information.*
 
-- ⭐ 96894 stars
+- ⭐ 194367 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-06
+- 📅 Updated: 2026-08-07
 
-![tailwindcss](2026/08-06/2026-08-06_daily-top_tailwindcss.png)
+![opencode](2026/08-07/2026-08-07_daily-top_opencode.png)
 
-### 9. [oh-my-pi](https://github.com/can1357/oh-my-pi)
-
-> 🤖 **Why Recommend**  
-> *oh-my-pi is an advanced AI coding agent for terminal environments, designed to enhance coding workflows with integrated features like LSP support, persistent Python and JavaScript execution, and subagent collaboration. Key highlights include hash-anchored edits, real-time debugging, memory curation, and extensive tooling across 60+ providers. Users benefit from seamless code execution, structured web searching, and efficient code review processes. Built on TypeScript, this project fosters open contributions and offers a robust, interactive experience for developers. Explore more at omp.sh.*
-
-- ⭐ 22218 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-06
-
-![oh-my-pi](2026/08-06/2026-08-06_daily-top_oh-my-pi.png)
-
-### 10. [multica](https://github.com/multica-ai/multica)
+### 8. [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
 > 🤖 **Why Recommend**  
-> *The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.. popular project, actively maintained, recently updated*
+> *awesome-gpt-image-2 is an industrial-grade prompt engine and template library for AI image generation, featuring over 500 reverse-engineered cases and 20+ templates. Designed for automation and agent workflows, it structures prompts into reusable components, enhancing controllability and efficiency. The project offers a visual website for browsing, generating prompts, and testing outputs, along with a paid community for discussions. Sponsored by AI platforms, it continuously updates its library, making it a valuable resource for developers and creatives seeking to leverage GPT image generation effectively.*
 
-- ⭐ 44300 stars
-- 🍴 5619 forks
+- ⭐ 9754 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-08-07
+
+![awesome-gpt-image-2](2026/08-07/2026-08-07_daily-top_awesome-gpt-image-2.png)
+
+### 9. [witr](https://github.com/pranshuparmar/witr)
+
+> 🤖 **Why Recommend**  
+> *witr is a powerful CLI and TUI tool designed to trace any process, port, container, or file back to its origin, answering the question, "Why is this running?" With over 19,000 stars on GitHub, it provides human-readable outputs and machine-readable JSON, making debugging intuitive. Key features include real-time process tracking, filtering capabilities, and detailed ancestry views. It supports various platforms, including Linux, macOS, Windows, and FreeBSD. The interactive TUI enhances usability, allowing users to explore processes, ports, and containers effortlessly.*
+
+- ⭐ 19264 stars
 - 💻 Go
-- 📅 Updated: 2026-08-06
+- 📅 Updated: 2026-08-07
 
-![multica](2026/08-06/2026-08-06_daily-top_multica.png)
+![witr](2026/08-07/2026-08-07_daily-top_witr.png)
+
+### 10. [caveman](https://github.com/JuliusBrussee/caveman)
+
+> 🤖 **Why Recommend**  
+> *Caveman is a JavaScript skill/plugin for AI coding agents like Claude Code and Codex, designed to minimize output tokens by up to 65% while retaining technical accuracy. It transforms verbose responses into concise "caveman-speak" without losing essential information. Key features include adjustable verbosity levels, conventional commit messages, and streamlined PR comments. The installation is simple, supporting over 30 agents. Caveman also offers persistent token savings and integrates with tools like OpenClaw. Join the growing community with over 96,000 stars on GitHub.*
+
+- ⭐ 96507 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-08-07
+
+![caveman](2026/08-07/2026-08-07_daily-top_caveman.png)
 
 ---
 
@@ -141,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-08-06 03:17:52 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-08-07 02:58:43 UTC
