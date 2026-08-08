@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-08
 
-![prime-agent](2026/08-08/2026-08-08_daily-top_prime-agent.png)
+![prime-agent](2026-08-08_daily-top_prime-agent.png)
 
 ### 2. [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-08
 
-![TencentDB-Agent-Memory](2026/08-08/2026-08-08_daily-top_TencentDB-Agent-Memory.png)
+![TencentDB-Agent-Memory](2026-08-08_daily-top_TencentDB-Agent-Memory.png)
 
 ### 3. [agent-skills](https://github.com/addyosmani/agent-skills)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-08
 
-![agent-skills](2026/08-08/2026-08-08_daily-top_agent-skills.png)
+![agent-skills](2026-08-08_daily-top_agent-skills.png)
 
 ### 4. [computer](https://github.com/cloudflare/computer)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-08
 
-![computer](2026/08-08/2026-08-08_daily-top_computer.png)
+![computer](2026-08-08_daily-top_computer.png)
 
 ### 5. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-08
 
-![taste-skill](2026/08-08/2026-08-08_daily-top_taste-skill.png)
+![taste-skill](2026-08-08_daily-top_taste-skill.png)
 
 ### 6. [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 
@@ -82,7 +82,7 @@
 - 💻 Go
 - 📅 Updated: 2026-08-08
 
-![DeepSeek-Reasonix](2026/08-08/2026-08-08_daily-top_DeepSeek-Reasonix.png)
+![DeepSeek-Reasonix](2026-08-08_daily-top_DeepSeek-Reasonix.png)
 
 ### 7. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-08
 
-![firecrawl](2026/08-08/2026-08-08_daily-top_firecrawl.png)
+![firecrawl](2026-08-08_daily-top_firecrawl.png)
 
 ### 8. [celld](https://github.com/denoland/celld)
 
@@ -104,7 +104,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-08
 
-![celld](2026/08-08/2026-08-08_daily-top_celld.png)
+![celld](2026-08-08_daily-top_celld.png)
 
 ### 9. [pi](https://github.com/earendil-works/pi)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-08
 
-![pi](2026/08-08/2026-08-08_daily-top_pi.png)
+![pi](2026-08-08_daily-top_pi.png)
 
 ### 10. [impeccable](https://github.com/pbakaus/impeccable)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-08
 
-![impeccable](2026/08-08/2026-08-08_daily-top_impeccable.png)
+![impeccable](2026-08-08_daily-top_impeccable.png)
 
 ---
 
