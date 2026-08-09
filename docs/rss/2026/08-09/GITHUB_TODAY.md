@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-09
 
-![prime-agent](2026/08-09/2026-08-09_daily-top_prime-agent.png)
+![prime-agent](2026-08-09_daily-top_prime-agent.png)
 
 ### 2. [computer](https://github.com/cloudflare/computer)
 
@@ -44,7 +44,7 @@ Designed for experimentation and prototyping, it supports multiple backends, off
 - 💻 TypeScript
 - 📅 Updated: 2026-08-09
 
-![computer](2026/08-09/2026-08-09_daily-top_computer.png)
+![computer](2026-08-09_daily-top_computer.png)
 
 ### 3. [agent-skills](https://github.com/addyosmani/agent-skills)
 
@@ -55,7 +55,7 @@ Designed for experimentation and prototyping, it supports multiple backends, off
 - 💻 JavaScript
 - 📅 Updated: 2026-08-09
 
-![agent-skills](2026/08-09/2026-08-09_daily-top_agent-skills.png)
+![agent-skills](2026-08-09_daily-top_agent-skills.png)
 
 ### 4. [witr](https://github.com/pranshuparmar/witr)
 
@@ -66,7 +66,7 @@ Designed for experimentation and prototyping, it supports multiple backends, off
 - 💻 Go
 - 📅 Updated: 2026-08-09
 
-![witr](2026/08-09/2026-08-09_daily-top_witr.png)
+![witr](2026-08-09_daily-top_witr.png)
 
 ### 5. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -77,7 +77,7 @@ Designed for experimentation and prototyping, it supports multiple backends, off
 - 💻 TypeScript
 - 📅 Updated: 2026-08-09
 
-![firecrawl](2026/08-09/2026-08-09_daily-top_firecrawl.png)
+![firecrawl](2026-08-09_daily-top_firecrawl.png)
 
 ### 6. [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
@@ -88,7 +88,7 @@ Designed for experimentation and prototyping, it supports multiple backends, off
 - 💻 JavaScript
 - 📅 Updated: 2026-08-09
 
-![taste-skill](2026/08-09/2026-08-09_daily-top_taste-skill.png)
+![taste-skill](2026-08-09_daily-top_taste-skill.png)
 
 ### 7. [celld](https://github.com/denoland/celld)
 
@@ -99,7 +99,7 @@ Designed for experimentation and prototyping, it supports multiple backends, off
 - 💻 Rust
 - 📅 Updated: 2026-08-09
 
-![celld](2026/08-09/2026-08-09_daily-top_celld.png)
+![celld](2026-08-09_daily-top_celld.png)
 
 ### 8. [opencode](https://github.com/anomalyco/opencode)
 
@@ -110,7 +110,7 @@ Designed for experimentation and prototyping, it supports multiple backends, off
 - 💻 TypeScript
 - 📅 Updated: 2026-08-09
 
-![opencode](2026/08-09/2026-08-09_daily-top_opencode.png)
+![opencode](2026-08-09_daily-top_opencode.png)
 
 ### 9. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
@@ -121,7 +121,7 @@ Designed for experimentation and prototyping, it supports multiple backends, off
 - 💻 TypeScript
 - 📅 Updated: 2026-08-09
 
-![clash-verge-rev](2026/08-09/2026-08-09_daily-top_clash-verge-rev.png)
+![clash-verge-rev](2026-08-09_daily-top_clash-verge-rev.png)
 
 ### 10. [ECC](https://github.com/affaan-m/ECC)
 
@@ -132,7 +132,7 @@ Designed for experimentation and prototyping, it supports multiple backends, off
 - 💻 JavaScript
 - 📅 Updated: 2026-08-09
 
-![ECC](2026/08-09/2026-08-09_daily-top_ECC.png)
+![ECC](2026-08-09_daily-top_ECC.png)
 
 ---
 
