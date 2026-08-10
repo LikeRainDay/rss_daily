@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-10
 
-![prime-agent](2026/08-10/2026-08-10_daily-top_prime-agent.png)
+![prime-agent](2026-08-10_daily-top_prime-agent.png)
 
 ### 2. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-10
 
-![OmniRoute](2026/08-10/2026-08-10_daily-top_OmniRoute.png)
+![OmniRoute](2026-08-10_daily-top_OmniRoute.png)
 
 ### 3. [agent-skills](https://github.com/addyosmani/agent-skills)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-10
 
-![agent-skills](2026/08-10/2026-08-10_daily-top_agent-skills.png)
+![agent-skills](2026-08-10_daily-top_agent-skills.png)
 
 ### 4. [computer](https://github.com/cloudflare/computer)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-10
 
-![computer](2026/08-10/2026-08-10_daily-top_computer.png)
+![computer](2026-08-10_daily-top_computer.png)
 
 ### 5. [celld](https://github.com/denoland/celld)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-10
 
-![celld](2026/08-10/2026-08-10_daily-top_celld.png)
+![celld](2026-08-10_daily-top_celld.png)
 
 ### 6. [fanqiang](https://github.com/bannedbook/fanqiang)
 
@@ -82,7 +82,7 @@
 - 💻 Kotlin
 - 📅 Updated: 2026-08-10
 
-![fanqiang](2026/08-10/2026-08-10_daily-top_fanqiang.png)
+![fanqiang](2026-08-10_daily-top_fanqiang.png)
 
 ### 7. [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 
@@ -93,7 +93,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-08-10
 
-![awesome-mac](2026/08-10/2026-08-10_daily-top_awesome-mac.png)
+![awesome-mac](2026-08-10_daily-top_awesome-mac.png)
 
 ### 8. [ECC](https://github.com/affaan-m/ECC)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-10
 
-![ECC](2026/08-10/2026-08-10_daily-top_ECC.png)
+![ECC](2026-08-10_daily-top_ECC.png)
 
 ### 9. [witr](https://github.com/pranshuparmar/witr)
 
@@ -115,7 +115,7 @@
 - 💻 Go
 - 📅 Updated: 2026-08-10
 
-![witr](2026/08-10/2026-08-10_daily-top_witr.png)
+![witr](2026-08-10_daily-top_witr.png)
 
 ### 10. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 
@@ -126,7 +126,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-10
 
-![ai-website-cloner-template](2026/08-10/2026-08-10_daily-top_ai-website-cloner-template.png)
+![ai-website-cloner-template](2026-08-10_daily-top_ai-website-cloner-template.png)
 
 ---
 
