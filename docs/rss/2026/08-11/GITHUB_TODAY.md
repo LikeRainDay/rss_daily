@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-11
 
-![prime-agent](2026/08-11/2026-08-11_daily-top_prime-agent.png)
+![prime-agent](2026-08-11_daily-top_prime-agent.png)
 
 ### 2. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-11
 
-![OmniRoute](2026/08-11/2026-08-11_daily-top_OmniRoute.png)
+![OmniRoute](2026-08-11_daily-top_OmniRoute.png)
 
 ### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-11
 
-![firecrawl](2026/08-11/2026-08-11_daily-top_firecrawl.png)
+![firecrawl](2026-08-11_daily-top_firecrawl.png)
 
 ### 4. [witr](https://github.com/pranshuparmar/witr)
 
@@ -60,7 +60,7 @@
 - 💻 Go
 - 📅 Updated: 2026-08-11
 
-![witr](2026/08-11/2026-08-11_daily-top_witr.png)
+![witr](2026-08-11_daily-top_witr.png)
 
 ### 5. [agent-skills](https://github.com/addyosmani/agent-skills)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-11
 
-![agent-skills](2026/08-11/2026-08-11_daily-top_agent-skills.png)
+![agent-skills](2026-08-11_daily-top_agent-skills.png)
 
 ### 6. [cli](https://github.com/brightdata/cli)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-11
 
-![cli](2026/08-11/2026-08-11_daily-top_cli.png)
+![cli](2026-08-11_daily-top_cli.png)
 
 ### 7. [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 
@@ -93,7 +93,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-08-11
 
-![awesome-mac](2026/08-11/2026-08-11_daily-top_awesome-mac.png)
+![awesome-mac](2026-08-11_daily-top_awesome-mac.png)
 
 ### 8. [t3code](https://github.com/pingdotgg/t3code)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-11
 
-![t3code](2026/08-11/2026-08-11_daily-top_t3code.png)
+![t3code](2026-08-11_daily-top_t3code.png)
 
 ### 9. [LifeOS](https://github.com/danielmiessler/LifeOS)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-11
 
-![LifeOS](2026/08-11/2026-08-11_daily-top_LifeOS.png)
+![LifeOS](2026-08-11_daily-top_LifeOS.png)
 
 ### 10. [ECC](https://github.com/affaan-m/ECC)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-11
 
-![ECC](2026/08-11/2026-08-11_daily-top_ECC.png)
+![ECC](2026-08-11_daily-top_ECC.png)
 
 ---
 

@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-08-10
+# 📊 🌟 GitHub Trending Daily - 2026-08-11
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **601859** ⭐ | **74987** 🍴
+**10** 个项目 | **719523** ⭐ | **77885** 🍴
 
-**热门语言:** `TypeScript` (4) · `JavaScript` (2) · `Rust` (1)
+**热门语言:** `TypeScript` (6) · `JavaScript` (2) · `Go` (1)
 
-**更新时间:** 2026-08-10 02:15 UTC
+**更新时间:** 2026-08-11 02:11 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
 
 > 🤖 **推荐理由**  
-> *Prime Agent is an open-source, self-improving Recursive Language Model (RLM) agent designed for coding workflows and long-running autonomous tasks. Key features include a persistent Python control environment, seamless subagent integration for parallel processing, and a Continual Harness that stores and refines context and skills. It supports direct agent communication, daemon-backed sessions for continuity, and autonomous mode for ongoing tasks. With robust capabilities for long-term research evaluations, Prime Agent empowers efficient and flexible coding and automation workflows.*
+> *Prime Agent is an open-source self-improving RLM agent designed for coding workflows and long-running autonomous tasks. Key features include a persistent IPython environment, programmatic tool and subagent calling, and a Continual Harness for refining context and skills. It supports background sessions, direct agent communication, and persistent goals, enabling seamless task continuity. Users can create and manage executable skills and run agents autonomously with customizable limits. Designed for research evaluations, Prime Agent enhances coding efficiency and task management.*
 
-- ⭐ 11296 stars
+- ⭐ 13152 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-10
+- 📅 Updated: 2026-08-11
 
-![prime-agent](2026/08-10/2026-08-10_daily-top_prime-agent.png)
+![prime-agent](2026/08-11/2026-08-11_daily-top_prime-agent.png)
 
 ### 2. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
 > 🤖 **推荐理由**  
-> *OmniRoute is a free, open-source AI gateway providing access to over 290 AI providers (90+ free) and 500+ models including Kimi, Claude, GPT, and Gemini. Key features include quota-aware auto-fallback, a unique RTK+Caveman compression system that saves 15-95% tokens, and support for multiple coding tools like Claude Code and Copilot. With a user-friendly setup requiring no API keys or configuration, OmniRoute operates on various platforms, allowing seamless integration and smart routing for cost-effective AI interactions.*
+> *OmniRoute is an MIT-licensed AI gateway that consolidates access to over 290 AI providers (90+ free) and 500+ models, including Kimi, Claude, GPT, and Gemini, through a single endpoint. Key features include quota-aware auto-fallback, advanced token compression saving 15-95% on usage, and seamless integration with various coding tools like Codex and Copilot. It supports desktop and PWA deployments, offers live analytics of free tiers, and is backed by over 500 contributors, making it a powerful solution for developers seeking efficient AI interactions.*
 
-- ⭐ 44324 stars
+- ⭐ 45221 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-10
+- 📅 Updated: 2026-08-11
 
-![OmniRoute](2026/08-10/2026-08-10_daily-top_OmniRoute.png)
+![OmniRoute](2026/08-11/2026-08-11_daily-top_OmniRoute.png)
 
-### 3. [agent-skills](https://github.com/addyosmani/agent-skills)
+### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
 
 > 🤖 **推荐理由**  
-> *Agent Skills is a JavaScript project designed to enhance AI coding agents with production-grade engineering workflows. It includes 24 structured skills across the software development lifecycle, from defining project specs to shipping code. Key features include 8 slash commands that automate task execution, skills that adapt based on context, and a quick installation process for various agents. It emphasizes best practices from Google's engineering culture, ensuring reliability and quality in software development. The project has gained significant traction, boasting over 85,000 stars on GitHub.*
+> *Firecrawl is a powerful web context API designed for searching, scraping, and interacting with web content at scale. It features industry-leading reliability, covering 96% of the web, including JavaScript-heavy sites, with fast response times. Core functionalities include searching for web content, scraping URLs for clean Markdown or JSON output, and the ability to interact with pages using AI prompts. Additionally, Firecrawl offers automated data gathering through its Agent feature, batch scraping of multiple URLs, and comprehensive integrations with various platforms. Open-source and available as a hosted service, Firecrawl simplifies web data extraction for developers and AI applications.*
 
-- ⭐ 85185 stars
+- ⭐ 165137 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-08-11
+
+![firecrawl](2026/08-11/2026-08-11_daily-top_firecrawl.png)
+
+### 4. [witr](https://github.com/pranshuparmar/witr)
+
+> 🤖 **推荐理由**  
+> *witr is a powerful tool designed to trace processes, ports, containers, and files back to their origin with a focus on answering "Why is this running?" It provides a human-readable output or an interactive TUI for real-time exploration. Key features include detailed process ancestry, support for various container runtimes, and system-wide file lock insights. It is available across major platforms (Linux, macOS, Windows, FreeBSD) and integrates with multiple package managers. With 21,215 stars on GitHub, witr simplifies system diagnostics and enhances operational clarity.*
+
+- ⭐ 21215 stars
+- 💻 Go
+- 📅 Updated: 2026-08-11
+
+![witr](2026/08-11/2026-08-11_daily-top_witr.png)
+
+### 5. [agent-skills](https://github.com/addyosmani/agent-skills)
+
+> 🤖 **推荐理由**  
+> *Agent Skills is a JavaScript project designed to equip AI coding agents with production-grade engineering workflows. It features 24 structured skills that guide agents through the software development lifecycle, including defining, planning, building, verifying, reviewing, and shipping code. Key highlights include 8 slash commands for seamless task execution, automated planning with the `/build auto` command, and specialized agent personas for targeted reviews. The skills emphasize best practices derived from Google's engineering culture, ensuring high-quality software development. With over 85,000 stars, it is a popular choice for enhancing AI-assisted coding.*
+
+- ⭐ 85778 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-08-10
+- 📅 Updated: 2026-08-11
 
-![agent-skills](2026/08-10/2026-08-10_daily-top_agent-skills.png)
+![agent-skills](2026/08-11/2026-08-11_daily-top_agent-skills.png)
 
-### 4. [computer](https://github.com/cloudflare/computer)
+### 6. [cli](https://github.com/brightdata/cli)
 
 > 🤖 **推荐理由**  
-> *Cloudflare Computer is a virtual filesystem powered by Durable Objects and SQLite, enabling innovative backend execution environments. Key features include three execution backends: a FUSE-mounted container with full Linux userland, a Dynamic Worker running a bash shell, and another executing ECMAScript modules. Users can register multiple backends under stable IDs, allowing for flexible execution through a unified entry point. Designed for experimentation and prototyping, the project offers various examples, including chat agents and artifact generation. Note: it is in preview and not suitable for production use.*
+> *The Bright Data CLI is a powerful tool for scraping, searching, and extracting structured web data directly from the terminal. Key features include scraping any URL with anti-bot protection, AI-powered web discovery, and creating custom scrapers from natural language descriptions. Users can perform searches across major engines, extract data from over 40 platforms, and control a real browser session. The CLI supports various output formats, interactive setup, and offers a free tier with 5,000 monthly credits. Ideal for developers and data professionals.*
 
-- ⭐ 7048 stars
+- ⭐ 3717 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-10
+- 📅 Updated: 2026-08-11
 
-![computer](2026/08-10/2026-08-10_daily-top_computer.png)
-
-### 5. [celld](https://github.com/denoland/celld)
-
-> 🤖 **推荐理由**  
-> *celld is a self-hosted, distributed Durable Objects daemon designed to run Cloudflare Workers on your own machines. Each Durable Object functions as an independent SQLite database, ensuring sharding by design and minimizing contention. The system uses an S3-compatible bucket for state persistence and node coordination without a control plane. Key features include idle cell hibernation, a straightforward installation process, and robust diagnostics for fleet operation. Written in Rust, celld emphasizes security, scalability, and resilience, making it ideal for modern distributed applications.*
-
-- ⭐ 2895 stars
-- 💻 Rust
-- 📅 Updated: 2026-08-10
-
-![celld](2026/08-10/2026-08-10_daily-top_celld.png)
-
-### 6. [fanqiang](https://github.com/bannedbook/fanqiang)
-
-> 🤖 **推荐理由**  
-> *The fanqiang project, boasting over 50,000 stars, provides essential tools and tutorials for circumventing internet censorship. Key features include comprehensive guides for Android, iOS, Windows, macOS, and Linux platforms, covering various VPN and proxy services like V2Ray and Shadowsocks. Users can access a suite of one-click installation packages for browsers like Chrome and Firefox, along with detailed server setup instructions. The project also offers free account options for V2Ray and Shadowsocks, making it a valuable resource for users seeking reliable access to restricted content.*
-
-- ⭐ 50150 stars
-- 💻 Kotlin
-- 📅 Updated: 2026-08-10
-
-![fanqiang](2026/08-10/2026-08-10_daily-top_fanqiang.png)
+![cli](2026/08-11/2026-08-11_daily-top_cli.png)
 
 ### 7. [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 
 > 🤖 **推荐理由**  
-> *Awesome Mac is a comprehensive repository of high-quality macOS software, meticulously organized into various categories for easy browsing. With over 109,000 stars on GitHub, it serves as a go-to resource for users seeking productivity tools, design applications, utilities, and more. The project encourages community contributions, allowing users to suggest new software and improvements. Key features include a wide range of applications, from development and design to productivity and system tools, all aimed at enhancing the macOS experience.*
+> *Awesome Mac is a comprehensive repository of high-quality macOS software, meticulously organized by category for easy navigation. With over 110,000 stars on GitHub, it offers a vast array of tools, including productivity apps, development utilities, design software, and more. Key features include open-source options, curated lists for specialized tasks, and a focus on user contributions. The project promotes collaboration and invites users to enhance the collection through suggestions and pull requests, making it an invaluable resource for macOS users seeking efficient software solutions.*
 
-- ⭐ 109707 stars
+- ⭐ 110043 stars
 - 💻 Swift
-- 📅 Updated: 2026-08-10
+- 📅 Updated: 2026-08-11
 
-![awesome-mac](2026/08-10/2026-08-10_daily-top_awesome-mac.png)
+![awesome-mac](2026/08-11/2026-08-11_daily-top_awesome-mac.png)
 
-### 8. [ECC](https://github.com/affaan-m/ECC)
-
-> 🤖 **推荐理由**  
-> *ECC is a powerful performance optimization system designed for coding agents like Claude Code and Codex. With 67 specialized agents, 284 reusable skills, and 94 command shims, ECC enhances the coding process through structured workflows, including TDD, security reviews, and automated memory management. Key features include AgentShield for security scanning, continuous learning capabilities, and a plugin system for easy integration with multiple platforms. ECC is open-source, MIT-licensed, and aims to streamline engineering tasks, ensuring high-quality code and improved productivity.*
-
-- ⭐ 239034 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-08-10
-
-![ECC](2026/08-10/2026-08-10_daily-top_ECC.png)
-
-### 9. [witr](https://github.com/pranshuparmar/witr)
+### 8. [t3code](https://github.com/pingdotgg/t3code)
 
 > 🤖 **推荐理由**  
-> ***witr** is a powerful tool designed to answer the question, "Why is this running?" It traces processes, ports, containers, and files back to their origins, providing insights through a command-line interface (CLI) and an interactive terminal user interface (TUI). Key features include real-time tracking, ancestry visualization, and multi-platform support (Linux, macOS, Windows, FreeBSD). Users can explore running processes, open ports, and file locks, while gaining detailed context about their origins. With over 20,000 stars on GitHub, witr streamlines system diagnostics and enhances operational efficiency.*
+> *T3 Code is an agent harness control surface written in TypeScript, designed for managing various AI agents on your machine through a mobile app (iOS/Android), web app, and an Electron-based desktop app. With support for services like Claude Code, Codex, Cursor, Grok Build, and OpenCode, T3 Code aims to enhance the development experience by providing a performant and open solution. Users can easily install the app or run it in their terminal for a quick test. The project is in early development, prioritizing user feedback and potential forks for customization.*
 
-- ⭐ 20728 stars
-- 💻 Go
-- 📅 Updated: 2026-08-10
-
-![witr](2026/08-10/2026-08-10_daily-top_witr.png)
-
-### 10. [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
-
-> 🤖 **推荐理由**  
-> *The AI Website Cloner Template allows users to effortlessly clone any website into a modern Next.js codebase using AI coding agents with a single command. It features a multi-phase cloning process that includes reconnaissance, component specification, and parallel building of site sections. The project supports various AI agents, with Claude Code recommended for optimal results. Ideal for platform migrations, recovering lost source code, or learning from real-world examples, this TypeScript-based template promotes clean coding practices and customization.*
-
-- ⭐ 31492 stars
+- ⭐ 18043 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-10
+- 📅 Updated: 2026-08-11
 
-![ai-website-cloner-template](2026/08-10/2026-08-10_daily-top_ai-website-cloner-template.png)
+![t3code](2026/08-11/2026-08-11_daily-top_t3code.png)
+
+### 9. [LifeOS](https://github.com/danielmiessler/LifeOS)
+
+> 🤖 **推荐理由**  
+> *LifeOS is an AI-powered life operating system designed to help users transition from their Current State to an Ideal State in both personal and professional contexts. Built with TypeScript, it features persistent memory, custom skills, and intelligent routing to enhance productivity and efficiency. Key components include the Algorithm, TELOS, and a unique skill system, enabling seamless integration with various AI harnesses. LifeOS is open-source and free forever, making it a versatile tool for anyone aiming to optimize their life and work.*
+
+- ⭐ 17957 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-08-11
+
+![LifeOS](2026/08-11/2026-08-11_daily-top_LifeOS.png)
+
+### 10. [ECC](https://github.com/affaan-m/ECC)
+
+> 🤖 **推荐理由**  
+> *ECC is an advanced performance optimization system designed for coding agents like Claude Code, Codex, and Cursor. It features 68 specialized agents for planning, review, and security, alongside 285 reusable skills and 94 command shims. ECC enhances agent capabilities with memory persistence, continuous learning, and security scanning via AgentShield, ensuring robust development workflows. It supports multi-harness environments and includes tools for TDD, security reviews, and context management. The project is open-source and encourages contributions, fostering a community around optimized coding practices.*
+
+- ⭐ 239260 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-08-11
+
+![ECC](2026/08-11/2026-08-11_daily-top_ECC.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-08-10 02:15:58 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-08-11 02:11:11 UTC
