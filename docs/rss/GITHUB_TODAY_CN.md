@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-08-11
+# 📊 🌟 GitHub Trending Daily - 2026-08-12
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **719523** ⭐ | **77885** 🍴
+**10** 个项目 | **691975** ⭐ | **68326** 🍴
 
-**热门语言:** `TypeScript` (6) · `JavaScript` (2) · `Go` (1)
+**热门语言:** `TypeScript` (7) · `JavaScript` (2) · `Rust` (1)
 
-**更新时间:** 2026-08-11 02:11 UTC
+**更新时间:** 2026-08-12 02:28 UTC
 
 **分类分布:**
 
@@ -21,112 +21,112 @@
 ### 1. [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
 
 > 🤖 **推荐理由**  
-> *Prime Agent is an open-source self-improving RLM agent designed for coding workflows and long-running autonomous tasks. Key features include a persistent IPython environment, programmatic tool and subagent calling, and a Continual Harness for refining context and skills. It supports background sessions, direct agent communication, and persistent goals, enabling seamless task continuity. Users can create and manage executable skills and run agents autonomously with customizable limits. Designed for research evaluations, Prime Agent enhances coding efficiency and task management.*
+> *Prime Agent is a self-improving RLM agent designed for coding workflows and long-running autonomous tasks. Built in TypeScript, it leverages a persistent Python control environment with two core abstractions: the Recursive Language Model (RLM) for context management and the Continual Harness for refining state and skills. Key features include programmatic subagent creation, background session continuity, agent-to-agent communication, and automated task management with persistent goals. Open-source and highly extensible, it enables efficient coding and research automation.*
 
-- ⭐ 13152 stars
+- ⭐ 14167 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-11
+- 📅 Updated: 2026-08-12
 
-![prime-agent](2026/08-11/2026-08-11_daily-top_prime-agent.png)
+![prime-agent](2026/08-12/2026-08-12_daily-top_prime-agent.png)
 
-### 2. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+### 2. [pi](https://github.com/earendil-works/pi)
 
 > 🤖 **推荐理由**  
-> *OmniRoute is an MIT-licensed AI gateway that consolidates access to over 290 AI providers (90+ free) and 500+ models, including Kimi, Claude, GPT, and Gemini, through a single endpoint. Key features include quota-aware auto-fallback, advanced token compression saving 15-95% on usage, and seamless integration with various coding tools like Codex and Copilot. It supports desktop and PWA deployments, offers live analytics of free tiers, and is backed by over 500 contributors, making it a powerful solution for developers seeking efficient AI interactions.*
+> *Pi is an AI agent toolkit designed for unified interaction with large language models (LLMs). It offers a comprehensive suite of features, including an interactive coding agent CLI, an agent runtime for tool calling and state management, and a multi-provider LLM API supporting services like OpenAI and Google. Key components include a terminal UI library and telemetry contracts. Pi emphasizes security through containerization options and provides extensive documentation and community support. With over 87,000 stars on GitHub, it aims to enhance coding workflows and collaboration in open-source projects.*
 
-- ⭐ 45221 stars
+- ⭐ 87721 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-11
+- 📅 Updated: 2026-08-12
 
-![OmniRoute](2026/08-11/2026-08-11_daily-top_OmniRoute.png)
+![pi](2026/08-12/2026-08-12_daily-top_pi.png)
 
 ### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
 
 > 🤖 **推荐理由**  
-> *Firecrawl is a powerful web context API designed for searching, scraping, and interacting with web content at scale. It features industry-leading reliability, covering 96% of the web, including JavaScript-heavy sites, with fast response times. Core functionalities include searching for web content, scraping URLs for clean Markdown or JSON output, and the ability to interact with pages using AI prompts. Additionally, Firecrawl offers automated data gathering through its Agent feature, batch scraping of multiple URLs, and comprehensive integrations with various platforms. Open-source and available as a hosted service, Firecrawl simplifies web data extraction for developers and AI applications.*
+> *Firecrawl is a powerful context API designed for searching, scraping, and interacting with the web at scale. It offers industry-leading reliability, covering 96% of the web, and delivers clean, LLM-ready outputs such as Markdown and structured JSON. Key features include real-time scraping, automated data gathering, and seamless integration with AI agents. Users can easily search the web, scrape content from URLs, and crawl entire websites with a single request. Firecrawl is open source and available as a hosted service, making it ideal for developers and businesses alike.*
 
-- ⭐ 165137 stars
+- ⭐ 165922 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-11
+- 📅 Updated: 2026-08-12
 
-![firecrawl](2026/08-11/2026-08-11_daily-top_firecrawl.png)
+![firecrawl](2026/08-12/2026-08-12_daily-top_firecrawl.png)
 
-### 4. [witr](https://github.com/pranshuparmar/witr)
-
-> 🤖 **推荐理由**  
-> *witr is a powerful tool designed to trace processes, ports, containers, and files back to their origin with a focus on answering "Why is this running?" It provides a human-readable output or an interactive TUI for real-time exploration. Key features include detailed process ancestry, support for various container runtimes, and system-wide file lock insights. It is available across major platforms (Linux, macOS, Windows, FreeBSD) and integrates with multiple package managers. With 21,215 stars on GitHub, witr simplifies system diagnostics and enhances operational clarity.*
-
-- ⭐ 21215 stars
-- 💻 Go
-- 📅 Updated: 2026-08-11
-
-![witr](2026/08-11/2026-08-11_daily-top_witr.png)
-
-### 5. [agent-skills](https://github.com/addyosmani/agent-skills)
+### 4. [orca](https://github.com/stablyai/orca)
 
 > 🤖 **推荐理由**  
-> *Agent Skills is a JavaScript project designed to equip AI coding agents with production-grade engineering workflows. It features 24 structured skills that guide agents through the software development lifecycle, including defining, planning, building, verifying, reviewing, and shipping code. Key highlights include 8 slash commands for seamless task execution, automated planning with the `/build auto` command, and specialized agent personas for targeted reviews. The skills emphasize best practices derived from Google's engineering culture, ensuring high-quality software development. With over 85,000 stars, it is a popular choice for enhancing AI-assisted coding.*
+> *Orca is an advanced development environment (ADE) designed for managing fleets of parallel agents, enabling users to run multiple coding agents like Codex, ClaudeCode, and Pi simultaneously in isolated worktrees. Key features include a mobile companion app for remote monitoring, terminal splits for enhanced productivity, design mode for UI interaction, and seamless integration with GitHub and Linear for task management. With support for various platforms and CLI agents, Orca streamlines workflows, making it ideal for developers seeking efficiency and collaboration.*
 
-- ⭐ 85778 stars
+- ⭐ 42869 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-08-12
+
+![orca](2026/08-12/2026-08-12_daily-top_orca.png)
+
+### 5. [paperclip](https://github.com/paperclipai/paperclip)
+
+> 🤖 **推荐理由**  
+> *Paperclip is an open-source app designed for managing AI agents in a work environment, featuring a Node.js server and React UI. With over 77,000 stars, it enables users to bring their own agents, set business goals, and monitor budgets from a single dashboard. Key features include goal alignment, cost control, heartbeats for agent tasks, and a robust governance system. Paperclip supports multiple companies with complete data isolation and provides tools for task management, org charts, and agent training, making it ideal for orchestrating diverse AI teams effectively.*
+
+- ⭐ 77206 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-08-12
+
+![paperclip](2026/08-12/2026-08-12_daily-top_paperclip.png)
+
+### 6. [ponytail](https://github.com/DietrichGebert/ponytail)
+
+> 🤖 **推荐理由**  
+> *Ponytail is a JavaScript GitHub project designed to optimize AI agent coding by emulating a "lazy senior developer." With over 100,900 stars, it reduces code output by up to 94%, resulting in significant cost and time savings while maintaining safety in development. Key features include minimalistic code generation, real-time auditing for over-engineering, and seamless integration with various AI platforms like Claude Code and Codex. Ponytail emphasizes writing only necessary code, leveraging existing libraries and features to enhance efficiency and reduce complexity in software development.*
+
+- ⭐ 100900 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-08-11
+- 📅 Updated: 2026-08-12
 
-![agent-skills](2026/08-11/2026-08-11_daily-top_agent-skills.png)
+![ponytail](2026/08-12/2026-08-12_daily-top_ponytail.png)
 
-### 6. [cli](https://github.com/brightdata/cli)
+### 7. [corsair](https://github.com/corsairdev/corsair)
 
 > 🤖 **推荐理由**  
-> *The Bright Data CLI is a powerful tool for scraping, searching, and extracting structured web data directly from the terminal. Key features include scraping any URL with anti-bot protection, AI-powered web discovery, and creating custom scrapers from natural language descriptions. Users can perform searches across major engines, extract data from over 40 platforms, and control a real browser session. The CLI supports various output formats, interactive setup, and offers a free tier with 5,000 monthly credits. Ideal for developers and data professionals.*
+> *Corsair is a robust TypeScript integration layer for agents, allowing secure connections to various applications without exposing credentials. It features customizable permission modes, such as cautious and strict, ensuring user approval for sensitive actions. With multi-tenancy support, Corsair isolates data and permissions for different users. Built-in webhook handlers streamline event management. This project aims to automate tasks safely, empowering agents to perform actions while maintaining user control and oversight. Visit [corsair.dev](https://corsair.dev) for more information.*
 
-- ⭐ 3717 stars
+- ⭐ 8929 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-11
+- 📅 Updated: 2026-08-12
 
-![cli](2026/08-11/2026-08-11_daily-top_cli.png)
+![corsair](2026/08-12/2026-08-12_daily-top_corsair.png)
 
-### 7. [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-
-> 🤖 **推荐理由**  
-> *Awesome Mac is a comprehensive repository of high-quality macOS software, meticulously organized by category for easy navigation. With over 110,000 stars on GitHub, it offers a vast array of tools, including productivity apps, development utilities, design software, and more. Key features include open-source options, curated lists for specialized tasks, and a focus on user contributions. The project promotes collaboration and invites users to enhance the collection through suggestions and pull requests, making it an invaluable resource for macOS users seeking efficient software solutions.*
-
-- ⭐ 110043 stars
-- 💻 Swift
-- 📅 Updated: 2026-08-11
-
-![awesome-mac](2026/08-11/2026-08-11_daily-top_awesome-mac.png)
-
-### 8. [t3code](https://github.com/pingdotgg/t3code)
+### 8. [agent-skills](https://github.com/addyosmani/agent-skills)
 
 > 🤖 **推荐理由**  
-> *T3 Code is an agent harness control surface written in TypeScript, designed for managing various AI agents on your machine through a mobile app (iOS/Android), web app, and an Electron-based desktop app. With support for services like Claude Code, Codex, Cursor, Grok Build, and OpenCode, T3 Code aims to enhance the development experience by providing a performant and open solution. Users can easily install the app or run it in their terminal for a quick test. The project is in early development, prioritizing user feedback and potential forks for customization.*
+> *Agent Skills is a robust framework designed to enhance AI coding agents with production-grade engineering practices. It encompasses 24 structured workflows—covering the entire software development lifecycle—from defining and planning to building, verifying, reviewing, and shipping code. Key features include eight slash commands that automate tasks, skills that trigger based on context, and a CLI for easy installation across 70+ agents. The project promotes best practices derived from Google's engineering culture, ensuring reliable, high-quality software development. With 86,260 stars, it's widely adopted and continuously maintained.*
 
-- ⭐ 18043 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-11
+- ⭐ 86260 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-08-12
 
-![t3code](2026/08-11/2026-08-11_daily-top_t3code.png)
+![agent-skills](2026/08-12/2026-08-12_daily-top_agent-skills.png)
 
 ### 9. [LifeOS](https://github.com/danielmiessler/LifeOS)
 
 > 🤖 **推荐理由**  
-> *LifeOS is an AI-powered life operating system designed to help users transition from their Current State to an Ideal State in both personal and professional contexts. Built with TypeScript, it features persistent memory, custom skills, and intelligent routing to enhance productivity and efficiency. Key components include the Algorithm, TELOS, and a unique skill system, enabling seamless integration with various AI harnesses. LifeOS is open-source and free forever, making it a versatile tool for anyone aiming to optimize their life and work.*
+> *LifeOS is an AI-powered life operating system designed to help users transition from their Current State to an Ideal State in both personal and professional realms. Key features include persistent memory, custom skills tailored to user needs, and intelligent routing for efficient workflows. Built in TypeScript, LifeOS is harness-agnostic, allowing integration with various AI coding platforms. It offers a self-contained skill library encompassing research, writing, and art. With robust community support and an open-source model, LifeOS is free and continuously evolving.*
 
-- ⭐ 17957 stars
+- ⭐ 18315 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-11
+- 📅 Updated: 2026-08-12
 
-![LifeOS](2026/08-11/2026-08-11_daily-top_LifeOS.png)
+![LifeOS](2026/08-12/2026-08-12_daily-top_LifeOS.png)
 
-### 10. [ECC](https://github.com/affaan-m/ECC)
+### 10. [RuView](https://github.com/ruvnet/RuView)
 
 > 🤖 **推荐理由**  
-> *ECC is an advanced performance optimization system designed for coding agents like Claude Code, Codex, and Cursor. It features 68 specialized agents for planning, review, and security, alongside 285 reusable skills and 94 command shims. ECC enhances agent capabilities with memory persistence, continuous learning, and security scanning via AgentShield, ensuring robust development workflows. It supports multi-harness environments and includes tools for TDD, security reviews, and context management. The project is open-source and encourages contributions, fostering a community around optimized coding practices.*
+> *RuView transforms ordinary WiFi signals into real-time spatial intelligence, enabling vital sign monitoring, presence detection, and activity recognition without cameras or wearables. Key features include contactless detection of breathing and heart rates, through-wall occupancy sensing, and integration with smart home systems like Home Assistant, Apple Home, Google Home, and Alexa. Built on low-cost ESP32 hardware, RuView’s edge computing capabilities ensure privacy and efficiency. It supports a wide range of applications from healthcare to industrial safety, all while maintaining a strong focus on user data protection.*
 
-- ⭐ 239260 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-08-11
+- ⭐ 89686 stars
+- 💻 Rust
+- 📅 Updated: 2026-08-12
 
-![ECC](2026/08-11/2026-08-11_daily-top_ECC.png)
+![RuView](2026/08-12/2026-08-12_daily-top_RuView.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-08-11 02:11:11 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-08-12 02:28:49 UTC

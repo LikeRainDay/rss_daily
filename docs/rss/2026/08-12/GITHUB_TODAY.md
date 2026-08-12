@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-12
 
-![prime-agent](2026/08-12/2026-08-12_daily-top_prime-agent.png)
+![prime-agent](2026-08-12_daily-top_prime-agent.png)
 
 ### 2. [pi](https://github.com/earendil-works/pi)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-12
 
-![pi](2026/08-12/2026-08-12_daily-top_pi.png)
+![pi](2026-08-12_daily-top_pi.png)
 
 ### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-12
 
-![firecrawl](2026/08-12/2026-08-12_daily-top_firecrawl.png)
+![firecrawl](2026-08-12_daily-top_firecrawl.png)
 
 ### 4. [orca](https://github.com/stablyai/orca)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-12
 
-![orca](2026/08-12/2026-08-12_daily-top_orca.png)
+![orca](2026-08-12_daily-top_orca.png)
 
 ### 5. [paperclip](https://github.com/paperclipai/paperclip)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-12
 
-![paperclip](2026/08-12/2026-08-12_daily-top_paperclip.png)
+![paperclip](2026-08-12_daily-top_paperclip.png)
 
 ### 6. [ponytail](https://github.com/DietrichGebert/ponytail)
 
@@ -82,7 +82,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-12
 
-![ponytail](2026/08-12/2026-08-12_daily-top_ponytail.png)
+![ponytail](2026-08-12_daily-top_ponytail.png)
 
 ### 7. [corsair](https://github.com/corsairdev/corsair)
 
@@ -93,7 +93,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-12
 
-![corsair](2026/08-12/2026-08-12_daily-top_corsair.png)
+![corsair](2026-08-12_daily-top_corsair.png)
 
 ### 8. [agent-skills](https://github.com/addyosmani/agent-skills)
 
@@ -104,7 +104,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-12
 
-![agent-skills](2026/08-12/2026-08-12_daily-top_agent-skills.png)
+![agent-skills](2026-08-12_daily-top_agent-skills.png)
 
 ### 9. [LifeOS](https://github.com/danielmiessler/LifeOS)
 
@@ -115,7 +115,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-12
 
-![LifeOS](2026/08-12/2026-08-12_daily-top_LifeOS.png)
+![LifeOS](2026-08-12_daily-top_LifeOS.png)
 
 ### 10. [RuView](https://github.com/ruvnet/RuView)
 
@@ -126,7 +126,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-12
 
-![RuView](2026/08-12/2026-08-12_daily-top_RuView.png)
+![RuView](2026-08-12_daily-top_RuView.png)
 
 ---
 
