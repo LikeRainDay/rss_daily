@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-13
 
-![orca](2026/08-13/2026-08-13_daily-top_orca.png)
+![orca](2026-08-13_daily-top_orca.png)
 
 ### 2. [pi](https://github.com/earendil-works/pi)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-13
 
-![pi](2026/08-13/2026-08-13_daily-top_pi.png)
+![pi](2026-08-13_daily-top_pi.png)
 
 ### 3. [ponytail](https://github.com/DietrichGebert/ponytail)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-13
 
-![ponytail](2026/08-13/2026-08-13_daily-top_ponytail.png)
+![ponytail](2026-08-13_daily-top_ponytail.png)
 
 ### 4. [firecrawl](https://github.com/firecrawl/firecrawl)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-13
 
-![firecrawl](2026/08-13/2026-08-13_daily-top_firecrawl.png)
+![firecrawl](2026-08-13_daily-top_firecrawl.png)
 
 ### 5. [paperclip](https://github.com/paperclipai/paperclip)
 
@@ -71,7 +71,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-13
 
-![paperclip](2026/08-13/2026-08-13_daily-top_paperclip.png)
+![paperclip](2026-08-13_daily-top_paperclip.png)
 
 ### 6. [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 
@@ -82,7 +82,7 @@
 - 💻 Swift
 - 📅 Updated: 2026-08-13
 
-![awesome-mac](2026/08-13/2026-08-13_daily-top_awesome-mac.png)
+![awesome-mac](2026-08-13_daily-top_awesome-mac.png)
 
 ### 7. [Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-13
 
-![Switchyard](2026/08-13/2026-08-13_daily-top_Switchyard.png)
+![Switchyard](2026-08-13_daily-top_Switchyard.png)
 
 ### 8. [holaOS](https://github.com/holaboss-ai/holaOS)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-13
 
-![holaOS](2026/08-13/2026-08-13_daily-top_holaOS.png)
+![holaOS](2026-08-13_daily-top_holaOS.png)
 
 ### 9. [ToolJet](https://github.com/ToolJet/ToolJet)
 
@@ -115,7 +115,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-13
 
-![ToolJet](2026/08-13/2026-08-13_daily-top_ToolJet.png)
+![ToolJet](2026-08-13_daily-top_ToolJet.png)
 
 ### 10. [macro](https://github.com/macro-inc/macro)
 
@@ -126,7 +126,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-13
 
-![macro](2026/08-13/2026-08-13_daily-top_macro.png)
+![macro](2026-08-13_daily-top_macro.png)
 
 ---
 

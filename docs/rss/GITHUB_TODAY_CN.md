@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-08-12
+# 📊 🌟 GitHub Trending Daily - 2026-08-13
 
 > > 📅 每日精选 GitHub 热门仓库 | 基于智能算法推荐
 
 ## 📋 Overview
 
-**10** 个项目 | **691975** ⭐ | **68326** 🍴
+**10** 个项目 | **636724** ⭐ | **57790** 🍴
 
-**热门语言:** `TypeScript` (7) · `JavaScript` (2) · `Rust` (1)
+**热门语言:** `TypeScript` (5) · `Rust` (2) · `JavaScript` (2)
 
-**更新时间:** 2026-08-12 02:28 UTC
+**更新时间:** 2026-08-13 02:30 UTC
 
 **分类分布:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 每日 Top 10 精选
 
-### 1. [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
+### 1. [orca](https://github.com/stablyai/orca)
 
 > 🤖 **推荐理由**  
-> *Prime Agent is a self-improving RLM agent designed for coding workflows and long-running autonomous tasks. Built in TypeScript, it leverages a persistent Python control environment with two core abstractions: the Recursive Language Model (RLM) for context management and the Continual Harness for refining state and skills. Key features include programmatic subagent creation, background session continuity, agent-to-agent communication, and automated task management with persistent goals. Open-source and highly extensible, it enables efficient coding and research automation.*
+> *Orca is a powerful AI Development Environment (ADE) designed for managing a fleet of parallel coding agents across desktop, mobile, and VPS platforms. Key features include parallel worktrees for running multiple agents simultaneously, a mobile companion app for remote monitoring, and advanced terminal splits with WebGL rendering. Users can annotate AI-generated diffs, drag files directly into prompts, and access GitHub and Linear integrations seamlessly. With a robust CLI for scripting workflows, Orca supports any CLI agent, making it a versatile tool for developers.*
 
-- ⭐ 14167 stars
+- ⭐ 43985 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-12
+- 📅 Updated: 2026-08-13
 
-![prime-agent](2026/08-12/2026-08-12_daily-top_prime-agent.png)
+![orca](2026/08-13/2026-08-13_daily-top_orca.png)
 
 ### 2. [pi](https://github.com/earendil-works/pi)
 
 > 🤖 **推荐理由**  
-> *Pi is an AI agent toolkit designed for unified interaction with large language models (LLMs). It offers a comprehensive suite of features, including an interactive coding agent CLI, an agent runtime for tool calling and state management, and a multi-provider LLM API supporting services like OpenAI and Google. Key components include a terminal UI library and telemetry contracts. Pi emphasizes security through containerization options and provides extensive documentation and community support. With over 87,000 stars on GitHub, it aims to enhance coding workflows and collaboration in open-source projects.*
+> *Pi is an AI agent toolkit offering a unified LLM API, agent loop, and interactive TUI for coding. Key features include the @earendil-works/pi-coding-agent CLI for coding assistance, the @earendil-works/pi-agent-core for runtime management, and the @earendil-works/pi-ai for multi-provider LLM integration (OpenAI, Anthropic, Google). The project emphasizes extensibility, with options for containerization to enhance security. With over 88,000 stars on GitHub, Pi fosters community collaboration, encouraging users to share their coding agent sessions for continuous improvement. Visit pi.dev for demos and documentation.*
 
-- ⭐ 87721 stars
+- ⭐ 88674 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-12
+- 📅 Updated: 2026-08-13
 
-![pi](2026/08-12/2026-08-12_daily-top_pi.png)
+![pi](2026/08-13/2026-08-13_daily-top_pi.png)
 
-### 3. [firecrawl](https://github.com/firecrawl/firecrawl)
+### 3. [ponytail](https://github.com/DietrichGebert/ponytail)
 
 > 🤖 **推荐理由**  
-> *Firecrawl is a powerful context API designed for searching, scraping, and interacting with the web at scale. It offers industry-leading reliability, covering 96% of the web, and delivers clean, LLM-ready outputs such as Markdown and structured JSON. Key features include real-time scraping, automated data gathering, and seamless integration with AI agents. Users can easily search the web, scrape content from URLs, and crawl entire websites with a single request. Firecrawl is open source and available as a hosted service, making it ideal for developers and businesses alike.*
+> *Ponytail is a JavaScript GitHub project designed to optimize AI agents, making them function with the efficiency of a seasoned developer who writes minimal, effective code. With over 101,581 stars, it reduces code output by up to 94% while maintaining safety and functionality. Key features include a simple command interface for adjusting output intensity, commands for code reviews and audits, and integration with multiple AI platforms such as Claude Code and Codex. Ponytail emphasizes writing only necessary code, enhancing development speed and reducing costs.*
 
-- ⭐ 165922 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-12
+- ⭐ 101581 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-08-13
 
-![firecrawl](2026/08-12/2026-08-12_daily-top_firecrawl.png)
+![ponytail](2026/08-13/2026-08-13_daily-top_ponytail.png)
 
-### 4. [orca](https://github.com/stablyai/orca)
+### 4. [firecrawl](https://github.com/firecrawl/firecrawl)
 
 > 🤖 **推荐理由**  
-> *Orca is an advanced development environment (ADE) designed for managing fleets of parallel agents, enabling users to run multiple coding agents like Codex, ClaudeCode, and Pi simultaneously in isolated worktrees. Key features include a mobile companion app for remote monitoring, terminal splits for enhanced productivity, design mode for UI interaction, and seamless integration with GitHub and Linear for task management. With support for various platforms and CLI agents, Orca streamlines workflows, making it ideal for developers seeking efficiency and collaboration.*
+> *Firecrawl is an open-source context API designed for scalable web search, scraping, and interaction. It supports extensive web coverage, including JavaScript-heavy pages, with a 96% reliability rate. Core features include web search, content scraping into Markdown or JSON, and interactive scraping with AI prompts. Firecrawl automates complex tasks like proxy rotation and rate limiting, ensuring ease of use. Additional services include full website crawling, URL mapping, and batch scraping. Developers can leverage SDKs in multiple languages for seamless integration.*
 
-- ⭐ 42869 stars
+- ⭐ 166481 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-12
+- 📅 Updated: 2026-08-13
 
-![orca](2026/08-12/2026-08-12_daily-top_orca.png)
+![firecrawl](2026/08-13/2026-08-13_daily-top_firecrawl.png)
 
 ### 5. [paperclip](https://github.com/paperclipai/paperclip)
 
 > 🤖 **推荐理由**  
-> *Paperclip is an open-source app designed for managing AI agents in a work environment, featuring a Node.js server and React UI. With over 77,000 stars, it enables users to bring their own agents, set business goals, and monitor budgets from a single dashboard. Key features include goal alignment, cost control, heartbeats for agent tasks, and a robust governance system. Paperclip supports multiple companies with complete data isolation and provides tools for task management, org charts, and agent training, making it ideal for orchestrating diverse AI teams effectively.*
+> *Paperclip is an open-source app designed for managing AI agents in business operations. With over 77,000 stars on GitHub, it provides a Node.js server and React UI for orchestrating diverse AI agents toward unified goals. Key features include goal alignment, cost control, a mobile-ready interface, and governance over agent activities. The app allows for seamless integration of various agents, persistent task context, and robust auditing. Paperclip empowers organizations to coordinate multiple agents effectively, making it ideal for those seeking to build autonomous AI-driven companies.*
 
-- ⭐ 77206 stars
+- ⭐ 77772 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-12
+- 📅 Updated: 2026-08-13
 
-![paperclip](2026/08-12/2026-08-12_daily-top_paperclip.png)
+![paperclip](2026/08-13/2026-08-13_daily-top_paperclip.png)
 
-### 6. [ponytail](https://github.com/DietrichGebert/ponytail)
-
-> 🤖 **推荐理由**  
-> *Ponytail is a JavaScript GitHub project designed to optimize AI agent coding by emulating a "lazy senior developer." With over 100,900 stars, it reduces code output by up to 94%, resulting in significant cost and time savings while maintaining safety in development. Key features include minimalistic code generation, real-time auditing for over-engineering, and seamless integration with various AI platforms like Claude Code and Codex. Ponytail emphasizes writing only necessary code, leveraging existing libraries and features to enhance efficiency and reduce complexity in software development.*
-
-- ⭐ 100900 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-08-12
-
-![ponytail](2026/08-12/2026-08-12_daily-top_ponytail.png)
-
-### 7. [corsair](https://github.com/corsairdev/corsair)
+### 6. [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 
 > 🤖 **推荐理由**  
-> *Corsair is a robust TypeScript integration layer for agents, allowing secure connections to various applications without exposing credentials. It features customizable permission modes, such as cautious and strict, ensuring user approval for sensitive actions. With multi-tenancy support, Corsair isolates data and permissions for different users. Built-in webhook handlers streamline event management. This project aims to automate tasks safely, empowering agents to perform actions while maintaining user control and oversight. Visit [corsair.dev](https://corsair.dev) for more information.*
+> *Awesome Mac is a comprehensive repository featuring high-quality macOS software organized by categories for easy access. With over 110,000 stars, it serves as a valuable resource for users seeking tools across various domains, including productivity, design, development, and more. Core features include systematic categorization, user contributions, and support for multiple languages. The project emphasizes community-driven enhancements, inviting users to suggest or add new applications, thereby continually expanding its offerings for macOS users.*
 
-- ⭐ 8929 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-12
+- ⭐ 110823 stars
+- 💻 Swift
+- 📅 Updated: 2026-08-13
 
-![corsair](2026/08-12/2026-08-12_daily-top_corsair.png)
+![awesome-mac](2026/08-13/2026-08-13_daily-top_awesome-mac.png)
 
-### 8. [agent-skills](https://github.com/addyosmani/agent-skills)
-
-> 🤖 **推荐理由**  
-> *Agent Skills is a robust framework designed to enhance AI coding agents with production-grade engineering practices. It encompasses 24 structured workflows—covering the entire software development lifecycle—from defining and planning to building, verifying, reviewing, and shipping code. Key features include eight slash commands that automate tasks, skills that trigger based on context, and a CLI for easy installation across 70+ agents. The project promotes best practices derived from Google's engineering culture, ensuring reliable, high-quality software development. With 86,260 stars, it's widely adopted and continuously maintained.*
-
-- ⭐ 86260 stars
-- 💻 JavaScript
-- 📅 Updated: 2026-08-12
-
-![agent-skills](2026/08-12/2026-08-12_daily-top_agent-skills.png)
-
-### 9. [LifeOS](https://github.com/danielmiessler/LifeOS)
+### 7. [Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)
 
 > 🤖 **推荐理由**  
-> *LifeOS is an AI-powered life operating system designed to help users transition from their Current State to an Ideal State in both personal and professional realms. Key features include persistent memory, custom skills tailored to user needs, and intelligent routing for efficient workflows. Built in TypeScript, LifeOS is harness-agnostic, allowing integration with various AI coding platforms. It offers a self-contained skill library encompassing research, writing, and art. With robust community support and an open-source model, LifeOS is free and continuously evolving.*
+> *Switchyard is a Rust-based proxy and library designed for LLM traffic management, facilitating requests across various providers while translating between OpenAI and Anthropic APIs. Core features include protocol translation, multi-backend routing with customizable algorithms, and comprehensive operational metrics. It allows integration with coding agents, A/B testing, and signal-driven routing. As pre-alpha software, it’s evolving rapidly, emphasizing its experimental nature. Key services include standalone proxy deployment and routing algorithm embedding for Rust applications.*
 
-- ⭐ 18315 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-12
-
-![LifeOS](2026/08-12/2026-08-12_daily-top_LifeOS.png)
-
-### 10. [RuView](https://github.com/ruvnet/RuView)
-
-> 🤖 **推荐理由**  
-> *RuView transforms ordinary WiFi signals into real-time spatial intelligence, enabling vital sign monitoring, presence detection, and activity recognition without cameras or wearables. Key features include contactless detection of breathing and heart rates, through-wall occupancy sensing, and integration with smart home systems like Home Assistant, Apple Home, Google Home, and Alexa. Built on low-cost ESP32 hardware, RuView’s edge computing capabilities ensure privacy and efficiency. It supports a wide range of applications from healthcare to industrial safety, all while maintaining a strong focus on user data protection.*
-
-- ⭐ 89686 stars
+- ⭐ 860 stars
 - 💻 Rust
-- 📅 Updated: 2026-08-12
+- 📅 Updated: 2026-08-13
 
-![RuView](2026/08-12/2026-08-12_daily-top_RuView.png)
+![Switchyard](2026/08-13/2026-08-13_daily-top_Switchyard.png)
+
+### 8. [holaOS](https://github.com/holaboss-ai/holaOS)
+
+> 🤖 **推荐理由**  
+> *holaOS is an open-source, all-in-one AI agent workspace that supports seamless integration of various agents like Claude Code and Codex across over 100 tools and apps, with a unique shared memory feature. Key highlights include local-first operation, built-in advanced models, and the ability to bring your own keys. Users benefit from real-time app interaction, durable memory across sessions, and extensive integrations with popular services like Notion and Slack. With support for macOS, Windows, and Linux, holaOS is designed for flexibility and user control, making it ideal for diverse AI-driven workflows.*
+
+- ⭐ 6057 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-08-13
+
+![holaOS](2026/08-13/2026-08-13_daily-top_holaOS.png)
+
+### 9. [ToolJet](https://github.com/ToolJet/ToolJet)
+
+> 🤖 **推荐理由**  
+> *ToolJet is an open-source platform for building and deploying internal tools, workflows, and AI agents. It features a powerful visual app builder with 60+ components, multi-page app support, and integrations with 80+ data sources. Users can self-host or deploy on cloud services like AWS and Azure. The enterprise version, ToolJet AI, offers AI-driven app generation, query building, and debugging, alongside enhanced security and user management. With a robust community and extensive documentation, ToolJet empowers teams to create complex applications efficiently.*
+
+- ⭐ 38591 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-08-13
+
+![ToolJet](2026/08-13/2026-08-13_daily-top_ToolJet.png)
+
+### 10. [macro](https://github.com/macro-inc/macro)
+
+> 🤖 **推荐理由**  
+> *Macro is an all-in-one workspace unifying email, chat, docs, tasks, agents, calls, and CRM into a seamless interface with shared AI memory. Core features include a unified inbox for multi-account email management, focused messaging threads, integrated task management linked to conversations, and real-time collaborative markdown docs. Its modular design allows easy navigation through interconnected components, enhancing team productivity. Macro is built with Rust for speed and reliability, catering to small teams needing a cohesive operating system for their workflow.*
+
+- ⭐ 1900 stars
+- 💻 Rust
+- 📅 Updated: 2026-08-13
+
+![macro](2026/08-13/2026-08-13_daily-top_macro.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-08-12 02:28:49 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-08-13 02:30:02 UTC
