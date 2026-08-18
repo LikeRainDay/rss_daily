@@ -27,7 +27,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-18
 
-![cordis](2026/08-18/2026-08-18_daily-top_cordis.png)
+![cordis](2026-08-18_daily-top_cordis.png)
 
 ### 2. [OpenCut](https://github.com/OpenCut-app/OpenCut)
 
@@ -38,7 +38,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-18
 
-![OpenCut](2026/08-18/2026-08-18_daily-top_OpenCut.png)
+![OpenCut](2026-08-18_daily-top_OpenCut.png)
 
 ### 3. [ToolJet](https://github.com/ToolJet/ToolJet)
 
@@ -49,7 +49,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-18
 
-![ToolJet](2026/08-18/2026-08-18_daily-top_ToolJet.png)
+![ToolJet](2026-08-18_daily-top_ToolJet.png)
 
 ### 4. [modlens](https://github.com/liustack/modlens)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-18
 
-![modlens](2026/08-18/2026-08-18_daily-top_modlens.png)
+![modlens](2026-08-18_daily-top_modlens.png)
 
 ### 5. [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
@@ -71,7 +71,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-18
 
-![awesome-gpt-image-2](2026/08-18/2026-08-18_daily-top_awesome-gpt-image-2.png)
+![awesome-gpt-image-2](2026-08-18_daily-top_awesome-gpt-image-2.png)
 
 ### 6. [Motrix](https://github.com/agalwood/Motrix)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-18
 
-![Motrix](2026/08-18/2026-08-18_daily-top_Motrix.png)
+![Motrix](2026-08-18_daily-top_Motrix.png)
 
 ### 7. [up](https://github.com/byoungd/up)
 
@@ -93,7 +93,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-18
 
-![up](2026/08-18/2026-08-18_daily-top_up.png)
+![up](2026-08-18_daily-top_up.png)
 
 ### 8. [reactive-resume](https://github.com/amruthpillai/reactive-resume)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-18
 
-![reactive-resume](2026/08-18/2026-08-18_daily-top_reactive-resume.png)
+![reactive-resume](2026-08-18_daily-top_reactive-resume.png)
 
 ### 9. [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -115,7 +115,7 @@
 - 💻 C++
 - 📅 Updated: 2026-08-18
 
-![llama.cpp](2026/08-18/2026-08-18_daily-top_llama.cpp.png)
+![llama.cpp](2026-08-18_daily-top_llama.cpp.png)
 
 ### 10. [career-ops](https://github.com/santifer/career-ops)
 
@@ -126,7 +126,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-18
 
-![career-ops](2026/08-18/2026-08-18_daily-top_career-ops.png)
+![career-ops](2026-08-18_daily-top_career-ops.png)
 
 ---
 

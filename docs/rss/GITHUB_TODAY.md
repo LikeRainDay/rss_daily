@@ -1,14 +1,14 @@
-# 📊 🌟 GitHub Trending Daily - 2026-08-13
+# 📊 🌟 GitHub Trending Daily - 2026-08-18
 
 > > 📅 Daily Picks of GitHub Trending Repositories | Powered by Smart Algorithms
 
 ## 📋 Overview
 
-**10** Projects | **636724** ⭐ | **57790** 🍴
+**10** Projects | **486518** ⭐ | **65389** 🍴
 
-**Top Languages:** `TypeScript` (5) · `JavaScript` (2) · `Rust` (2)
+**Top Languages:** `TypeScript` (5) · `JavaScript` (4) · `C++` (1)
 
-**Updated:** 2026-08-13 02:30 UTC
+**Updated:** 2026-08-18 01:40 UTC
 
 **Categories:**
 
@@ -18,115 +18,115 @@
 
 ## 🌟 Daily Top 10
 
-### 1. [orca](https://github.com/stablyai/orca)
+### 1. [cordis](https://github.com/cordiverse/cordis)
 
 > 🤖 **Why Recommend**  
-> *Orca is a powerful AI Development Environment (ADE) designed for managing a fleet of parallel coding agents across desktop, mobile, and VPS platforms. Key features include parallel worktrees for running multiple agents simultaneously, a mobile companion app for remote monitoring, and advanced terminal splits with WebGL rendering. Users can annotate AI-generated diffs, drag files directly into prompts, and access GitHub and Linear integrations seamlessly. With a robust CLI for scripting workflows, Orca supports any CLI agent, making it a versatile tool for developers.*
+> *Cordis is a TypeScript-based meta-framework focused on spatiotemporal composability, currently under active development with an evolving API. It enables developers to create applications that effectively manage and manipulate spatial and temporal data, offering significant flexibility and advanced compositional capabilities. Key highlights include a foundational paper detailing the programming paradigm and comprehensive documentation available through the cordis-primer. Cordis has gained traction with over 5,600 stars on GitHub, showcasing its growing popularity and potential in the developer community.*
 
-- ⭐ 43985 stars
+- ⭐ 5624 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-13
+- 📅 Updated: 2026-08-18
 
-![orca](2026/08-13/2026-08-13_daily-top_orca.png)
+![cordis](2026/08-18/2026-08-18_daily-top_cordis.png)
 
-### 2. [pi](https://github.com/earendil-works/pi)
+### 2. [OpenCut](https://github.com/OpenCut-app/OpenCut)
 
 > 🤖 **Why Recommend**  
-> *Pi is an AI agent toolkit offering a unified LLM API, agent loop, and interactive TUI for coding. Key features include the @earendil-works/pi-coding-agent CLI for coding assistance, the @earendil-works/pi-agent-core for runtime management, and the @earendil-works/pi-ai for multi-provider LLM integration (OpenAI, Anthropic, Google). The project emphasizes extensibility, with options for containerization to enhance security. With over 88,000 stars on GitHub, Pi fosters community collaboration, encouraging users to share their coding agent sessions for continuous improvement. Visit pi.dev for demos and documentation.*
+> *OpenCut is a free, open-source video editor designed for web, desktop, and mobile platforms, currently in a comprehensive rewrite. Key features include a new Editor API, support for third-party plugins, and a unified codebase leveraging Rust. Additional offerings will include an MCP server for AI agents, headless mode for automation, and an integrated scripting tab. The project has garnered significant attention with over 84,000 stars on GitHub. For ongoing updates, join the Discord community or check the classic version at opencut.app.*
 
-- ⭐ 88674 stars
+- ⭐ 84398 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-13
+- 📅 Updated: 2026-08-18
 
-![pi](2026/08-13/2026-08-13_daily-top_pi.png)
+![OpenCut](2026/08-18/2026-08-18_daily-top_OpenCut.png)
 
-### 3. [ponytail](https://github.com/DietrichGebert/ponytail)
+### 3. [ToolJet](https://github.com/ToolJet/ToolJet)
 
 > 🤖 **Why Recommend**  
-> *Ponytail is a JavaScript GitHub project designed to optimize AI agents, making them function with the efficiency of a seasoned developer who writes minimal, effective code. With over 101,581 stars, it reduces code output by up to 94% while maintaining safety and functionality. Key features include a simple command interface for adjusting output intensity, commands for code reviews and audits, and integration with multiple AI platforms such as Claude Code and Codex. Ponytail emphasizes writing only necessary code, enhancing development speed and reducing costs.*
+> *ToolJet is an open-source platform for building internal tools, workflows, and AI agents. It features a powerful visual app builder with over 60 components, support for 80+ data sources, and a built-in no-code database. Key highlights include multi-page apps, real-time collaboration, and extensive deployment options (Docker, Kubernetes, AWS, etc.). The enterprise version, ToolJet AI, enhances capabilities with AI-powered app generation, query building, and advanced security features. ToolJet is available on AWS and Azure Marketplaces, promoting easy access for users.*
 
-- ⭐ 101581 stars
+- ⭐ 40396 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-08-13
+- 📅 Updated: 2026-08-18
 
-![ponytail](2026/08-13/2026-08-13_daily-top_ponytail.png)
+![ToolJet](2026/08-18/2026-08-18_daily-top_ToolJet.png)
 
-### 4. [firecrawl](https://github.com/firecrawl/firecrawl)
+### 4. [modlens](https://github.com/liustack/modlens)
 
 > 🤖 **Why Recommend**  
-> *Firecrawl is an open-source context API designed for scalable web search, scraping, and interaction. It supports extensive web coverage, including JavaScript-heavy pages, with a 96% reliability rate. Core features include web search, content scraping into Markdown or JSON, and interactive scraping with AI prompts. Firecrawl automates complex tasks like proxy rotation and rate limiting, ensuring ease of use. Additional services include full website crawling, URL mapping, and batch scraping. Developers can leverage SDKs in multiple languages for seamless integration.*
+> *ModLens is a powerful vision plugin for DeepSeek Harness, enabling text-only AI models to process images by simply pasting them into the chat. It generates structured JSON evidence including OCR, layout, and semantics without the need for file saving. Key features include easy installation, zero configuration, and support for multiple vision engines like Gemini and OpenAI. ModLens auto-discovers and integrates with existing models, providing an efficient and user-friendly experience. Its minimalistic design ensures hassle-free uninstallation and seamless operation across various AI environments.*
 
-- ⭐ 166481 stars
+- ⭐ 2807 stars
 - 💻 TypeScript
-- 📅 Updated: 2026-08-13
+- 📅 Updated: 2026-08-18
 
-![firecrawl](2026/08-13/2026-08-13_daily-top_firecrawl.png)
+![modlens](2026/08-18/2026-08-18_daily-top_modlens.png)
 
-### 5. [paperclip](https://github.com/paperclipai/paperclip)
-
-> 🤖 **Why Recommend**  
-> *Paperclip is an open-source app designed for managing AI agents in business operations. With over 77,000 stars on GitHub, it provides a Node.js server and React UI for orchestrating diverse AI agents toward unified goals. Key features include goal alignment, cost control, a mobile-ready interface, and governance over agent activities. The app allows for seamless integration of various agents, persistent task context, and robust auditing. Paperclip empowers organizations to coordinate multiple agents effectively, making it ideal for those seeking to build autonomous AI-driven companies.*
-
-- ⭐ 77772 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-13
-
-![paperclip](2026/08-13/2026-08-13_daily-top_paperclip.png)
-
-### 6. [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+### 5. [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
 > 🤖 **Why Recommend**  
-> *Awesome Mac is a comprehensive repository featuring high-quality macOS software organized by categories for easy access. With over 110,000 stars, it serves as a valuable resource for users seeking tools across various domains, including productivity, design, development, and more. Core features include systematic categorization, user contributions, and support for multiple languages. The project emphasizes community-driven enhancements, inviting users to suggest or add new applications, thereby continually expanding its offerings for macOS users.*
+> *The "awesome-gpt-image-2" project is an industrial-grade prompt engine and template library for AI image generation, featuring over 520 reverse-engineered cases and 20 industrial templates. Its core capabilities include structured prompt schemas for enhanced controllability, automation workflows, and reusable designs. Users can access a visual gallery online, with filters for styles and scenarios. The project also offers a paid community for discussions and insights, and integrates with platforms like Ciyuan API for efficient AI access. With over 11,000 stars on GitHub, it continues to evolve with regular updates.*
 
-- ⭐ 110823 stars
-- 💻 Swift
-- 📅 Updated: 2026-08-13
-
-![awesome-mac](2026/08-13/2026-08-13_daily-top_awesome-mac.png)
-
-### 7. [Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)
-
-> 🤖 **Why Recommend**  
-> *Switchyard is a Rust-based proxy and library designed for LLM traffic management, facilitating requests across various providers while translating between OpenAI and Anthropic APIs. Core features include protocol translation, multi-backend routing with customizable algorithms, and comprehensive operational metrics. It allows integration with coding agents, A/B testing, and signal-driven routing. As pre-alpha software, it’s evolving rapidly, emphasizing its experimental nature. Key services include standalone proxy deployment and routing algorithm embedding for Rust applications.*
-
-- ⭐ 860 stars
-- 💻 Rust
-- 📅 Updated: 2026-08-13
-
-![Switchyard](2026/08-13/2026-08-13_daily-top_Switchyard.png)
-
-### 8. [holaOS](https://github.com/holaboss-ai/holaOS)
-
-> 🤖 **Why Recommend**  
-> *holaOS is an open-source, all-in-one AI agent workspace that supports seamless integration of various agents like Claude Code and Codex across over 100 tools and apps, with a unique shared memory feature. Key highlights include local-first operation, built-in advanced models, and the ability to bring your own keys. Users benefit from real-time app interaction, durable memory across sessions, and extensive integrations with popular services like Notion and Slack. With support for macOS, Windows, and Linux, holaOS is designed for flexibility and user control, making it ideal for diverse AI-driven workflows.*
-
-- ⭐ 6057 stars
-- 💻 TypeScript
-- 📅 Updated: 2026-08-13
-
-![holaOS](2026/08-13/2026-08-13_daily-top_holaOS.png)
-
-### 9. [ToolJet](https://github.com/ToolJet/ToolJet)
-
-> 🤖 **Why Recommend**  
-> *ToolJet is an open-source platform for building and deploying internal tools, workflows, and AI agents. It features a powerful visual app builder with 60+ components, multi-page app support, and integrations with 80+ data sources. Users can self-host or deploy on cloud services like AWS and Azure. The enterprise version, ToolJet AI, offers AI-driven app generation, query building, and debugging, alongside enhanced security and user management. With a robust community and extensive documentation, ToolJet empowers teams to create complex applications efficiently.*
-
-- ⭐ 38591 stars
+- ⭐ 11096 stars
 - 💻 JavaScript
-- 📅 Updated: 2026-08-13
+- 📅 Updated: 2026-08-18
 
-![ToolJet](2026/08-13/2026-08-13_daily-top_ToolJet.png)
+![awesome-gpt-image-2](2026/08-18/2026-08-18_daily-top_awesome-gpt-image-2.png)
 
-### 10. [macro](https://github.com/macro-inc/macro)
+### 6. [Motrix](https://github.com/agalwood/Motrix)
 
 > 🤖 **Why Recommend**  
-> *Macro is an all-in-one workspace unifying email, chat, docs, tasks, agents, calls, and CRM into a seamless interface with shared AI memory. Core features include a unified inbox for multi-account email management, focused messaging threads, integrated task management linked to conversations, and real-time collaborative markdown docs. Its modular design allows easy navigation through interconnected components, enhancing team productivity. Macro is built with Rust for speed and reliability, catering to small teams needing a cohesive operating system for their workflow.*
+> *Motrix is a modern, full-featured download manager designed for simplicity and efficiency, capable of handling HTTP, FTP, BitTorrent, and magnet links. Built with TypeScript and Electron, it offers a clean interface with dark mode, customizable dashboards, and integrated browser extensions for seamless downloads. Key features include per-file BitTorrent management, UPnP support, download limits, and a powerful CLI client. It supports both desktop (macOS, Windows, Linux) and headless server modes with Docker, enhancing versatility for users.*
 
-- ⭐ 1900 stars
-- 💻 Rust
-- 📅 Updated: 2026-08-13
+- ⭐ 53100 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-08-18
 
-![macro](2026/08-13/2026-08-13_daily-top_macro.png)
+![Motrix](2026/08-18/2026-08-18_daily-top_Motrix.png)
+
+### 7. [up](https://github.com/byoungd/up)
+
+> 🤖 **Why Recommend**  
+> *The "up" project is a comprehensive growth guide aimed at personal development, covering English learning, AI education, and life reflection. It promotes a structured, evidence-based learning system that encourages users to diagnose their current status, set goals, practice actively, receive feedback, and adjust accordingly. Key features include an extensive English learning system, AI learning tools, and insights into personal experiences. The project emphasizes actionable evidence over theoretical knowledge, fostering a sustainable cycle of improvement. It is open content under CC BY-NC 4.0 and is actively maintained.*
+
+- ⭐ 59164 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-08-18
+
+![up](2026/08-18/2026-08-18_daily-top_up.png)
+
+### 8. [reactive-resume](https://github.com/amruthpillai/reactive-resume)
+
+> 🤖 **Why Recommend**  
+> *Reactive Resume is a free, open-source resume builder designed with privacy in mind, allowing users to create, update, and share resumes securely. Key features include real-time preview, multiple export formats (PDF, JSON, DOCX), customizable templates, and a rich text editor. Users have complete control over their data, with options for self-hosting and no tracking. The platform also supports AI integration, multi-language capabilities, and offers drag-and-drop functionality for section ordering. With over 40,000 stars on GitHub, it emphasizes community support and continuous development.*
+
+- ⭐ 40846 stars
+- 💻 TypeScript
+- 📅 Updated: 2026-08-18
+
+![reactive-resume](2026/08-18/2026-08-18_daily-top_reactive-resume.png)
+
+### 9. [llama.cpp](https://github.com/ggml-org/llama.cpp)
+
+> 🤖 **Why Recommend**  
+> *llama.cpp is a C/C++ library for efficient LLM and VLM inference, boasting over 124,000 stars on GitHub. It features a plain implementation with no dependencies, optimized support for Apple Silicon, x86, and RISC-V architectures, along with a variety of quantization options for faster inference. Key functionalities include a command-line interface, OpenAI-compatible API server, multi-GPU support, and backends for various hardware, including CUDA and Vulkan. The project emphasizes minimal setup and high performance across diverse environments, from local machines to cloud platforms.*
+
+- ⭐ 124393 stars
+- 💻 C++
+- 📅 Updated: 2026-08-18
+
+![llama.cpp](2026/08-18/2026-08-18_daily-top_llama.cpp.png)
+
+### 10. [career-ops](https://github.com/santifer/career-ops)
+
+> 🤖 **Why Recommend**  
+> *career-ops is an open-source AI job search tool that transforms any AI coding CLI into a comprehensive job application pipeline. Key features include job offer evaluations against a structured A-F rubric, tailored ATS-optimized CV generation, automated job portal scanning, and application tracking. It supports batch processing and human-in-the-loop decision-making, ensuring users retain final control over applications. With over 74,000 stars on GitHub, career-ops empowers candidates to efficiently filter and manage job opportunities while avoiding spam applications.*
+
+- ⭐ 64694 stars
+- 💻 JavaScript
+- 📅 Updated: 2026-08-18
+
+![career-ops](2026/08-18/2026-08-18_daily-top_career-ops.png)
 
 ---
 
@@ -140,4 +140,4 @@ Subscribe via RSS to get daily trending updates:
 
 ---
 
-*⚡ Powered by Smart Trending Algorithm | Generated at 2026-08-13 02:30:02 UTC
+*⚡ Powered by Smart Trending Algorithm | Generated at 2026-08-18 01:40:50 UTC
