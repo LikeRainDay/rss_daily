@@ -27,7 +27,7 @@
 - 💻 JavaScript
 - 📅 Updated: 2026-08-19
 
-![career-ops](2026/08-19/2026-08-19_daily-top_career-ops.png)
+![career-ops](2026-08-19_daily-top_career-ops.png)
 
 ### 2. [ai-memory](https://github.com/akitaonrails/ai-memory)
 
@@ -38,7 +38,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-19
 
-![ai-memory](2026/08-19/2026-08-19_daily-top_ai-memory.png)
+![ai-memory](2026-08-19_daily-top_ai-memory.png)
 
 ### 3. [Motrix](https://github.com/agalwood/Motrix)
 
@@ -49,7 +49,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-19
 
-![Motrix](2026/08-19/2026-08-19_daily-top_Motrix.png)
+![Motrix](2026-08-19_daily-top_Motrix.png)
 
 ### 4. [cordis](https://github.com/cordiverse/cordis)
 
@@ -60,7 +60,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-19
 
-![cordis](2026/08-19/2026-08-19_daily-top_cordis.png)
+![cordis](2026-08-19_daily-top_cordis.png)
 
 ### 5. [llmfit](https://github.com/AlexsJones/llmfit)
 
@@ -71,7 +71,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-19
 
-![llmfit](2026/08-19/2026-08-19_daily-top_llmfit.png)
+![llmfit](2026-08-19_daily-top_llmfit.png)
 
 ### 6. [genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate)
 
@@ -82,7 +82,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-19
 
-![genlayer-project-boilerplate](2026/08-19/2026-08-19_daily-top_genlayer-project-boilerplate.png)
+![genlayer-project-boilerplate](2026-08-19_daily-top_genlayer-project-boilerplate.png)
 
 ### 7. [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 
@@ -93,7 +93,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-19
 
-![nautilus_trader](2026/08-19/2026-08-19_daily-top_nautilus_trader.png)
+![nautilus_trader](2026-08-19_daily-top_nautilus_trader.png)
 
 ### 8. [munder-difflin](https://github.com/chaitanyagiri/munder-difflin)
 
@@ -104,7 +104,7 @@
 - 💻 TypeScript
 - 📅 Updated: 2026-08-19
 
-![munder-difflin](2026/08-19/2026-08-19_daily-top_munder-difflin.png)
+![munder-difflin](2026-08-19_daily-top_munder-difflin.png)
 
 ### 9. [multica](https://github.com/multica-ai/multica)
 
@@ -115,7 +115,7 @@
 - 💻 Go
 - 📅 Updated: 2026-08-19
 
-![multica](2026/08-19/2026-08-19_daily-top_multica.png)
+![multica](2026-08-19_daily-top_multica.png)
 
 ### 10. [cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -126,7 +126,7 @@
 - 💻 Rust
 - 📅 Updated: 2026-08-19
 
-![cc-switch](2026/08-19/2026-08-19_daily-top_cc-switch.png)
+![cc-switch](2026-08-19_daily-top_cc-switch.png)
 
 ---
 
